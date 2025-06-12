@@ -1,0 +1,104 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "tree",
+        "forest",
+        "snow",
+        "winter",
+        "path"
+    ],
+    "date_published": 1550185200,
+    "name": "Snowy Forest Path 01",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1546172160,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "files_hash": "28e212d0954c6ae81e24ae063cb9e2fd4cf453bc",
+    "max_resolution": [
+        17000,
+        8500
+    ],
+    "download_count": 59068,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snowy_forest_path_01.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6313595,
+            "md5": "22d924679883d5ed61c6eab772c0adc4",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/snowy_forest_path_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101368193,
+                    "md5": "64ebdc3e2d33e64935503a0d2635ac70",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/snowy_forest_path_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 86674013,
+                    "md5": "41c3cc1b91d7541baa6e4aa14311c7e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/snowy_forest_path_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 394674767,
+                    "md5": "9660825a1cf2ff98408b51064b090aa1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/snowy_forest_path_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 330465780,
+                    "md5": "71f0ee20a0e6ce461ba5464c5b4c4230",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/snowy_forest_path_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26204303,
+                    "md5": "bf68552edf01ac342af29761af654a77",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/snowy_forest_path_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 23031867,
+                    "md5": "a57ace58b2c787f2fd62fc1a66689a71",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/snowy_forest_path_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6680698,
+                    "md5": "94d3c0e2ad8b940f16799e0583092a00",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/snowy_forest_path_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 6074026,
+                    "md5": "3896ae40449672d1b107e481fb629c13",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/snowy_forest_path_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1704716,
+                    "md5": "f293a81aae4d9480ccb127bbbf56f139",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/snowy_forest_path_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1590653,
+                    "md5": "0251a3f382bcecef8d337a1d6cec6550",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/snowy_forest_path_01_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "donated": true,
+    "type": 0,
+    "tags": [
+        "tree",
+        "forest",
+        "autumn",
+        "leaves",
+        "mud",
+        "trail"
+    ],
+    "name": "Hochsal Forest",
+    "categories": [
+        "overcast",
+        "low contrast",
+        "midday",
+        "natural light",
+        "nature",
+        "outdoor"
+    ],
+    "date_taken": 1487011260,
+    "authors": {
+        "Adrian Kubasa": "All"
+    },
+    "info": null,
+    "files_hash": "139e293ba93e714f181b8fdf0f3798d3fb5e6ace",
+    "evs_cap": 0,
+    "date_published": 1702166400,
+    "max_resolution": [
+        16192,
+        8096
+    ],
+    "download_count": 11405,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hochsal_forest.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 53372965,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hochsal_forest.jpg",
+            "md5": "1d8991ad0726fbc5418a8b7e04f1615f"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 113550126,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hochsal_forest_8k.hdr",
+                    "md5": "9a2e73e2bce2c6b320cc79a447236194"
+                },
+                "exr": {
+                    "size": 108710421,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hochsal_forest_8k.exr",
+                    "md5": "59ad27f98f0dc244fb13407f0478f425"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 422880686,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hochsal_forest_16k.hdr",
+                    "md5": "f92bad3b56a9a4f17b1d2f63d6bad243"
+                },
+                "exr": {
+                    "size": 395602669,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hochsal_forest_16k.exr",
+                    "md5": "56d0a4821cbb704c152756b5ce295762"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28994884,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hochsal_forest_4k.hdr",
+                    "md5": "e8e81d96315d28ccec374c854db2d398"
+                },
+                "exr": {
+                    "size": 27409422,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hochsal_forest_4k.exr",
+                    "md5": "ec7ac8bc9f8cc5e4d556a3e6fdace244"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7268527,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hochsal_forest_2k.hdr",
+                    "md5": "c6e5b21e24966d5370c27e1f790f0b2e"
+                },
+                "exr": {
+                    "size": 6757642,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hochsal_forest_2k.exr",
+                    "md5": "490c75c6a35bf24ab2b5f8c5861967fa"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1777723,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hochsal_forest_1k.hdr",
+                    "md5": "3baf55b349880ed2c6acc97819b13c6a"
+                },
+                "exr": {
+                    "size": 1673450,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hochsal_forest_1k.exr",
+                    "md5": "28e855ae44e8bd526f3cbb14a59478db"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "donated": true,
+    "type": 0,
+    "tags": [
+        "city",
+        "church",
+        "town",
+        "europe",
+        "bench",
+        "view",
+        "architecture",
+        "pavement"
+    ],
+    "name": "Laufenurg Church",
+    "categories": [
+        "outdoor",
+        "urban",
+        "night",
+        "artificial light",
+        "high contrast",
+        "partly cloudy"
+    ],
+    "date_taken": 1498076700,
+    "authors": {
+        "Adrian Kubasa": "All"
+    },
+    "info": null,
+    "files_hash": "39b64988ecd64fbde8bacc18cdfae9db93df600e",
+    "evs_cap": 0,
+    "date_published": 1702771200,
+    "max_resolution": [
+        18432,
+        9216
+    ],
+    "download_count": 25302,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/laufenurg_church.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 39831714,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/laufenurg_church.jpg",
+            "md5": "c34b1512dd1b1b5c8c3f54e32a766036"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 106854223,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/laufenurg_church_8k.hdr",
+                    "md5": "a3d7f689c770cd5f9b7280154d821e1c"
+                },
+                "exr": {
+                    "size": 109329918,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/laufenurg_church_8k.exr",
+                    "md5": "261198b79b83687bca6650792a9718b5"
+                }
+            },
+            "18k": {
+                "hdr": {
+                    "size": 521094694,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/laufenurg_church_18k.hdr",
+                    "md5": "832c65d964805a7552c73141ebdd0212"
+                },
+                "exr": {
+                    "size": 504586696,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/laufenurg_church_18k.exr",
+                    "md5": "6e3b1a447a7ca158618ae78a2c091b78"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 414468306,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/laufenurg_church_16k.hdr",
+                    "md5": "599682bba726750b839a59f7b90bd210"
+                },
+                "exr": {
+                    "size": 420507461,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/laufenurg_church_16k.exr",
+                    "md5": "7d5b52c4f18e2a8848ab905f9f3e9251"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27059164,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/laufenurg_church_4k.hdr",
+                    "md5": "c70078ba64663fd79b2dc2d696dde3a1"
+                },
+                "exr": {
+                    "size": 27408545,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/laufenurg_church_4k.exr",
+                    "md5": "b3dc1a9ce1d73d54c233e2d816242b14"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6762111,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/laufenurg_church_2k.hdr",
+                    "md5": "4229c6a4a4b00efe086d1de12caa4f02"
+                },
+                "exr": {
+                    "size": 6629350,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/laufenurg_church_2k.exr",
+                    "md5": "1a7c5db8fcc87d772de0e323c7763757"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1688691,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/laufenurg_church_1k.hdr",
+                    "md5": "16aa6b42b36d76e9a7dba538570594b8"
+                },
+                "exr": {
+                    "size": 1624153,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/laufenurg_church_1k.exr",
+                    "md5": "577236d8f505717292d22a53759e8f55"
+                }
+            }
+        }
+    }
+}

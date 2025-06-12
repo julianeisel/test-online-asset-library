@@ -1,0 +1,316 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "whitebalance": 4000,
+    "date_published": 1586210400,
+    "name": "Small Cathedral",
+    "categories": [
+        "indoor",
+        "urban",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1583334420,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "backplates": true,
+    "tags": [
+        "church",
+        "chapel",
+        "carpet",
+        "painting",
+        "religion",
+        "backplates"
+    ],
+    "files_hash": "be581d457396d419de147e9ef491643205cb9429",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 29666,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/small_cathedral.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4079607,
+            "md5": "c9cdbd6165bc232a4dd54cd82bbe69c2",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/small_cathedral.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101741784,
+                    "md5": "f41b082455c48868a432c1ab5612f494",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/small_cathedral_8k.hdr"
+                },
+                "exr": {
+                    "size": 80318011,
+                    "md5": "685ccda4fb79ab2511e6cd49b6a5e919",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/small_cathedral_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 384317537,
+                    "md5": "c598d2f6adf2961f138d2288ee5c8074",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/small_cathedral_16k.hdr"
+                },
+                "exr": {
+                    "size": 296831161,
+                    "md5": "62bc1d51982ea05d1ebe93694fef7c6b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/small_cathedral_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25952000,
+                    "md5": "2ea2e4c263ac1949695016bbf0e21dd8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/small_cathedral_4k.hdr"
+                },
+                "exr": {
+                    "size": 20315816,
+                    "md5": "fdfe5c3f12f8173ca82a43dbf51f172a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/small_cathedral_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6567642,
+                    "md5": "cc70ebbc8264ac1d50a8a293c865c14e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/small_cathedral_2k.hdr"
+                },
+                "exr": {
+                    "size": 5191127,
+                    "md5": "f1a4ee8e92dcbd216adda846586e8c15",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/small_cathedral_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1665438,
+                    "md5": "4252570f7b4687a453e8feab9b4abf6e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/small_cathedral_1k.hdr"
+                },
+                "exr": {
+                    "size": 1354581,
+                    "md5": "5562c41fb0aa7a6f53f5cc76c864d810",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/small_cathedral_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 4807225,
+            "md5": "392101885602d84593567a2583d5bd6a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/small_cathedral.jpg"
+        },
+        "backplates": {
+            "DSC_0451": {
+                "jpg_pretty": {
+                    "size": 9725062,
+                    "md5": "fa292d5027fd2a1650a5e2812a3ab615",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_pretty/DSC_0451.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7971316,
+                    "md5": "dbc47d665b744a5e2f815326a916d554",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_plain/DSC_0451.jpg"
+                },
+                "raw": {
+                    "size": 15899036,
+                    "md5": "bbae051f23e6f2ab1ab1e42b1f83ea2a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/raw/DSC_0451.NEF"
+                }
+            },
+            "DSC_0461": {
+                "jpg_pretty": {
+                    "size": 8386437,
+                    "md5": "733cdb73158366896f4dd067c1ef176e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_pretty/DSC_0461.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6527770,
+                    "md5": "54d5069c8b8608037f2a67d9bdaee199",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_plain/DSC_0461.jpg"
+                },
+                "raw": {
+                    "size": 15633135,
+                    "md5": "04c4c0073519449c3bb85cbd9437f075",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/raw/DSC_0461.NEF"
+                }
+            },
+            "DSC_0471": {
+                "jpg_pretty": {
+                    "size": 9342781,
+                    "md5": "0dd7e240a499a975011f5cefce7aecf4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_pretty/DSC_0471.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7855281,
+                    "md5": "af35c766bf0bfa743b551050328a457d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_plain/DSC_0471.jpg"
+                },
+                "raw": {
+                    "size": 16189606,
+                    "md5": "b25edde3f01594918762b642c11efac9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/raw/DSC_0471.NEF"
+                }
+            },
+            "DSC_0466": {
+                "jpg_pretty": {
+                    "size": 10374989,
+                    "md5": "f9927cdb69abf775183558cd22751134",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_pretty/DSC_0466.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8449591,
+                    "md5": "ec09f437aabf3b55f8e50bfde8463bb6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_plain/DSC_0466.jpg"
+                },
+                "raw": {
+                    "size": 16043575,
+                    "md5": "8dc3ddcd6bcedc4bfdcc67fbe6c790a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/raw/DSC_0466.NEF"
+                }
+            },
+            "DSC_0521": {
+                "jpg_pretty": {
+                    "size": 8604172,
+                    "md5": "e0f3eed2357031bf93656f27910bbedc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_pretty/DSC_0521.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7163825,
+                    "md5": "55cae1730f83049ff384f54c90f59301",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_plain/DSC_0521.jpg"
+                },
+                "raw": {
+                    "size": 15951766,
+                    "md5": "b93885327da46efd5bbe661cbd2ff480",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/raw/DSC_0521.NEF"
+                }
+            },
+            "DSC_0531": {
+                "jpg_pretty": {
+                    "size": 8830520,
+                    "md5": "3abfdf869944fb3e7d2fed001e35284e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_pretty/DSC_0531.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7080274,
+                    "md5": "1cb8c5a7ed3c948648a9933601da3fea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_plain/DSC_0531.jpg"
+                },
+                "raw": {
+                    "size": 15787038,
+                    "md5": "e58a3a948d49a8c4770ef0ee31852adf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/raw/DSC_0531.NEF"
+                }
+            },
+            "DSC_0551": {
+                "jpg_pretty": {
+                    "size": 12010073,
+                    "md5": "e47885e36c536cafa8626a59ee5ecad5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_pretty/DSC_0551.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9760654,
+                    "md5": "720f5be6988d9637ee45ac693a0d30f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_plain/DSC_0551.jpg"
+                },
+                "raw": {
+                    "size": 16668488,
+                    "md5": "0ccaef53a7e7c4394bf16add05927b81",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/raw/DSC_0551.NEF"
+                }
+            },
+            "DSC_0446": {
+                "jpg_pretty": {
+                    "size": 7662657,
+                    "md5": "4ee86897e409cda11833ed9fddccc5e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_pretty/DSC_0446.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5915939,
+                    "md5": "c7eb1b839038d4fc6f76016a13acaf0e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_plain/DSC_0446.jpg"
+                },
+                "raw": {
+                    "size": 15654852,
+                    "md5": "c57c15817650afb5daf36fde6c70ba20",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/raw/DSC_0446.NEF"
+                }
+            },
+            "DSC_0456": {
+                "jpg_pretty": {
+                    "size": 10742522,
+                    "md5": "8d6370823cfb823fd87c3be45fb10a29",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_pretty/DSC_0456.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9230655,
+                    "md5": "63b8d988334a0e041378c7eb8309edf7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_plain/DSC_0456.jpg"
+                },
+                "raw": {
+                    "size": 16729781,
+                    "md5": "8cac9a4cb7866b8ef0ea1b3c8b4f4baf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/raw/DSC_0456.NEF"
+                }
+            },
+            "DSC_0511": {
+                "jpg_pretty": {
+                    "size": 9157575,
+                    "md5": "ea1e2ca06ad4fcdb224fea7d485796d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_pretty/DSC_0511.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7775456,
+                    "md5": "07baba527e0e3865103fde2e2b0893c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_plain/DSC_0511.jpg"
+                },
+                "raw": {
+                    "size": 15996061,
+                    "md5": "c9c30551d860aad37cc4142974d355cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/raw/DSC_0511.NEF"
+                }
+            },
+            "DSC_0416": {
+                "jpg_pretty": {
+                    "size": 8269584,
+                    "md5": "abec957250ceaaf8cda2ce93a9510e17",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_pretty/DSC_0416.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6780381,
+                    "md5": "ecaf29e99f4349144cc7e4da91189a8e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_plain/DSC_0416.jpg"
+                },
+                "raw": {
+                    "size": 16005127,
+                    "md5": "1c94463f8035a06884057f35c177a6d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/raw/DSC_0416.NEF"
+                }
+            },
+            "DSC_0526": {
+                "jpg_pretty": {
+                    "size": 8742814,
+                    "md5": "53ca38ba24d5fb529296af5726d07d38",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_pretty/DSC_0526.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7085109,
+                    "md5": "97a86eef798b42ad5ac3e6acf5d2984d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/jpg_plain/DSC_0526.jpg"
+                },
+                "raw": {
+                    "size": 15793608,
+                    "md5": "a08b6335797e4d38d76d6809d34b3a22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_cathedral/raw/DSC_0526.NEF"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "grass",
+        "hill",
+        "view",
+        "autumn",
+        "tree"
+    ],
+    "name": "Stuttgart Hillside",
+    "categories": [
+        "outdoor",
+        "nature",
+        "natural light",
+        "low contrast",
+        "overcast",
+        "midday"
+    ],
+    "coords": [
+        48.794414,
+        9.161763
+    ],
+    "date_taken": 1644237660,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1648080000,
+    "sponsors": [
+        "37678923"
+    ],
+    "files_hash": "da98b836d0c774359cbec5c269a40b170f08e26c",
+    "max_resolution": [
+        23704,
+        11852
+    ],
+    "download_count": 54616,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stuttgart_hillside.png?width=256&height=256",
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/stuttgart_hillside_16k.hdr",
+                    "size": 419540211,
+                    "md5": "d9cff0028a145faad7155a4b7f0cb7d9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/stuttgart_hillside_16k.exr",
+                    "size": 2147615593,
+                    "md5": "a9dd5f0db9ba43c551bed99f3afd233b"
+                }
+            },
+            "23k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/stuttgart_hillside_23k.hdr",
+                    "size": 855262880,
+                    "md5": "8361568a14507cc82d41ef0b8070f46d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/stuttgart_hillside_23k.exr",
+                    "size": 4495227126,
+                    "md5": "a53a5a8157504f0a7c1e7536ccdf256b"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/stuttgart_hillside_8k.hdr",
+                    "size": 108360254,
+                    "md5": "6735621f591a581bf12591640900e41f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/stuttgart_hillside_8k.exr",
+                    "size": 536937321,
+                    "md5": "026bd98dcfd48de9abcfa1936b2942b2"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/stuttgart_hillside_4k.hdr",
+                    "size": 27386232,
+                    "md5": "16e3bc73fbd9e8fe099809b7f1581005"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/stuttgart_hillside_4k.exr",
+                    "size": 134251369,
+                    "md5": "9d969142aa9e839c8c4e5d55a19e3b71"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/stuttgart_hillside_2k.hdr",
+                    "size": 6824728,
+                    "md5": "31ccc284e77c2f0289028680a0d57a8f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/stuttgart_hillside_2k.exr",
+                    "size": 33571689,
+                    "md5": "0b1f9988910092037dd82dae6af0a28e"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/stuttgart_hillside_1k.hdr",
+                    "size": 1695955,
+                    "md5": "1683aafd98d3ac60f38e8e89f3502549"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/stuttgart_hillside_1k.exr",
+                    "size": 8397673,
+                    "md5": "f75e5717c0032b4c1e7a375231c7affc"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/stuttgart_hillside.zip",
+            "size": 186515521,
+            "md5": "fb44f70dcb9523e92838d3bf75f0cdfa"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/stuttgart_hillside.jpg",
+            "size": 49616712,
+            "md5": "6f7dff67735fe22c2c40906be199a1b6"
+        }
+    }
+}

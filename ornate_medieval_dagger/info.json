@@ -1,0 +1,1070 @@
+{
+    "donated": true,
+    "name": "Ornate Medieval Dagger",
+    "categories": [
+        "props"
+    ],
+    "type": 2,
+    "tags": [
+        "weapon",
+        "blade",
+        "knife",
+        "combat",
+        "sharp",
+        "detailed",
+        "silver"
+    ],
+    "authors": {
+        "Samuli Pahaoja": "All"
+    },
+    "info": null,
+    "files_hash": "0075b8ab41e8db494b11b7d46aa003a666494ebb",
+    "date_published": 1685059200,
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "polycount": 6290,
+    "texel_density": 33574.53984838437,
+    "dimensions": [
+        120.14957889914513,
+        24.959721602499485,
+        348.9498645067215
+    ],
+    "download_count": 3671,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ornate_medieval_dagger.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 20702698,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/ornate_medieval_dagger/ornate_medieval_dagger_diff_8k.jpg",
+                    "md5": "c002633e9bfeb4e9d3811ad0130eddaf"
+                },
+                "png": {
+                    "size": 183161366,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/ornate_medieval_dagger/ornate_medieval_dagger_diff_8k.png",
+                    "md5": "a4a406b93858128ead4a1b6457133841"
+                },
+                "exr": {
+                    "size": 37815967,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_diff_8k.exr",
+                    "md5": "389244362a25b713c3d8d1452c23040b"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 6047613,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/ornate_medieval_dagger/ornate_medieval_dagger_diff_4k.jpg",
+                    "md5": "1ea0e70ae9e31bf0b4cc249490dcaf1c"
+                },
+                "png": {
+                    "size": 50583572,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/ornate_medieval_dagger/ornate_medieval_dagger_diff_4k.png",
+                    "md5": "80b079bfa67cfa7511edeed04752c4fb"
+                },
+                "exr": {
+                    "size": 11400491,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_diff_4k.exr",
+                    "md5": "dc3a5a76571526737af5c3ce8d5b2629"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1791714,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ornate_medieval_dagger/ornate_medieval_dagger_diff_2k.jpg",
+                    "md5": "2d59d3a9e1f46698b667feca8dc6853d"
+                },
+                "png": {
+                    "size": 14438875,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/ornate_medieval_dagger/ornate_medieval_dagger_diff_2k.png",
+                    "md5": "3e74177c110a157ffd4522d612c0db0a"
+                },
+                "exr": {
+                    "size": 3517216,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_diff_2k.exr",
+                    "md5": "057a2a14bf053de075de22d8c6a96099"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 520870,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ornate_medieval_dagger/ornate_medieval_dagger_diff_1k.jpg",
+                    "md5": "90dee73e24401618b9a9585007a5704a"
+                },
+                "png": {
+                    "size": 4015478,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/ornate_medieval_dagger/ornate_medieval_dagger_diff_1k.png",
+                    "md5": "f20288f1e9e696fcef851989adac5d5f"
+                },
+                "exr": {
+                    "size": 1066997,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_diff_1k.exr",
+                    "md5": "9bd3f91e54a36c04618e5cb1c464aaa0"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 59900230,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/ornate_medieval_dagger/ornate_medieval_dagger_nor_dx_8k.jpg",
+                    "md5": "d51bc40fff50ca2db625396a52f07887"
+                },
+                "png": {
+                    "size": 259280150,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/ornate_medieval_dagger/ornate_medieval_dagger_nor_dx_8k.png",
+                    "md5": "154de875aa470e7202214278bcf1dce0"
+                },
+                "exr": {
+                    "size": 115518696,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_nor_dx_8k.exr",
+                    "md5": "8be307be6d5e8345d215ac0d19b523d2"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 14388519,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/ornate_medieval_dagger/ornate_medieval_dagger_nor_dx_4k.jpg",
+                    "md5": "9bad644833657c5cddc5fbdd86a913bd"
+                },
+                "png": {
+                    "size": 71063615,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/ornate_medieval_dagger/ornate_medieval_dagger_nor_dx_4k.png",
+                    "md5": "dd246e5b824f46e59836c2a74215831c"
+                },
+                "exr": {
+                    "size": 28915029,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_nor_dx_4k.exr",
+                    "md5": "836c85b6e2284c00dfee3a4ec19f4085"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3422935,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ornate_medieval_dagger/ornate_medieval_dagger_nor_dx_2k.jpg",
+                    "md5": "fa971d3c4b626db20bab3b53040130c7"
+                },
+                "png": {
+                    "size": 19306276,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/ornate_medieval_dagger/ornate_medieval_dagger_nor_dx_2k.png",
+                    "md5": "3f560925b2c9a7d010dfad187099c5a6"
+                },
+                "exr": {
+                    "size": 7166176,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_nor_dx_2k.exr",
+                    "md5": "393643219f69e0f8cc0a293e27724122"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 831090,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ornate_medieval_dagger/ornate_medieval_dagger_nor_dx_1k.jpg",
+                    "md5": "5d92e439978d3a6ca9824e2f0ee4fa92"
+                },
+                "png": {
+                    "size": 5093964,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/ornate_medieval_dagger/ornate_medieval_dagger_nor_dx_1k.png",
+                    "md5": "960342230d743136b2b6770cabde04c3"
+                },
+                "exr": {
+                    "size": 1810862,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_nor_dx_1k.exr",
+                    "md5": "2c7dfc033ab2a7a11e86c041e6ecefd8"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 56559711,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_8k.jpg",
+                    "md5": "9ee293c59afce627ab8b57bee567229d"
+                },
+                "png": {
+                    "size": 259304525,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_8k.png",
+                    "md5": "aadeeeca741a2bd8f4f2a2f179439a6f"
+                },
+                "exr": {
+                    "size": 115233671,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_8k.exr",
+                    "md5": "b006caf3f290cc848e98028a8918a8df"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 14104061,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_4k.jpg",
+                    "md5": "142f4a2fe68b4b6ec4ab83d77d7220e1"
+                },
+                "png": {
+                    "size": 71074113,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_4k.png",
+                    "md5": "e7192674baadfb608f6823314d85e03c"
+                },
+                "exr": {
+                    "size": 28880267,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_4k.exr",
+                    "md5": "c33ca2e0a9b6d7f6cf73ae5484976c74"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3403108,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_2k.jpg",
+                    "md5": "84f4ac4006d6ed07006ee4e3801a447b"
+                },
+                "png": {
+                    "size": 19305938,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_2k.png",
+                    "md5": "bbdd925a58dad12615b39a478be84a3d"
+                },
+                "exr": {
+                    "size": 7175792,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_2k.exr",
+                    "md5": "4ff560f220cf1f7d8f0fd6602442132c"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 826948,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_1k.jpg",
+                    "md5": "60d0ba0013cd8f9b83efd7a632ebb303"
+                },
+                "png": {
+                    "size": 5093763,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_1k.png",
+                    "md5": "ef17998e5e47302f76721b7b7199e110"
+                },
+                "exr": {
+                    "size": 1818428,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_1k.exr",
+                    "md5": "dc8cabb936b80707da01810e25f3dcda"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_metal_8k.exr": {
+                            "size": 12829709,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_metal_8k.exr",
+                            "md5": "1b9e9c20181a27fc917f55cf758b451a"
+                        },
+                        "textures/ornate_medieval_dagger_diff_8k.jpg": {
+                            "size": 20702698,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/ornate_medieval_dagger/ornate_medieval_dagger_diff_8k.jpg",
+                            "md5": "c002633e9bfeb4e9d3811ad0130eddaf"
+                        },
+                        "textures/ornate_medieval_dagger_nor_gl_8k.exr": {
+                            "size": 115233671,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_8k.exr",
+                            "md5": "b006caf3f290cc848e98028a8918a8df"
+                        },
+                        "textures/ornate_medieval_dagger_rough_8k.exr": {
+                            "size": 27593973,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_rough_8k.exr",
+                            "md5": "a54d6900121487756443423229f71dcc"
+                        }
+                    },
+                    "size": 321845,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/ornate_medieval_dagger/ornate_medieval_dagger_8k.blend",
+                    "md5": "8d299e00c4aec834650024a7be9a3ab8"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_diff_4k.jpg": {
+                            "size": 6047613,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/ornate_medieval_dagger/ornate_medieval_dagger_diff_4k.jpg",
+                            "md5": "1ea0e70ae9e31bf0b4cc249490dcaf1c"
+                        },
+                        "textures/ornate_medieval_dagger_metal_4k.exr": {
+                            "size": 4581638,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_metal_4k.exr",
+                            "md5": "58a87919e92abf83eeeb6db4161ce603"
+                        },
+                        "textures/ornate_medieval_dagger_nor_gl_4k.exr": {
+                            "size": 28880267,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_4k.exr",
+                            "md5": "c33ca2e0a9b6d7f6cf73ae5484976c74"
+                        },
+                        "textures/ornate_medieval_dagger_rough_4k.exr": {
+                            "size": 9825769,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_rough_4k.exr",
+                            "md5": "3a16438ecce94ac1b607a4e0f5b96a97"
+                        }
+                    },
+                    "size": 323483,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/ornate_medieval_dagger/ornate_medieval_dagger_4k.blend",
+                    "md5": "1cf7c395260b68a16a414b986b5fd94a"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_metal_2k.exr": {
+                            "size": 1483173,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_metal_2k.exr",
+                            "md5": "12952230f021f59ab28b2bd1076c4531"
+                        },
+                        "textures/ornate_medieval_dagger_nor_gl_2k.exr": {
+                            "size": 7175792,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_2k.exr",
+                            "md5": "4ff560f220cf1f7d8f0fd6602442132c"
+                        },
+                        "textures/ornate_medieval_dagger_rough_2k.exr": {
+                            "size": 3211163,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_rough_2k.exr",
+                            "md5": "b0e3ae9619888d6409c4ebe2312cb665"
+                        },
+                        "textures/ornate_medieval_dagger_diff_2k.jpg": {
+                            "size": 1791714,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ornate_medieval_dagger/ornate_medieval_dagger_diff_2k.jpg",
+                            "md5": "2d59d3a9e1f46698b667feca8dc6853d"
+                        }
+                    },
+                    "size": 328371,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/ornate_medieval_dagger/ornate_medieval_dagger_2k.blend",
+                    "md5": "e86fc03e5df572ce9e3ab72df0aa4611"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_diff_1k.jpg": {
+                            "size": 520870,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ornate_medieval_dagger/ornate_medieval_dagger_diff_1k.jpg",
+                            "md5": "90dee73e24401618b9a9585007a5704a"
+                        },
+                        "textures/ornate_medieval_dagger_rough_1k.exr": {
+                            "size": 936901,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_rough_1k.exr",
+                            "md5": "7657b60398f56a44711d2703411121de"
+                        },
+                        "textures/ornate_medieval_dagger_nor_gl_1k.exr": {
+                            "size": 1818428,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_1k.exr",
+                            "md5": "dc8cabb936b80707da01810e25f3dcda"
+                        },
+                        "textures/ornate_medieval_dagger_metal_1k.exr": {
+                            "size": 450560,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_metal_1k.exr",
+                            "md5": "a1f83719630860e13c4572267bb4d2d7"
+                        }
+                    },
+                    "size": 338759,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/ornate_medieval_dagger/ornate_medieval_dagger_1k.blend",
+                    "md5": "f29bf1a41436db731e193dabc4526ada"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_arm_8k.jpg": {
+                            "size": 23673356,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/ornate_medieval_dagger/ornate_medieval_dagger_arm_8k.jpg",
+                            "md5": "b31515f6e8efcb262324bf0e1ca07a46"
+                        },
+                        "textures/ornate_medieval_dagger_diff_8k.jpg": {
+                            "size": 20702698,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/ornate_medieval_dagger/ornate_medieval_dagger_diff_8k.jpg",
+                            "md5": "c002633e9bfeb4e9d3811ad0130eddaf"
+                        },
+                        "textures/ornate_medieval_dagger_nor_gl_8k.jpg": {
+                            "size": 56559711,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_8k.jpg",
+                            "md5": "9ee293c59afce627ab8b57bee567229d"
+                        },
+                        "ornate_medieval_dagger.bin": {
+                            "size": 162124,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/ornate_medieval_dagger/ornate_medieval_dagger.bin",
+                            "md5": "4ffffbd25903095006fa9aa55c4052d4"
+                        }
+                    },
+                    "size": 4405,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/ornate_medieval_dagger/ornate_medieval_dagger_8k.gltf",
+                    "md5": "90af3cc3d6dcc3991d5e8d84868663ff"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_diff_4k.jpg": {
+                            "size": 6047613,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/ornate_medieval_dagger/ornate_medieval_dagger_diff_4k.jpg",
+                            "md5": "1ea0e70ae9e31bf0b4cc249490dcaf1c"
+                        },
+                        "textures/ornate_medieval_dagger_arm_4k.jpg": {
+                            "size": 6641296,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/ornate_medieval_dagger/ornate_medieval_dagger_arm_4k.jpg",
+                            "md5": "0ea9641729b5751a56b3cc969c1608b8"
+                        },
+                        "ornate_medieval_dagger.bin": {
+                            "size": 162124,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/ornate_medieval_dagger/ornate_medieval_dagger.bin",
+                            "md5": "4ffffbd25903095006fa9aa55c4052d4"
+                        },
+                        "textures/ornate_medieval_dagger_nor_gl_4k.jpg": {
+                            "size": 14104061,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_4k.jpg",
+                            "md5": "142f4a2fe68b4b6ec4ab83d77d7220e1"
+                        }
+                    },
+                    "size": 4405,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/ornate_medieval_dagger/ornate_medieval_dagger_4k.gltf",
+                    "md5": "3c7416b6001c4e261854bc75c2c02096"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_nor_gl_2k.jpg": {
+                            "size": 3403108,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_2k.jpg",
+                            "md5": "84f4ac4006d6ed07006ee4e3801a447b"
+                        },
+                        "ornate_medieval_dagger.bin": {
+                            "size": 162124,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/ornate_medieval_dagger/ornate_medieval_dagger.bin",
+                            "md5": "4ffffbd25903095006fa9aa55c4052d4"
+                        },
+                        "textures/ornate_medieval_dagger_diff_2k.jpg": {
+                            "size": 1791714,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ornate_medieval_dagger/ornate_medieval_dagger_diff_2k.jpg",
+                            "md5": "2d59d3a9e1f46698b667feca8dc6853d"
+                        },
+                        "textures/ornate_medieval_dagger_arm_2k.jpg": {
+                            "size": 2038069,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ornate_medieval_dagger/ornate_medieval_dagger_arm_2k.jpg",
+                            "md5": "9174018f8ad2c1c47c50f6f71e1fc61b"
+                        }
+                    },
+                    "size": 4405,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/ornate_medieval_dagger/ornate_medieval_dagger_2k.gltf",
+                    "md5": "902689b3703ecf44fe5e78ed162ebced"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_diff_1k.jpg": {
+                            "size": 520870,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ornate_medieval_dagger/ornate_medieval_dagger_diff_1k.jpg",
+                            "md5": "90dee73e24401618b9a9585007a5704a"
+                        },
+                        "textures/ornate_medieval_dagger_nor_gl_1k.jpg": {
+                            "size": 826948,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_1k.jpg",
+                            "md5": "60d0ba0013cd8f9b83efd7a632ebb303"
+                        },
+                        "textures/ornate_medieval_dagger_arm_1k.jpg": {
+                            "size": 622365,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ornate_medieval_dagger/ornate_medieval_dagger_arm_1k.jpg",
+                            "md5": "330abdf117aaef6e16cda8fdcfee6564"
+                        },
+                        "ornate_medieval_dagger.bin": {
+                            "size": 162124,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/ornate_medieval_dagger/ornate_medieval_dagger.bin",
+                            "md5": "4ffffbd25903095006fa9aa55c4052d4"
+                        }
+                    },
+                    "size": 4405,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/ornate_medieval_dagger/ornate_medieval_dagger_1k.gltf",
+                    "md5": "f20c6b69e8b8d541237d0c4d3b8a2cdb"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_metal_8k.exr": {
+                            "size": 12829709,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_metal_8k.exr",
+                            "md5": "1b9e9c20181a27fc917f55cf758b451a"
+                        },
+                        "textures/ornate_medieval_dagger_diff_8k.jpg": {
+                            "size": 20702698,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/ornate_medieval_dagger/ornate_medieval_dagger_diff_8k.jpg",
+                            "md5": "c002633e9bfeb4e9d3811ad0130eddaf"
+                        },
+                        "textures/ornate_medieval_dagger_nor_gl_8k.exr": {
+                            "size": 115233671,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_8k.exr",
+                            "md5": "b006caf3f290cc848e98028a8918a8df"
+                        },
+                        "textures/ornate_medieval_dagger_rough_8k.exr": {
+                            "size": 27593973,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_rough_8k.exr",
+                            "md5": "a54d6900121487756443423229f71dcc"
+                        }
+                    },
+                    "size": 322211,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/ornate_medieval_dagger/ornate_medieval_dagger_8k.usdc",
+                    "md5": "0435c3678f1bc2fb68ac4b5981ed09ef"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_diff_4k.jpg": {
+                            "size": 6047613,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/ornate_medieval_dagger/ornate_medieval_dagger_diff_4k.jpg",
+                            "md5": "1ea0e70ae9e31bf0b4cc249490dcaf1c"
+                        },
+                        "textures/ornate_medieval_dagger_metal_4k.exr": {
+                            "size": 4581638,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_metal_4k.exr",
+                            "md5": "58a87919e92abf83eeeb6db4161ce603"
+                        },
+                        "textures/ornate_medieval_dagger_nor_gl_4k.exr": {
+                            "size": 28880267,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_4k.exr",
+                            "md5": "c33ca2e0a9b6d7f6cf73ae5484976c74"
+                        },
+                        "textures/ornate_medieval_dagger_rough_4k.exr": {
+                            "size": 9825769,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_rough_4k.exr",
+                            "md5": "3a16438ecce94ac1b607a4e0f5b96a97"
+                        }
+                    },
+                    "size": 322209,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/ornate_medieval_dagger/ornate_medieval_dagger_4k.usdc",
+                    "md5": "58b78379590910c66404d972340de278"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_metal_2k.exr": {
+                            "size": 1483173,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_metal_2k.exr",
+                            "md5": "12952230f021f59ab28b2bd1076c4531"
+                        },
+                        "textures/ornate_medieval_dagger_nor_gl_2k.exr": {
+                            "size": 7175792,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_2k.exr",
+                            "md5": "4ff560f220cf1f7d8f0fd6602442132c"
+                        },
+                        "textures/ornate_medieval_dagger_rough_2k.exr": {
+                            "size": 3211163,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_rough_2k.exr",
+                            "md5": "b0e3ae9619888d6409c4ebe2312cb665"
+                        },
+                        "textures/ornate_medieval_dagger_diff_2k.jpg": {
+                            "size": 1791714,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ornate_medieval_dagger/ornate_medieval_dagger_diff_2k.jpg",
+                            "md5": "2d59d3a9e1f46698b667feca8dc6853d"
+                        }
+                    },
+                    "size": 322209,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/ornate_medieval_dagger/ornate_medieval_dagger_2k.usdc",
+                    "md5": "fef0ae619810aa9bdda6037dad30bd75"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_diff_1k.jpg": {
+                            "size": 520870,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ornate_medieval_dagger/ornate_medieval_dagger_diff_1k.jpg",
+                            "md5": "90dee73e24401618b9a9585007a5704a"
+                        },
+                        "textures/ornate_medieval_dagger_rough_1k.exr": {
+                            "size": 936901,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_rough_1k.exr",
+                            "md5": "7657b60398f56a44711d2703411121de"
+                        },
+                        "textures/ornate_medieval_dagger_nor_gl_1k.exr": {
+                            "size": 1818428,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_1k.exr",
+                            "md5": "dc8cabb936b80707da01810e25f3dcda"
+                        },
+                        "textures/ornate_medieval_dagger_metal_1k.exr": {
+                            "size": 450560,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_metal_1k.exr",
+                            "md5": "a1f83719630860e13c4572267bb4d2d7"
+                        }
+                    },
+                    "size": 322209,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/ornate_medieval_dagger/ornate_medieval_dagger_1k.usdc",
+                    "md5": "a2ac746b374cbd8e355bc98082af7db4"
+                }
+            }
+        },
+        "Metal": {
+            "8k": {
+                "jpg": {
+                    "size": 9835218,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/ornate_medieval_dagger/ornate_medieval_dagger_metal_8k.jpg",
+                    "md5": "44717f80515881d5951915bea6a04fcc"
+                },
+                "png": {
+                    "size": 12489581,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/ornate_medieval_dagger/ornate_medieval_dagger_metal_8k.png",
+                    "md5": "a51bb0182703b5dd26151a8e236d31ed"
+                },
+                "exr": {
+                    "size": 12829709,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_metal_8k.exr",
+                    "md5": "1b9e9c20181a27fc917f55cf758b451a"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2778333,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/ornate_medieval_dagger/ornate_medieval_dagger_metal_4k.jpg",
+                    "md5": "86f008bc8fc2fa75db560712b0ae0bb1"
+                },
+                "png": {
+                    "size": 5646851,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/ornate_medieval_dagger/ornate_medieval_dagger_metal_4k.png",
+                    "md5": "e067dfffa10cfedd4f19d711f891717c"
+                },
+                "exr": {
+                    "size": 4581638,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_metal_4k.exr",
+                    "md5": "58a87919e92abf83eeeb6db4161ce603"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 851626,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ornate_medieval_dagger/ornate_medieval_dagger_metal_2k.jpg",
+                    "md5": "1e6b92f732d3d8b99a5a68faee04c0d3"
+                },
+                "png": {
+                    "size": 1979590,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/ornate_medieval_dagger/ornate_medieval_dagger_metal_2k.png",
+                    "md5": "294453a35cb7937cb9c4a0500e1e3887"
+                },
+                "exr": {
+                    "size": 1483173,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_metal_2k.exr",
+                    "md5": "12952230f021f59ab28b2bd1076c4531"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 272280,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ornate_medieval_dagger/ornate_medieval_dagger_metal_1k.jpg",
+                    "md5": "ebade3a20f310a1e1f949b1170267b3e"
+                },
+                "png": {
+                    "size": 619440,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/ornate_medieval_dagger/ornate_medieval_dagger_metal_1k.png",
+                    "md5": "6397c876b68c1093da79335b156244ef"
+                },
+                "exr": {
+                    "size": 450560,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_metal_1k.exr",
+                    "md5": "a1f83719630860e13c4572267bb4d2d7"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 23673356,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/ornate_medieval_dagger/ornate_medieval_dagger_arm_8k.jpg",
+                    "md5": "b31515f6e8efcb262324bf0e1ca07a46"
+                },
+                "png": {
+                    "size": 139324626,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/ornate_medieval_dagger/ornate_medieval_dagger_arm_8k.png",
+                    "md5": "a9f069885fd43ea5be595facf354344b"
+                },
+                "exr": {
+                    "size": 54572380,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_arm_8k.exr",
+                    "md5": "0aa6e96ef5c1cbdef2067d1bebf94757"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 6641296,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/ornate_medieval_dagger/ornate_medieval_dagger_arm_4k.jpg",
+                    "md5": "0ea9641729b5751a56b3cc969c1608b8"
+                },
+                "png": {
+                    "size": 42208147,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/ornate_medieval_dagger/ornate_medieval_dagger_arm_4k.png",
+                    "md5": "fa069e3c86dc30697897a4c394764a20"
+                },
+                "exr": {
+                    "size": 15195642,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_arm_4k.exr",
+                    "md5": "00417102270ed2d6b61d4afdfbc70021"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2038069,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ornate_medieval_dagger/ornate_medieval_dagger_arm_2k.jpg",
+                    "md5": "9174018f8ad2c1c47c50f6f71e1fc61b"
+                },
+                "png": {
+                    "size": 12404530,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/ornate_medieval_dagger/ornate_medieval_dagger_arm_2k.png",
+                    "md5": "8147c8b331c0369d8fe475e5e121da3b"
+                },
+                "exr": {
+                    "size": 4757052,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_arm_2k.exr",
+                    "md5": "31b145f35d9d9778f88c0975a1f51941"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 622365,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ornate_medieval_dagger/ornate_medieval_dagger_arm_1k.jpg",
+                    "md5": "330abdf117aaef6e16cda8fdcfee6564"
+                },
+                "png": {
+                    "size": 3489568,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/ornate_medieval_dagger/ornate_medieval_dagger_arm_1k.png",
+                    "md5": "1c8b0ec85a92d5b0854231f36e65c3cd"
+                },
+                "exr": {
+                    "size": 1479411,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_arm_1k.exr",
+                    "md5": "2adea4804d283fa7df2a90c4ba759871"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_metal_8k.exr": {
+                            "size": 12829709,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_metal_8k.exr",
+                            "md5": "1b9e9c20181a27fc917f55cf758b451a"
+                        },
+                        "textures/ornate_medieval_dagger_diff_8k.jpg": {
+                            "size": 20702698,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/ornate_medieval_dagger/ornate_medieval_dagger_diff_8k.jpg",
+                            "md5": "c002633e9bfeb4e9d3811ad0130eddaf"
+                        },
+                        "textures/ornate_medieval_dagger_nor_gl_8k.exr": {
+                            "size": 115233671,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_8k.exr",
+                            "md5": "b006caf3f290cc848e98028a8918a8df"
+                        },
+                        "textures/ornate_medieval_dagger_rough_8k.exr": {
+                            "size": 27593973,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_rough_8k.exr",
+                            "md5": "a54d6900121487756443423229f71dcc"
+                        }
+                    },
+                    "size": 235708,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/ornate_medieval_dagger/ornate_medieval_dagger_8k.fbx",
+                    "md5": "f95fd226518bb122cdce29214c5c213c"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_diff_4k.jpg": {
+                            "size": 6047613,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/ornate_medieval_dagger/ornate_medieval_dagger_diff_4k.jpg",
+                            "md5": "1ea0e70ae9e31bf0b4cc249490dcaf1c"
+                        },
+                        "textures/ornate_medieval_dagger_metal_4k.exr": {
+                            "size": 4581638,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_metal_4k.exr",
+                            "md5": "58a87919e92abf83eeeb6db4161ce603"
+                        },
+                        "textures/ornate_medieval_dagger_nor_gl_4k.exr": {
+                            "size": 28880267,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_4k.exr",
+                            "md5": "c33ca2e0a9b6d7f6cf73ae5484976c74"
+                        },
+                        "textures/ornate_medieval_dagger_rough_4k.exr": {
+                            "size": 9825769,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_rough_4k.exr",
+                            "md5": "3a16438ecce94ac1b607a4e0f5b96a97"
+                        }
+                    },
+                    "size": 235708,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/ornate_medieval_dagger/ornate_medieval_dagger_4k.fbx",
+                    "md5": "ae284dc7faf8c9cc490d772887e3b9f3"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_metal_2k.exr": {
+                            "size": 1483173,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_metal_2k.exr",
+                            "md5": "12952230f021f59ab28b2bd1076c4531"
+                        },
+                        "textures/ornate_medieval_dagger_nor_gl_2k.exr": {
+                            "size": 7175792,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_2k.exr",
+                            "md5": "4ff560f220cf1f7d8f0fd6602442132c"
+                        },
+                        "textures/ornate_medieval_dagger_rough_2k.exr": {
+                            "size": 3211163,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_rough_2k.exr",
+                            "md5": "b0e3ae9619888d6409c4ebe2312cb665"
+                        },
+                        "textures/ornate_medieval_dagger_diff_2k.jpg": {
+                            "size": 1791714,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ornate_medieval_dagger/ornate_medieval_dagger_diff_2k.jpg",
+                            "md5": "2d59d3a9e1f46698b667feca8dc6853d"
+                        }
+                    },
+                    "size": 235708,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/ornate_medieval_dagger/ornate_medieval_dagger_2k.fbx",
+                    "md5": "10c70e8a3b95dab961b31f1de468915b"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/ornate_medieval_dagger_diff_1k.jpg": {
+                            "size": 520870,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ornate_medieval_dagger/ornate_medieval_dagger_diff_1k.jpg",
+                            "md5": "90dee73e24401618b9a9585007a5704a"
+                        },
+                        "textures/ornate_medieval_dagger_rough_1k.exr": {
+                            "size": 936901,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_rough_1k.exr",
+                            "md5": "7657b60398f56a44711d2703411121de"
+                        },
+                        "textures/ornate_medieval_dagger_nor_gl_1k.exr": {
+                            "size": 1818428,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_nor_gl_1k.exr",
+                            "md5": "dc8cabb936b80707da01810e25f3dcda"
+                        },
+                        "textures/ornate_medieval_dagger_metal_1k.exr": {
+                            "size": 450560,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_metal_1k.exr",
+                            "md5": "a1f83719630860e13c4572267bb4d2d7"
+                        }
+                    },
+                    "size": 235708,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/ornate_medieval_dagger/ornate_medieval_dagger_1k.fbx",
+                    "md5": "3846171025ca7f258e1b34f9257c308e"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 16498920,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/ornate_medieval_dagger/ornate_medieval_dagger_ao_8k.jpg",
+                    "md5": "52816fa5b9286c9fb0551674c132614d"
+                },
+                "png": {
+                    "size": 69891868,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/ornate_medieval_dagger/ornate_medieval_dagger_ao_8k.png",
+                    "md5": "2394fe2f11a0d869e2282a9632139ac0"
+                },
+                "exr": {
+                    "size": 36303717,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_ao_8k.exr",
+                    "md5": "6540b8d06d7513f6517091de7108d893"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3276746,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/ornate_medieval_dagger/ornate_medieval_dagger_ao_4k.jpg",
+                    "md5": "4f81f3a31f06d6c6dd127d52dd7be079"
+                },
+                "png": {
+                    "size": 18099536,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/ornate_medieval_dagger/ornate_medieval_dagger_ao_4k.png",
+                    "md5": "19efb07933796a0cd3d1bc714d0d1baf"
+                },
+                "exr": {
+                    "size": 8683955,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_ao_4k.exr",
+                    "md5": "2edc569bc102b92c8c465bf6aaa3f379"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 784036,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ornate_medieval_dagger/ornate_medieval_dagger_ao_2k.jpg",
+                    "md5": "8438fc222aef4c2fd2b6dd90aacaadbe"
+                },
+                "png": {
+                    "size": 4538456,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/ornate_medieval_dagger/ornate_medieval_dagger_ao_2k.png",
+                    "md5": "ce5ddeef4ec90aba9a60b7e35c30a5a8"
+                },
+                "exr": {
+                    "size": 2062972,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_ao_2k.exr",
+                    "md5": "5d08f14f0e05b712728d25ca63b36c25"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 254168,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ornate_medieval_dagger/ornate_medieval_dagger_ao_1k.jpg",
+                    "md5": "fbdd2b129c0d50550b72a533243976b6"
+                },
+                "png": {
+                    "size": 1141847,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/ornate_medieval_dagger/ornate_medieval_dagger_ao_1k.png",
+                    "md5": "8884b03f4832d778cbdef0cfcc1addbf"
+                },
+                "exr": {
+                    "size": 527504,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_ao_1k.exr",
+                    "md5": "1fe4f1098fa8dda782619356b017a2b7"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 9283223,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/ornate_medieval_dagger/ornate_medieval_dagger_disp_8k.jpg",
+                    "md5": "7791e63937dfb2a940ce9558355ea460"
+                },
+                "png": {
+                    "size": 59216430,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/ornate_medieval_dagger/ornate_medieval_dagger_disp_8k.png",
+                    "md5": "c9955901689b5e74de5ed726e7f98e24"
+                },
+                "exr": {
+                    "size": 32620743,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_disp_8k.exr",
+                    "md5": "88a4d3e6521d30751b702be436a36ca7"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2776164,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/ornate_medieval_dagger/ornate_medieval_dagger_disp_4k.jpg",
+                    "md5": "6484a56786cc547552f714b26b078612"
+                },
+                "png": {
+                    "size": 17343978,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/ornate_medieval_dagger/ornate_medieval_dagger_disp_4k.png",
+                    "md5": "a637939000b9ae0048c4dd9e615e678c"
+                },
+                "exr": {
+                    "size": 9576187,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_disp_4k.exr",
+                    "md5": "428a4be90ff6c32d7fb31f3f5b5ee1ba"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 810427,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ornate_medieval_dagger/ornate_medieval_dagger_disp_2k.jpg",
+                    "md5": "e99ef0709da65164e280ffc7c3c7e0d5"
+                },
+                "png": {
+                    "size": 4859574,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/ornate_medieval_dagger/ornate_medieval_dagger_disp_2k.png",
+                    "md5": "dd5c526b965459ba41d1e6660598530f"
+                },
+                "exr": {
+                    "size": 2734535,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_disp_2k.exr",
+                    "md5": "f79b7c37806bb4a2c4e43a95f62ebbd9"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 234864,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ornate_medieval_dagger/ornate_medieval_dagger_disp_1k.jpg",
+                    "md5": "6ce2f5e4b0919867cdf8b935da55523a"
+                },
+                "png": {
+                    "size": 1331293,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/ornate_medieval_dagger/ornate_medieval_dagger_disp_1k.png",
+                    "md5": "2dda7455f9dfdd7b8acd675b7af65a3d"
+                },
+                "exr": {
+                    "size": 743171,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_disp_1k.exr",
+                    "md5": "edf8b9141a7c5ca91159666907139d67"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 16965778,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/ornate_medieval_dagger/ornate_medieval_dagger_rough_8k.jpg",
+                    "md5": "d68cf49ffc408cb46af2eabcfb704ccd"
+                },
+                "png": {
+                    "size": 22821643,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/ornate_medieval_dagger/ornate_medieval_dagger_rough_8k.png",
+                    "md5": "609fb600a575334b9273949d8fe190f8"
+                },
+                "exr": {
+                    "size": 27593973,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/ornate_medieval_dagger/ornate_medieval_dagger_rough_8k.exr",
+                    "md5": "a54d6900121487756443423229f71dcc"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4924596,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/ornate_medieval_dagger/ornate_medieval_dagger_rough_4k.jpg",
+                    "md5": "03aeba588356bd92343382df66430e24"
+                },
+                "png": {
+                    "size": 12240451,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/ornate_medieval_dagger/ornate_medieval_dagger_rough_4k.png",
+                    "md5": "ce92e3149693c71c5f0d865e1df2cf7f"
+                },
+                "exr": {
+                    "size": 9825769,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/ornate_medieval_dagger/ornate_medieval_dagger_rough_4k.exr",
+                    "md5": "3a16438ecce94ac1b607a4e0f5b96a97"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1499251,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ornate_medieval_dagger/ornate_medieval_dagger_rough_2k.jpg",
+                    "md5": "873141dcfce91d5c1b7acf8df20873cb"
+                },
+                "png": {
+                    "size": 4288458,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/ornate_medieval_dagger/ornate_medieval_dagger_rough_2k.png",
+                    "md5": "d01b4084795c1e0538d93173f5ac1837"
+                },
+                "exr": {
+                    "size": 3211163,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/ornate_medieval_dagger/ornate_medieval_dagger_rough_2k.exr",
+                    "md5": "b0e3ae9619888d6409c4ebe2312cb665"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 453803,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ornate_medieval_dagger/ornate_medieval_dagger_rough_1k.jpg",
+                    "md5": "73cd8e39b806ab0e1d9fe33fa6010f45"
+                },
+                "png": {
+                    "size": 1316665,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/ornate_medieval_dagger/ornate_medieval_dagger_rough_1k.png",
+                    "md5": "56260b152252b87c68b66d14a421a00c"
+                },
+                "exr": {
+                    "size": 936901,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/ornate_medieval_dagger/ornate_medieval_dagger_rough_1k.exr",
+                    "md5": "7657b60398f56a44711d2703411121de"
+                }
+            }
+        }
+    }
+}

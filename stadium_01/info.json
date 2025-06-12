@@ -1,0 +1,108 @@
+{
+    "evs_cap": 11,
+    "type": 0,
+    "tags": [
+        "stadium",
+        "field",
+        "grass",
+        "football",
+        "soccer"
+    ],
+    "date_published": 1541477745,
+    "name": "Stadium 01",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1537544160,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        {
+            "url": "http://artsandculturevr.com/",
+            "name": "Arts And Culture VR"
+        },
+        "7937768"
+    ],
+    "max_resolution": [
+        16500,
+        8250
+    ],
+    "files_hash": "8fdc10d7fb765d01d7bc068a5040efc8d46917f5",
+    "download_count": 38280,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stadium_01.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5552130,
+            "md5": "e156aade32638e7bba4526640f60795d",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/stadium_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/stadium_01_8k.hdr",
+                    "size": 99247241,
+                    "md5": "5c3dfd35a05640754785343958c820ce"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/stadium_01_8k.exr",
+                    "size": 82102508,
+                    "md5": "498402cd911b5ce58c58b88b931ddff0"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/stadium_01_16k.hdr",
+                    "size": 386532013,
+                    "md5": "489c8a7c84c783e805125cdb0c8c0b4f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/stadium_01_16k.exr",
+                    "size": 313692082,
+                    "md5": "d82ada63496a53d36bbf165b8ea898a6"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/stadium_01_4k.hdr",
+                    "size": 25048923,
+                    "md5": "1e7ea7a876b9bcce0a6a7b6b4f4de05f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/stadium_01_4k.exr",
+                    "size": 20752847,
+                    "md5": "29ad8a406cf3de2c18061cf50fab458c"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/stadium_01_2k.hdr",
+                    "size": 6158568,
+                    "md5": "e669057644673c01241c8fd3cd2bb927"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/stadium_01_2k.exr",
+                    "size": 5161806,
+                    "md5": "0519f15056f277a05690ca5a6f3daa3e"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/stadium_01_1k.hdr",
+                    "size": 1527374,
+                    "md5": "bff32df94d77e3f7aafbc2802d930dd9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/stadium_01_1k.exr",
+                    "size": 1287283,
+                    "md5": "afcee1be9345b6527565bab6678556ea"
+                }
+            }
+        }
+    }
+}

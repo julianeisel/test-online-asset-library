@@ -1,0 +1,123 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "sun",
+        "tree",
+        "field",
+        "dry grass",
+        "yellow",
+        "noon",
+        "grass"
+    ],
+    "name": "Countrytrax Midday",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "clear",
+        "high contrast",
+        "midday"
+    ],
+    "date_taken": 1697802780,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "files_hash": "7e89ba004f0a0be24f1e045bb26d1323f55cb8f0",
+    "date_published": 1702425600,
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "download_count": 18200,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/countrytrax_midday.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 48222207,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/countrytrax_midday.jpg",
+            "md5": "870d0976fb4a3d8a208b62b855c206ed"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100571903,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/countrytrax_midday_8k.hdr",
+                    "md5": "22bdf4c72ba341f790d765a431a47632"
+                },
+                "exr": {
+                    "size": 385059645,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/countrytrax_midday_8k.exr",
+                    "md5": "63666bb322dbd74af21d45710cdbf041"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 380091037,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/countrytrax_midday_16k.hdr",
+                    "md5": "2d31db6f6bb8aa503d0fabc28dfaad2c"
+                },
+                "exr": {
+                    "size": 1520273829,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/countrytrax_midday_16k.exr",
+                    "md5": "fe99ddf543b7940382d2c50875a569f4"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25878969,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/countrytrax_midday_4k.hdr",
+                    "md5": "ec4180d9081ad73f1bd57904922f14d8"
+                },
+                "exr": {
+                    "size": 96756843,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/countrytrax_midday_4k.exr",
+                    "md5": "ff60720bf26813b25ff58d429c2b2c0d"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6450720,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/countrytrax_midday_2k.hdr",
+                    "md5": "21f1aa8d88843b8ff72f1a2400539dfc"
+                },
+                "exr": {
+                    "size": 24257089,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/countrytrax_midday_2k.exr",
+                    "md5": "a63ec65b875a5f67b9e7b41e94a526d3"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1570577,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/countrytrax_midday_1k.hdr",
+                    "md5": "8ed23be4ccdf8d53967754906c6251cc"
+                },
+                "exr": {
+                    "size": 6081621,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/countrytrax_midday_1k.exr",
+                    "md5": "d69d8d2d79792f79eb661f23f33cfb11"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 582692628,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/countrytrax_midday_20k.hdr",
+                    "md5": "0f6f8857cf2ad918cde93457946ad960"
+                },
+                "exr": {
+                    "size": 2357839630,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/countrytrax_midday_20k.exr",
+                    "md5": "eb0faaecb7b5e436be8979f45dca517e"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 166053325,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/countrytrax_midday.zip",
+            "md5": "215f09509a82e2353d1812a939b1d180"
+        }
+    }
+}

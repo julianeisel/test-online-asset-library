@@ -1,0 +1,120 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "tags": [
+        "sun",
+        "rock",
+        "formation",
+        "path"
+    ],
+    "date_published": 1591308000,
+    "name": "The Lost City",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -24.93099063,
+        30.70983798
+    ],
+    "date_taken": 1572971280,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3567764",
+        "9910225"
+    ],
+    "files_hash": "3bfef1b09080a2d556b6f10df6087a2973aa519d",
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "download_count": 61527,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/the_lost_city.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4563766,
+            "md5": "8af963bf7ce965f9a1938bee8b8723dd",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/the_lost_city.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97345160,
+                    "md5": "95ac6da605024893c2ba742bef5da2dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/the_lost_city_8k.hdr"
+                },
+                "exr": {
+                    "size": 79831738,
+                    "md5": "6ce2974fad40239c259b140ace772067",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/the_lost_city_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 371820984,
+                    "md5": "189f09ea6bfa37dae687fbd9865a4f7a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/the_lost_city_16k.hdr"
+                },
+                "exr": {
+                    "size": 300992614,
+                    "md5": "c045489d292639ba74ac844ec1c117c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/the_lost_city_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24432103,
+                    "md5": "acfd923b8f87878ebe93fde30778512a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/the_lost_city_4k.hdr"
+                },
+                "exr": {
+                    "size": 20732811,
+                    "md5": "e8ff54f501e79d211dbfeb16b5ac83b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/the_lost_city_4k.exr"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 781309104,
+                    "md5": "6b06bf28024fa3856be3e9b07718aa28",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/the_lost_city_24k.hdr"
+                },
+                "exr": {
+                    "size": 623219185,
+                    "md5": "1d88f16534ede98f5186a92571971720",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/the_lost_city_24k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6000491,
+                    "md5": "36e063f838f297bb5861366d534e5b4c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/the_lost_city_2k.hdr"
+                },
+                "exr": {
+                    "size": 5345072,
+                    "md5": "f0ea09ac840ffcc9fac6e028ec620d50",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/the_lost_city_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1492854,
+                    "md5": "f0cd0068f4fed907dac5b5946b763daa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/the_lost_city_1k.hdr"
+                },
+                "exr": {
+                    "size": 1390609,
+                    "md5": "f80a9a15c29c34e6ea891a646e793d28",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/the_lost_city_1k.exr"
+                }
+            }
+        }
+    }
+}

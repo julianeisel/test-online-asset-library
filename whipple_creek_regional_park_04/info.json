@@ -1,0 +1,110 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "tree",
+        "path",
+        "park",
+        "forest"
+    ],
+    "date_published": 1539036000,
+    "name": "Whipple Creek Regional Park 04",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "overcast",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        45.739653,
+        -122.689633
+    ],
+    "date_taken": 1533110640,
+    "authors": {
+        "Philip Modin": "All"
+    },
+    "sponsors": [
+        "7937768",
+        "3237733",
+        "11167855"
+    ],
+    "files_hash": "c7ef6888fd2b743f9845c2aabbed80f1b2d72b3e",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 67623,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/whipple_creek_regional_park_04.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 12532294,
+            "md5": "f9c6f53cd9314d6cc5a5f5e3b97feead",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/whipple_creek_regional_park_04.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 116539450,
+                    "md5": "22125b4427e072bc9e23a9cab9f9e516",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/whipple_creek_regional_park_04_8k.hdr"
+                },
+                "exr": {
+                    "size": 118765086,
+                    "md5": "c5d5960d2c16e050a5fdc95f02a72ab0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/whipple_creek_regional_park_04_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 447923299,
+                    "md5": "8060b5011cf6c6e38d2206a95d051ec9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/whipple_creek_regional_park_04_16k.hdr"
+                },
+                "exr": {
+                    "size": 449029978,
+                    "md5": "c8d96ddc62f50d627e867ed9fd98d8bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/whipple_creek_regional_park_04_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29699763,
+                    "md5": "fc6019bdb810e17bcfee8e70d5108840",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/whipple_creek_regional_park_04_4k.hdr"
+                },
+                "exr": {
+                    "size": 30528486,
+                    "md5": "fe01cca34655b405ab0d14af6bc059aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/whipple_creek_regional_park_04_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7501458,
+                    "md5": "67b4ffee60a9e927f3314ea124a6cacf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/whipple_creek_regional_park_04_2k.hdr"
+                },
+                "exr": {
+                    "size": 7763793,
+                    "md5": "c0cffa02b7cdec11cf2cae2d791579b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/whipple_creek_regional_park_04_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1886784,
+                    "md5": "0f8de4f3508e0a4ef7f2b7447e30924d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/whipple_creek_regional_park_04_1k.hdr"
+                },
+                "exr": {
+                    "size": 1969881,
+                    "md5": "895c83c8e06554ecfb3002c75576c321",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/whipple_creek_regional_park_04_1k.exr"
+                }
+            }
+        }
+    }
+}

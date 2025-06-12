@@ -1,0 +1,129 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 3400,
+    "tags": [
+        "train",
+        "metro",
+        "station",
+        "modern",
+        "bench",
+        "glass",
+        "architecture",
+        "empty",
+        "platform",
+        "europe",
+        "amsterdam"
+    ],
+    "name": "Metro: Noord",
+    "categories": [
+        "indoor",
+        "urban",
+        "artificial light",
+        "night",
+        "medium contrast"
+    ],
+    "date_taken": 1698608580,
+    "coords": [
+        52.40222091357952,
+        4.932623133404125
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "info": null,
+    "files_hash": "ea67b76f5096af865035746b7e9a994d13158691",
+    "date_published": 1706659200,
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "download_count": 61701,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/metro_noord.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 43302988,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/metro_noord.jpg",
+            "md5": "2f53c9f60a69ae796420664a569d9eaf"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 106642656,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/metro_noord_8k.hdr",
+                    "md5": "2eddd00688e4e734a6fc4d80e7a00b0c"
+                },
+                "exr": {
+                    "size": 387356530,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/metro_noord_8k.exr",
+                    "md5": "b51ceec57e79f17d2b780747d450fdc0"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 409831803,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/metro_noord_16k.hdr",
+                    "md5": "b3bd13c676dc210abe9b909d854b5bd1"
+                },
+                "exr": {
+                    "size": 1538512634,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/metro_noord_16k.exr",
+                    "md5": "b8440c09e8891bd2230ff55c2becf659"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27047154,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/metro_noord_4k.hdr",
+                    "md5": "162e1c074afdb500d33d48beb8d6842b"
+                },
+                "exr": {
+                    "size": 97075287,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/metro_noord_4k.exr",
+                    "md5": "14b855018ac5f50989cb95ed45b57b83"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 909010400,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/metro_noord_24k.hdr",
+                    "md5": "9ab0465b4deca374498f3510ad545c4c"
+                },
+                "exr": {
+                    "size": 3431588966,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/metro_noord_24k.exr",
+                    "md5": "2ad3d289c6e525831a23e19e0660e97d"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6852060,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/metro_noord_2k.hdr",
+                    "md5": "31c096f71b1f292e26001fad1c8d2fc1"
+                },
+                "exr": {
+                    "size": 24365315,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/metro_noord_2k.exr",
+                    "md5": "1ebf1add4f31d727c64c4fae1d9ac73d"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1745415,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/metro_noord_1k.hdr",
+                    "md5": "341b0e5c1af242131ef9373137971e24"
+                },
+                "exr": {
+                    "size": 6133617,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/metro_noord_1k.exr",
+                    "md5": "758a4347659b7e2349362c486f980dc7"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 1069955358,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/metro_noord.zip",
+            "md5": "74d7041eabc542c0e1fed94e5cbd7197"
+        }
+    }
+}

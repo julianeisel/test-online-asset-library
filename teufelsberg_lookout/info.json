@@ -1,0 +1,111 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "graffiti",
+        "abandoned",
+        "art",
+        "pallet",
+        "industrial",
+        "forest",
+        "view"
+    ],
+    "date_published": 1512189728,
+    "name": "Teufelsberg Lookout",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        52.498039,
+        13.240499
+    ],
+    "date_taken": 1478440980,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "9ca98ed1948c3785d20ce0bbe32652622269d698",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 33763,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/teufelsberg_lookout.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6228563,
+            "md5": "e24e9d57cd81e78519e7bd7a8375bdef",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/teufelsberg_lookout.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101589592,
+                    "md5": "d1b4bf1f4bbe286be80534ef41de1663",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/teufelsberg_lookout_8k.hdr"
+                },
+                "exr": {
+                    "size": 93238197,
+                    "md5": "d89dc0974489bc3635c9772f3e69044e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/teufelsberg_lookout_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 380979355,
+                    "md5": "b6ed240adb5cf588b02332c4d543ebcb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/teufelsberg_lookout_16k.hdr"
+                },
+                "exr": {
+                    "size": 325351277,
+                    "md5": "e5b083e6df0fa02db3127be58cc3c5bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/teufelsberg_lookout_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26228360,
+                    "md5": "0909576fc0108cef445b829b2bad18b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/teufelsberg_lookout_4k.hdr"
+                },
+                "exr": {
+                    "size": 25317838,
+                    "md5": "34d428e9eef81b2d38a20bfd841140f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/teufelsberg_lookout_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6741312,
+                    "md5": "7e816b0707ede3887e3fd74f03a65926",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/teufelsberg_lookout_2k.hdr"
+                },
+                "exr": {
+                    "size": 6760354,
+                    "md5": "6e7bb3eba052d631426aeb95ae6808fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/teufelsberg_lookout_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1735076,
+                    "md5": "11fedaae92347712f0c3b7bbd143d00f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/teufelsberg_lookout_1k.hdr"
+                },
+                "exr": {
+                    "size": 1788960,
+                    "md5": "71acb1c10dbdd3a25b154810107b0dc4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/teufelsberg_lookout_1k.exr"
+                }
+            }
+        }
+    }
+}

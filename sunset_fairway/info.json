@@ -1,0 +1,114 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "golf",
+        "grass",
+        "tree",
+        "pond",
+        "path",
+        "tee",
+        "mountain"
+    ],
+    "date_published": 1510898101,
+    "name": "Sunset Fairway",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        -25.033339,
+        31.136287
+    ],
+    "date_taken": 1507825500,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.idin-jewellery.co.uk/",
+            "name": "Idin Jewellery"
+        }
+    ],
+    "files_hash": "c94fe97c9008c0dddd8a7d48e9c9fac111b703fb",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 176480,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sunset_fairway.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5019201,
+            "md5": "315d99d8d46887f41cc25b2b1c5b60d4",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/sunset_fairway.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 94208078,
+                    "md5": "388de58630bee7de038d48570d75a609",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/sunset_fairway_8k.hdr"
+                },
+                "exr": {
+                    "size": 85657882,
+                    "md5": "9e8f01d442df5803c373ed1f6b60e7f2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/sunset_fairway_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 343810297,
+                    "md5": "64835285ed696956a1ebaa80414cce25",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/sunset_fairway_16k.hdr"
+                },
+                "exr": {
+                    "size": 315997012,
+                    "md5": "f9a348209ee87290816725b8b039955c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/sunset_fairway_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23981095,
+                    "md5": "dc9030de3e2263a434b4c562c785d7d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/sunset_fairway_4k.hdr"
+                },
+                "exr": {
+                    "size": 22054657,
+                    "md5": "6bfedf7e33a0cbce97c2627880454b37",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/sunset_fairway_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5929564,
+                    "md5": "f1255dbcac50fc59440f48be6eb9e1f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/sunset_fairway_2k.hdr"
+                },
+                "exr": {
+                    "size": 5577287,
+                    "md5": "f035db17b47f36ec859a35302c2f55f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/sunset_fairway_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1478460,
+                    "md5": "f9d40423892205b0117df887f780cf6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/sunset_fairway_1k.hdr"
+                },
+                "exr": {
+                    "size": 1411096,
+                    "md5": "05a4ffe61d9df77b5821391c591d2a1e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/sunset_fairway_1k.exr"
+                }
+            }
+        }
+    }
+}

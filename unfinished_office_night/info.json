@@ -1,0 +1,108 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 3750,
+    "tags": [
+        "room",
+        "empty",
+        "construction",
+        "office",
+        "door",
+        "white"
+    ],
+    "name": "Unfinished Office Night",
+    "categories": [
+        "artificial light",
+        "urban",
+        "night",
+        "indoor",
+        "medium contrast"
+    ],
+    "date_taken": 1667580420,
+    "info": null,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1668556800,
+    "files_hash": "830c341749b78d24f7030755d4bd13a75873a66f",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 22420,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/unfinished_office_night.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 29142939,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/unfinished_office_night.jpg",
+            "md5": "865794dfbb48d858bf049b12b3a63306"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 92782350,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/unfinished_office_night_8k.hdr",
+                    "md5": "82fd026d0d06d4b269c5e240892cedc5"
+                },
+                "exr": {
+                    "size": 56979128,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/unfinished_office_night_8k.exr",
+                    "md5": "e45f5a8b8d497010e9e628fb2a9e06c5"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 345331323,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/unfinished_office_night_16k.hdr",
+                    "md5": "d10864c85e44453d584d3f929f1f58ac"
+                },
+                "exr": {
+                    "size": 214459967,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/unfinished_office_night_16k.exr",
+                    "md5": "39425d8cd50c4dfa44c9be19e2e55600"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23660338,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/unfinished_office_night_4k.hdr",
+                    "md5": "34771c5ac842635dbdf3da2d62835d07"
+                },
+                "exr": {
+                    "size": 13823612,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/unfinished_office_night_4k.exr",
+                    "md5": "04515753622f45b4844c76df839fa0d7"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5813789,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/unfinished_office_night_2k.hdr",
+                    "md5": "9cb779ebcc8773d015b56e71e6c10883"
+                },
+                "exr": {
+                    "size": 3440268,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/unfinished_office_night_2k.exr",
+                    "md5": "8507e9401a89be21b0b9a0fa298da955"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1417086,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/unfinished_office_night_1k.hdr",
+                    "md5": "8bfa3cc1a920d71a40d8d2837d7bfbd0"
+                },
+                "exr": {
+                    "size": 904491,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/unfinished_office_night_1k.exr",
+                    "md5": "08456f24ca75cc3a49cc58bf38c1f9a2"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 66770776,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/unfinished_office_night.zip",
+            "md5": "3441397cb0a71ce126e151da2cf550b6"
+        }
+    }
+}

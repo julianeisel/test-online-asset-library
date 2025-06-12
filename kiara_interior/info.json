@@ -1,0 +1,107 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tile",
+        "table",
+        "fridge",
+        "window",
+        "door",
+        "glass",
+        "kitchen",
+        "lounge"
+    ],
+    "date_published": 1511996400,
+    "name": "Kiara Interior",
+    "categories": [
+        "indoor",
+        "urban",
+        "sunrise-sunset",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1471966680,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "3bf89797d667e568711f0a55b48a511ddce57d60",
+    "download_count": 59962,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kiara_interior.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5369155,
+            "md5": "17df3e469b1bfb8e4ef4c29d32bd53aa",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/kiara_interior.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/kiara_interior_8k.hdr",
+                    "size": 102455857,
+                    "md5": "438a35d66c94e40100ab379873f6d898"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/kiara_interior_8k.exr",
+                    "size": 91322223,
+                    "md5": "c2b8ee536ea98b43f0c69efafe6e4b96"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kiara_interior_16k.hdr",
+                    "size": 388585578,
+                    "md5": "291b668074893f162dd065b5371263b8"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kiara_interior_16k.exr",
+                    "size": 327146530,
+                    "md5": "10310556b199bbb80967e9d3f81437d2"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/kiara_interior_4k.hdr",
+                    "size": 26340595,
+                    "md5": "6614615db70a3d64b7632e493ad3444b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/kiara_interior_4k.exr",
+                    "size": 24279305,
+                    "md5": "8a0c2c0089529465630f22b89592d011"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kiara_interior_2k.hdr",
+                    "size": 6724948,
+                    "md5": "690242ed5333041c7521e8b81fecb140"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/kiara_interior_2k.exr",
+                    "size": 6356402,
+                    "md5": "5d614624ef387ba078be03f505dc26bd"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/kiara_interior_1k.hdr",
+                    "size": 1716307,
+                    "md5": "d6d8894caa34b2dc6086a372d94687e6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/kiara_interior_1k.exr",
+                    "size": 1671219,
+                    "md5": "ff2ebcc5b4e2651e6c89a7aa3d342f1d"
+                }
+            }
+        }
+    }
+}

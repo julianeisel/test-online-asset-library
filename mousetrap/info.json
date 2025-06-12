@@ -1,0 +1,773 @@
+{
+    "donated": true,
+    "type": 2,
+    "tags": [
+        "wood",
+        "old",
+        "trap",
+        "rat",
+        "mouse",
+        "catcher",
+        "pest control",
+        "rodent",
+        "animal",
+        "springloaded",
+        "vermin",
+        "snap",
+        "cheese",
+        "spring",
+        "bait"
+    ],
+    "date_published": 1684454400,
+    "name": "Mousetrap",
+    "categories": [
+        "props"
+    ],
+    "authors": {
+        "GreenPixel": "All"
+    },
+    "info": null,
+    "files_hash": "116f069f2291008139dddbc68f4738732ffd0291",
+    "max_resolution": [
+        4096,
+        4096
+    ],
+    "polycount": 5136,
+    "texel_density": 24811.448239251222,
+    "dimensions": [
+        54.98756840825081,
+        100.44356435537338,
+        17.934181294901208
+    ],
+    "download_count": 2329,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/mousetrap.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "4k": {
+                "jpg": {
+                    "size": 8819618,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/mousetrap/mousetrap_diff_4k.jpg",
+                    "md5": "60c1ec708e0d93b00d8a09f3c8893803"
+                },
+                "png": {
+                    "size": 43714321,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/mousetrap/mousetrap_diff_4k.png",
+                    "md5": "94e664b67ef847f573ae7b1179a4eb17"
+                },
+                "exr": {
+                    "size": 16173114,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_diff_4k.exr",
+                    "md5": "a34542939976a778fd9535692815e722"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2323107,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/mousetrap/mousetrap_diff_2k.jpg",
+                    "md5": "920df2fd50240ac6fcbd175fd7016245"
+                },
+                "png": {
+                    "size": 13469050,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/mousetrap/mousetrap_diff_2k.png",
+                    "md5": "5f7aef9b16a3d5fef9d0e34ebceb2c95"
+                },
+                "exr": {
+                    "size": 4088829,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_diff_2k.exr",
+                    "md5": "82e74b2074a47301bb9ee07718e49fd5"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 647362,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mousetrap/mousetrap_diff_1k.jpg",
+                    "md5": "72a877eb88e10361633cd9d6f5ad24b1"
+                },
+                "png": {
+                    "size": 3958773,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/mousetrap/mousetrap_diff_1k.png",
+                    "md5": "443a97757be9cf59ab0cdfa83a56c137"
+                },
+                "exr": {
+                    "size": 1153617,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_diff_1k.exr",
+                    "md5": "1615b6493c02b95568ab303cd070c28e"
+                }
+            }
+        },
+        "nor_dx": {
+            "4k": {
+                "jpg": {
+                    "size": 9661561,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/mousetrap/mousetrap_nor_dx_4k.jpg",
+                    "md5": "f71c6696a3a94d54758aac5b50dc1341"
+                },
+                "png": {
+                    "size": 41008871,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/mousetrap/mousetrap_nor_dx_4k.png",
+                    "md5": "4c2897b4bd049c766391bddc15b9bf29"
+                },
+                "exr": {
+                    "size": 19250574,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_nor_dx_4k.exr",
+                    "md5": "dcb16fd341bf5852f02ff12bffc95451"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2784568,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/mousetrap/mousetrap_nor_dx_2k.jpg",
+                    "md5": "84ccfb691d3a1e24fc3cc373ebd8a549"
+                },
+                "png": {
+                    "size": 13303763,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/mousetrap/mousetrap_nor_dx_2k.png",
+                    "md5": "c0c818fa079f41019a4b27e15f1a1de7"
+                },
+                "exr": {
+                    "size": 5955092,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_nor_dx_2k.exr",
+                    "md5": "b7049d557ef039b361a978a515327a46"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 730660,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mousetrap/mousetrap_nor_dx_1k.jpg",
+                    "md5": "a84f501d540657472e6e2f0db6db74d1"
+                },
+                "png": {
+                    "size": 3898526,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/mousetrap/mousetrap_nor_dx_1k.png",
+                    "md5": "981b4373af0e0bd7ddeb028b08fffed5"
+                },
+                "exr": {
+                    "size": 1635317,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_nor_dx_1k.exr",
+                    "md5": "f5a0d470c3a03f03745ef44de75e2b32"
+                }
+            }
+        },
+        "nor_gl": {
+            "4k": {
+                "jpg": {
+                    "size": 9678665,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/mousetrap/mousetrap_nor_gl_4k.jpg",
+                    "md5": "374de26707c38ffd611d8126764f6bc2"
+                },
+                "png": {
+                    "size": 41009312,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/mousetrap/mousetrap_nor_gl_4k.png",
+                    "md5": "17e6544494c141f30002dcb7580f13da"
+                },
+                "exr": {
+                    "size": 19256082,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_nor_gl_4k.exr",
+                    "md5": "3c251e7cb6c9d47bd3715d892f564890"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2789164,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/mousetrap/mousetrap_nor_gl_2k.jpg",
+                    "md5": "3e170707bef82a89d00b625d444a4139"
+                },
+                "png": {
+                    "size": 13303999,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/mousetrap/mousetrap_nor_gl_2k.png",
+                    "md5": "5ab2dbb66e5009a9f98f0637501ecc42"
+                },
+                "exr": {
+                    "size": 5957404,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_nor_gl_2k.exr",
+                    "md5": "be984567d6c680521f2152d732d12f70"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 731402,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mousetrap/mousetrap_nor_gl_1k.jpg",
+                    "md5": "ab774245e5691530c59577aa7fdd753d"
+                },
+                "png": {
+                    "size": 3898113,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/mousetrap/mousetrap_nor_gl_1k.png",
+                    "md5": "b8aca1d3ed4c2bd211ff15a1a4b011ca"
+                },
+                "exr": {
+                    "size": 1634859,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_nor_gl_1k.exr",
+                    "md5": "e1c8315b5c8dcb7744bfadb75ddf0992"
+                }
+            }
+        },
+        "blend": {
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/mousetrap_diff_4k.jpg": {
+                            "size": 8819618,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/mousetrap/mousetrap_diff_4k.jpg",
+                            "md5": "60c1ec708e0d93b00d8a09f3c8893803"
+                        },
+                        "textures/mousetrap_rough_4k.exr": {
+                            "size": 8757996,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_rough_4k.exr",
+                            "md5": "40b3e41b0fe09c00ea67f7d43d35ecae"
+                        },
+                        "textures/mousetrap_metal_4k.exr": {
+                            "size": 3216876,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_metal_4k.exr",
+                            "md5": "9aa6617b70df67d16555cd15c1e2eaf7"
+                        },
+                        "textures/mousetrap_nor_gl_4k.exr": {
+                            "size": 19256082,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_nor_gl_4k.exr",
+                            "md5": "3c251e7cb6c9d47bd3715d892f564890"
+                        }
+                    },
+                    "size": 230727,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/mousetrap/mousetrap_4k.blend",
+                    "md5": "16238eb333d94b7bbc2bec78740da55a"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/mousetrap_nor_gl_2k.exr": {
+                            "size": 5957404,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_nor_gl_2k.exr",
+                            "md5": "be984567d6c680521f2152d732d12f70"
+                        },
+                        "textures/mousetrap_rough_2k.exr": {
+                            "size": 2827513,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_rough_2k.exr",
+                            "md5": "d52d4c69f280c47ce112fc7b6c564154"
+                        },
+                        "textures/mousetrap_metal_2k.exr": {
+                            "size": 1161843,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_metal_2k.exr",
+                            "md5": "98e9310765172b7a4f2f49963de505f3"
+                        },
+                        "textures/mousetrap_diff_2k.jpg": {
+                            "size": 2323107,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/mousetrap/mousetrap_diff_2k.jpg",
+                            "md5": "920df2fd50240ac6fcbd175fd7016245"
+                        }
+                    },
+                    "size": 231065,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/mousetrap/mousetrap_2k.blend",
+                    "md5": "7f65515c46f7ff5c4352287332cd75a7"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/mousetrap_rough_1k.exr": {
+                            "size": 916925,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_rough_1k.exr",
+                            "md5": "5e4ca7ab7dd709213a75eb3815d77cce"
+                        },
+                        "textures/mousetrap_diff_1k.jpg": {
+                            "size": 647362,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mousetrap/mousetrap_diff_1k.jpg",
+                            "md5": "72a877eb88e10361633cd9d6f5ad24b1"
+                        },
+                        "textures/mousetrap_metal_1k.exr": {
+                            "size": 415726,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_metal_1k.exr",
+                            "md5": "dd02d3a530fa200b15885cc0ab8acd90"
+                        },
+                        "textures/mousetrap_nor_gl_1k.exr": {
+                            "size": 1634859,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_nor_gl_1k.exr",
+                            "md5": "e1c8315b5c8dcb7744bfadb75ddf0992"
+                        }
+                    },
+                    "size": 230942,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/mousetrap/mousetrap_1k.blend",
+                    "md5": "292086a0d0e64329f0e40ed5fc4653c8"
+                }
+            }
+        },
+        "gltf": {
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "mousetrap.bin": {
+                            "size": 154880,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/mousetrap/mousetrap.bin",
+                            "md5": "485c8a284eba3b40b3b7e3a54ab70d08"
+                        },
+                        "textures/mousetrap_arm_4k.jpg": {
+                            "size": 9505560,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/mousetrap/mousetrap_arm_4k.jpg",
+                            "md5": "1fcfb17f47340abf5a6e1ebf9d8a86fa"
+                        },
+                        "textures/mousetrap_diff_4k.jpg": {
+                            "size": 8819618,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/mousetrap/mousetrap_diff_4k.jpg",
+                            "md5": "60c1ec708e0d93b00d8a09f3c8893803"
+                        },
+                        "textures/mousetrap_nor_gl_4k.jpg": {
+                            "size": 9678665,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/mousetrap/mousetrap_nor_gl_4k.jpg",
+                            "md5": "374de26707c38ffd611d8126764f6bc2"
+                        }
+                    },
+                    "size": 2738,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/mousetrap/mousetrap_4k.gltf",
+                    "md5": "e382a9f3e3ad7544c38944fcf149f238"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "mousetrap.bin": {
+                            "size": 154880,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/mousetrap/mousetrap.bin",
+                            "md5": "485c8a284eba3b40b3b7e3a54ab70d08"
+                        },
+                        "textures/mousetrap_nor_gl_2k.jpg": {
+                            "size": 2789164,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/mousetrap/mousetrap_nor_gl_2k.jpg",
+                            "md5": "3e170707bef82a89d00b625d444a4139"
+                        },
+                        "textures/mousetrap_arm_2k.jpg": {
+                            "size": 2483977,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/mousetrap/mousetrap_arm_2k.jpg",
+                            "md5": "1b71130f6d427fee36ad3c7e4941c016"
+                        },
+                        "textures/mousetrap_diff_2k.jpg": {
+                            "size": 2323107,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/mousetrap/mousetrap_diff_2k.jpg",
+                            "md5": "920df2fd50240ac6fcbd175fd7016245"
+                        }
+                    },
+                    "size": 2738,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/mousetrap/mousetrap_2k.gltf",
+                    "md5": "33d569a1fa32f8a61b930a2a08ed687c"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/mousetrap_arm_1k.jpg": {
+                            "size": 698232,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mousetrap/mousetrap_arm_1k.jpg",
+                            "md5": "3180a0941e4139d7b6657b733fbcac52"
+                        },
+                        "mousetrap.bin": {
+                            "size": 154880,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/mousetrap/mousetrap.bin",
+                            "md5": "485c8a284eba3b40b3b7e3a54ab70d08"
+                        },
+                        "textures/mousetrap_nor_gl_1k.jpg": {
+                            "size": 731402,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mousetrap/mousetrap_nor_gl_1k.jpg",
+                            "md5": "ab774245e5691530c59577aa7fdd753d"
+                        },
+                        "textures/mousetrap_diff_1k.jpg": {
+                            "size": 647362,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mousetrap/mousetrap_diff_1k.jpg",
+                            "md5": "72a877eb88e10361633cd9d6f5ad24b1"
+                        }
+                    },
+                    "size": 2738,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/mousetrap/mousetrap_1k.gltf",
+                    "md5": "e3aa2a3ce1836ba2dc7e0728bb3a9759"
+                }
+            }
+        },
+        "usd": {
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/mousetrap_diff_4k.jpg": {
+                            "size": 8819618,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/mousetrap/mousetrap_diff_4k.jpg",
+                            "md5": "60c1ec708e0d93b00d8a09f3c8893803"
+                        },
+                        "textures/mousetrap_rough_4k.exr": {
+                            "size": 8757996,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_rough_4k.exr",
+                            "md5": "40b3e41b0fe09c00ea67f7d43d35ecae"
+                        },
+                        "textures/mousetrap_metal_4k.exr": {
+                            "size": 3216876,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_metal_4k.exr",
+                            "md5": "9aa6617b70df67d16555cd15c1e2eaf7"
+                        },
+                        "textures/mousetrap_nor_gl_4k.exr": {
+                            "size": 19256082,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_nor_gl_4k.exr",
+                            "md5": "3c251e7cb6c9d47bd3715d892f564890"
+                        }
+                    },
+                    "size": 256341,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/mousetrap/mousetrap_4k.usdc",
+                    "md5": "7c5018aa1a009545f305b412c2c16ba0"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/mousetrap_nor_gl_2k.exr": {
+                            "size": 5957404,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_nor_gl_2k.exr",
+                            "md5": "be984567d6c680521f2152d732d12f70"
+                        },
+                        "textures/mousetrap_rough_2k.exr": {
+                            "size": 2827513,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_rough_2k.exr",
+                            "md5": "d52d4c69f280c47ce112fc7b6c564154"
+                        },
+                        "textures/mousetrap_metal_2k.exr": {
+                            "size": 1161843,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_metal_2k.exr",
+                            "md5": "98e9310765172b7a4f2f49963de505f3"
+                        },
+                        "textures/mousetrap_diff_2k.jpg": {
+                            "size": 2323107,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/mousetrap/mousetrap_diff_2k.jpg",
+                            "md5": "920df2fd50240ac6fcbd175fd7016245"
+                        }
+                    },
+                    "size": 256341,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/mousetrap/mousetrap_2k.usdc",
+                    "md5": "3f2a7cd7bbeb37b6894ceda42ab11e91"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/mousetrap_rough_1k.exr": {
+                            "size": 916925,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_rough_1k.exr",
+                            "md5": "5e4ca7ab7dd709213a75eb3815d77cce"
+                        },
+                        "textures/mousetrap_diff_1k.jpg": {
+                            "size": 647362,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mousetrap/mousetrap_diff_1k.jpg",
+                            "md5": "72a877eb88e10361633cd9d6f5ad24b1"
+                        },
+                        "textures/mousetrap_metal_1k.exr": {
+                            "size": 415726,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_metal_1k.exr",
+                            "md5": "dd02d3a530fa200b15885cc0ab8acd90"
+                        },
+                        "textures/mousetrap_nor_gl_1k.exr": {
+                            "size": 1634859,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_nor_gl_1k.exr",
+                            "md5": "e1c8315b5c8dcb7744bfadb75ddf0992"
+                        }
+                    },
+                    "size": 256341,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/mousetrap/mousetrap_1k.usdc",
+                    "md5": "49f3dee8a7bda388f3555dd519fd558d"
+                }
+            }
+        },
+        "Metal": {
+            "4k": {
+                "jpg": {
+                    "size": 3541573,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/mousetrap/mousetrap_metal_4k.jpg",
+                    "md5": "935154cbb4cd7c24d979ec9c85eb86dc"
+                },
+                "png": {
+                    "size": 2936083,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/mousetrap/mousetrap_metal_4k.png",
+                    "md5": "0fd66c3be60a7b92cf863148c220e587"
+                },
+                "exr": {
+                    "size": 3216876,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_metal_4k.exr",
+                    "md5": "9aa6617b70df67d16555cd15c1e2eaf7"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1023804,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/mousetrap/mousetrap_metal_2k.jpg",
+                    "md5": "58d4210cd375a67ea76f1a40f4b8762f"
+                },
+                "png": {
+                    "size": 1170028,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/mousetrap/mousetrap_metal_2k.png",
+                    "md5": "4ad005cafa052e26ee0e170595632aac"
+                },
+                "exr": {
+                    "size": 1161843,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_metal_2k.exr",
+                    "md5": "98e9310765172b7a4f2f49963de505f3"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 316237,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mousetrap/mousetrap_metal_1k.jpg",
+                    "md5": "c5ae2a087455c788d0230d89b7325dcb"
+                },
+                "png": {
+                    "size": 439780,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/mousetrap/mousetrap_metal_1k.png",
+                    "md5": "85b8f1dc9de33167e13b57a00d783191"
+                },
+                "exr": {
+                    "size": 415726,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_metal_1k.exr",
+                    "md5": "dd02d3a530fa200b15885cc0ab8acd90"
+                }
+            }
+        },
+        "fbx": {
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/mousetrap_diff_4k.jpg": {
+                            "size": 8819618,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/mousetrap/mousetrap_diff_4k.jpg",
+                            "md5": "60c1ec708e0d93b00d8a09f3c8893803"
+                        },
+                        "textures/mousetrap_metal_4k.exr": {
+                            "size": 3216876,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_metal_4k.exr",
+                            "md5": "9aa6617b70df67d16555cd15c1e2eaf7"
+                        },
+                        "textures/mousetrap_rough_4k.exr": {
+                            "size": 8757996,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_rough_4k.exr",
+                            "md5": "40b3e41b0fe09c00ea67f7d43d35ecae"
+                        },
+                        "textures/mousetrap_nor_gl_4k.exr": {
+                            "size": 19256082,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_nor_gl_4k.exr",
+                            "md5": "3c251e7cb6c9d47bd3715d892f564890"
+                        }
+                    },
+                    "size": 181708,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/mousetrap/mousetrap_4k.fbx",
+                    "md5": "9a83ee5d15bf6fd691bc9c43f52172df"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/mousetrap_rough_2k.exr": {
+                            "size": 2827513,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_rough_2k.exr",
+                            "md5": "d52d4c69f280c47ce112fc7b6c564154"
+                        },
+                        "textures/mousetrap_nor_gl_2k.exr": {
+                            "size": 5957404,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_nor_gl_2k.exr",
+                            "md5": "be984567d6c680521f2152d732d12f70"
+                        },
+                        "textures/mousetrap_metal_2k.exr": {
+                            "size": 1161843,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_metal_2k.exr",
+                            "md5": "98e9310765172b7a4f2f49963de505f3"
+                        },
+                        "textures/mousetrap_diff_2k.jpg": {
+                            "size": 2323107,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/mousetrap/mousetrap_diff_2k.jpg",
+                            "md5": "920df2fd50240ac6fcbd175fd7016245"
+                        }
+                    },
+                    "size": 181708,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/mousetrap/mousetrap_2k.fbx",
+                    "md5": "906b24c1bba92651e4f0516953ae02cf"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/mousetrap_rough_1k.exr": {
+                            "size": 916925,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_rough_1k.exr",
+                            "md5": "5e4ca7ab7dd709213a75eb3815d77cce"
+                        },
+                        "textures/mousetrap_diff_1k.jpg": {
+                            "size": 647362,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mousetrap/mousetrap_diff_1k.jpg",
+                            "md5": "72a877eb88e10361633cd9d6f5ad24b1"
+                        },
+                        "textures/mousetrap_nor_gl_1k.exr": {
+                            "size": 1634859,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_nor_gl_1k.exr",
+                            "md5": "e1c8315b5c8dcb7744bfadb75ddf0992"
+                        },
+                        "textures/mousetrap_metal_1k.exr": {
+                            "size": 415726,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_metal_1k.exr",
+                            "md5": "dd02d3a530fa200b15885cc0ab8acd90"
+                        }
+                    },
+                    "size": 181708,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/mousetrap/mousetrap_1k.fbx",
+                    "md5": "d9aaf01d104fb9724a18be3ff06dde61"
+                }
+            }
+        },
+        "arm": {
+            "4k": {
+                "jpg": {
+                    "size": 9505560,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/mousetrap/mousetrap_arm_4k.jpg",
+                    "md5": "1fcfb17f47340abf5a6e1ebf9d8a86fa"
+                },
+                "png": {
+                    "size": 19713039,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/mousetrap/mousetrap_arm_4k.png",
+                    "md5": "6fbc60b7c12091af1c90c27ded0890ce"
+                },
+                "exr": {
+                    "size": 20860686,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_arm_4k.exr",
+                    "md5": "d9fe5dd1e7ad33a1395cb7f07dfa0bc5"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2483977,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/mousetrap/mousetrap_arm_2k.jpg",
+                    "md5": "1b71130f6d427fee36ad3c7e4941c016"
+                },
+                "png": {
+                    "size": 8549877,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/mousetrap/mousetrap_arm_2k.png",
+                    "md5": "52303948cd13179d21671ef9bf76a557"
+                },
+                "exr": {
+                    "size": 5433773,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_arm_2k.exr",
+                    "md5": "873b419d3498af64f3fdad3380ec9727"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 698232,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mousetrap/mousetrap_arm_1k.jpg",
+                    "md5": "3180a0941e4139d7b6657b733fbcac52"
+                },
+                "png": {
+                    "size": 2938087,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/mousetrap/mousetrap_arm_1k.png",
+                    "md5": "f8938fe449be561d3cc217b43b9eeea0"
+                },
+                "exr": {
+                    "size": 1550735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_arm_1k.exr",
+                    "md5": "798802ce66f723a87500f09b66606ca6"
+                }
+            }
+        },
+        "AO": {
+            "4k": {
+                "jpg": {
+                    "size": 5623257,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/mousetrap/mousetrap_ao_4k.jpg",
+                    "md5": "218f043e99e1022ab0fbdc54535c284b"
+                },
+                "png": {
+                    "size": 6374314,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/mousetrap/mousetrap_ao_4k.png",
+                    "md5": "b3bbca4dfed4c9fc6bd1cda708a21137"
+                },
+                "exr": {
+                    "size": 7598202,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_ao_4k.exr",
+                    "md5": "cc3bcae3091319eeea105a7247c94c36"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1373321,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/mousetrap/mousetrap_ao_2k.jpg",
+                    "md5": "e229df8cffb89ca22581b65e9054624a"
+                },
+                "png": {
+                    "size": 2941609,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/mousetrap/mousetrap_ao_2k.png",
+                    "md5": "cdaff7bcaba3333ab4264cdf0d9a94ae"
+                },
+                "exr": {
+                    "size": 2530501,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_ao_2k.exr",
+                    "md5": "224bea0d243cd31da5118b91e25e3f0c"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 373659,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mousetrap/mousetrap_ao_1k.jpg",
+                    "md5": "80b43572235952121a109c86de7b1aed"
+                },
+                "png": {
+                    "size": 1011237,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/mousetrap/mousetrap_ao_1k.png",
+                    "md5": "cc401e354752b6f96b7ecbf565b65e67"
+                },
+                "exr": {
+                    "size": 801646,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_ao_1k.exr",
+                    "md5": "b777969333280e4e04063cb51a2a851b"
+                }
+            }
+        },
+        "Rough": {
+            "4k": {
+                "jpg": {
+                    "size": 7472986,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/mousetrap/mousetrap_rough_4k.jpg",
+                    "md5": "c7a615ccd307c1a560e67027ec2f5355"
+                },
+                "png": {
+                    "size": 8758376,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/mousetrap/mousetrap_rough_4k.png",
+                    "md5": "682e5dfcb7b06981b9588e43529eedb1"
+                },
+                "exr": {
+                    "size": 8757996,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/mousetrap/mousetrap_rough_4k.exr",
+                    "md5": "40b3e41b0fe09c00ea67f7d43d35ecae"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1939540,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/mousetrap/mousetrap_rough_2k.jpg",
+                    "md5": "8543bbceb129d41c6b610c1dd60f495b"
+                },
+                "png": {
+                    "size": 3518594,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/mousetrap/mousetrap_rough_2k.png",
+                    "md5": "d99ce1fde4a8501481f9eb5d4df8c081"
+                },
+                "exr": {
+                    "size": 2827513,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/mousetrap/mousetrap_rough_2k.exr",
+                    "md5": "d52d4c69f280c47ce112fc7b6c564154"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 540492,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mousetrap/mousetrap_rough_1k.jpg",
+                    "md5": "87eb33d26ffafd386bce31c15f111d2f"
+                },
+                "png": {
+                    "size": 1206521,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/mousetrap/mousetrap_rough_1k.png",
+                    "md5": "de80d4ac45de00490b029c1badfc0287"
+                },
+                "exr": {
+                    "size": 916925,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/mousetrap/mousetrap_rough_1k.exr",
+                    "md5": "5e4ca7ab7dd709213a75eb3815d77cce"
+                }
+            }
+        }
+    }
+}

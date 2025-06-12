@@ -1,0 +1,540 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "date_published": 1522879200,
+    "name": "Simon's Town Harbour",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1464514560,
+    "coords": [
+        -34.192032,
+        18.432806
+    ],
+    "sponsors": [
+        "8571269"
+    ],
+    "backplates": true,
+    "tags": [
+        "ocean",
+        "sun",
+        "marina",
+        "harbour",
+        "dock",
+        "hill",
+        "statue",
+        "backplates"
+    ],
+    "authors": {
+        "Greg Zaal": "All",
+        "Rico Cilliers": "Backplates"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "1b2dfc3a5ead2629f0cdd72156fa155a9689e630",
+    "download_count": 33365,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/simons_town_harbour.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6027616,
+            "md5": "19b2b779128474b533df93c36a1c7a76",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/simons_town_harbour.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/simons_town_harbour_8k.hdr",
+                    "size": 96419631,
+                    "md5": "b9b2279f4f745750edf055a1ee4d024f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/simons_town_harbour_8k.exr",
+                    "size": 80342148,
+                    "md5": "a2369f99e22100ccf8e3b033853382b0"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/simons_town_harbour_16k.hdr",
+                    "size": 358041336,
+                    "md5": "85b0c2ea0224d2ed0378de3c142d9b57"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/simons_town_harbour_16k.exr",
+                    "size": 292479146,
+                    "md5": "3f4195195a54446abbced34f3098a804"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/simons_town_harbour_4k.hdr",
+                    "size": 24854138,
+                    "md5": "885c3ffceae9866cff6ee7ce5152cfa5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/simons_town_harbour_4k.exr",
+                    "size": 21325267,
+                    "md5": "422111bf5aeb847efa5a0adea303af9d"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/simons_town_harbour_2k.hdr",
+                    "size": 6329630,
+                    "md5": "b72043506e8853b7469cfdd6f2506ae7"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/simons_town_harbour_2k.exr",
+                    "size": 5610546,
+                    "md5": "a2b57b7feb9af457deaf3fe5b761967b"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/simons_town_harbour_1k.hdr",
+                    "size": 1615727,
+                    "md5": "845ec8c7046bb02fc51304a3bba8da07"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/simons_town_harbour_1k.exr",
+                    "size": 1475432,
+                    "md5": "30723d8612039ea4ef7b75c327cc12fc"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0156": {
+                "jpg_pretty": {
+                    "size": 6284490,
+                    "md5": "3629a95d5ec94454d2abdc95f396d000",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0156.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6364543,
+                    "md5": "b6d38ce21e1225110fd413af802f5f04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0156.jpg"
+                },
+                "raw": {
+                    "size": 23759942,
+                    "md5": "3bc9d7738d5a356128d2ed0a81bba778",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0156.dng"
+                }
+            },
+            "IMG_0157": {
+                "jpg_pretty": {
+                    "size": 6390595,
+                    "md5": "abfe2f99419429efc845fbd46593d02c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0157.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6433273,
+                    "md5": "4e3e58c874d73c584253beefefab3853",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0157.jpg"
+                },
+                "raw": {
+                    "size": 23883956,
+                    "md5": "a76ebb3898481aab5e92512719365173",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0157.dng"
+                }
+            },
+            "IMG_0154": {
+                "jpg_pretty": {
+                    "size": 8714945,
+                    "md5": "66292dd592967677bfc323e306f0e494",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0154.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8131517,
+                    "md5": "933ae37ea800451653122b67c2ce6e5b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0154.jpg"
+                },
+                "raw": {
+                    "size": 24895430,
+                    "md5": "f37b41c71da7edc0e354cc7d6dfc81eb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0154.dng"
+                }
+            },
+            "IMG_0133": {
+                "jpg_pretty": {
+                    "size": 6924735,
+                    "md5": "6b91c2023071393c750e2f45771d8d22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0133.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6234314,
+                    "md5": "80c5dd0b42cbcebdfc7c496fc807390d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0133.jpg"
+                },
+                "raw": {
+                    "size": 23400596,
+                    "md5": "413fa2b3aae9740b227fbc32dd7bb8f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0133.dng"
+                }
+            },
+            "IMG_0155": {
+                "jpg_pretty": {
+                    "size": 7073617,
+                    "md5": "dad867769186f3bb7ad13094055c180c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0155.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7053901,
+                    "md5": "3c1c79a1294226910d4d774d2830bc9d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0155.jpg"
+                },
+                "raw": {
+                    "size": 23719982,
+                    "md5": "94078a16d04076aab3360c0a39f2d817",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0155.dng"
+                }
+            },
+            "IMG_0152": {
+                "jpg_pretty": {
+                    "size": 9102678,
+                    "md5": "637da1b96a5fe2ca0226dce54359d7f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0152.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8643665,
+                    "md5": "0c0d79a1b8ca22cb0cf65b6a10f6050a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0152.jpg"
+                },
+                "raw": {
+                    "size": 25948738,
+                    "md5": "f6521e5319e8c8f077a60d19b7feaf7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0152.dng"
+                }
+            },
+            "IMG_0150": {
+                "jpg_pretty": {
+                    "size": 8808317,
+                    "md5": "8c2238888935ad41c7ccd8debe9f9589",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0150.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8494812,
+                    "md5": "9bdf4d48ca33bc0dc3d1d35b927cb635",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0150.jpg"
+                },
+                "raw": {
+                    "size": 23038584,
+                    "md5": "a271623ce6f7d0a9cb1a32f5830e873c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0150.dng"
+                }
+            },
+            "IMG_0151": {
+                "jpg_pretty": {
+                    "size": 8540900,
+                    "md5": "f1a79c194e2da0fb63ed0708b294df96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0151.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8459481,
+                    "md5": "48821ab7b12a172e146821ac65e82cd2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0151.jpg"
+                },
+                "raw": {
+                    "size": 23760660,
+                    "md5": "77b81a778fac12b748600417ebe94d89",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0151.dng"
+                }
+            },
+            "IMG_0138": {
+                "jpg_pretty": {
+                    "size": 8854057,
+                    "md5": "a5711267031b2b31fe718db50e6656a7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0138.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8092989,
+                    "md5": "1b3e668e81d18d800f7465f7d72d07b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0138.jpg"
+                },
+                "raw": {
+                    "size": 24343120,
+                    "md5": "bdf9774e83081fe29d67243ecb60b87d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0138.dng"
+                }
+            },
+            "IMG_0139": {
+                "jpg_pretty": {
+                    "size": 7852101,
+                    "md5": "528e83486644984dd30ca1f9522ac0d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0139.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7411023,
+                    "md5": "d1da9c9beb85c2618b7f5ddea0342644",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0139.jpg"
+                },
+                "raw": {
+                    "size": 23395366,
+                    "md5": "455f5ebf99a445c3c7baa6cae582448e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0139.dng"
+                }
+            },
+            "IMG_0137": {
+                "jpg_pretty": {
+                    "size": 7547644,
+                    "md5": "e0f2a9bf8cad75095f8eecba3f664f08",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0137.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7224277,
+                    "md5": "5b0ff289e8c63be1d6292fc2a9bbbdf4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0137.jpg"
+                },
+                "raw": {
+                    "size": 25523334,
+                    "md5": "547733ee636e27a9f723b01e4280286b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0137.dng"
+                }
+            },
+            "IMG_0159": {
+                "jpg_pretty": {
+                    "size": 7434145,
+                    "md5": "8e111c63a2ac3fcc5db2717b4c124580",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0159.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7108887,
+                    "md5": "becd25355a54bdba28d2cab92fcc7794",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0159.jpg"
+                },
+                "raw": {
+                    "size": 23356586,
+                    "md5": "a9248989b03b28ed0aaed5543ec5c2db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0159.dng"
+                }
+            },
+            "IMG_0145": {
+                "jpg_pretty": {
+                    "size": 7957606,
+                    "md5": "326314d3327f4ed5ab8d8023349bd168",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0145.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8208405,
+                    "md5": "6d6d28586d870d41a0b13578b6e5c25c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0145.jpg"
+                },
+                "raw": {
+                    "size": 26021164,
+                    "md5": "c65e21fde317a00d409a459422beac7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0145.dng"
+                }
+            },
+            "IMG_0146": {
+                "jpg_pretty": {
+                    "size": 8531492,
+                    "md5": "57773fc3d03a0184d062877ed8e103e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0146.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8128294,
+                    "md5": "d777bf05f3aa530240e824e396fb8030",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0146.jpg"
+                },
+                "raw": {
+                    "size": 25913846,
+                    "md5": "d90d3eafaf383f0fa73ceec08867c339",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0146.dng"
+                }
+            },
+            "IMG_0143": {
+                "jpg_pretty": {
+                    "size": 8215789,
+                    "md5": "becb0fc86bc0ddd38a7faa98b8d0c1fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0143.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7705961,
+                    "md5": "c1be0a8f6f32371236523b21c3460d79",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0143.jpg"
+                },
+                "raw": {
+                    "size": 25474942,
+                    "md5": "177b614708a701f477e3811d04f1cb8a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0143.dng"
+                }
+            },
+            "IMG_0165": {
+                "jpg_pretty": {
+                    "size": 6987691,
+                    "md5": "f4aa0d20167580e1bba740ff9764d607",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0165.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6817446,
+                    "md5": "58ad8fbd1aefa4fa3e7577303872517d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0165.jpg"
+                },
+                "raw": {
+                    "size": 23430806,
+                    "md5": "a108c206882767683a130be62c1674c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0165.dng"
+                }
+            },
+            "IMG_0144": {
+                "jpg_pretty": {
+                    "size": 8366461,
+                    "md5": "60159d622d1f7b8f5abf403c23903c43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0144.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7583130,
+                    "md5": "ba8a34fd2f4f5ae83adf3690107e0372",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0144.jpg"
+                },
+                "raw": {
+                    "size": 26044066,
+                    "md5": "f600e358a8b3edef2299a518d7fd2251",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0144.dng"
+                }
+            },
+            "IMG_0141": {
+                "jpg_pretty": {
+                    "size": 6342915,
+                    "md5": "94929a71c158d91a1092927318493612",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0141.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5951461,
+                    "md5": "9d99f14c92c17007ccd969b14f0a469d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0141.jpg"
+                },
+                "raw": {
+                    "size": 24916254,
+                    "md5": "34cdd4d40fb55930db3f816367d42650",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0141.dng"
+                }
+            },
+            "IMG_0163": {
+                "jpg_pretty": {
+                    "size": 7669377,
+                    "md5": "13d42a9eba80aee3815965cee5f98954",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0163.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7318204,
+                    "md5": "c7b35ef2a964f874e531ae86337ecc20",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0163.jpg"
+                },
+                "raw": {
+                    "size": 22855670,
+                    "md5": "6d5ebfeefab712342ec179bb70381218",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0163.dng"
+                }
+            },
+            "IMG_0142": {
+                "jpg_pretty": {
+                    "size": 7091454,
+                    "md5": "dd702c50d70fe6ae41ce90f8eb818c82",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0142.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6648056,
+                    "md5": "503ead313208ba80676eedb08652ff63",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0142.jpg"
+                },
+                "raw": {
+                    "size": 25118262,
+                    "md5": "c533d40b76fd15ab91041789997bcea5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0142.dng"
+                }
+            },
+            "IMG_0164": {
+                "jpg_pretty": {
+                    "size": 7496229,
+                    "md5": "662ca3cd8af1d14a1e75d8f93983a5f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0164.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7278197,
+                    "md5": "9d976d706a6ae48314a4f347b6287c6e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0164.jpg"
+                },
+                "raw": {
+                    "size": 23036278,
+                    "md5": "1978a8a614e43faa0cf6c3b2a414964f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0164.dng"
+                }
+            },
+            "IMG_0161": {
+                "jpg_pretty": {
+                    "size": 7394450,
+                    "md5": "fc8d75f5ddff90178632fd65f357282e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0161.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7246306,
+                    "md5": "97f3752dcb86b27bdb3f902ee25b1715",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0161.jpg"
+                },
+                "raw": {
+                    "size": 22204412,
+                    "md5": "496d58e8eacf4ff725f21afab8598c9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0161.dng"
+                }
+            },
+            "IMG_0140": {
+                "jpg_pretty": {
+                    "size": 9383525,
+                    "md5": "87bc5714604ce38e398a0ce0514f4962",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0140.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8434088,
+                    "md5": "ca6e094fbbb532daef03cd53e7a97075",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0140.jpg"
+                },
+                "raw": {
+                    "size": 24953864,
+                    "md5": "be00aebaaf710ee243233683f363f84d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0140.dng"
+                }
+            },
+            "IMG_0162": {
+                "jpg_pretty": {
+                    "size": 8664733,
+                    "md5": "7b95d9519e531815d98a6e3ffaaaeb5b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0162.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8257925,
+                    "md5": "9cc07ac4c48c531aac0faacbe9996692",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0162.jpg"
+                },
+                "raw": {
+                    "size": 22570158,
+                    "md5": "d965c3861adfd90c659967a92d8f8651",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0162.dng"
+                }
+            },
+            "IMG_0160": {
+                "jpg_pretty": {
+                    "size": 6962463,
+                    "md5": "83a4546c9f2b5cc3beff064b27acc152",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_pretty/IMG_0160.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6789203,
+                    "md5": "ce0cc044cbb355b86e25ed2aab5abd31",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/jpg_plain/IMG_0160.jpg"
+                },
+                "raw": {
+                    "size": 22302830,
+                    "md5": "42af998b802cb1919b753de7899c2b5b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_harbour/raw/IMG_0160.dng"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "grass",
+        "garden",
+        "sun",
+        "plants",
+        "hedge",
+        "park"
+    ],
+    "name": "Symmetrical Garden 02",
+    "categories": [
+        "natural light",
+        "nature",
+        "outdoor",
+        "high contrast",
+        "partly cloudy",
+        "midday"
+    ],
+    "date_taken": 1704376260,
+    "coords": [
+        -29.316708,
+        30.051138
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "files_hash": "523e71107b48c1b33a7584873f5c7098798e0341",
+    "date_published": 1709251200,
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "sponsors": [
+        "78546118"
+    ],
+    "download_count": 165371,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/symmetrical_garden_02.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 51394720,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/symmetrical_garden_02.jpg",
+            "md5": "fd05a8c4728aeb704e744cc78b18b9a5"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103202254,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/symmetrical_garden_02_8k.hdr",
+                    "md5": "1aab88dd4323277d5734c851fa757d09"
+                },
+                "exr": {
+                    "size": 386860582,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/symmetrical_garden_02_8k.exr",
+                    "md5": "045a1a858abb88d4a48c044521285e44"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 385925343,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/symmetrical_garden_02_16k.hdr",
+                    "md5": "138c479522f61b33bfe72d0958d0ffbc"
+                },
+                "exr": {
+                    "size": 1533300568,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/symmetrical_garden_02_16k.exr",
+                    "md5": "b476f5609cb38aca8fcbbb985c86033a"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26845439,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/symmetrical_garden_02_4k.hdr",
+                    "md5": "67b68ca3277f7a4ed2eb71d820b50b62"
+                },
+                "exr": {
+                    "size": 97193270,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/symmetrical_garden_02_4k.exr",
+                    "md5": "4ddf4c6733b03b6953cf1e6ba2825d51"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6782916,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/symmetrical_garden_02_2k.hdr",
+                    "md5": "400c2f8240064ac00ea1f1827f341997"
+                },
+                "exr": {
+                    "size": 24426876,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/symmetrical_garden_02_2k.exr",
+                    "md5": "834ecb569cb877810407578ba732a998"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1681170,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/symmetrical_garden_02_1k.hdr",
+                    "md5": "1805e4e320c0fed29021978db4bc76a6"
+                },
+                "exr": {
+                    "size": 6141121,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/symmetrical_garden_02_1k.exr",
+                    "md5": "31d07dae2dd462929a7c4e04001e1ac0"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 588813095,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/symmetrical_garden_02_20k.hdr",
+                    "md5": "1014b935f897ae869829ea94ff152f45"
+                },
+                "exr": {
+                    "size": 2376550298,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/symmetrical_garden_02_20k.exr",
+                    "md5": "5019f6138ec954ee751c1779df8d5236"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 205613388,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/symmetrical_garden_02.zip",
+            "md5": "013a62a0fe3338503eb59c590d1ee5b8"
+        }
+    }
+}

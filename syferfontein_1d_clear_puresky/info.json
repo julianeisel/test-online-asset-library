@@ -1,0 +1,109 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Syferfontein 1d Clear (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "high contrast",
+        "natural light",
+        "pure skies"
+    ],
+    "coords": [
+        -26.35881089,
+        27.75494503
+    ],
+    "date_taken": 1533938400,
+    "authors": {
+        "Greg Zaal": "Original",
+        "Jarod Guest": "Sky Edits"
+    },
+    "info": "Edited sky-only version of [Syferfontein 1d Clear](https://polyhaven.com/a/syferfontein_1d_clear).",
+    "files_hash": "45239a72cd54ab619cfda425963a804835dd9634",
+    "date_published": 1673654400,
+    "sponsors": [
+        "3237733"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 64278,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/syferfontein_1d_clear_puresky.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 19980872,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/syferfontein_1d_clear_puresky.jpg",
+            "md5": "2b3274199bfd8f841abec6213d3ed215"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 71338042,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/syferfontein_1d_clear_puresky_8k.hdr",
+                    "md5": "37038214fbcfd1db64be153929a6b7a9"
+                },
+                "exr": {
+                    "size": 199885467,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/syferfontein_1d_clear_puresky_8k.exr",
+                    "md5": "6d5a207d167cbd464509775a69a82996"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 257065770,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/syferfontein_1d_clear_puresky_16k.hdr",
+                    "md5": "2a00cb5dd843302bba6ffbe4ebc67ca9"
+                },
+                "exr": {
+                    "size": 643224196,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/syferfontein_1d_clear_puresky_16k.exr",
+                    "md5": "404ad7ab4154b1efaff6b642408b3299"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 18862383,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/syferfontein_1d_clear_puresky_4k.hdr",
+                    "md5": "ee4225129fe13573ba4a21677f41639e"
+                },
+                "exr": {
+                    "size": 55586135,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/syferfontein_1d_clear_puresky_4k.exr",
+                    "md5": "16d44938db803d07e8eba96e8d139bae"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4661702,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/syferfontein_1d_clear_puresky_2k.hdr",
+                    "md5": "204c27d97815aea872c1f656555ee787"
+                },
+                "exr": {
+                    "size": 15252308,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/syferfontein_1d_clear_puresky_2k.exr",
+                    "md5": "c27d20a98a1db6d41b0880c2e7beb5cd"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1121338,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/syferfontein_1d_clear_puresky_1k.hdr",
+                    "md5": "a6c3a39d190f52fabcbe90114dc7d80c"
+                },
+                "exr": {
+                    "size": 4214948,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/syferfontein_1d_clear_puresky_1k.exr",
+                    "md5": "403e10ae88f2bcb7049911a08bdbe93f"
+                }
+            }
+        }
+    }
+}

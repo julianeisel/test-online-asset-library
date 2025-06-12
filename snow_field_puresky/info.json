@@ -1,0 +1,106 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 6900,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Snow Field (Pure Sky)",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "skies",
+        "overcast",
+        "low contrast",
+        "nature",
+        "morning-afternoon",
+        "pure skies"
+    ],
+    "coords": [
+        50.85733,
+        34.920377
+    ],
+    "date_taken": 1643211060,
+    "info": "Edited sky-only version of [Snow Field](https://polyhaven.com/a/snow_field).",
+    "authors": {
+        "Jarod Guest": "Sky Edits",
+        "Sergej Majboroda": "Original"
+    },
+    "files_hash": "6ecacf239915a981f92f11ed687a17dc5c2dd217",
+    "date_published": 1676073600,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 20180,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snow_field_puresky.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 13221344,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/snow_field_puresky.jpg",
+            "md5": "eb5e574743a8bcfc157957c180c440ee"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 61097289,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/snow_field_puresky_8k.hdr",
+                    "md5": "b39715f16e7dc5ba24d6adcfc4dbb4cb"
+                },
+                "exr": {
+                    "size": 275767436,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/snow_field_puresky_8k.exr",
+                    "md5": "65292e34232b81540dfd760a2be21538"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 216780333,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/snow_field_puresky_16k.hdr",
+                    "md5": "bb0abebcb72c6493e1026b493cf8f6c9"
+                },
+                "exr": {
+                    "size": 1077679692,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/snow_field_puresky_16k.exr",
+                    "md5": "e0dab8fa7a81484ea4057307098b615c"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 16283255,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/snow_field_puresky_4k.hdr",
+                    "md5": "5f111edeafa4cc723d78a74901a5c402"
+                },
+                "exr": {
+                    "size": 71097506,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/snow_field_puresky_4k.exr",
+                    "md5": "1bbe10a208533ada79fa67d2d9d27425"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4159737,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/snow_field_puresky_2k.hdr",
+                    "md5": "0a2d884d03a0b42098cea93dff6d54cd"
+                },
+                "exr": {
+                    "size": 18743816,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/snow_field_puresky_2k.exr",
+                    "md5": "2bbc9311dcbdef346f3ad648a27262d4"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1128193,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/snow_field_puresky_1k.hdr",
+                    "md5": "e159e4186107737aacc52e7d79b47542"
+                },
+                "exr": {
+                    "size": 5130922,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/snow_field_puresky_1k.exr",
+                    "md5": "1c28f3fb5030570096e48a2cd28675be"
+                }
+            }
+        }
+    }
+}

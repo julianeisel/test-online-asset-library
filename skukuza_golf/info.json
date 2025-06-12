@@ -1,0 +1,104 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tree",
+        "leaves",
+        "fence",
+        "dam",
+        "lake"
+    ],
+    "date_published": 1511996400,
+    "name": "Skukuza Golf",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1443603660,
+    "coords": [
+        -24.984781,
+        31.577367
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "a3d4a531c7099bfd29d57d3eaa4310d58e134d14",
+    "download_count": 16858,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/skukuza_golf.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 11699987,
+            "md5": "a293a8de8c84a0686c17d4959f855a20",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/skukuza_golf.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/skukuza_golf_8k.hdr",
+                    "size": 114387664,
+                    "md5": "e79d1d295b5474822bcdc5f964fedcc6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/skukuza_golf_8k.exr",
+                    "size": 215710648,
+                    "md5": "003a1547215dd33ea5d39f5b5045c0af"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/skukuza_golf_16k.hdr",
+                    "size": 434805374,
+                    "md5": "be1e45c1ef41c38887641a4909964865"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/skukuza_golf_16k.exr",
+                    "size": 448910815,
+                    "md5": "8f9a2aa46ab30c608d5e3a40ec423e4c"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/skukuza_golf_4k.hdr",
+                    "size": 29613683,
+                    "md5": "1af501ab71e170c2e329576833ba97ed"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/skukuza_golf_4k.exr",
+                    "size": 65397613,
+                    "md5": "497354f632a595be5acffce520286e8b"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/skukuza_golf_2k.hdr",
+                    "size": 7552848,
+                    "md5": "b1093adf8f19afbb11d411f8f0078ca0"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/skukuza_golf_2k.exr",
+                    "size": 17898522,
+                    "md5": "c1b36bf2f84e42aab1edcaa327c8a032"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/skukuza_golf_1k.hdr",
+                    "size": 1910237,
+                    "md5": "cfbed48883940e1fbb089b3ae3e6f277"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/skukuza_golf_1k.exr",
+                    "size": 4896600,
+                    "md5": "4f9eb995284115281c937953e271a145"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5500,
+    "tags": [
+        "museum",
+        "bone",
+        "whale",
+        "skeleton"
+    ],
+    "date_published": 1547506800,
+    "name": "Whale Skeleton",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1544018580,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "1eae7a807574936b5c7ce7d49d13cf4d5b722987",
+    "max_resolution": [
+        17000,
+        8500
+    ],
+    "download_count": 13548,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/whale_skeleton.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5696439,
+            "md5": "278e834414f9a8dd8cb140847ec73d4c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/whale_skeleton.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102209783,
+                    "md5": "9080d3632ea00afeacdd12573b2771e6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/whale_skeleton_8k.hdr"
+                },
+                "exr": {
+                    "size": 91181055,
+                    "md5": "9652e63ff393dbd589cde41bf9732f28",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/whale_skeleton_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 416505413,
+                    "md5": "714bde693b30df4e10d7e122ef780d17",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/whale_skeleton_16k.hdr"
+                },
+                "exr": {
+                    "size": 347375141,
+                    "md5": "3eda565fb22a6674f46e0d6b28070994",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/whale_skeleton_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26229450,
+                    "md5": "6df2a6e0aa8122a0366d7248f25752a3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/whale_skeleton_4k.hdr"
+                },
+                "exr": {
+                    "size": 24272360,
+                    "md5": "7351cda1ddafa02cc5186737b235cc73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/whale_skeleton_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6707442,
+                    "md5": "140620ede00f64a95a1fe6b2c6e45c21",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/whale_skeleton_2k.hdr"
+                },
+                "exr": {
+                    "size": 6417892,
+                    "md5": "dcd0b77a86078bd632b3b93e68a9576c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/whale_skeleton_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1725289,
+                    "md5": "4eb295c299f5466a2590786b3a0532ee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/whale_skeleton_1k.hdr"
+                },
+                "exr": {
+                    "size": 1716538,
+                    "md5": "6e785f5febfafb16b3c040f252d5db81",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/whale_skeleton_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "sun",
+        "europe",
+        "architecture",
+        "church",
+        "square",
+        "building"
+    ],
+    "date_published": 1602540000,
+    "name": "Ulmer Muenster",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.398397,
+        9.990969
+    ],
+    "date_taken": 1600171080,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "files_hash": "a817e06add08b601e9e15c2e402509d73e2d4e4f",
+    "max_resolution": [
+        19604,
+        9802
+    ],
+    "download_count": 134405,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ulmer_muenster.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6428304,
+            "md5": "35ca55d7ecf488a99e3a9030001179a5",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/ulmer_muenster.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 500872756,
+                    "md5": "c50f9d0110e5b7b9cfd801a4667f4cbc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/ulmer_muenster_19k.hdr"
+                },
+                "exr": {
+                    "size": 411859654,
+                    "md5": "a757e3579d66bd60d091269f63af990b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/ulmer_muenster_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 97461752,
+                    "md5": "a1db840d1efb73b605eebe6fb4959339",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/ulmer_muenster_8k.hdr"
+                },
+                "exr": {
+                    "size": 82355565,
+                    "md5": "9bcff83b24aecfe6eabf2903aebac5e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/ulmer_muenster_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 360428693,
+                    "md5": "88aba1b6bee58cb00e6476725e50d6bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/ulmer_muenster_16k.hdr"
+                },
+                "exr": {
+                    "size": 301061255,
+                    "md5": "1da118dc7f0bd02c32edc62b54bb9af7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/ulmer_muenster_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25109302,
+                    "md5": "9bbd28803cc4312afb086c1f42d0b042",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/ulmer_muenster_4k.hdr"
+                },
+                "exr": {
+                    "size": 21492335,
+                    "md5": "33f57f68877046dc8e15303746bdb165",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/ulmer_muenster_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6284512,
+                    "md5": "5496452d84a3f6bd2fc252fe381f14ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/ulmer_muenster_2k.hdr"
+                },
+                "exr": {
+                    "size": 5453654,
+                    "md5": "efb1d77f8e4810f700a11d80af0e899b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/ulmer_muenster_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1561079,
+                    "md5": "9a3e03928ecdeab809dceb363ddcab84",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/ulmer_muenster_1k.hdr"
+                },
+                "exr": {
+                    "size": 1384124,
+                    "md5": "da26dcdb2998f245265947a0c18849e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/ulmer_muenster_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "donated": true,
+    "evs_cap": 11,
+    "type": 0,
+    "whitebalance": 6500,
+    "tags": [
+        "walkway",
+        "railing",
+        "bench",
+        "tree",
+        "europe",
+        "architecture",
+        "building",
+        "canal",
+        "water",
+        "asphalt",
+        "promenade",
+        "river"
+    ],
+    "name": "Spree Bank",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "urban",
+        "clear",
+        "low contrast",
+        "sunrise-sunset"
+    ],
+    "date_taken": 1660286160,
+    "coords": [
+        52.517738,
+        13.403677
+    ],
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "info": null,
+    "files_hash": "2791719d30aa7bdf5a1e78446cba36954a0cc591",
+    "date_published": 1688342400,
+    "max_resolution": [
+        21714,
+        10857
+    ],
+    "download_count": 64471,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/spree_bank.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 35820198,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/spree_bank.jpg",
+            "md5": "924c64a66e3d7655fed54c023ea49516"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97494567,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/spree_bank_8k.hdr",
+                    "md5": "8e1c86aed397021b7148fd5d26305aad"
+                },
+                "exr": {
+                    "size": 303958463,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/spree_bank_8k.exr",
+                    "md5": "37065167d931f1d9365ad03dbc40ed3c"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 375171096,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/spree_bank_16k.hdr",
+                    "md5": "3916829f02bcd01e11fa8ed5ea2d1e25"
+                },
+                "exr": {
+                    "size": 1190578444,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/spree_bank_16k.exr",
+                    "md5": "6ce89066d22547ad96bebe1d406c9982"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24409482,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/spree_bank_4k.hdr",
+                    "md5": "da7d04dfea06df7d3e3e6ec02e00c5a1"
+                },
+                "exr": {
+                    "size": 77765259,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/spree_bank_4k.exr",
+                    "md5": "895caa4e5feca01a6594cc3378be7b06"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5917870,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/spree_bank_2k.hdr",
+                    "md5": "62e8c932a4675d92a70834ee12049b39"
+                },
+                "exr": {
+                    "size": 20246928,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/spree_bank_2k.exr",
+                    "md5": "b18c99d10aeb662f77296d52b501da19"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1435641,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/spree_bank_1k.hdr",
+                    "md5": "2820f8b3e046d95371590c76aac0481d"
+                },
+                "exr": {
+                    "size": 5432668,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/spree_bank_1k.exr",
+                    "md5": "68421fd07cbe0ed35e0aa8fa6c5f8cf2"
+                }
+            },
+            "21k": {
+                "hdr": {
+                    "size": 642001454,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/spree_bank_21k.hdr",
+                    "md5": "9b49629db898508b21659d2d8cf7a2eb"
+                },
+                "exr": {
+                    "size": 2071573809,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/spree_bank_21k.exr",
+                    "md5": "5984f5c6b51731d99d8fdc7438ee337c"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 158028303,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/spree_bank.zip",
+            "md5": "bbd2140b786cb7ca87dc0b78c77ba3c3"
+        }
+    }
+}

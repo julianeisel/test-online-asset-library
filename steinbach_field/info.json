@@ -1,0 +1,119 @@
+{
+    "donated": true,
+    "type": 0,
+    "tags": [
+        "grass",
+        "field",
+        "tree",
+        "forest",
+        "countryside",
+        "rural"
+    ],
+    "name": "Steinbach Field",
+    "categories": [
+        "natural light",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "outdoor",
+        "low contrast"
+    ],
+    "date_taken": 1497830400,
+    "authors": {
+        "Adrian Kubasa": "All"
+    },
+    "info": null,
+    "evs_cap": 0,
+    "files_hash": "d0820bf56ebe10dccb2da4830cc9643473f5b464",
+    "date_published": 1706400000,
+    "sponsors": [
+        "37678923"
+    ],
+    "max_resolution": [
+        18432,
+        9216
+    ],
+    "download_count": 36689,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/steinbach_field.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 43194073,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/steinbach_field.jpg",
+            "md5": "a79ecba46e514476ea6ddd5f68baa93f"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105791232,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/steinbach_field_8k.hdr",
+                    "md5": "b5d6b56544092e8d0b7995a8f9f10b78"
+                },
+                "exr": {
+                    "size": 88257774,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/steinbach_field_8k.exr",
+                    "md5": "3b011e377491776c89583d254128e9f0"
+                }
+            },
+            "18k": {
+                "hdr": {
+                    "size": 500178831,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/steinbach_field_18k.hdr",
+                    "md5": "7c8929c91c201577d7f396f16fbe67fa"
+                },
+                "exr": {
+                    "size": 408236186,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/steinbach_field_18k.exr",
+                    "md5": "cfd56eb8988405e09b867f06352c3bef"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 400904666,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/steinbach_field_16k.hdr",
+                    "md5": "e36ef8b052e442bfdd7daf1f28669193"
+                },
+                "exr": {
+                    "size": 336872908,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/steinbach_field_16k.exr",
+                    "md5": "b179979843bd6a95d8ec2f0fcf407029"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26844468,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/steinbach_field_4k.hdr",
+                    "md5": "7cbd7ea5f6447053a89fc23672c95ace"
+                },
+                "exr": {
+                    "size": 22028857,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/steinbach_field_4k.exr",
+                    "md5": "c8e99f39408870fc9e8c30036b46696f"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6567237,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/steinbach_field_2k.hdr",
+                    "md5": "75eb26fa97659df4985ee31b966ebbbb"
+                },
+                "exr": {
+                    "size": 5321171,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/steinbach_field_2k.exr",
+                    "md5": "b5d29f90ce566ddd285f0ec240d238ea"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1576655,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/steinbach_field_1k.hdr",
+                    "md5": "c0a87e1566ead44d4ee9682d5b2cf6db"
+                },
+                "exr": {
+                    "size": 1331697,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/steinbach_field_1k.exr",
+                    "md5": "ee7256d0eff0f26175082804dfb40dd1"
+                }
+            }
+        }
+    }
+}

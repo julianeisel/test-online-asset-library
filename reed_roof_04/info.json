@@ -1,0 +1,835 @@
+{
+    "type": 1,
+    "tags": [
+        "reed",
+        "rough",
+        "village",
+        "thatch",
+        "hay",
+        "straw",
+        "hut",
+        "medieval"
+    ],
+    "date_published": 1558061157,
+    "name": "Reed Roof 04",
+    "categories": [
+        "roofing",
+        "outdoor",
+        "man made"
+    ],
+    "authors": {
+        "Rob Tuytel": "All"
+    },
+    "dimensions": [
+        2500,
+        2500
+    ],
+    "sponsors": [
+        "9910225"
+    ],
+    "files_hash": "ae39e9db80595e2104c770a86f629d0fe2c6c04e",
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "download_count": 26284,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/reed_roof_04.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 25442562,
+                    "md5": "b1466079ffe4a9aea68cc5774fec63e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/reed_roof_04/reed_roof_04_diff_8k.jpg"
+                },
+                "png": {
+                    "size": 363328334,
+                    "md5": "ac7a9d83366d315834e9922b0353b2a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/reed_roof_04/reed_roof_04_diff_8k.png"
+                },
+                "exr": {
+                    "size": 59471125,
+                    "md5": "88bee02027fb492c8af033ff0a835169",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/reed_roof_04/reed_roof_04_diff_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 8108393,
+                    "md5": "0b5d222d3ae4ca966341b31d812b4e2e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/reed_roof_04/reed_roof_04_diff_4k.jpg"
+                },
+                "png": {
+                    "size": 100322575,
+                    "md5": "35c5162da537c04acb48cab443f1e496",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/reed_roof_04/reed_roof_04_diff_4k.png"
+                },
+                "exr": {
+                    "size": 18683631,
+                    "md5": "c537e567e888b320e206030713224918",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/reed_roof_04/reed_roof_04_diff_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2585643,
+                    "md5": "83dd90ba4aaf8ad126ccc3f842068d56",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/reed_roof_04/reed_roof_04_diff_2k.jpg"
+                },
+                "png": {
+                    "size": 26156390,
+                    "md5": "c6ae4221105ed45731dea10e179340d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/reed_roof_04/reed_roof_04_diff_2k.png"
+                },
+                "exr": {
+                    "size": 6152396,
+                    "md5": "ec7d8108045478a595e5298d89bee53e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/reed_roof_04/reed_roof_04_diff_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 727872,
+                    "md5": "4ba30d52babf87bacc4aaff24aced8c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/reed_roof_04/reed_roof_04_diff_1k.jpg"
+                },
+                "png": {
+                    "size": 6661040,
+                    "md5": "6d04490799c00a43bedbe6b05ebb0976",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/reed_roof_04/reed_roof_04_diff_1k.png"
+                },
+                "exr": {
+                    "size": 1732891,
+                    "md5": "0696b91fe01202960789586b7121a28a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/reed_roof_04/reed_roof_04_diff_1k.exr"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 65846097,
+                    "md5": "740b7d4154ba656d59c7fd74bfef75dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/reed_roof_04/reed_roof_04_nor_dx_8k.jpg"
+                },
+                "png": {
+                    "size": 293653810,
+                    "md5": "b415aa1948bf0a8854d7baaef2ba17c5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/reed_roof_04/reed_roof_04_nor_dx_8k.png"
+                },
+                "exr": {
+                    "size": 139969635,
+                    "md5": "01b72391aadbad9e14befb7a5bb8ec65",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/reed_roof_04/reed_roof_04_nor_dx_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 14599751,
+                    "md5": "5af47172063c7a99dea1d5a267891b10",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/reed_roof_04/reed_roof_04_nor_dx_4k.jpg"
+                },
+                "png": {
+                    "size": 101088898,
+                    "md5": "20977b8359bfeb81ed9c1a878768861a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/reed_roof_04/reed_roof_04_nor_dx_4k.png"
+                },
+                "exr": {
+                    "size": 32812341,
+                    "md5": "d0d6cb893ad5afeeb489a68620372a13",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/reed_roof_04/reed_roof_04_nor_dx_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 4525156,
+                    "md5": "4e25eaf98b42de60fc1429647064ecc3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/reed_roof_04/reed_roof_04_nor_dx_2k.jpg"
+                },
+                "png": {
+                    "size": 26093397,
+                    "md5": "d03f33a759f8a5b859c6d6b597319a77",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/reed_roof_04/reed_roof_04_nor_dx_2k.png"
+                },
+                "exr": {
+                    "size": 9152306,
+                    "md5": "8076b74ccc91c715673b1a2755dd7876",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/reed_roof_04/reed_roof_04_nor_dx_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1274464,
+                    "md5": "4e955d96cfc11a0edfbee200258924a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/reed_roof_04/reed_roof_04_nor_dx_1k.jpg"
+                },
+                "png": {
+                    "size": 6644103,
+                    "md5": "7b994790a2c6f13ca0eff3a9d2cd605a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/reed_roof_04/reed_roof_04_nor_dx_1k.png"
+                },
+                "exr": {
+                    "size": 2468288,
+                    "md5": "748e27a63a2761edcd4333e02da4da28",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/reed_roof_04/reed_roof_04_nor_dx_1k.exr"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 63708174,
+                    "md5": "4143250dde81399bb71f50d017ed703c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/reed_roof_04/reed_roof_04_nor_gl_8k.jpg"
+                },
+                "png": {
+                    "size": 294309641,
+                    "md5": "1f54b2ba0858ce798ba84989a17c0c19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/reed_roof_04/reed_roof_04_nor_gl_8k.png"
+                },
+                "exr": {
+                    "size": 141266778,
+                    "md5": "b24a615e4c8f41013fcd4a2c10c0bf64",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/reed_roof_04/reed_roof_04_nor_gl_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 14273824,
+                    "md5": "935c9e86f1c4376f638cd8013354fb10",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/reed_roof_04/reed_roof_04_nor_gl_4k.jpg"
+                },
+                "png": {
+                    "size": 101086668,
+                    "md5": "d4ef3a3ead6a7baf21763f697bbe5c6a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/reed_roof_04/reed_roof_04_nor_gl_4k.png"
+                },
+                "exr": {
+                    "size": 32866532,
+                    "md5": "fc3d11cde6061d9d6da2897465909761",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/reed_roof_04/reed_roof_04_nor_gl_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 4381563,
+                    "md5": "ca76a07f4a7780dda84ef68a1955c85b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/reed_roof_04/reed_roof_04_nor_gl_2k.jpg"
+                },
+                "png": {
+                    "size": 26093022,
+                    "md5": "9b49f6591e71db339c2422dab21ffa33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/reed_roof_04/reed_roof_04_nor_gl_2k.png"
+                },
+                "exr": {
+                    "size": 9136689,
+                    "md5": "d8da1e05e06959b8b5948dfd52839fdb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/reed_roof_04/reed_roof_04_nor_gl_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1234920,
+                    "md5": "a6a758ca10874374793d207ef13d96af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/reed_roof_04/reed_roof_04_nor_gl_1k.jpg"
+                },
+                "png": {
+                    "size": 6644000,
+                    "md5": "00e2c27c4737bf0fa61446d794c08572",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/reed_roof_04/reed_roof_04_nor_gl_1k.png"
+                },
+                "exr": {
+                    "size": 2456444,
+                    "md5": "f1b4dd702e8abc32b336a1b67279fe9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/reed_roof_04/reed_roof_04_nor_gl_1k.exr"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "size": 275382,
+                    "md5": "0c13bc1b72bd21ed65c279ecd75229ce",
+                    "include": {
+                        "textures/reed_roof_04_diff_8k.jpg": {
+                            "size": 25442562,
+                            "md5": "b1466079ffe4a9aea68cc5774fec63e0",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/reed_roof_04/reed_roof_04_diff_8k.jpg"
+                        },
+                        "textures/reed_roof_04_nor_gl_8k.exr": {
+                            "size": 141266778,
+                            "md5": "b24a615e4c8f41013fcd4a2c10c0bf64",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/reed_roof_04/reed_roof_04_nor_gl_8k.exr"
+                        },
+                        "textures/reed_roof_04_disp_8k.png": {
+                            "size": 74582717,
+                            "md5": "5c8bd74643f10612118c38933c01d28b",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/reed_roof_04/reed_roof_04_disp_8k.png"
+                        },
+                        "textures/reed_roof_04_rough_8k.jpg": {
+                            "size": 10781179,
+                            "md5": "e8d427570ef6e9332726d623b94bbd17",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/reed_roof_04/reed_roof_04_rough_8k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/8k/reed_roof_04/reed_roof_04_8k.blend"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "size": 275416,
+                    "md5": "3d954170604ac18e48cfd003d8cd1473",
+                    "include": {
+                        "textures/reed_roof_04_rough_4k.jpg": {
+                            "size": 3780718,
+                            "md5": "0f006a8026314712b9f39bf02e959efe",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/reed_roof_04/reed_roof_04_rough_4k.jpg"
+                        },
+                        "textures/reed_roof_04_nor_gl_4k.exr": {
+                            "size": 32866532,
+                            "md5": "fc3d11cde6061d9d6da2897465909761",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/reed_roof_04/reed_roof_04_nor_gl_4k.exr"
+                        },
+                        "textures/reed_roof_04_disp_4k.png": {
+                            "size": 28261933,
+                            "md5": "e6ee5a19f8e6ef6ea42448c939e83fea",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/reed_roof_04/reed_roof_04_disp_4k.png"
+                        },
+                        "textures/reed_roof_04_diff_4k.jpg": {
+                            "size": 8108393,
+                            "md5": "0b5d222d3ae4ca966341b31d812b4e2e",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/reed_roof_04/reed_roof_04_diff_4k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/4k/reed_roof_04/reed_roof_04_4k.blend"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "size": 275420,
+                    "md5": "9a80349f736c54ba0ebac6ae14d550ee",
+                    "include": {
+                        "textures/reed_roof_04_nor_gl_2k.exr": {
+                            "size": 9136689,
+                            "md5": "d8da1e05e06959b8b5948dfd52839fdb",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/reed_roof_04/reed_roof_04_nor_gl_2k.exr"
+                        },
+                        "textures/reed_roof_04_rough_2k.jpg": {
+                            "size": 1263557,
+                            "md5": "09a2e188cdb7a57de25972345ad82514",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/reed_roof_04/reed_roof_04_rough_2k.jpg"
+                        },
+                        "textures/reed_roof_04_disp_2k.png": {
+                            "size": 7563377,
+                            "md5": "09d4e44fc5b7a1fd81b921f3b1a39f55",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/reed_roof_04/reed_roof_04_disp_2k.png"
+                        },
+                        "textures/reed_roof_04_diff_2k.jpg": {
+                            "size": 2585643,
+                            "md5": "83dd90ba4aaf8ad126ccc3f842068d56",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/reed_roof_04/reed_roof_04_diff_2k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/2k/reed_roof_04/reed_roof_04_2k.blend"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "size": 275453,
+                    "md5": "78c60d4a02e3a8fd4e5a65681a9eaf41",
+                    "include": {
+                        "textures/reed_roof_04_disp_1k.png": {
+                            "size": 2014770,
+                            "md5": "f4916f99244e136d92ff57791035e1f3",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/reed_roof_04/reed_roof_04_disp_1k.png"
+                        },
+                        "textures/reed_roof_04_diff_1k.jpg": {
+                            "size": 727872,
+                            "md5": "4ba30d52babf87bacc4aaff24aced8c9",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/reed_roof_04/reed_roof_04_diff_1k.jpg"
+                        },
+                        "textures/reed_roof_04_nor_gl_1k.exr": {
+                            "size": 2456444,
+                            "md5": "f1b4dd702e8abc32b336a1b67279fe9c",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/reed_roof_04/reed_roof_04_nor_gl_1k.exr"
+                        },
+                        "textures/reed_roof_04_rough_1k.jpg": {
+                            "size": 354017,
+                            "md5": "e6c78486f0049748b9a44709afa6d47f",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/reed_roof_04/reed_roof_04_rough_1k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/1k/reed_roof_04/reed_roof_04_1k.blend"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "size": 2700,
+                    "md5": "1f2e9c8dce0ca540bdf7ed017cc03546",
+                    "include": {
+                        "textures/reed_roof_04_diff_8k.jpg": {
+                            "size": 25442562,
+                            "md5": "b1466079ffe4a9aea68cc5774fec63e0",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/reed_roof_04/reed_roof_04_diff_8k.jpg"
+                        },
+                        "textures/reed_roof_04_nor_gl_8k.jpg": {
+                            "size": 63708174,
+                            "md5": "4143250dde81399bb71f50d017ed703c",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/reed_roof_04/reed_roof_04_nor_gl_8k.jpg"
+                        },
+                        "textures/reed_roof_04_rough_8k.jpg": {
+                            "size": 10781179,
+                            "md5": "e8d427570ef6e9332726d623b94bbd17",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/reed_roof_04/reed_roof_04_rough_8k.jpg"
+                        },
+                        "reed_roof_04.bin": {
+                            "size": 2368820,
+                            "md5": "f5fae52d56d3c06287d6da6ca79bd366",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/reed_roof_04/reed_roof_04.bin"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/reed_roof_04/reed_roof_04_8k.gltf"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "size": 2700,
+                    "md5": "3d16a7029972a56388f2e418a542cedb",
+                    "include": {
+                        "textures/reed_roof_04_rough_4k.jpg": {
+                            "size": 3780718,
+                            "md5": "0f006a8026314712b9f39bf02e959efe",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/reed_roof_04/reed_roof_04_rough_4k.jpg"
+                        },
+                        "textures/reed_roof_04_diff_4k.jpg": {
+                            "size": 8108393,
+                            "md5": "0b5d222d3ae4ca966341b31d812b4e2e",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/reed_roof_04/reed_roof_04_diff_4k.jpg"
+                        },
+                        "textures/reed_roof_04_nor_gl_4k.jpg": {
+                            "size": 14273824,
+                            "md5": "935c9e86f1c4376f638cd8013354fb10",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/reed_roof_04/reed_roof_04_nor_gl_4k.jpg"
+                        },
+                        "reed_roof_04.bin": {
+                            "size": 2368820,
+                            "md5": "f5fae52d56d3c06287d6da6ca79bd366",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/reed_roof_04/reed_roof_04.bin"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/4k/reed_roof_04/reed_roof_04_4k.gltf"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "size": 2700,
+                    "md5": "f619ad25815688b2a4591eb07899ba19",
+                    "include": {
+                        "textures/reed_roof_04_rough_2k.jpg": {
+                            "size": 1263557,
+                            "md5": "09a2e188cdb7a57de25972345ad82514",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/reed_roof_04/reed_roof_04_rough_2k.jpg"
+                        },
+                        "textures/reed_roof_04_nor_gl_2k.jpg": {
+                            "size": 4381563,
+                            "md5": "ca76a07f4a7780dda84ef68a1955c85b",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/reed_roof_04/reed_roof_04_nor_gl_2k.jpg"
+                        },
+                        "reed_roof_04.bin": {
+                            "size": 2368820,
+                            "md5": "f5fae52d56d3c06287d6da6ca79bd366",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/reed_roof_04/reed_roof_04.bin"
+                        },
+                        "textures/reed_roof_04_diff_2k.jpg": {
+                            "size": 2585643,
+                            "md5": "83dd90ba4aaf8ad126ccc3f842068d56",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/reed_roof_04/reed_roof_04_diff_2k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/2k/reed_roof_04/reed_roof_04_2k.gltf"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "size": 2700,
+                    "md5": "ddd412008833fba093adb902a37e87ce",
+                    "include": {
+                        "textures/reed_roof_04_diff_1k.jpg": {
+                            "size": 727872,
+                            "md5": "4ba30d52babf87bacc4aaff24aced8c9",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/reed_roof_04/reed_roof_04_diff_1k.jpg"
+                        },
+                        "reed_roof_04.bin": {
+                            "size": 2368820,
+                            "md5": "f5fae52d56d3c06287d6da6ca79bd366",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/reed_roof_04/reed_roof_04.bin"
+                        },
+                        "textures/reed_roof_04_nor_gl_1k.jpg": {
+                            "size": 1234920,
+                            "md5": "a6a758ca10874374793d207ef13d96af",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/reed_roof_04/reed_roof_04_nor_gl_1k.jpg"
+                        },
+                        "textures/reed_roof_04_rough_1k.jpg": {
+                            "size": 354017,
+                            "md5": "e6c78486f0049748b9a44709afa6d47f",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/reed_roof_04/reed_roof_04_rough_1k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/1k/reed_roof_04/reed_roof_04_1k.gltf"
+                }
+            }
+        },
+        "rough_ao": {
+            "8k": {
+                "jpg": {
+                    "size": 61621659,
+                    "md5": "8cea7f7983271d1da4cc08b26f899dce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/reed_roof_04/reed_roof_04_rough_ao_8k.jpg"
+                },
+                "png": {
+                    "size": 257422147,
+                    "md5": "b82e6dbb851993af9eda595d3679345d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/reed_roof_04/reed_roof_04_rough_ao_8k.png"
+                },
+                "exr": {
+                    "size": 132378366,
+                    "md5": "1a9d2412a58ff91b8ef9545397de1060",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/reed_roof_04/reed_roof_04_rough_ao_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 11021466,
+                    "md5": "506712f9480464309b6b71247b91b94a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/reed_roof_04/reed_roof_04_rough_ao_4k.jpg"
+                },
+                "png": {
+                    "size": 85539889,
+                    "md5": "d5b29f23ad7461869b808d9723c32c67",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/reed_roof_04/reed_roof_04_rough_ao_4k.png"
+                },
+                "exr": {
+                    "size": 28321581,
+                    "md5": "e619321d7c235e13ed45d707eca8aafc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/reed_roof_04/reed_roof_04_rough_ao_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3263851,
+                    "md5": "3c7dcd22fc576a8ed32c3169d6100141",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/reed_roof_04/reed_roof_04_rough_ao_2k.jpg"
+                },
+                "png": {
+                    "size": 22931496,
+                    "md5": "f26b9cfdfacc318a3d54ca303f83f462",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/reed_roof_04/reed_roof_04_rough_ao_2k.png"
+                },
+                "exr": {
+                    "size": 7442472,
+                    "md5": "9344f7dd2d0a4158d6102d1eff6e5e73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/reed_roof_04/reed_roof_04_rough_ao_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 942759,
+                    "md5": "f55922300c58aa72852b3eab1560f086",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/reed_roof_04/reed_roof_04_rough_ao_1k.jpg"
+                },
+                "png": {
+                    "size": 6057411,
+                    "md5": "4783ba828f371750354c4da185b48ae1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/reed_roof_04/reed_roof_04_rough_ao_1k.png"
+                },
+                "exr": {
+                    "size": 2083296,
+                    "md5": "21e4f9b208b8669d6284a9f7786903fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/reed_roof_04/reed_roof_04_rough_ao_1k.exr"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 12485758,
+                    "md5": "994745b16c71279495ae76e50a39fd23",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/reed_roof_04/reed_roof_04_arm_8k.jpg"
+                },
+                "png": {
+                    "size": 201258068,
+                    "md5": "07c82f1e9dd8592be7f989cbc6be8f7c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/reed_roof_04/reed_roof_04_arm_8k.png"
+                },
+                "exr": {
+                    "size": 108649557,
+                    "md5": "1472c41c93418e1e5aad79132a270940",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/reed_roof_04/reed_roof_04_arm_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3568207,
+                    "md5": "0013bf37f5f78a51b3d3dc719fc5773a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/reed_roof_04/reed_roof_04_arm_4k.jpg"
+                },
+                "png": {
+                    "size": 68063831,
+                    "md5": "0b3f17dada54ccaa4c3067febfff3d80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/reed_roof_04/reed_roof_04_arm_4k.png"
+                },
+                "exr": {
+                    "size": 25880744,
+                    "md5": "2a20c4232f0e7ad7939d2bee6b81b431",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/reed_roof_04/reed_roof_04_arm_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1049031,
+                    "md5": "9158782785c30699053538b919d39dc6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/reed_roof_04/reed_roof_04_arm_2k.jpg"
+                },
+                "png": {
+                    "size": 17926364,
+                    "md5": "2cffe960eacd77a03f7d7cb60ae0dfd7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/reed_roof_04/reed_roof_04_arm_2k.png"
+                },
+                "exr": {
+                    "size": 6994687,
+                    "md5": "7d1349c92a89b283c146fb45774711a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/reed_roof_04/reed_roof_04_arm_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 283531,
+                    "md5": "6d40f2b14191bcfc31edc01af3b25dad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/reed_roof_04/reed_roof_04_arm_1k.jpg"
+                },
+                "png": {
+                    "size": 4671648,
+                    "md5": "9276d25e51726285db96a83a0f888ad9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/reed_roof_04/reed_roof_04_arm_1k.png"
+                },
+                "exr": {
+                    "size": 1947493,
+                    "md5": "c2c5663defa2f1820cc2b422999177e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/reed_roof_04/reed_roof_04_arm_1k.exr"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 36817974,
+                    "md5": "d7ea7a4e9e4e00f29fca42487edb18d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/reed_roof_04/reed_roof_04_ao_8k.jpg"
+                },
+                "png": {
+                    "size": 157988472,
+                    "md5": "3aa4d71b23ee63b3a0614f5071b4dcfa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/reed_roof_04/reed_roof_04_ao_8k.png"
+                },
+                "exr": {
+                    "size": 54479552,
+                    "md5": "dd1c1b3a4dd379e2216edf6633b8d465",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/reed_roof_04/reed_roof_04_ao_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 8226255,
+                    "md5": "85df3bc1535b1d7d222041f66750ec02",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/reed_roof_04/reed_roof_04_ao_4k.jpg"
+                },
+                "png": {
+                    "size": 37441574,
+                    "md5": "6b52f6a78488d7e0e973bd3536558101",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/reed_roof_04/reed_roof_04_ao_4k.png"
+                },
+                "exr": {
+                    "size": 13490664,
+                    "md5": "6d129d09a6a1d784f00fd0a41dd51643",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/reed_roof_04/reed_roof_04_ao_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2134971,
+                    "md5": "9f06669426020001ba104c28ce9b8921",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/reed_roof_04/reed_roof_04_ao_2k.jpg"
+                },
+                "png": {
+                    "size": 9449349,
+                    "md5": "97ee46372e6d486e114fa09841333c44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/reed_roof_04/reed_roof_04_ao_2k.png"
+                },
+                "exr": {
+                    "size": 3575072,
+                    "md5": "1e45946a3f4eff2a158ee38f5e2d6891",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/reed_roof_04/reed_roof_04_ao_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 593082,
+                    "md5": "0e8a846e233823fb1a24cae141caee87",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/reed_roof_04/reed_roof_04_ao_1k.jpg"
+                },
+                "png": {
+                    "size": 2419876,
+                    "md5": "82ec4844194211393b51f85071d79fa6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/reed_roof_04/reed_roof_04_ao_1k.png"
+                },
+                "exr": {
+                    "size": 981907,
+                    "md5": "f4cd9bee69af9038b8c98fa0b1e2bb4f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/reed_roof_04/reed_roof_04_ao_1k.exr"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 5718262,
+                    "md5": "5bf9be24e9b1203eda199e0df068b288",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/reed_roof_04/reed_roof_04_disp_8k.jpg"
+                },
+                "png": {
+                    "size": 74582717,
+                    "md5": "5c8bd74643f10612118c38933c01d28b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/reed_roof_04/reed_roof_04_disp_8k.png"
+                },
+                "exr": {
+                    "size": 10632868,
+                    "md5": "735d7f07fb5cbc37a57e94bf133dc838",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/reed_roof_04/reed_roof_04_disp_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1970938,
+                    "md5": "7afb0de318c247a64195f7e1ccd45612",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/reed_roof_04/reed_roof_04_disp_4k.jpg"
+                },
+                "png": {
+                    "size": 28261933,
+                    "md5": "e6ee5a19f8e6ef6ea42448c939e83fea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/reed_roof_04/reed_roof_04_disp_4k.png"
+                },
+                "exr": {
+                    "size": 3775604,
+                    "md5": "76895c5c8e7d9f64db986756aea88bc2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/reed_roof_04/reed_roof_04_disp_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 706592,
+                    "md5": "4f64e32670ca2ed4a44e30400ea301bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/reed_roof_04/reed_roof_04_disp_2k.jpg"
+                },
+                "png": {
+                    "size": 7563377,
+                    "md5": "09d4e44fc5b7a1fd81b921f3b1a39f55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/reed_roof_04/reed_roof_04_disp_2k.png"
+                },
+                "exr": {
+                    "size": 1392042,
+                    "md5": "30c1fb8b46be3de778233509795d0a19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/reed_roof_04/reed_roof_04_disp_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 235210,
+                    "md5": "c890abe77cd06952f34c0e29daaad752",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/reed_roof_04/reed_roof_04_disp_1k.jpg"
+                },
+                "png": {
+                    "size": 2014770,
+                    "md5": "f4916f99244e136d92ff57791035e1f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/reed_roof_04/reed_roof_04_disp_1k.png"
+                },
+                "exr": {
+                    "size": 478871,
+                    "md5": "e22e9876c487e5930293a5727a5821c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/reed_roof_04/reed_roof_04_disp_1k.exr"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 10781179,
+                    "md5": "e8d427570ef6e9332726d623b94bbd17",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/reed_roof_04/reed_roof_04_rough_8k.jpg"
+                },
+                "png": {
+                    "size": 86064226,
+                    "md5": "96535068ea4cd24fb1f872a7eef6d4e6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/reed_roof_04/reed_roof_04_rough_8k.png"
+                },
+                "exr": {
+                    "size": 17516853,
+                    "md5": "1453224f29817f8512f3dbdf0e208a86",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/reed_roof_04/reed_roof_04_rough_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3780718,
+                    "md5": "0f006a8026314712b9f39bf02e959efe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/reed_roof_04/reed_roof_04_rough_4k.jpg"
+                },
+                "png": {
+                    "size": 27608770,
+                    "md5": "18e400f51df60a75f5782df924e97e99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/reed_roof_04/reed_roof_04_rough_4k.png"
+                },
+                "exr": {
+                    "size": 5992541,
+                    "md5": "fc7ce9a4486096c3e16f99a644232da5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/reed_roof_04/reed_roof_04_rough_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1263557,
+                    "md5": "09a2e188cdb7a57de25972345ad82514",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/reed_roof_04/reed_roof_04_rough_2k.jpg"
+                },
+                "png": {
+                    "size": 7987456,
+                    "md5": "5420023d21a4891b7ffd3c488f8f026b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/reed_roof_04/reed_roof_04_rough_2k.png"
+                },
+                "exr": {
+                    "size": 2017565,
+                    "md5": "3d7c391c2d11a6bea75ac4567ac811bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/reed_roof_04/reed_roof_04_rough_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 354017,
+                    "md5": "e6c78486f0049748b9a44709afa6d47f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/reed_roof_04/reed_roof_04_rough_1k.jpg"
+                },
+                "png": {
+                    "size": 2159133,
+                    "md5": "9f9bbccacdeacb170be9d93c501be422",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/reed_roof_04/reed_roof_04_rough_1k.png"
+                },
+                "exr": {
+                    "size": 580585,
+                    "md5": "75ceef8851561919b25b0985633e4139",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/reed_roof_04/reed_roof_04_rough_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,969 @@
+{
+    "name": "Grey Cartago 02",
+    "categories": [
+        "floor",
+        "man made"
+    ],
+    "type": 1,
+    "tags": [
+        "tiles",
+        "grey",
+        "cartago",
+        "stones",
+        "smooth",
+        "hard",
+        "modern",
+        "durable",
+        "patio",
+        "courtyard",
+        "durable flooring",
+        "waterproof tiles"
+    ],
+    "info": null,
+    "dimensions": [
+        1700.0000476837158,
+        1700.0000476837158
+    ],
+    "date_published": 1710460800,
+    "max_resolution": [
+        16384,
+        16384
+    ],
+    "files_hash": "07c55c3060c36481988330def586370d94753115",
+    "authors": {
+        "Jenelle van Heerden": "Processing",
+        "Lucas S\u00e1nchez Ros": "Photography"
+    },
+    "download_count": 10652,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grey_cartago_02.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 33094453,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/grey_cartago_02/grey_cartago_02_diff_8k.jpg",
+                    "md5": "b9fd324420488a5cdfb9eff6e4251e01"
+                },
+                "png": {
+                    "size": 329009894,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/grey_cartago_02/grey_cartago_02_diff_8k.png",
+                    "md5": "d2aa7d3b5d69fbc75366d3da55c348ea"
+                },
+                "exr": {
+                    "size": 53093738,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/grey_cartago_02/grey_cartago_02_diff_8k.exr",
+                    "md5": "fd58db61bdca1a81558a54c764a88301"
+                }
+            },
+            "16k": {
+                "jpg": {
+                    "size": 90068224,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/grey_cartago_02/grey_cartago_02_diff_16k.jpg",
+                    "md5": "254fa596547bf59fae682cc51cdc3874"
+                },
+                "png": {
+                    "size": 1250617424,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/grey_cartago_02/grey_cartago_02_diff_16k.png",
+                    "md5": "7880d32c2ed8d5f7b23a43ede140d7b6"
+                },
+                "exr": {
+                    "size": 143392032,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/grey_cartago_02/grey_cartago_02_diff_16k.exr",
+                    "md5": "99a7b2c51f1410d9c2d595df6a727dbc"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 10063485,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_cartago_02/grey_cartago_02_diff_4k.jpg",
+                    "md5": "1609736f9076429b317116ce91b58df8"
+                },
+                "png": {
+                    "size": 84879368,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/grey_cartago_02/grey_cartago_02_diff_4k.png",
+                    "md5": "c96614ee4c207da62784d3d20f144e0f"
+                },
+                "exr": {
+                    "size": 16651115,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/grey_cartago_02/grey_cartago_02_diff_4k.exr",
+                    "md5": "10fe9a06c1a8f92c692f98943f62249a"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2775311,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_cartago_02/grey_cartago_02_diff_2k.jpg",
+                    "md5": "dae50f8c2169002430d4fe67408cca1e"
+                },
+                "png": {
+                    "size": 21645024,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/grey_cartago_02/grey_cartago_02_diff_2k.png",
+                    "md5": "17833f1f6d27e39e506c12ef7f10df5d"
+                },
+                "exr": {
+                    "size": 4716485,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/grey_cartago_02/grey_cartago_02_diff_2k.exr",
+                    "md5": "0d45ed81af0e9a9faa09642e95f10690"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 773994,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_cartago_02/grey_cartago_02_diff_1k.jpg",
+                    "md5": "2be34492e594f079ab6f8c656f9b595c"
+                },
+                "png": {
+                    "size": 5518666,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/grey_cartago_02/grey_cartago_02_diff_1k.png",
+                    "md5": "25ddf430d738be54c8b1f8e220a17657"
+                },
+                "exr": {
+                    "size": 1368677,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/grey_cartago_02/grey_cartago_02_diff_1k.exr",
+                    "md5": "640a738046660bf4894647ea0d3f3e7c"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 31140050,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/grey_cartago_02/grey_cartago_02_nor_dx_8k.jpg",
+                    "md5": "4cda2b5efdc050e1fac2dc711469db8b"
+                },
+                "png": {
+                    "size": 309755795,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/grey_cartago_02/grey_cartago_02_nor_dx_8k.png",
+                    "md5": "cf0b9b174dae08d5bf1405efed58eef5"
+                },
+                "exr": {
+                    "size": 59080410,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/grey_cartago_02/grey_cartago_02_nor_dx_8k.exr",
+                    "md5": "1bdeb1d8f9ab8ef5024729816c595d7e"
+                }
+            },
+            "16k": {
+                "jpg": {
+                    "size": 92351233,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/grey_cartago_02/grey_cartago_02_nor_dx_16k.jpg",
+                    "md5": "3e01946c2cb7a6528cb6bb3dd8c16fa1"
+                },
+                "png": {
+                    "size": 1082288887,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/grey_cartago_02/grey_cartago_02_nor_dx_16k.png",
+                    "md5": "9905421c1d5452ce3040dbb6b79f3896"
+                },
+                "exr": {
+                    "size": 151457074,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/grey_cartago_02/grey_cartago_02_nor_dx_16k.exr",
+                    "md5": "3a0b5b8be1e5b9b9eebf7c0c14c61a2f"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 9111640,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_cartago_02/grey_cartago_02_nor_dx_4k.jpg",
+                    "md5": "f61799056dc53440244350293986e96e"
+                },
+                "png": {
+                    "size": 80211899,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/grey_cartago_02/grey_cartago_02_nor_dx_4k.png",
+                    "md5": "4508ca5e4af9b2a2afa0e55e20c3ddf1"
+                },
+                "exr": {
+                    "size": 19878644,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/grey_cartago_02/grey_cartago_02_nor_dx_4k.exr",
+                    "md5": "e7906a28b2be74f99ce400364712b093"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2260839,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_cartago_02/grey_cartago_02_nor_dx_2k.jpg",
+                    "md5": "b38384df0e3a60e2b4a556085f6cd2f6"
+                },
+                "png": {
+                    "size": 20180394,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/grey_cartago_02/grey_cartago_02_nor_dx_2k.png",
+                    "md5": "eb6ab36ca2406a79fd7c20e95d8aacbc"
+                },
+                "exr": {
+                    "size": 5175116,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/grey_cartago_02/grey_cartago_02_nor_dx_2k.exr",
+                    "md5": "fc9df4dd92f771148cfd80e5583e0468"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 530841,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_cartago_02/grey_cartago_02_nor_dx_1k.jpg",
+                    "md5": "545ace078cc2ce17b542e371b6ed5685"
+                },
+                "png": {
+                    "size": 5027184,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/grey_cartago_02/grey_cartago_02_nor_dx_1k.png",
+                    "md5": "575cd515824c5a958a52d7ad4de679f1"
+                },
+                "exr": {
+                    "size": 1239103,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/grey_cartago_02/grey_cartago_02_nor_dx_1k.exr",
+                    "md5": "93ff8207245276cc51ae82e2e32853ec"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 31318788,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/grey_cartago_02/grey_cartago_02_nor_gl_8k.jpg",
+                    "md5": "7d9da2871e28a0351ba3d4ad22747196"
+                },
+                "png": {
+                    "size": 309740100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/grey_cartago_02/grey_cartago_02_nor_gl_8k.png",
+                    "md5": "0c376020ef9bf96ebd77719255f044cd"
+                },
+                "exr": {
+                    "size": 58597718,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/grey_cartago_02/grey_cartago_02_nor_gl_8k.exr",
+                    "md5": "7fd28286537bf2feff60562a59943d9c"
+                }
+            },
+            "16k": {
+                "jpg": {
+                    "size": 92750713,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/grey_cartago_02/grey_cartago_02_nor_gl_16k.jpg",
+                    "md5": "2e527ab25c47a8822ecf07d16d3ae754"
+                },
+                "png": {
+                    "size": 1085447798,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/grey_cartago_02/grey_cartago_02_nor_gl_16k.png",
+                    "md5": "7fd51f0d1bbe8c305bffd6da9574b87c"
+                },
+                "exr": {
+                    "size": 150981474,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/grey_cartago_02/grey_cartago_02_nor_gl_16k.exr",
+                    "md5": "15e4c158c9087cbf1223522f39d2a871"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 9115586,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_cartago_02/grey_cartago_02_nor_gl_4k.jpg",
+                    "md5": "ddd668ca674d54c754a28b6b7d543103"
+                },
+                "png": {
+                    "size": 80211846,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/grey_cartago_02/grey_cartago_02_nor_gl_4k.png",
+                    "md5": "4f3ca0c418c67557450b1add3070c905"
+                },
+                "exr": {
+                    "size": 19681329,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/grey_cartago_02/grey_cartago_02_nor_gl_4k.exr",
+                    "md5": "e47d9f81f6badb57cb7192d77c52f266"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2250428,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_cartago_02/grey_cartago_02_nor_gl_2k.jpg",
+                    "md5": "bd601163165c696db5cee52f7dfb951b"
+                },
+                "png": {
+                    "size": 20179339,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/grey_cartago_02/grey_cartago_02_nor_gl_2k.png",
+                    "md5": "d5cf7e0b2c041724203f8616ea2ce71c"
+                },
+                "exr": {
+                    "size": 5120912,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/grey_cartago_02/grey_cartago_02_nor_gl_2k.exr",
+                    "md5": "2cdf7728c573d6990ad6ee2774615969"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 529042,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_cartago_02/grey_cartago_02_nor_gl_1k.jpg",
+                    "md5": "276ace9d3d0ef13db2b93495cd3e82b7"
+                },
+                "png": {
+                    "size": 5026902,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/grey_cartago_02/grey_cartago_02_nor_gl_1k.png",
+                    "md5": "72e184f2b384a9174fdab9ffce0205ca"
+                },
+                "exr": {
+                    "size": 1229959,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/grey_cartago_02/grey_cartago_02_nor_gl_1k.exr",
+                    "md5": "97998c56fb6290e305b1214aa9de7e50"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/grey_cartago_02_diff_8k.jpg": {
+                            "size": 33094453,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/grey_cartago_02/grey_cartago_02_diff_8k.jpg",
+                            "md5": "b9fd324420488a5cdfb9eff6e4251e01"
+                        },
+                        "textures/grey_cartago_02_rough_8k.exr": {
+                            "size": 16771803,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/grey_cartago_02/grey_cartago_02_rough_8k.exr",
+                            "md5": "372ec1d3b8cfbfefd169acbd84218201"
+                        },
+                        "textures/grey_cartago_02_ao_8k.jpg": {
+                            "size": 16579743,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/grey_cartago_02/grey_cartago_02_ao_8k.jpg",
+                            "md5": "de544126811fda06519f7d43a026eab7"
+                        },
+                        "textures/grey_cartago_02_disp_8k.png": {
+                            "size": 75940287,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/grey_cartago_02/grey_cartago_02_disp_8k.png",
+                            "md5": "d27f7f5c9e6b2e91ef10c6d9ccf04949"
+                        },
+                        "textures/grey_cartago_02_nor_gl_8k.exr": {
+                            "size": 58597718,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/grey_cartago_02/grey_cartago_02_nor_gl_8k.exr",
+                            "md5": "7fd28286537bf2feff60562a59943d9c"
+                        }
+                    },
+                    "size": 217382,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/8k/grey_cartago_02/grey_cartago_02_8k.blend",
+                    "md5": "2f39db55e07f430039950df9b1b73d71"
+                }
+            },
+            "16k": {
+                "blend": {
+                    "include": {
+                        "textures/grey_cartago_02_ao_16k.jpg": {
+                            "size": 50316525,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/grey_cartago_02/grey_cartago_02_ao_16k.jpg",
+                            "md5": "5bb760db1e1fc0cb0f778ff168095177"
+                        },
+                        "textures/grey_cartago_02_nor_gl_16k.exr": {
+                            "size": 150981474,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/grey_cartago_02/grey_cartago_02_nor_gl_16k.exr",
+                            "md5": "15e4c158c9087cbf1223522f39d2a871"
+                        },
+                        "textures/grey_cartago_02_disp_16k.png": {
+                            "size": 243796327,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/grey_cartago_02/grey_cartago_02_disp_16k.png",
+                            "md5": "67b415886337ca7b47d99a332b4f92e8"
+                        },
+                        "textures/grey_cartago_02_diff_16k.jpg": {
+                            "size": 90068224,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/grey_cartago_02/grey_cartago_02_diff_16k.jpg",
+                            "md5": "254fa596547bf59fae682cc51cdc3874"
+                        },
+                        "textures/grey_cartago_02_rough_16k.exr": {
+                            "size": 49167391,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/grey_cartago_02/grey_cartago_02_rough_16k.exr",
+                            "md5": "1d80da4dedb3341a46551b20f83e19c5"
+                        }
+                    },
+                    "size": 217449,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/16k/grey_cartago_02/grey_cartago_02_16k.blend",
+                    "md5": "a9160329e607a9fc180f9a6c44062b74"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/grey_cartago_02_nor_gl_4k.exr": {
+                            "size": 19681329,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/grey_cartago_02/grey_cartago_02_nor_gl_4k.exr",
+                            "md5": "e47d9f81f6badb57cb7192d77c52f266"
+                        },
+                        "textures/grey_cartago_02_disp_4k.png": {
+                            "size": 21627432,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/grey_cartago_02/grey_cartago_02_disp_4k.png",
+                            "md5": "d25165833a229b27f93137016f0d3745"
+                        },
+                        "textures/grey_cartago_02_ao_4k.jpg": {
+                            "size": 4778204,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_cartago_02/grey_cartago_02_ao_4k.jpg",
+                            "md5": "13d3de33ff1664e88013a7d59c95f1e3"
+                        },
+                        "textures/grey_cartago_02_diff_4k.jpg": {
+                            "size": 10063485,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_cartago_02/grey_cartago_02_diff_4k.jpg",
+                            "md5": "1609736f9076429b317116ce91b58df8"
+                        },
+                        "textures/grey_cartago_02_rough_4k.exr": {
+                            "size": 4581693,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/grey_cartago_02/grey_cartago_02_rough_4k.exr",
+                            "md5": "51370c607143a75692d4d4c6472da478"
+                        }
+                    },
+                    "size": 217537,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/4k/grey_cartago_02/grey_cartago_02_4k.blend",
+                    "md5": "91849cbcb905fa0fa6240e7d1289d3fe"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/grey_cartago_02_ao_2k.jpg": {
+                            "size": 1233419,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_cartago_02/grey_cartago_02_ao_2k.jpg",
+                            "md5": "4767001282fc60b0fd2871fab79745b7"
+                        },
+                        "textures/grey_cartago_02_rough_2k.exr": {
+                            "size": 1140442,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/grey_cartago_02/grey_cartago_02_rough_2k.exr",
+                            "md5": "6c56378e148f679a6a543d3de2e51b9a"
+                        },
+                        "textures/grey_cartago_02_nor_gl_2k.exr": {
+                            "size": 5120912,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/grey_cartago_02/grey_cartago_02_nor_gl_2k.exr",
+                            "md5": "2cdf7728c573d6990ad6ee2774615969"
+                        },
+                        "textures/grey_cartago_02_disp_2k.png": {
+                            "size": 5857574,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/grey_cartago_02/grey_cartago_02_disp_2k.png",
+                            "md5": "9031e28fc88cad0d51993d8b5e6f57f5"
+                        },
+                        "textures/grey_cartago_02_diff_2k.jpg": {
+                            "size": 2775311,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_cartago_02/grey_cartago_02_diff_2k.jpg",
+                            "md5": "dae50f8c2169002430d4fe67408cca1e"
+                        }
+                    },
+                    "size": 217616,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/2k/grey_cartago_02/grey_cartago_02_2k.blend",
+                    "md5": "9d97fd4d7473b3f573bef1f1f440c590"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/grey_cartago_02_disp_1k.png": {
+                            "size": 1543132,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/grey_cartago_02/grey_cartago_02_disp_1k.png",
+                            "md5": "71aef85839781e38c05005d71009f8f0"
+                        },
+                        "textures/grey_cartago_02_diff_1k.jpg": {
+                            "size": 773994,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_cartago_02/grey_cartago_02_diff_1k.jpg",
+                            "md5": "2be34492e594f079ab6f8c656f9b595c"
+                        },
+                        "textures/grey_cartago_02_rough_1k.exr": {
+                            "size": 319191,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/grey_cartago_02/grey_cartago_02_rough_1k.exr",
+                            "md5": "c8135d6515e70b5c559f8f12688d42c4"
+                        },
+                        "textures/grey_cartago_02_ao_1k.jpg": {
+                            "size": 314462,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_cartago_02/grey_cartago_02_ao_1k.jpg",
+                            "md5": "6bee5c8e21b3dc057bd7eaf736015d20"
+                        },
+                        "textures/grey_cartago_02_nor_gl_1k.exr": {
+                            "size": 1229959,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/grey_cartago_02/grey_cartago_02_nor_gl_1k.exr",
+                            "md5": "97998c56fb6290e305b1214aa9de7e50"
+                        }
+                    },
+                    "size": 217430,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/1k/grey_cartago_02/grey_cartago_02_1k.blend",
+                    "md5": "f384193d90228bd1761ccd0606e0d546"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "textures/grey_cartago_02_diff_8k.jpg": {
+                            "size": 33094453,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/grey_cartago_02/grey_cartago_02_diff_8k.jpg",
+                            "md5": "b9fd324420488a5cdfb9eff6e4251e01"
+                        },
+                        "textures/grey_cartago_02_arm_8k.jpg": {
+                            "size": 20313793,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/grey_cartago_02/grey_cartago_02_arm_8k.jpg",
+                            "md5": "bf9a1dc5500d76d9dcac79d7c8df22bf"
+                        },
+                        "textures/grey_cartago_02_nor_gl_8k.jpg": {
+                            "size": 31318788,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/grey_cartago_02/grey_cartago_02_nor_gl_8k.jpg",
+                            "md5": "7d9da2871e28a0351ba3d4ad22747196"
+                        },
+                        "grey_cartago_02.bin": {
+                            "size": 2369684,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/grey_cartago_02/grey_cartago_02.bin",
+                            "md5": "1f2ec88a07a34c687eb1b16b0df9917a"
+                        }
+                    },
+                    "size": 2806,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/grey_cartago_02/grey_cartago_02_8k.gltf",
+                    "md5": "30c79bc945e9dfa07a079fae66c2252d"
+                }
+            },
+            "16k": {
+                "gltf": {
+                    "include": {
+                        "textures/grey_cartago_02_nor_gl_16k.jpg": {
+                            "size": 92750713,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/grey_cartago_02/grey_cartago_02_nor_gl_16k.jpg",
+                            "md5": "2e527ab25c47a8822ecf07d16d3ae754"
+                        },
+                        "grey_cartago_02.bin": {
+                            "size": 2369684,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/grey_cartago_02/grey_cartago_02.bin",
+                            "md5": "1f2ec88a07a34c687eb1b16b0df9917a"
+                        },
+                        "textures/grey_cartago_02_arm_16k.jpg": {
+                            "size": 64949083,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/grey_cartago_02/grey_cartago_02_arm_16k.jpg",
+                            "md5": "43d88fbe699c7bbe39fba81beee6801e"
+                        },
+                        "textures/grey_cartago_02_diff_16k.jpg": {
+                            "size": 90068224,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/grey_cartago_02/grey_cartago_02_diff_16k.jpg",
+                            "md5": "254fa596547bf59fae682cc51cdc3874"
+                        }
+                    },
+                    "size": 2809,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/16k/grey_cartago_02/grey_cartago_02_16k.gltf",
+                    "md5": "147279eaea7309a8d4d0e647823bd125"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/grey_cartago_02_arm_4k.jpg": {
+                            "size": 5479893,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_cartago_02/grey_cartago_02_arm_4k.jpg",
+                            "md5": "199d13162c6b27135858621cc6c0f1dc"
+                        },
+                        "textures/grey_cartago_02_diff_4k.jpg": {
+                            "size": 10063485,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_cartago_02/grey_cartago_02_diff_4k.jpg",
+                            "md5": "1609736f9076429b317116ce91b58df8"
+                        },
+                        "grey_cartago_02.bin": {
+                            "size": 2369684,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/grey_cartago_02/grey_cartago_02.bin",
+                            "md5": "1f2ec88a07a34c687eb1b16b0df9917a"
+                        },
+                        "textures/grey_cartago_02_nor_gl_4k.jpg": {
+                            "size": 9115586,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_cartago_02/grey_cartago_02_nor_gl_4k.jpg",
+                            "md5": "ddd668ca674d54c754a28b6b7d543103"
+                        }
+                    },
+                    "size": 2806,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/4k/grey_cartago_02/grey_cartago_02_4k.gltf",
+                    "md5": "69a2370882072a63c107e2c38bc6cde0"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/grey_cartago_02_nor_gl_2k.jpg": {
+                            "size": 2250428,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_cartago_02/grey_cartago_02_nor_gl_2k.jpg",
+                            "md5": "bd601163165c696db5cee52f7dfb951b"
+                        },
+                        "textures/grey_cartago_02_diff_2k.jpg": {
+                            "size": 2775311,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_cartago_02/grey_cartago_02_diff_2k.jpg",
+                            "md5": "dae50f8c2169002430d4fe67408cca1e"
+                        },
+                        "textures/grey_cartago_02_arm_2k.jpg": {
+                            "size": 1363990,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_cartago_02/grey_cartago_02_arm_2k.jpg",
+                            "md5": "4ebea1126c22f31d243a41e53b8281cc"
+                        },
+                        "grey_cartago_02.bin": {
+                            "size": 2369684,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/grey_cartago_02/grey_cartago_02.bin",
+                            "md5": "1f2ec88a07a34c687eb1b16b0df9917a"
+                        }
+                    },
+                    "size": 2806,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/2k/grey_cartago_02/grey_cartago_02_2k.gltf",
+                    "md5": "fefb95b4caca21acf194e5c60ae8c105"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/grey_cartago_02_arm_1k.jpg": {
+                            "size": 359439,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_cartago_02/grey_cartago_02_arm_1k.jpg",
+                            "md5": "5b69e390fc01f0a099658088f5e9777e"
+                        },
+                        "textures/grey_cartago_02_diff_1k.jpg": {
+                            "size": 773994,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_cartago_02/grey_cartago_02_diff_1k.jpg",
+                            "md5": "2be34492e594f079ab6f8c656f9b595c"
+                        },
+                        "textures/grey_cartago_02_nor_gl_1k.jpg": {
+                            "size": 529042,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_cartago_02/grey_cartago_02_nor_gl_1k.jpg",
+                            "md5": "276ace9d3d0ef13db2b93495cd3e82b7"
+                        },
+                        "grey_cartago_02.bin": {
+                            "size": 2369684,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/grey_cartago_02/grey_cartago_02.bin",
+                            "md5": "1f2ec88a07a34c687eb1b16b0df9917a"
+                        }
+                    },
+                    "size": 2806,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/1k/grey_cartago_02/grey_cartago_02_1k.gltf",
+                    "md5": "f5239f072665f529b521f7a8a6375dcc"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 20313793,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/grey_cartago_02/grey_cartago_02_arm_8k.jpg",
+                    "md5": "bf9a1dc5500d76d9dcac79d7c8df22bf"
+                },
+                "png": {
+                    "size": 225376239,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/grey_cartago_02/grey_cartago_02_arm_8k.png",
+                    "md5": "b7a41317e1b257548beb9259dbfdc218"
+                },
+                "exr": {
+                    "size": 30715442,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/grey_cartago_02/grey_cartago_02_arm_8k.exr",
+                    "md5": "142bb5842c041676851eb89e816c61e7"
+                }
+            },
+            "16k": {
+                "jpg": {
+                    "size": 64949083,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/grey_cartago_02/grey_cartago_02_arm_16k.jpg",
+                    "md5": "43d88fbe699c7bbe39fba81beee6801e"
+                },
+                "png": {
+                    "size": 801357805,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/grey_cartago_02/grey_cartago_02_arm_16k.png",
+                    "md5": "699848151fa7e559aee620a8dd6114ea"
+                },
+                "exr": {
+                    "size": 95983422,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/grey_cartago_02/grey_cartago_02_arm_16k.exr",
+                    "md5": "abbbe3e739b2a605cff716cb9ac58db6"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5479893,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_cartago_02/grey_cartago_02_arm_4k.jpg",
+                    "md5": "199d13162c6b27135858621cc6c0f1dc"
+                },
+                "png": {
+                    "size": 57775772,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/grey_cartago_02/grey_cartago_02_arm_4k.png",
+                    "md5": "255a6db1bf6aef0ecce141aa9883d49b"
+                },
+                "exr": {
+                    "size": 8108391,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/grey_cartago_02/grey_cartago_02_arm_4k.exr",
+                    "md5": "6e2092c634a7fed22a1a9bbc0ac99d2a"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1363990,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_cartago_02/grey_cartago_02_arm_2k.jpg",
+                    "md5": "4ebea1126c22f31d243a41e53b8281cc"
+                },
+                "png": {
+                    "size": 14556586,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/grey_cartago_02/grey_cartago_02_arm_2k.png",
+                    "md5": "d4e78c3daee0195c491538d7b2dc06cb"
+                },
+                "exr": {
+                    "size": 2028049,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/grey_cartago_02/grey_cartago_02_arm_2k.exr",
+                    "md5": "20b897ea37ab3de22bc44a64db8ad276"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 359439,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_cartago_02/grey_cartago_02_arm_1k.jpg",
+                    "md5": "5b69e390fc01f0a099658088f5e9777e"
+                },
+                "png": {
+                    "size": 3687094,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/grey_cartago_02/grey_cartago_02_arm_1k.png",
+                    "md5": "2391eba0e43fbf8d4a9812486055b8f4"
+                },
+                "exr": {
+                    "size": 557389,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/grey_cartago_02/grey_cartago_02_arm_1k.exr",
+                    "md5": "436c847a854703d84bdaed96981ebe60"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 16579743,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/grey_cartago_02/grey_cartago_02_ao_8k.jpg",
+                    "md5": "de544126811fda06519f7d43a026eab7"
+                },
+                "png": {
+                    "size": 97410159,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/grey_cartago_02/grey_cartago_02_ao_8k.png",
+                    "md5": "b6b944a5e9c3f1fa7dcb3cb168b6d4e6"
+                },
+                "exr": {
+                    "size": 14120335,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/grey_cartago_02/grey_cartago_02_ao_8k.exr",
+                    "md5": "37b1231fe9b331bae3de4e2ae0e99f9c"
+                }
+            },
+            "16k": {
+                "jpg": {
+                    "size": 50316525,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/grey_cartago_02/grey_cartago_02_ao_16k.jpg",
+                    "md5": "5bb760db1e1fc0cb0f778ff168095177"
+                },
+                "png": {
+                    "size": 348645248,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/grey_cartago_02/grey_cartago_02_ao_16k.png",
+                    "md5": "b295aad8a1f18050a636e3b59354300b"
+                },
+                "exr": {
+                    "size": 42995973,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/grey_cartago_02/grey_cartago_02_ao_16k.exr",
+                    "md5": "d6ea18a166680420e7b8dab08fde8f05"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4778204,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_cartago_02/grey_cartago_02_ao_4k.jpg",
+                    "md5": "13d3de33ff1664e88013a7d59c95f1e3"
+                },
+                "png": {
+                    "size": 25292110,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/grey_cartago_02/grey_cartago_02_ao_4k.png",
+                    "md5": "0a0034b667bc44917d4c999e259b04f6"
+                },
+                "exr": {
+                    "size": 4050631,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/grey_cartago_02/grey_cartago_02_ao_4k.exr",
+                    "md5": "ed7cfcc0c98b48b0e17e7af92ab21803"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1233419,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_cartago_02/grey_cartago_02_ao_2k.jpg",
+                    "md5": "4767001282fc60b0fd2871fab79745b7"
+                },
+                "png": {
+                    "size": 6421204,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/grey_cartago_02/grey_cartago_02_ao_2k.png",
+                    "md5": "59fd337dc2395c8ffd6b747d33ba0479"
+                },
+                "exr": {
+                    "size": 1042456,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/grey_cartago_02/grey_cartago_02_ao_2k.exr",
+                    "md5": "316b97a3ffe15ac34921d9e728fa7f4c"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 314462,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_cartago_02/grey_cartago_02_ao_1k.jpg",
+                    "md5": "6bee5c8e21b3dc057bd7eaf736015d20"
+                },
+                "png": {
+                    "size": 1619474,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/grey_cartago_02/grey_cartago_02_ao_1k.png",
+                    "md5": "8b94be1583c101c05252b26c5f3ee5b0"
+                },
+                "exr": {
+                    "size": 273304,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/grey_cartago_02/grey_cartago_02_ao_1k.exr",
+                    "md5": "6d3bfc533796a06d4f6a28fdc313afa8"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 5800082,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/grey_cartago_02/grey_cartago_02_disp_8k.jpg",
+                    "md5": "22a4d214933ef1386124b768d99ead41"
+                },
+                "png": {
+                    "size": 75940287,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/grey_cartago_02/grey_cartago_02_disp_8k.png",
+                    "md5": "d27f7f5c9e6b2e91ef10c6d9ccf04949"
+                },
+                "exr": {
+                    "size": 4100277,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/grey_cartago_02/grey_cartago_02_disp_8k.exr",
+                    "md5": "185d8e095414d2383c4497a4d633e37c"
+                }
+            },
+            "16k": {
+                "jpg": {
+                    "size": 15464860,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/grey_cartago_02/grey_cartago_02_disp_16k.jpg",
+                    "md5": "10e67f8d93f47bd1e643be3f5f6ac9f1"
+                },
+                "png": {
+                    "size": 243796327,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/grey_cartago_02/grey_cartago_02_disp_16k.png",
+                    "md5": "67b415886337ca7b47d99a332b4f92e8"
+                },
+                "exr": {
+                    "size": 10896876,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/grey_cartago_02/grey_cartago_02_disp_16k.exr",
+                    "md5": "97bb52b8af52ff9e9166e179567aa1cb"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2020362,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_cartago_02/grey_cartago_02_disp_4k.jpg",
+                    "md5": "0ed34f4b1c930df2f99ac3a638fc57e2"
+                },
+                "png": {
+                    "size": 21627432,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/grey_cartago_02/grey_cartago_02_disp_4k.png",
+                    "md5": "d25165833a229b27f93137016f0d3745"
+                },
+                "exr": {
+                    "size": 1458545,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/grey_cartago_02/grey_cartago_02_disp_4k.exr",
+                    "md5": "36fc48c02dc666e9e8323ddd2eed300a"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 650728,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_cartago_02/grey_cartago_02_disp_2k.jpg",
+                    "md5": "d81622c56674416c8a4019690f403b43"
+                },
+                "png": {
+                    "size": 5857574,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/grey_cartago_02/grey_cartago_02_disp_2k.png",
+                    "md5": "9031e28fc88cad0d51993d8b5e6f57f5"
+                },
+                "exr": {
+                    "size": 522278,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/grey_cartago_02/grey_cartago_02_disp_2k.exr",
+                    "md5": "476e5a7ed6bfb5ab034fc70aa25d310f"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 203091,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_cartago_02/grey_cartago_02_disp_1k.jpg",
+                    "md5": "e2dbdecba11d1a83b6b0b26f9f67f0a8"
+                },
+                "png": {
+                    "size": 1543132,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/grey_cartago_02/grey_cartago_02_disp_1k.png",
+                    "md5": "71aef85839781e38c05005d71009f8f0"
+                },
+                "exr": {
+                    "size": 179636,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/grey_cartago_02/grey_cartago_02_disp_1k.exr",
+                    "md5": "c6adb1ec771a8d7f61255efcdcfc41aa"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 16935814,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/grey_cartago_02/grey_cartago_02_rough_8k.jpg",
+                    "md5": "ab1642908fb6f29d8fc5c6d90f771f1e"
+                },
+                "png": {
+                    "size": 138969951,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/grey_cartago_02/grey_cartago_02_rough_8k.png",
+                    "md5": "325d4e0ccf977d853f108c4374cb1075"
+                },
+                "exr": {
+                    "size": 16771803,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/grey_cartago_02/grey_cartago_02_rough_8k.exr",
+                    "md5": "372ec1d3b8cfbfefd169acbd84218201"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4825773,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_cartago_02/grey_cartago_02_rough_4k.jpg",
+                    "md5": "a54280a36afc35a81694978476c9a74a"
+                },
+                "png": {
+                    "size": 35749020,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/grey_cartago_02/grey_cartago_02_rough_4k.png",
+                    "md5": "950406d5301bc339882c21ccc5a1d20a"
+                },
+                "exr": {
+                    "size": 4581693,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/grey_cartago_02/grey_cartago_02_rough_4k.exr",
+                    "md5": "51370c607143a75692d4d4c6472da478"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1179617,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_cartago_02/grey_cartago_02_rough_2k.jpg",
+                    "md5": "5602bc79fc77208d4dcfbd7461609aca"
+                },
+                "png": {
+                    "size": 8929376,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/grey_cartago_02/grey_cartago_02_rough_2k.png",
+                    "md5": "a6da5e3c743282362cd7dc07b3cd9b76"
+                },
+                "exr": {
+                    "size": 1140442,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/grey_cartago_02/grey_cartago_02_rough_2k.exr",
+                    "md5": "6c56378e148f679a6a543d3de2e51b9a"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 307793,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_cartago_02/grey_cartago_02_rough_1k.jpg",
+                    "md5": "9edaafadb3f5485a546beb07774dcaef"
+                },
+                "png": {
+                    "size": 2257152,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/grey_cartago_02/grey_cartago_02_rough_1k.png",
+                    "md5": "69730a846779c0b88c6d3d628bb35b41"
+                },
+                "exr": {
+                    "size": 319191,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/grey_cartago_02/grey_cartago_02_rough_1k.exr",
+                    "md5": "c8135d6515e70b5c559f8f12688d42c4"
+                }
+            },
+            "16k": {
+                "jpg": {
+                    "size": 49671936,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/16k/grey_cartago_02/grey_cartago_02_rough_16k.jpg",
+                    "md5": "820e6f2339f411cd6b37de1b31c07940"
+                },
+                "exr": {
+                    "size": 49167391,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/16k/grey_cartago_02/grey_cartago_02_rough_16k.exr",
+                    "md5": "1d80da4dedb3341a46551b20f83e19c5"
+                },
+                "png": {
+                    "size": 563428530,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/16k/grey_cartago_02/grey_cartago_02_rough_16k.png",
+                    "md5": "0bfded9c33687f2cedcfd027b6237286"
+                }
+            }
+        }
+    }
+}

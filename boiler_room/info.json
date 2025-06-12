@@ -1,0 +1,116 @@
+{
+    "evs_cap": 8,
+    "prepaid": true,
+    "type": 0,
+    "whitebalance": 5050,
+    "tags": [
+        "machine",
+        "industrial",
+        "pipes",
+        "factory"
+    ],
+    "date_published": 1540854000,
+    "name": "Boiler Room",
+    "categories": [
+        "indoor",
+        "urban",
+        "low contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1536236880,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "max_resolution": [
+        17000,
+        8500
+    ],
+    "files_hash": "b6177661f9456737ec10ecb39bb61f1f4efda3c9",
+    "download_count": 28887,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/boiler_room.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5451473,
+            "md5": "0c2714d5127440c370489e6c737edd19",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/boiler_room.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/boiler_room_8k.hdr",
+                    "size": 103103611,
+                    "md5": "7808a4f94c415d6dc2c42aa425e80a32"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/boiler_room_8k.exr",
+                    "size": 90353406,
+                    "md5": "45945e5b4364156119f41fa902c5ee5b"
+                }
+            },
+            "17k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/boiler_room_17k.hdr",
+                    "size": 422807420,
+                    "md5": "0ca9cb9fbef27a2b7f11e08552d27a07"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/boiler_room_17k.exr",
+                    "size": 356916237,
+                    "md5": "784404af2c202fa91310801428d87628"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 393953443,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/boiler_room_16k.hdr",
+                    "md5": "79becf0354c2f36ed2e8dfb07cfb576d"
+                },
+                "exr": {
+                    "size": 339963252,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/boiler_room_16k.exr",
+                    "md5": "4d67c13fb20ea81a51e3b5546da7a1a5"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/boiler_room_4k.hdr",
+                    "size": 26342571,
+                    "md5": "bc1e3b1d70cb2ad2da03ea92f830b522"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/boiler_room_4k.exr",
+                    "size": 23613147,
+                    "md5": "42f0b368e64497e12a5d8a02cc6a9099"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/boiler_room_2k.hdr",
+                    "size": 6707438,
+                    "md5": "324d15c18b121a23fda28e35ba280072"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/boiler_room_2k.exr",
+                    "size": 6196984,
+                    "md5": "19c1510e4b6d9967eff792bc215d8f05"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/boiler_room_1k.hdr",
+                    "size": 1709233,
+                    "md5": "d0949aff31c4875691863aa00f02173d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/boiler_room_1k.exr",
+                    "size": 1636813,
+                    "md5": "ddee451efb5c04e59e61b43d39f464f4"
+                }
+            }
+        }
+    }
+}

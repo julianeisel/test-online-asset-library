@@ -1,0 +1,108 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "whitebalance": 5523,
+    "tags": [
+        "sun",
+        "snow",
+        "field",
+        "bridge",
+        "tree",
+        "ice",
+        "frozen"
+    ],
+    "date_published": 1553209200,
+    "name": "Winter River",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1547725740,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "10485422"
+    ],
+    "files_hash": "ed8ba11d16faeae555431deb9b2e75d3a0e56bc6",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 40374,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/winter_river.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 3526864,
+            "md5": "03d9d48d17e24496dc98a028a3dea653",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/winter_river.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 95477250,
+                    "md5": "1d3ed7dba0fb1614b2789fc87dad2e68",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/winter_river_8k.hdr"
+                },
+                "exr": {
+                    "size": 68561399,
+                    "md5": "83f93b4646c7e11d72151fc574eb64e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/winter_river_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 350931536,
+                    "md5": "16280f28d4cbaa3341930e1007d37191",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/winter_river_16k.hdr"
+                },
+                "exr": {
+                    "size": 237877833,
+                    "md5": "91e82fcdaf2d0572a18055d87f0661ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/winter_river_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23971964,
+                    "md5": "209288cdcd073e19f88de14f3eb029fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/winter_river_4k.hdr"
+                },
+                "exr": {
+                    "size": 18055261,
+                    "md5": "6bf9b695f57858e7267c01a537711f47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/winter_river_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5882289,
+                    "md5": "4b84d076d1e711184685ba49b4aa36f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/winter_river_2k.hdr"
+                },
+                "exr": {
+                    "size": 4642637,
+                    "md5": "b625808cb114b0886f64490928dcb6c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/winter_river_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1473874,
+                    "md5": "ff4d67533d12a5ef36ba30d198afdb14",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/winter_river_1k.hdr"
+                },
+                "exr": {
+                    "size": 1207322,
+                    "md5": "79db63a17425c83cf6068a7e16d2f3cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/winter_river_1k.exr"
+                }
+            }
+        }
+    }
+}

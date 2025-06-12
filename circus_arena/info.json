@@ -1,0 +1,114 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5050,
+    "tags": [
+        "seat",
+        "theater",
+        "arena",
+        "show"
+    ],
+    "date_published": 1555970400,
+    "name": "Circus Arena",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1550327040,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "max_resolution": [
+        17000,
+        8500
+    ],
+    "files_hash": "57e62c376fe5a8b4d07b66eb484299160da5fa27",
+    "download_count": 71982,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/circus_arena.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5278607,
+            "md5": "6d4f2369c646576d31deaacab696c185",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/circus_arena.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/circus_arena_8k.hdr",
+                    "size": 94284303,
+                    "md5": "cfc850ec25219ea4a939bc7179d4271e"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/circus_arena_8k.exr",
+                    "size": 83745234,
+                    "md5": "ae8f5250b298d507b7c3cc1b2bd3d508"
+                }
+            },
+            "17k": {
+                "hdr": {
+                    "size": 378167175,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/circus_arena_17k.hdr",
+                    "md5": "6b42182ed285cb4f96aaef28b1bbd972"
+                },
+                "exr": {
+                    "size": 331891404,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/circus_arena_17k.exr",
+                    "md5": "5c1c3bbc4b06e29489972c69b24cd287"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/circus_arena_16k.hdr",
+                    "size": 352839355,
+                    "md5": "671c4cb50b214c7ef05ca621c5710946"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/circus_arena_16k.exr",
+                    "size": 315019104,
+                    "md5": "0b7f11a3b73da288666fe2494b774cfb"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/circus_arena_4k.hdr",
+                    "size": 24229210,
+                    "md5": "e4fd7062b16b62216cf02cb89010ce7e"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/circus_arena_4k.exr",
+                    "size": 21655424,
+                    "md5": "f9be14bba05ffd71d3c4311cad50fd31"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/circus_arena_2k.hdr",
+                    "size": 6189360,
+                    "md5": "adffd6d5d2445381a4daebb81f16cc91"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/circus_arena_2k.exr",
+                    "size": 5678600,
+                    "md5": "ab197348c6a88e80d758e60946045621"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/circus_arena_1k.hdr",
+                    "size": 1581181,
+                    "md5": "68e427743b6061412ae28777ac480e38"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/circus_arena_1k.exr",
+                    "size": 1510696,
+                    "md5": "6238476d7da2cd8ad600de737861b108"
+                }
+            }
+        }
+    }
+}

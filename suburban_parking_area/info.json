@@ -1,0 +1,127 @@
+{
+    "donated": true,
+    "evs_cap": 6,
+    "type": 0,
+    "whitebalance": 6200,
+    "tags": [
+        "road",
+        "parking",
+        "house",
+        "bush",
+        "hedge",
+        "suburb",
+        "curve",
+        "europe"
+    ],
+    "date_published": 1599732977,
+    "name": "Suburban Parking Area",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1599671040,
+    "coords": [
+        45.423595,
+        12.151789
+    ],
+    "authors": {
+        "Jacopo Voltolina": "All"
+    },
+    "files_hash": "d3c2e2c42ac2b7c97623065482b76389bba0e5f3",
+    "sponsors": [
+        "16608220",
+        "77433244",
+        "11167855"
+    ],
+    "max_resolution": [
+        20000,
+        10000
+    ],
+    "download_count": 107139,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/suburban_parking_area.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 7482581,
+            "md5": "504800bb0e602bb2bead168f4b1942cc",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/suburban_parking_area.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103009559,
+                    "md5": "5f7009ef61cec4c96754f2668d8cf019",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/suburban_parking_area_8k.hdr"
+                },
+                "exr": {
+                    "size": 27313882,
+                    "md5": "6f6f26ef4eafd043bf9cc5da4a97b1fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/suburban_parking_area_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 404077874,
+                    "md5": "58c77262323231c89b21a9c24937a205",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/suburban_parking_area_16k.hdr"
+                },
+                "exr": {
+                    "size": 95007655,
+                    "md5": "5ca79c45ba86db0363ffcd01cf43ccc6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/suburban_parking_area_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25522148,
+                    "md5": "a15439b034a84c80214934b36dacc972",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/suburban_parking_area_4k.hdr"
+                },
+                "exr": {
+                    "size": 7240596,
+                    "md5": "9fd6ac2c830b26fa4b5614bede67874d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/suburban_parking_area_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5724228,
+                    "md5": "f63872269e6b812094caf383aa670442",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/suburban_parking_area_2k.hdr"
+                },
+                "exr": {
+                    "size": 1828239,
+                    "md5": "0e7868e6ebce9b1067657e152d030a46",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/suburban_parking_area_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1341401,
+                    "md5": "5488dd32c9876ab40c066834767e47a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/suburban_parking_area_1k.hdr"
+                },
+                "exr": {
+                    "size": 462501,
+                    "md5": "4181a9ce7cc96129da1255f7a4bd5410",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/suburban_parking_area_1k.exr"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 598818801,
+                    "md5": "8fc912feae0cac63915c45cfbd9a0257",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/suburban_parking_area_20k.hdr"
+                },
+                "exr": {
+                    "size": 144409406,
+                    "md5": "0373f2587f59e0b57d412e64294138f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/suburban_parking_area_20k.exr"
+                }
+            }
+        }
+    }
+}

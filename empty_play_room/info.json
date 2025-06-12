@@ -1,0 +1,125 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "carpet",
+        "table tennis",
+        "curtain",
+        "fluorescent",
+        "brick",
+        "wood"
+    ],
+    "name": "Empty Play Room",
+    "categories": [
+        "indoor",
+        "urban",
+        "natural light",
+        "artificial light",
+        "medium contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1724251020,
+    "coords": [
+        -28.490610784170876,
+        29.00570280764028
+    ],
+    "authors": {
+        "Greg Zaal": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "1f8afb94b1a8b5cbf44a8568f427fb9dee33c9f5",
+    "date_published": 1727049600,
+    "download_count": 4538,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/empty_play_room.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 45178419,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/empty_play_room.jpg",
+            "md5": "87b012a308d08dff0ae531a2aa1f5a54"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103140434,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/empty_play_room_8k.hdr",
+                    "md5": "a56e440a6f45b258250092e72729908c"
+                },
+                "exr": {
+                    "size": 385791056,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/empty_play_room_8k.exr",
+                    "md5": "b8c6fe234608b1921827c89f0cd0ee2e"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 386813488,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/empty_play_room_16k.hdr",
+                    "md5": "fb41304ee2f182376390ce632ad75491"
+                },
+                "exr": {
+                    "size": 1530450215,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/empty_play_room_16k.exr",
+                    "md5": "be33ac2040267c68d1e477ae48a14a0c"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26187890,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/empty_play_room_4k.hdr",
+                    "md5": "29543574ea43ef92e3dd1f0a55ecc846"
+                },
+                "exr": {
+                    "size": 96680618,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/empty_play_room_4k.exr",
+                    "md5": "f7aba48d68f59a64ed98c623312655f1"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 849104260,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/empty_play_room_24k.hdr",
+                    "md5": "3a988001231b09938a3ca9ce7f40cd81"
+                },
+                "exr": {
+                    "size": 3403854805,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/empty_play_room_24k.exr",
+                    "md5": "d80dad8417d7cfe9ff90f4bd6d01a891"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6479703,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/empty_play_room_2k.hdr",
+                    "md5": "9f2668e4a3425d8e0d0b14cffbce356f"
+                },
+                "exr": {
+                    "size": 24274117,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/empty_play_room_2k.exr",
+                    "md5": "1bab4b3cac9d8df506b80aab9ccad8ea"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1594619,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/empty_play_room_1k.hdr",
+                    "md5": "432ad2c39feb03155e12d299bcd84ca8"
+                },
+                "exr": {
+                    "size": 6092952,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/empty_play_room_1k.exr",
+                    "md5": "f52203121aee9091e7d6a66a1123f7cc"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 254665947,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/empty_play_room.zip",
+            "md5": "c61ba67701fa7aae07f1ec22046762bc"
+        }
+    }
+}

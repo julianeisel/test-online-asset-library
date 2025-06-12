@@ -1,0 +1,796 @@
+{
+    "evs_cap": 20,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1511239641,
+    "name": "Versveldpas",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1504346160,
+    "coords": [
+        -32.852506,
+        18.736551
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "10004313"
+    ],
+    "backplates": true,
+    "tags": [
+        "road",
+        "sun",
+        "view",
+        "vista",
+        "mountain",
+        "valley",
+        "cliff",
+        "backplates"
+    ],
+    "files_hash": "70f73727b6a750bdfdc4e079094846e2a2a493b0",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 45943,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/versveldpas.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6939615,
+            "md5": "bc7405fb4bd32b4c22063af57b38743e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/versveldpas.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 92631364,
+                    "md5": "4e9757f9cac63844082670ea123ab14d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/versveldpas_8k.hdr"
+                },
+                "exr": {
+                    "size": 82514776,
+                    "md5": "3924ebb5299844e4008fe93ecae91a7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/versveldpas_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 325726555,
+                    "md5": "b61b4386c5742d8aef905ff4ad6b2de5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/versveldpas_16k.hdr"
+                },
+                "exr": {
+                    "size": 301178432,
+                    "md5": "602dd9fa7dd6b4ca5a9470a232d478db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/versveldpas_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23621123,
+                    "md5": "a741d8981dcde6009bbca7cb7024f570",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/versveldpas_4k.hdr"
+                },
+                "exr": {
+                    "size": 21230873,
+                    "md5": "0da938359c96268a4002e359bcbc407c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/versveldpas_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5809816,
+                    "md5": "abf4ab76c56b5957aa8e4b1843c0776b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/versveldpas_2k.hdr"
+                },
+                "exr": {
+                    "size": 5367312,
+                    "md5": "65e7e9c99e9d629ee4decc2e3568d147",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/versveldpas_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1457050,
+                    "md5": "40c6a89d15093248bbf2a93a7687c3ee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/versveldpas_1k.hdr"
+                },
+                "exr": {
+                    "size": 1361111,
+                    "md5": "dfe198055cd28789a37bf9e2f30846af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/versveldpas_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC05726": {
+                "jpg_pretty": {
+                    "size": 19651588,
+                    "md5": "0a394a3a16b557e3efd4f4449f51659f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05726.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12465363,
+                    "md5": "caef7bb42183778c9b1ec373db0ac9ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05726.jpg"
+                },
+                "raw": {
+                    "size": 36995072,
+                    "md5": "9132de5f7252656a40e4caaf2deff49b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05726.ARW"
+                }
+            },
+            "DSC05725": {
+                "jpg_pretty": {
+                    "size": 19377565,
+                    "md5": "622186eeac8f3b20e6567e67534a728d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05725.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13029380,
+                    "md5": "11802a4df25e91668cc0ec8113bc46fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05725.jpg"
+                },
+                "raw": {
+                    "size": 36995072,
+                    "md5": "b9af70a804b6d3e2532d6f2f5883aeec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05725.ARW"
+                }
+            },
+            "DSC05724": {
+                "raw": {
+                    "size": 36929536,
+                    "md5": "13eaf190600a64899306a6fe7d9213d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05724.ARW"
+                }
+            },
+            "DSC05693": {
+                "raw": {
+                    "size": 37388288,
+                    "md5": "58aedcd6ccc168f0641611faf15afd08",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05693.ARW"
+                }
+            },
+            "DSC05692": {
+                "jpg_pretty": {
+                    "size": 33422937,
+                    "md5": "93e09abac6d80de9c0b8ecbdf3bf3469",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05692.jpg"
+                },
+                "jpg_plain": {
+                    "size": 23098145,
+                    "md5": "dec0849c68780a4eac3a9dca5a840aa0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05692.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "f481283d064bdd898aa1ce35cf129924",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05692.ARW"
+                }
+            },
+            "DSC05691": {
+                "jpg_pretty": {
+                    "size": 32283584,
+                    "md5": "777e9051d3969153a7a81938a77362af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05691.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21844038,
+                    "md5": "d576b030f313d3346595d355296772c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05691.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "cb176a8c117e0760e8ea5ac57b1b37cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05691.ARW"
+                }
+            },
+            "DSC05690": {
+                "jpg_pretty": {
+                    "size": 28523252,
+                    "md5": "0a7002167b26f6cc25bd6615d486acb7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05690.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20364320,
+                    "md5": "34be80bdbea20eae3f3cc7ba16e4efdf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05690.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "62e592b677e328e58cdc3d269856f725",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05690.ARW"
+                }
+            },
+            "DSC05699": {
+                "jpg_pretty": {
+                    "size": 17422158,
+                    "md5": "d669e146a6e48fd8325912a6fbadef69",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05699.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13901464,
+                    "md5": "0f2698a8c62805f5351bc1358b334441",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05699.jpg"
+                },
+                "raw": {
+                    "size": 37027840,
+                    "md5": "cba061195f292c4e4f5a17cbded9cdf3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05699.ARW"
+                }
+            },
+            "DSC05698": {
+                "jpg_pretty": {
+                    "size": 29931470,
+                    "md5": "bac1d4185c07283ad4e88d4555353440",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05698.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21356493,
+                    "md5": "135712c917152eeed84e5f06820e7444",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05698.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "d6297dc445d63cbd7c2246a21785d22e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05698.ARW"
+                }
+            },
+            "DSC05697": {
+                "jpg_pretty": {
+                    "size": 31779040,
+                    "md5": "5ea96de438ae658390dca4e899d751b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05697.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21567108,
+                    "md5": "9071bf2ecde08f056065cd963890942d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05697.jpg"
+                },
+                "raw": {
+                    "size": 37486592,
+                    "md5": "9f1ad14c32f29682e8ef7d300a4a6e96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05697.ARW"
+                }
+            },
+            "DSC05696": {
+                "jpg_pretty": {
+                    "size": 24099924,
+                    "md5": "10bcf60047b3b41ba106101c751c2654",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05696.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16511907,
+                    "md5": "92dfd2b95e6bdc368c65a97b2f4a6e86",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05696.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "21f9530e524dd813cffcb187e38f5ed2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05696.ARW"
+                }
+            },
+            "DSC05695": {
+                "jpg_pretty": {
+                    "size": 25680956,
+                    "md5": "5208a35020422fdf3e889789bc4d8df7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05695.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17548363,
+                    "md5": "08425d5f9dc2fd6074322032aa78dc90",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05695.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "0e5be564cf01367750d9d25067512764",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05695.ARW"
+                }
+            },
+            "DSC05694": {
+                "jpg_pretty": {
+                    "size": 30157375,
+                    "md5": "54e9ff1fee75e11917de7dbf4f9664bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05694.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20721657,
+                    "md5": "a0a018e971166b861e2049bd5a11ff7c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05694.jpg"
+                },
+                "raw": {
+                    "size": 37486592,
+                    "md5": "4eff46832cd5c6c3d22a6eef073495ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05694.ARW"
+                }
+            },
+            "DSC05701": {
+                "jpg_pretty": {
+                    "size": 20183884,
+                    "md5": "bb54f788906fd0f88da131b78bc0ac97",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05701.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15151479,
+                    "md5": "08fcd012ed97f2bcc88d0f15c9f375a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05701.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "7bc0948ffc6942253b4b53b71abef92c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05701.ARW"
+                }
+            },
+            "DSC05700": {
+                "raw": {
+                    "size": 37289984,
+                    "md5": "5379220ec4344bfba7295b2b0fda7169",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05700.ARW"
+                }
+            },
+            "DSC05708": {
+                "raw": {
+                    "size": 37027840,
+                    "md5": "79bc0848ca893b7bfeb60a35cadd5a03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05708.ARW"
+                }
+            },
+            "DSC05707": {
+                "jpg_pretty": {
+                    "size": 29902452,
+                    "md5": "624072324ba3c7e3b0fbe70122b46b21",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05707.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19385556,
+                    "md5": "1215c025f712c30df0e9a39a70765c59",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05707.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "4f34a8477ed7db19d75ec8f903cc7ee1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05707.ARW"
+                }
+            },
+            "DSC05706": {
+                "raw": {
+                    "size": 36929536,
+                    "md5": "a9ee1baf85aff000a31c14dfd193cc2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05706.ARW"
+                }
+            },
+            "DSC05705": {
+                "jpg_pretty": {
+                    "size": 11738628,
+                    "md5": "8ec8c7f0db6cec10bbe2740d483adf9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05705.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10062174,
+                    "md5": "4440d2957d1c7cc819ab106a7eebfe57",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05705.jpg"
+                },
+                "raw": {
+                    "size": 36864000,
+                    "md5": "627a442a44158ad376d3d47fe4c47b99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05705.ARW"
+                }
+            },
+            "DSC05704": {
+                "jpg_pretty": {
+                    "size": 14091831,
+                    "md5": "a71d9d0ab0928f876e7d19c88706369c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05704.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11671432,
+                    "md5": "a78685226e99d059dc3653d1c00d0394",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05704.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "1ea25a720e45dea68540779607ae9406",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05704.ARW"
+                }
+            },
+            "DSC05703": {
+                "jpg_pretty": {
+                    "size": 15614119,
+                    "md5": "e1f99cb7cb3643109dc6fe9c04c2471a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05703.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12338971,
+                    "md5": "92379af0dfd2e9efee78a0b8d6394dfb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05703.jpg"
+                },
+                "raw": {
+                    "size": 36962304,
+                    "md5": "c9529cd447cc8c17853ccaf7d5ace2a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05703.ARW"
+                }
+            },
+            "DSC05702": {
+                "jpg_pretty": {
+                    "size": 20173599,
+                    "md5": "35098f3033993f25f58243f4343c1947",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05702.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14379966,
+                    "md5": "d3730bcc3f35a2607a6720e58a8938cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05702.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "4fbef61eae4015805f076f0313494a78",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05702.ARW"
+                }
+            },
+            "DSC05679": {
+                "jpg_pretty": {
+                    "size": 25355428,
+                    "md5": "3a369151453c398cdceeb75a150d4c4c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05679.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17525174,
+                    "md5": "d7fcac9be12e2b29a89a71fcfea7a1f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05679.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "b134a5251d5507cbe1de455501a9573b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05679.ARW"
+                }
+            },
+            "DSC05712": {
+                "raw": {
+                    "size": 36962304,
+                    "md5": "38852e256cd74f011a2a88c731e47553",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05712.ARW"
+                }
+            },
+            "DSC05678": {
+                "jpg_pretty": {
+                    "size": 31373775,
+                    "md5": "8c85ff6a90da7ca75a1f056b878d820d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05678.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19413222,
+                    "md5": "acd5ec476d236ae4baeee864c27a415f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05678.jpg"
+                },
+                "raw": {
+                    "size": 37519360,
+                    "md5": "b176e32a80c5bdde94c12c2de17b6be8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05678.ARW"
+                }
+            },
+            "DSC05711": {
+                "raw": {
+                    "size": 36929536,
+                    "md5": "b3aec2433d1c1a3526e51720e93ad9fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05711.ARW"
+                }
+            },
+            "DSC05677": {
+                "jpg_pretty": {
+                    "size": 31799634,
+                    "md5": "6141c039c78066540dda066049e9bbe4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05677.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19678359,
+                    "md5": "258904e19fd2b8ca524d07edd36ec957",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05677.jpg"
+                },
+                "raw": {
+                    "size": 37519360,
+                    "md5": "16e4f0ac925f0adba2d163f81bb776f2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05677.ARW"
+                }
+            },
+            "DSC05710": {
+                "jpg_pretty": {
+                    "size": 30056290,
+                    "md5": "cd46bc19c56f5dbf1ee78e24bdde320d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05710.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19149907,
+                    "md5": "1f75397eeda491aeca295a48e8cd148d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05710.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "f2d6c8c4766107763c629957d6d11f01",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05710.ARW"
+                }
+            },
+            "DSC05676": {
+                "jpg_pretty": {
+                    "size": 32871995,
+                    "md5": "926fdf91d19a49f486cbedab63097b34",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05676.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20645952,
+                    "md5": "4aeeab8fd2fad7aef92bd1e775dcfd9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05676.jpg"
+                },
+                "raw": {
+                    "size": 37650432,
+                    "md5": "3e25bbfeb88a720e304251fd89f285c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05676.ARW"
+                }
+            },
+            "DSC05719": {
+                "raw": {
+                    "size": 37158912,
+                    "md5": "53325662441a8e3e913013f04051f7aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05719.ARW"
+                }
+            },
+            "DSC05718": {
+                "raw": {
+                    "size": 37093376,
+                    "md5": "210cb58df967b536b49471c163887a69",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05718.ARW"
+                }
+            },
+            "DSC05717": {
+                "jpg_pretty": {
+                    "size": 27143646,
+                    "md5": "884aed36f981587ad054883c75e76776",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05717.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19179509,
+                    "md5": "decb7699bb393c5aeb65f017452d570c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05717.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "4aa0625ca5407113b15db9f1be1c8c33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05717.ARW"
+                }
+            },
+            "DSC05716": {
+                "raw": {
+                    "size": 37093376,
+                    "md5": "500fd84c25b6e73d4cf4b18d44e24b38",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05716.ARW"
+                }
+            },
+            "DSC05715": {
+                "raw": {
+                    "size": 37093376,
+                    "md5": "f70d7045f934eef73f1eac0aa1257517",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05715.ARW"
+                }
+            },
+            "DSC05714": {
+                "raw": {
+                    "size": 37126144,
+                    "md5": "373175a7da658b92aed0e46d5436259f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05714.ARW"
+                }
+            },
+            "DSC05713": {
+                "raw": {
+                    "size": 37224448,
+                    "md5": "69214b48629f6988921a92288e39e215",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05713.ARW"
+                }
+            },
+            "DSC05682": {
+                "jpg_pretty": {
+                    "size": 28882951,
+                    "md5": "a7b220746418da0763e333e7a04b790c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05682.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20255157,
+                    "md5": "d7df6653bb8506f5e2f5bdd266565daa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05682.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "8a8ed1509154ca5489fabd2b70b007cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05682.ARW"
+                }
+            },
+            "DSC05681": {
+                "jpg_pretty": {
+                    "size": 29794377,
+                    "md5": "a221b4f99b7dd018ce8e58ea82774bff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05681.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20736533,
+                    "md5": "34c54af783e2fb63237214b741bbdc6f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05681.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "d36d789a02eac45924102364b8a07d46",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05681.ARW"
+                }
+            },
+            "DSC05680": {
+                "jpg_pretty": {
+                    "size": 29589645,
+                    "md5": "a842ef44ddf0fd096faaecaf6c306b25",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05680.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20205235,
+                    "md5": "c8e99a7bdc0495b388cceee813bd140b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05680.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "3d65759b3e9ac4d283b72f4f1f739130",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05680.ARW"
+                }
+            },
+            "DSC05723": {
+                "raw": {
+                    "size": 36864000,
+                    "md5": "f74f9dc59fd9b81e54c854e9d150413c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05723.ARW"
+                }
+            },
+            "DSC05689": {
+                "jpg_pretty": {
+                    "size": 28358904,
+                    "md5": "193858d6ed0f246e4040a33f763f1ef3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05689.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20161969,
+                    "md5": "605580edb2c3ea7e4ef9c138fad466d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05689.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "55aa40dcac365f957cf229141f9f7ff8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05689.ARW"
+                }
+            },
+            "DSC05722": {
+                "raw": {
+                    "size": 36896768,
+                    "md5": "ddca5adfebe09ba84f2395a37884a608",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05722.ARW"
+                }
+            },
+            "DSC05688": {
+                "jpg_pretty": {
+                    "size": 28214611,
+                    "md5": "6ae6fab19044434e5cdc91f1d1a618a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05688.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19909270,
+                    "md5": "a47a1df56e1762dd74626e6be919ce41",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05688.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "30b4b9e7a9178d6084ea8bf85153ed0e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05688.ARW"
+                }
+            },
+            "DSC05721": {
+                "raw": {
+                    "size": 36995072,
+                    "md5": "917b8c0dc980ca9db2ac293e2be7f68a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05721.ARW"
+                }
+            },
+            "DSC05687": {
+                "jpg_pretty": {
+                    "size": 20473425,
+                    "md5": "936fd9c6306abc16c600cba94afc987e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05687.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16146339,
+                    "md5": "e57e1171959da12d6e40cc29feef95d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05687.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "fee9256497f816c39181adb4bb5c9f7b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05687.ARW"
+                }
+            },
+            "DSC05720": {
+                "raw": {
+                    "size": 37027840,
+                    "md5": "4a8fbb47f61e1d949b96bf4384bd1ff1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05720.ARW"
+                }
+            },
+            "DSC05686": {
+                "jpg_pretty": {
+                    "size": 27800974,
+                    "md5": "8eaaf8f22445f8e111289d1009ee9953",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05686.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19199381,
+                    "md5": "62fd295ef8f45fd7b9f2ab2a523bc22c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05686.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "668fe1ef4993ddf1a5864d57a7500c6f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05686.ARW"
+                }
+            },
+            "DSC05685": {
+                "jpg_pretty": {
+                    "size": 21618033,
+                    "md5": "d5626d9b783b6d4ccad7c746bd27576e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05685.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15431422,
+                    "md5": "c43d34ac1ee0769721507239cd84c44d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05685.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "f3d7cd2990c1b59b896185bc828e6541",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05685.ARW"
+                }
+            },
+            "DSC05684": {
+                "jpg_pretty": {
+                    "size": 22874766,
+                    "md5": "2df02bf165fc0993ed1c74d124791dcd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05684.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16472815,
+                    "md5": "de7caffef567667d6f3b3cc99e75f4e6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05684.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "8f42e8000f958ea2724bc8bcd608f180",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05684.ARW"
+                }
+            },
+            "DSC05683": {
+                "jpg_pretty": {
+                    "size": 30570714,
+                    "md5": "6c5a0eb29928f42533b06b9fd59d766b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_pretty/DSC05683.jpg"
+                },
+                "jpg_plain": {
+                    "size": 21435018,
+                    "md5": "9be4c3e523e923b212ae95509359c023",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/jpg_plain/DSC05683.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "497af6baf8bddb91f56ef3a3b1fe1c24",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/versveldpas/raw/DSC05683.ARW"
+                }
+            }
+        }
+    }
+}

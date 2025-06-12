@@ -1,0 +1,113 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 6900,
+    "tags": [
+        "soil",
+        "dirt",
+        "farm",
+        "field",
+        "rural",
+        "earth"
+    ],
+    "name": "Overcast Soil",
+    "categories": [
+        "outdoor",
+        "skies",
+        "natural light",
+        "nature",
+        "low contrast",
+        "overcast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1697731980,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "files_hash": "65cd99e09c486ca229c35ac89694b0f5e7b55831",
+    "date_published": 1701648000,
+    "sponsors": [
+        "37678923"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 41746,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/overcast_soil.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 39281074,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/overcast_soil.jpg",
+            "md5": "617ff3cd0dfde7082fe1cbce45be42d0"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98359046,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/overcast_soil_8k.hdr",
+                    "md5": "807c0fe472770ed839ca6650adc9add2"
+                },
+                "exr": {
+                    "size": 77355025,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/overcast_soil_8k.exr",
+                    "md5": "f4b33ab18fe25e252f912e6f88c89c45"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 360868666,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/overcast_soil_16k.hdr",
+                    "md5": "1aff19c292f62d2a0281937c51401ad9"
+                },
+                "exr": {
+                    "size": 277089317,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/overcast_soil_16k.exr",
+                    "md5": "dd45234099c1edc0a024895b4b225559"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25480313,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/overcast_soil_4k.hdr",
+                    "md5": "1fa7fd3340f64ec4c01e53e62e22fe3b"
+                },
+                "exr": {
+                    "size": 20312076,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/overcast_soil_4k.exr",
+                    "md5": "e61dd9430517f6c66f1d7bc2588ca5f4"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6502864,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/overcast_soil_2k.hdr",
+                    "md5": "2ce2de5d4e7a31286e249ccec631707b"
+                },
+                "exr": {
+                    "size": 5308220,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/overcast_soil_2k.exr",
+                    "md5": "eae98d425285e9310d990d5d34274ad4"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1650749,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/overcast_soil_1k.hdr",
+                    "md5": "064f43a150b2d956e500dda95d64290f"
+                },
+                "exr": {
+                    "size": 1393022,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/overcast_soil_1k.exr",
+                    "md5": "ac8bf6a989454a6bec7cc536ce94f520"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 84067200,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/overcast_soil.zip",
+            "md5": "9fe80b2bea3c425001cf789d23e6a221"
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "tree",
+        "sun",
+        "snow",
+        "forest",
+        "bench",
+        "hill",
+        "field"
+    ],
+    "date_published": 1616454000,
+    "name": "Snowy Hillside",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.401595,
+        9.802425
+    ],
+    "date_taken": 1610101320,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "files_hash": "3f98d8535eef3a2f084e0f214bf1836cd26d9496",
+    "max_resolution": [
+        19548,
+        9774
+    ],
+    "download_count": 56207,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snowy_hillside.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4204035,
+            "md5": "73ce4da126fcecae6aa5a2ece21a181f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/snowy_hillside.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 523315580,
+                    "md5": "3f78b1ff6ec9d9f424ce7b599ab53f6a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/snowy_hillside_19k.hdr"
+                },
+                "exr": {
+                    "size": 832018111,
+                    "md5": "ea890f6d25f3d2d35becaac004501cf3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/snowy_hillside_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 97225099,
+                    "md5": "dce982a2e96786976aacb26120e053fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/snowy_hillside_8k.hdr"
+                },
+                "exr": {
+                    "size": 315909795,
+                    "md5": "8551a37f2efa1715f536bc721f0e1cb0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/snowy_hillside_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 370583005,
+                    "md5": "12681185852f8f1c478cd041eab3d41e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/snowy_hillside_16k.hdr"
+                },
+                "exr": {
+                    "size": 1232461003,
+                    "md5": "84c431bda28ea36e7557b29eaeb7ec3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/snowy_hillside_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25108176,
+                    "md5": "f804ad69caa21ea94609a4ccfcb76787",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/snowy_hillside_4k.hdr"
+                },
+                "exr": {
+                    "size": 81833932,
+                    "md5": "26703a3b0b617a50023d8bb190e12d2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/snowy_hillside_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6356734,
+                    "md5": "907c45f71d16dd331cb4f7dbb8c2ee2e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/snowy_hillside_2k.hdr"
+                },
+                "exr": {
+                    "size": 21492615,
+                    "md5": "3ec1725b0d70b6f40b4d154c0b1fee59",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/snowy_hillside_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1609728,
+                    "md5": "b0d0bf1600d120439d551b8db74264e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/snowy_hillside_1k.hdr"
+                },
+                "exr": {
+                    "size": 5807709,
+                    "md5": "e96ce6313dcc35d2dbe483ba5dfd26e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/snowy_hillside_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 169410004,
+            "md5": "0d2a7d0212da00a6dad3cdb471f97de3",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/snowy_hillside.zip"
+        }
+    }
+}

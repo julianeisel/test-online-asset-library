@@ -1,0 +1,869 @@
+{
+    "donated": true,
+    "date_published": 1625619600,
+    "name": "Food Kiwi 01",
+    "categories": [
+        "food",
+        "nature"
+    ],
+    "type": 2,
+    "authors": {
+        "Oliver Harries": "All"
+    },
+    "tags": [
+        "food",
+        "fruitbowl",
+        "fruit",
+        "kiwi",
+        "exotic",
+        "tropical"
+    ],
+    "files_hash": "474a6996b7a1e5882dbfe09fb50cfa322f30aaeb",
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "polycount": 7748,
+    "texel_density": 44307.13314812363,
+    "dimensions": [
+        69.51959803700447,
+        68.62715631723404,
+        90.06310164477327
+    ],
+    "download_count": 8051,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/food_kiwi_01.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 8741877,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_kiwi_01/food_kiwi_01_diff_8k.jpg",
+                    "md5": "3339a4aa59528145773c58f78ea7ad87"
+                },
+                "png": {
+                    "size": 67399729,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_kiwi_01/food_kiwi_01_diff_8k.png",
+                    "md5": "51ce5815d296b6168131ae943f912710"
+                },
+                "exr": {
+                    "size": 47899307,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_kiwi_01/food_kiwi_01_diff_8k.exr",
+                    "md5": "d9b7a7eabf75763124b79ab23f24dc49"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2788689,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_kiwi_01/food_kiwi_01_diff_4k.jpg",
+                    "md5": "09714d8de1c4712a01fc382d9c2c0278"
+                },
+                "png": {
+                    "size": 17959609,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_kiwi_01/food_kiwi_01_diff_4k.png",
+                    "md5": "07498fbb84050e6765e626e18dc9152f"
+                },
+                "exr": {
+                    "size": 13589437,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_kiwi_01/food_kiwi_01_diff_4k.exr",
+                    "md5": "f9d2617a40cebcb6371cb7946a72930c"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 844766,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_kiwi_01/food_kiwi_01_diff_2k.jpg",
+                    "md5": "e493c09244abfcd06c5410c1becc4440"
+                },
+                "png": {
+                    "size": 4999219,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_kiwi_01/food_kiwi_01_diff_2k.png",
+                    "md5": "af95c349cec26e23b15fc6a65a899ac0"
+                },
+                "exr": {
+                    "size": 4165104,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_kiwi_01/food_kiwi_01_diff_2k.exr",
+                    "md5": "f055e942d5e962bc8881c86354df3c3e"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 227414,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_kiwi_01/food_kiwi_01_diff_1k.jpg",
+                    "md5": "5ed3276a4a0ae6a49d6cb5c722b649f0"
+                },
+                "png": {
+                    "size": 1321617,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_kiwi_01/food_kiwi_01_diff_1k.png",
+                    "md5": "63c4683531d2db2470248cceac94cf8e"
+                },
+                "exr": {
+                    "size": 1237095,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_kiwi_01/food_kiwi_01_diff_1k.exr",
+                    "md5": "29039fc4ce5ce44d43063418fda58fe3"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 7701544,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_kiwi_01/food_kiwi_01_nor_dx_8k.jpg",
+                    "md5": "9e297f1b2b4233785a5706aaab9e08f9"
+                },
+                "png": {
+                    "size": 186501866,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_kiwi_01/food_kiwi_01_nor_dx_8k.png",
+                    "md5": "ea8387df820ff23e80364ae95cefcab2"
+                },
+                "exr": {
+                    "size": 46361035,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_kiwi_01/food_kiwi_01_nor_dx_8k.exr",
+                    "md5": "241e9aa949705c26501119be246ab56b"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2414119,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_kiwi_01/food_kiwi_01_nor_dx_4k.jpg",
+                    "md5": "e338b64311ad57da1d6dd1c9a23db134"
+                },
+                "png": {
+                    "size": 50685863,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_kiwi_01/food_kiwi_01_nor_dx_4k.png",
+                    "md5": "41f41393997356f014d25a36bcd389ed"
+                },
+                "exr": {
+                    "size": 17196570,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_kiwi_01/food_kiwi_01_nor_dx_4k.exr",
+                    "md5": "33badd31d153b2d86f35c1c13c2f2959"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 650627,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_kiwi_01/food_kiwi_01_nor_dx_2k.jpg",
+                    "md5": "d3cec270a0ab8a064cdddb42d71b809c"
+                },
+                "png": {
+                    "size": 13066151,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_kiwi_01/food_kiwi_01_nor_dx_2k.png",
+                    "md5": "b383d64f5dadfb18f2f9f2aab6b41e31"
+                },
+                "exr": {
+                    "size": 4896069,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_kiwi_01/food_kiwi_01_nor_dx_2k.exr",
+                    "md5": "743cf6cd6012fd578c3b6af6e9bfcbe9"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 158171,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_kiwi_01/food_kiwi_01_nor_dx_1k.jpg",
+                    "md5": "b28bf4bb22db52d1a4e57b7a9d3da2c9"
+                },
+                "png": {
+                    "size": 3327164,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_kiwi_01/food_kiwi_01_nor_dx_1k.png",
+                    "md5": "d3e4ce6abb24a6261ff6472f2d9490c3"
+                },
+                "exr": {
+                    "size": 1285637,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_kiwi_01/food_kiwi_01_nor_dx_1k.exr",
+                    "md5": "8c5ed738c0ffd61b8fdb872d71c53e90"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 7655619,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_kiwi_01/food_kiwi_01_nor_gl_8k.jpg",
+                    "md5": "038ee6455a7c02c4440d8231114229e9"
+                },
+                "png": {
+                    "size": 196703506,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_kiwi_01/food_kiwi_01_nor_gl_8k.png",
+                    "md5": "e3bf3942876a2e86e86a29a2591356a2"
+                },
+                "exr": {
+                    "size": 46383931,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_kiwi_01/food_kiwi_01_nor_gl_8k.exr",
+                    "md5": "8f5c020ac6aebb6989fb73a55a6a92cd"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2395061,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_kiwi_01/food_kiwi_01_nor_gl_4k.jpg",
+                    "md5": "681c135428fafd9ecadb44b812517132"
+                },
+                "png": {
+                    "size": 50683031,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_kiwi_01/food_kiwi_01_nor_gl_4k.png",
+                    "md5": "b27e35dc1485b928a8be2577b6bd77da"
+                },
+                "exr": {
+                    "size": 17196158,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_kiwi_01/food_kiwi_01_nor_gl_4k.exr",
+                    "md5": "38e04882ef32cbcb0c64df78b3b57d83"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 644039,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_kiwi_01/food_kiwi_01_nor_gl_2k.jpg",
+                    "md5": "a196f0f4f5b8e97736eefc9c22fc8a0d"
+                },
+                "png": {
+                    "size": 13062919,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_kiwi_01/food_kiwi_01_nor_gl_2k.png",
+                    "md5": "3d1b2db7bca2eed6fa00621753ca4788"
+                },
+                "exr": {
+                    "size": 4895536,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_kiwi_01/food_kiwi_01_nor_gl_2k.exr",
+                    "md5": "0bf910d85225911eba8f83a7d2a068ee"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 156902,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_kiwi_01/food_kiwi_01_nor_gl_1k.jpg",
+                    "md5": "0742c2fbc90fff7b9516d942d4e7b1c6"
+                },
+                "png": {
+                    "size": 3326257,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_kiwi_01/food_kiwi_01_nor_gl_1k.png",
+                    "md5": "e57dc943eb1afd42bf754de6ca9436e1"
+                },
+                "exr": {
+                    "size": 1285821,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_kiwi_01/food_kiwi_01_nor_gl_1k.exr",
+                    "md5": "9b05016249c1b60c72ffab0159c3ace2"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/food_kiwi_01_rough_8k.jpg": {
+                            "size": 8740610,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_kiwi_01/food_kiwi_01_rough_8k.jpg",
+                            "md5": "4792e977edb826420b7eb09bcbe18167"
+                        },
+                        "textures/food_kiwi_01_nor_gl_8k.exr": {
+                            "size": 46383931,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_kiwi_01/food_kiwi_01_nor_gl_8k.exr",
+                            "md5": "8f5c020ac6aebb6989fb73a55a6a92cd"
+                        },
+                        "textures/food_kiwi_01_diff_8k.jpg": {
+                            "size": 8741877,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_kiwi_01/food_kiwi_01_diff_8k.jpg",
+                            "md5": "3339a4aa59528145773c58f78ea7ad87"
+                        }
+                    },
+                    "size": 483248,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/food_kiwi_01/food_kiwi_01_8k.blend",
+                    "md5": "d50cbad66cb9d0a159f6aedaf273635d"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/food_kiwi_01_rough_4k.jpg": {
+                            "size": 2944488,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_kiwi_01/food_kiwi_01_rough_4k.jpg",
+                            "md5": "b6d1f9b7fd015836c63c08897a681e5a"
+                        },
+                        "textures/food_kiwi_01_nor_gl_4k.exr": {
+                            "size": 17196158,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_kiwi_01/food_kiwi_01_nor_gl_4k.exr",
+                            "md5": "38e04882ef32cbcb0c64df78b3b57d83"
+                        },
+                        "textures/food_kiwi_01_diff_4k.jpg": {
+                            "size": 2788689,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_kiwi_01/food_kiwi_01_diff_4k.jpg",
+                            "md5": "09714d8de1c4712a01fc382d9c2c0278"
+                        }
+                    },
+                    "size": 483258,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/food_kiwi_01/food_kiwi_01_4k.blend",
+                    "md5": "d25035f1dbb0d87cd1f2bead061b9032"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/food_kiwi_01_rough_2k.jpg": {
+                            "size": 849761,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_kiwi_01/food_kiwi_01_rough_2k.jpg",
+                            "md5": "fae030ee3cff8855ada1259c85c4f1df"
+                        },
+                        "textures/food_kiwi_01_diff_2k.jpg": {
+                            "size": 844766,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_kiwi_01/food_kiwi_01_diff_2k.jpg",
+                            "md5": "e493c09244abfcd06c5410c1becc4440"
+                        },
+                        "textures/food_kiwi_01_nor_gl_2k.exr": {
+                            "size": 4895536,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_kiwi_01/food_kiwi_01_nor_gl_2k.exr",
+                            "md5": "0bf910d85225911eba8f83a7d2a068ee"
+                        }
+                    },
+                    "size": 483246,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/food_kiwi_01/food_kiwi_01_2k.blend",
+                    "md5": "4a91053de76d41d174f2d870b2fee998"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/food_kiwi_01_nor_gl_1k.exr": {
+                            "size": 1285821,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_kiwi_01/food_kiwi_01_nor_gl_1k.exr",
+                            "md5": "9b05016249c1b60c72ffab0159c3ace2"
+                        },
+                        "textures/food_kiwi_01_rough_1k.jpg": {
+                            "size": 223133,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_kiwi_01/food_kiwi_01_rough_1k.jpg",
+                            "md5": "8ac49e82b1879ddc4474f4cf52b40e36"
+                        },
+                        "textures/food_kiwi_01_diff_1k.jpg": {
+                            "size": 227414,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_kiwi_01/food_kiwi_01_diff_1k.jpg",
+                            "md5": "5ed3276a4a0ae6a49d6cb5c722b649f0"
+                        }
+                    },
+                    "size": 483280,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/food_kiwi_01/food_kiwi_01_1k.blend",
+                    "md5": "5f2b8a4dee5b52a03d5b9638082ca160"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "food_kiwi_01.bin": {
+                            "size": 184504,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_kiwi_01/food_kiwi_01.bin",
+                            "md5": "ee331eb144cf08cef2453cffe71c63f4"
+                        },
+                        "textures/food_kiwi_01_nor_gl_8k.jpg": {
+                            "size": 7655619,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_kiwi_01/food_kiwi_01_nor_gl_8k.jpg",
+                            "md5": "038ee6455a7c02c4440d8231114229e9"
+                        },
+                        "textures/food_kiwi_01_rough_8k.jpg": {
+                            "size": 8740610,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_kiwi_01/food_kiwi_01_rough_8k.jpg",
+                            "md5": "4792e977edb826420b7eb09bcbe18167"
+                        },
+                        "textures/food_kiwi_01_diff_8k.jpg": {
+                            "size": 8741877,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_kiwi_01/food_kiwi_01_diff_8k.jpg",
+                            "md5": "3339a4aa59528145773c58f78ea7ad87"
+                        }
+                    },
+                    "size": 2693,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_kiwi_01/food_kiwi_01_8k.gltf",
+                    "md5": "7ff50eb174b8c5c0a8ec39be8f066a66"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/food_kiwi_01_rough_4k.jpg": {
+                            "size": 2944488,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_kiwi_01/food_kiwi_01_rough_4k.jpg",
+                            "md5": "b6d1f9b7fd015836c63c08897a681e5a"
+                        },
+                        "food_kiwi_01.bin": {
+                            "size": 184504,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_kiwi_01/food_kiwi_01.bin",
+                            "md5": "ee331eb144cf08cef2453cffe71c63f4"
+                        },
+                        "textures/food_kiwi_01_nor_gl_4k.jpg": {
+                            "size": 2395061,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_kiwi_01/food_kiwi_01_nor_gl_4k.jpg",
+                            "md5": "681c135428fafd9ecadb44b812517132"
+                        },
+                        "textures/food_kiwi_01_diff_4k.jpg": {
+                            "size": 2788689,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_kiwi_01/food_kiwi_01_diff_4k.jpg",
+                            "md5": "09714d8de1c4712a01fc382d9c2c0278"
+                        }
+                    },
+                    "size": 2693,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/food_kiwi_01/food_kiwi_01_4k.gltf",
+                    "md5": "2229fc48a0c491603f7072545afae815"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "food_kiwi_01.bin": {
+                            "size": 184504,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_kiwi_01/food_kiwi_01.bin",
+                            "md5": "ee331eb144cf08cef2453cffe71c63f4"
+                        },
+                        "textures/food_kiwi_01_rough_2k.jpg": {
+                            "size": 849761,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_kiwi_01/food_kiwi_01_rough_2k.jpg",
+                            "md5": "fae030ee3cff8855ada1259c85c4f1df"
+                        },
+                        "textures/food_kiwi_01_diff_2k.jpg": {
+                            "size": 844766,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_kiwi_01/food_kiwi_01_diff_2k.jpg",
+                            "md5": "e493c09244abfcd06c5410c1becc4440"
+                        },
+                        "textures/food_kiwi_01_nor_gl_2k.jpg": {
+                            "size": 644039,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_kiwi_01/food_kiwi_01_nor_gl_2k.jpg",
+                            "md5": "a196f0f4f5b8e97736eefc9c22fc8a0d"
+                        }
+                    },
+                    "size": 2693,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/food_kiwi_01/food_kiwi_01_2k.gltf",
+                    "md5": "22d6cc608ef801c6c213ad732c18f1c5"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "food_kiwi_01.bin": {
+                            "size": 184504,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_kiwi_01/food_kiwi_01.bin",
+                            "md5": "ee331eb144cf08cef2453cffe71c63f4"
+                        },
+                        "textures/food_kiwi_01_rough_1k.jpg": {
+                            "size": 223133,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_kiwi_01/food_kiwi_01_rough_1k.jpg",
+                            "md5": "8ac49e82b1879ddc4474f4cf52b40e36"
+                        },
+                        "textures/food_kiwi_01_diff_1k.jpg": {
+                            "size": 227414,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_kiwi_01/food_kiwi_01_diff_1k.jpg",
+                            "md5": "5ed3276a4a0ae6a49d6cb5c722b649f0"
+                        },
+                        "textures/food_kiwi_01_nor_gl_1k.jpg": {
+                            "size": 156902,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_kiwi_01/food_kiwi_01_nor_gl_1k.jpg",
+                            "md5": "0742c2fbc90fff7b9516d942d4e7b1c6"
+                        }
+                    },
+                    "size": 2693,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/food_kiwi_01/food_kiwi_01_1k.gltf",
+                    "md5": "d0e08c2fd521e150b3956ae15eb2c402"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/food_kiwi_01_rough_8k.jpg": {
+                            "size": 8740610,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_kiwi_01/food_kiwi_01_rough_8k.jpg",
+                            "md5": "4792e977edb826420b7eb09bcbe18167"
+                        },
+                        "textures/food_kiwi_01_nor_gl_8k.exr": {
+                            "size": 46383931,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_kiwi_01/food_kiwi_01_nor_gl_8k.exr",
+                            "md5": "8f5c020ac6aebb6989fb73a55a6a92cd"
+                        },
+                        "textures/food_kiwi_01_diff_8k.jpg": {
+                            "size": 8741877,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_kiwi_01/food_kiwi_01_diff_8k.jpg",
+                            "md5": "3339a4aa59528145773c58f78ea7ad87"
+                        }
+                    },
+                    "size": 549717,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/food_kiwi_01/food_kiwi_01_8k.usdc",
+                    "md5": "b28a48b6818f56197e24018ad20056cb"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/food_kiwi_01_rough_4k.jpg": {
+                            "size": 2944488,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_kiwi_01/food_kiwi_01_rough_4k.jpg",
+                            "md5": "b6d1f9b7fd015836c63c08897a681e5a"
+                        },
+                        "textures/food_kiwi_01_nor_gl_4k.exr": {
+                            "size": 17196158,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_kiwi_01/food_kiwi_01_nor_gl_4k.exr",
+                            "md5": "38e04882ef32cbcb0c64df78b3b57d83"
+                        },
+                        "textures/food_kiwi_01_diff_4k.jpg": {
+                            "size": 2788689,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_kiwi_01/food_kiwi_01_diff_4k.jpg",
+                            "md5": "09714d8de1c4712a01fc382d9c2c0278"
+                        }
+                    },
+                    "size": 549717,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/food_kiwi_01/food_kiwi_01_4k.usdc",
+                    "md5": "0cd022a90f70aeb808e9536c6076e8a8"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/food_kiwi_01_rough_2k.jpg": {
+                            "size": 849761,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_kiwi_01/food_kiwi_01_rough_2k.jpg",
+                            "md5": "fae030ee3cff8855ada1259c85c4f1df"
+                        },
+                        "textures/food_kiwi_01_diff_2k.jpg": {
+                            "size": 844766,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_kiwi_01/food_kiwi_01_diff_2k.jpg",
+                            "md5": "e493c09244abfcd06c5410c1becc4440"
+                        },
+                        "textures/food_kiwi_01_nor_gl_2k.exr": {
+                            "size": 4895536,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_kiwi_01/food_kiwi_01_nor_gl_2k.exr",
+                            "md5": "0bf910d85225911eba8f83a7d2a068ee"
+                        }
+                    },
+                    "size": 549717,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/food_kiwi_01/food_kiwi_01_2k.usdc",
+                    "md5": "c35ea9b6c030e6d8052388036ce9f18a"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/food_kiwi_01_nor_gl_1k.exr": {
+                            "size": 1285821,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_kiwi_01/food_kiwi_01_nor_gl_1k.exr",
+                            "md5": "9b05016249c1b60c72ffab0159c3ace2"
+                        },
+                        "textures/food_kiwi_01_rough_1k.jpg": {
+                            "size": 223133,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_kiwi_01/food_kiwi_01_rough_1k.jpg",
+                            "md5": "8ac49e82b1879ddc4474f4cf52b40e36"
+                        },
+                        "textures/food_kiwi_01_diff_1k.jpg": {
+                            "size": 227414,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_kiwi_01/food_kiwi_01_diff_1k.jpg",
+                            "md5": "5ed3276a4a0ae6a49d6cb5c722b649f0"
+                        }
+                    },
+                    "size": 549717,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/food_kiwi_01/food_kiwi_01_1k.usdc",
+                    "md5": "4056b5c1314b87170a8aebd24cb9751a"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/food_kiwi_01_rough_8k.jpg": {
+                            "size": 8740610,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_kiwi_01/food_kiwi_01_rough_8k.jpg",
+                            "md5": "4792e977edb826420b7eb09bcbe18167"
+                        },
+                        "textures/food_kiwi_01_nor_gl_8k.exr": {
+                            "size": 46383931,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_kiwi_01/food_kiwi_01_nor_gl_8k.exr",
+                            "md5": "8f5c020ac6aebb6989fb73a55a6a92cd"
+                        },
+                        "textures/food_kiwi_01_diff_8k.jpg": {
+                            "size": 8741877,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_kiwi_01/food_kiwi_01_diff_8k.jpg",
+                            "md5": "3339a4aa59528145773c58f78ea7ad87"
+                        }
+                    },
+                    "size": 387996,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/food_kiwi_01/food_kiwi_01_8k.fbx",
+                    "md5": "24afc778fdb516c8950c93c8ca3cc118"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/food_kiwi_01_rough_4k.jpg": {
+                            "size": 2944488,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_kiwi_01/food_kiwi_01_rough_4k.jpg",
+                            "md5": "b6d1f9b7fd015836c63c08897a681e5a"
+                        },
+                        "textures/food_kiwi_01_nor_gl_4k.exr": {
+                            "size": 17196158,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_kiwi_01/food_kiwi_01_nor_gl_4k.exr",
+                            "md5": "38e04882ef32cbcb0c64df78b3b57d83"
+                        },
+                        "textures/food_kiwi_01_diff_4k.jpg": {
+                            "size": 2788689,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_kiwi_01/food_kiwi_01_diff_4k.jpg",
+                            "md5": "09714d8de1c4712a01fc382d9c2c0278"
+                        }
+                    },
+                    "size": 387996,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/food_kiwi_01/food_kiwi_01_4k.fbx",
+                    "md5": "7ce8dc50d70dfc64b1dfe60dca1ebaca"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/food_kiwi_01_rough_2k.jpg": {
+                            "size": 849761,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_kiwi_01/food_kiwi_01_rough_2k.jpg",
+                            "md5": "fae030ee3cff8855ada1259c85c4f1df"
+                        },
+                        "textures/food_kiwi_01_diff_2k.jpg": {
+                            "size": 844766,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_kiwi_01/food_kiwi_01_diff_2k.jpg",
+                            "md5": "e493c09244abfcd06c5410c1becc4440"
+                        },
+                        "textures/food_kiwi_01_nor_gl_2k.exr": {
+                            "size": 4895536,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_kiwi_01/food_kiwi_01_nor_gl_2k.exr",
+                            "md5": "0bf910d85225911eba8f83a7d2a068ee"
+                        }
+                    },
+                    "size": 387996,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/food_kiwi_01/food_kiwi_01_2k.fbx",
+                    "md5": "b6e2210ba487a943c975498381898031"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/food_kiwi_01_nor_gl_1k.exr": {
+                            "size": 1285821,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_kiwi_01/food_kiwi_01_nor_gl_1k.exr",
+                            "md5": "9b05016249c1b60c72ffab0159c3ace2"
+                        },
+                        "textures/food_kiwi_01_rough_1k.jpg": {
+                            "size": 223133,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_kiwi_01/food_kiwi_01_rough_1k.jpg",
+                            "md5": "8ac49e82b1879ddc4474f4cf52b40e36"
+                        },
+                        "textures/food_kiwi_01_diff_1k.jpg": {
+                            "size": 227414,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_kiwi_01/food_kiwi_01_diff_1k.jpg",
+                            "md5": "5ed3276a4a0ae6a49d6cb5c722b649f0"
+                        }
+                    },
+                    "size": 387996,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/food_kiwi_01/food_kiwi_01_1k.fbx",
+                    "md5": "a434acb978462e143a3d74fdddea4ed7"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 8644886,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_kiwi_01/food_kiwi_01_arm_8k.jpg",
+                    "md5": "0022dd8626f5c38ebeb2d16f12d513cb"
+                },
+                "png": {
+                    "size": 39243103,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_kiwi_01/food_kiwi_01_arm_8k.png",
+                    "md5": "0ccbb812e6276679daef320b9dff79b0"
+                },
+                "exr": {
+                    "size": 53141264,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_kiwi_01/food_kiwi_01_arm_8k.exr",
+                    "md5": "c67689f4e8309630579a28aa59eb5e5f"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2755809,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_kiwi_01/food_kiwi_01_arm_4k.jpg",
+                    "md5": "04647e728fb59dd108ab8dc9394148e8"
+                },
+                "png": {
+                    "size": 11447146,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_kiwi_01/food_kiwi_01_arm_4k.png",
+                    "md5": "cf5c04e38ee701568c7a1f01bb15d1c5"
+                },
+                "exr": {
+                    "size": 17903259,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_kiwi_01/food_kiwi_01_arm_4k.exr",
+                    "md5": "9a3af2e56baa09101b66e13583df6163"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 773437,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_kiwi_01/food_kiwi_01_arm_2k.jpg",
+                    "md5": "a3196676b360ebf7c3f6e36b76b03bb6"
+                },
+                "png": {
+                    "size": 3065050,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_kiwi_01/food_kiwi_01_arm_2k.png",
+                    "md5": "2e148d711a64af5a5912be8630da45f6"
+                },
+                "exr": {
+                    "size": 5118095,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_kiwi_01/food_kiwi_01_arm_2k.exr",
+                    "md5": "1d29c268f61b9fed7ab482a9080e1faf"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 205595,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_kiwi_01/food_kiwi_01_arm_1k.jpg",
+                    "md5": "15781337529c854aa4f8541d30745d99"
+                },
+                "png": {
+                    "size": 826296,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_kiwi_01/food_kiwi_01_arm_1k.png",
+                    "md5": "503403151102d8c36b339f9606da08e6"
+                },
+                "exr": {
+                    "size": 1401644,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_kiwi_01/food_kiwi_01_arm_1k.exr",
+                    "md5": "a771e9c6a25234d60d29700405b4af2d"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 2194928,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_kiwi_01/food_kiwi_01_ao_8k.jpg",
+                    "md5": "86f8b9ac780e50cd35baf9232993fda5"
+                },
+                "png": {
+                    "size": 19982830,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_kiwi_01/food_kiwi_01_ao_8k.png",
+                    "md5": "0e0891ec22391ddefdac6692f7dcafbe"
+                },
+                "exr": {
+                    "size": 8299874,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_kiwi_01/food_kiwi_01_ao_8k.exr",
+                    "md5": "140a70538d78ca77d284fb722305f292"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 591279,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_kiwi_01/food_kiwi_01_ao_4k.jpg",
+                    "md5": "91713fa08badcee656ff473da83d63b8"
+                },
+                "png": {
+                    "size": 7790752,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_kiwi_01/food_kiwi_01_ao_4k.png",
+                    "md5": "af4742cc8304db63e2daaf17d6c691b1"
+                },
+                "exr": {
+                    "size": 1997923,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_kiwi_01/food_kiwi_01_ao_4k.exr",
+                    "md5": "8aeff4e8105857cfbb1910b94f1b5693"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 206548,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_kiwi_01/food_kiwi_01_ao_2k.jpg",
+                    "md5": "4779d41cf213e0f17e8a503a90321c21"
+                },
+                "png": {
+                    "size": 2839036,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_kiwi_01/food_kiwi_01_ao_2k.png",
+                    "md5": "4cda3b8036fcf5f36694996590ef91a9"
+                },
+                "exr": {
+                    "size": 650191,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_kiwi_01/food_kiwi_01_ao_2k.exr",
+                    "md5": "8933cc17b6c8a927e0544ebbd5c89c20"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 79954,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_kiwi_01/food_kiwi_01_ao_1k.jpg",
+                    "md5": "3b9b01bf7f679b5b1574a985f7cdde2f"
+                },
+                "png": {
+                    "size": 902760,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_kiwi_01/food_kiwi_01_ao_1k.png",
+                    "md5": "6e87377bc532ac4397078d3669e94cad"
+                },
+                "exr": {
+                    "size": 266572,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_kiwi_01/food_kiwi_01_ao_1k.exr",
+                    "md5": "b582272f3226371a039ef0c9cdddbd1a"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 8740610,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_kiwi_01/food_kiwi_01_rough_8k.jpg",
+                    "md5": "4792e977edb826420b7eb09bcbe18167"
+                },
+                "png": {
+                    "size": 41121617,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_kiwi_01/food_kiwi_01_rough_8k.png",
+                    "md5": "c0ba2a53c11f4bdceb9c13eb77441486"
+                },
+                "exr": {
+                    "size": 23734876,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_kiwi_01/food_kiwi_01_rough_8k.exr",
+                    "md5": "b6c217d74ff04910672549d068dcea20"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2944488,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_kiwi_01/food_kiwi_01_rough_4k.jpg",
+                    "md5": "b6d1f9b7fd015836c63c08897a681e5a"
+                },
+                "png": {
+                    "size": 19787201,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_kiwi_01/food_kiwi_01_rough_4k.png",
+                    "md5": "da40e084bdea2897b3c4a30ff796c633"
+                },
+                "exr": {
+                    "size": 7672870,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_kiwi_01/food_kiwi_01_rough_4k.exr",
+                    "md5": "427c84092013fc7cf74d9d92fa978f9b"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 849761,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_kiwi_01/food_kiwi_01_rough_2k.jpg",
+                    "md5": "fae030ee3cff8855ada1259c85c4f1df"
+                },
+                "png": {
+                    "size": 5996111,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_kiwi_01/food_kiwi_01_rough_2k.png",
+                    "md5": "7e1b9875a1f1455d2caf653f9fcf776d"
+                },
+                "exr": {
+                    "size": 2186625,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_kiwi_01/food_kiwi_01_rough_2k.exr",
+                    "md5": "1f03a0e1e9cdbd3efbc052a5a00b3edd"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 223133,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_kiwi_01/food_kiwi_01_rough_1k.jpg",
+                    "md5": "8ac49e82b1879ddc4474f4cf52b40e36"
+                },
+                "png": {
+                    "size": 1554498,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_kiwi_01/food_kiwi_01_rough_1k.png",
+                    "md5": "0bf89cb0e876c1a29f403a57911eaca9"
+                },
+                "exr": {
+                    "size": 609883,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_kiwi_01/food_kiwi_01_rough_1k.exr",
+                    "md5": "62acf75a22daccb048aea0aac5b495c8"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "abandoned",
+        "industrial",
+        "graffiti",
+        "art",
+        "grass",
+        "tree",
+        "path",
+        "trash"
+    ],
+    "date_published": 1510268400,
+    "name": "Teufelsberg Ground 1",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        52.497925,
+        13.241012
+    ],
+    "date_taken": 1478437560,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "13450515"
+    ],
+    "files_hash": "e011e19d4478f1719cbc21fc38f83077b5577515",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 17802,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/teufelsberg_ground_1.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 7525074,
+            "md5": "41928b9060411e97f0cb77ac3f5d31aa",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/teufelsberg_ground_1.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101238164,
+                    "md5": "8dbabeb38af0c23735f08bd128870444",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/teufelsberg_ground_1_8k.hdr"
+                },
+                "exr": {
+                    "size": 92504959,
+                    "md5": "076b09b92db25f9300332e14400b1d12",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/teufelsberg_ground_1_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 371964606,
+                    "md5": "38392fb18103168d1b61f867f1fb96c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/teufelsberg_ground_1_16k.hdr"
+                },
+                "exr": {
+                    "size": 335498262,
+                    "md5": "e65243f6526fae28fd55bf2337e69eab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/teufelsberg_ground_1_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26415506,
+                    "md5": "97f916614316493e3b136286c4567921",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/teufelsberg_ground_1_4k.hdr"
+                },
+                "exr": {
+                    "size": 24603951,
+                    "md5": "24642fc4e58258bb35ef5acb4fbb7faa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/teufelsberg_ground_1_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6762089,
+                    "md5": "7de3ba9f93dbe19cc0e9cfd8b69eb0a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/teufelsberg_ground_1_2k.hdr"
+                },
+                "exr": {
+                    "size": 6429621,
+                    "md5": "3b17e46ab7bdfde8c3edb8bee2dbba94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/teufelsberg_ground_1_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1718322,
+                    "md5": "9be93642adf9264bfb3285bd0528fda2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/teufelsberg_ground_1_1k.hdr"
+                },
+                "exr": {
+                    "size": 1668126,
+                    "md5": "2b3d9d9b37ebea15eec4c9eb93942a4a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/teufelsberg_ground_1_1k.exr"
+                }
+            }
+        }
+    }
+}

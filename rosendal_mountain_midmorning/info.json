@@ -1,0 +1,127 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "sun",
+        "dry grass",
+        "hill",
+        "bare",
+        "dry",
+        "yellow"
+    ],
+    "name": "Rosendal Mountain Midmorning",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "clear",
+        "skies",
+        "high contrast",
+        "midday"
+    ],
+    "date_taken": 1691836200,
+    "coords": [
+        -28.5024913,
+        27.8773278
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "files_hash": "4e13633d3d2f2db70544b077d3bfe18edd21b313",
+    "date_published": 1698796800,
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "download_count": 29939,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rosendal_mountain_midmorning.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 49016948,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rosendal_mountain_midmorning.jpg",
+            "md5": "d3c88c230fd4f0083a6edcdfbb8707b8"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102468586,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rosendal_mountain_midmorning_8k.hdr",
+                    "md5": "d116c078b3fedc996342dad4dd10c38f"
+                },
+                "exr": {
+                    "size": 385712351,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rosendal_mountain_midmorning_8k.exr",
+                    "md5": "3ecb15ddc367768cda8381d2c7f0a199"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 382640373,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rosendal_mountain_midmorning_16k.hdr",
+                    "md5": "883980ef3e3bbd462908814f92cdd020"
+                },
+                "exr": {
+                    "size": 1526056641,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rosendal_mountain_midmorning_16k.exr",
+                    "md5": "01df885a797a3d94f6f5a602997e155b"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26569999,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rosendal_mountain_midmorning_4k.hdr",
+                    "md5": "19a85d91c27a90b8f0ab8a5b468f1bb5"
+                },
+                "exr": {
+                    "size": 96939414,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rosendal_mountain_midmorning_4k.exr",
+                    "md5": "c51c0a4bdb5ca71b29516ab7476047f1"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6663522,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rosendal_mountain_midmorning_2k.hdr",
+                    "md5": "7a1d11d25a97267dd5c4dd94e59c54f2"
+                },
+                "exr": {
+                    "size": 24320556,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rosendal_mountain_midmorning_2k.exr",
+                    "md5": "9859fec6dd0ea788b2f611f316270864"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1644026,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rosendal_mountain_midmorning_1k.hdr",
+                    "md5": "b9c019f39df94b97e24bd7f0f2732efc"
+                },
+                "exr": {
+                    "size": 6102459,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rosendal_mountain_midmorning_1k.exr",
+                    "md5": "16b77ba3c6a699da2af560f88bcacf59"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 583544527,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rosendal_mountain_midmorning_20k.hdr",
+                    "md5": "dd514873429c8dcd6d44fa496ddf9ff8"
+                },
+                "exr": {
+                    "size": 2373962544,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rosendal_mountain_midmorning_20k.exr",
+                    "md5": "cf46859261e1c88655086e77da581878"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 194115959,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rosendal_mountain_midmorning.zip",
+            "md5": "499feb247a4eb4b8b20e813f703ccf5c"
+        }
+    }
+}

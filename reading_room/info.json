@@ -1,0 +1,108 @@
+{
+    "evs_cap": 10,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "chair",
+        "couch",
+        "window",
+        "door",
+        "tile"
+    ],
+    "date_published": 1520046832,
+    "name": "Reading Room",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        45.4332,
+        12.358
+    ],
+    "date_taken": 1509625620,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "35350d57673461f38c0b0562132173ffe09d6119",
+    "download_count": 65788,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/reading_room.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 37806065,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/reading_room.jpg",
+            "md5": "031b8cece6b1eaccd94b346c64e03b9a"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 95548530,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/reading_room_8k.hdr",
+                    "md5": "112f4ce02c83fc1ff1924a1a5822226b"
+                },
+                "exr": {
+                    "size": 74284839,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/reading_room_8k.exr",
+                    "md5": "e185c278d19d483a1b843b2d06da2fcd"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 337277127,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/reading_room_16k.hdr",
+                    "md5": "183a4682fb429e17488235bb0bbf4b17"
+                },
+                "exr": {
+                    "size": 260442555,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/reading_room_16k.exr",
+                    "md5": "7ea50f5db6b643f611aa17d63d2c0939"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24841550,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/reading_room_4k.hdr",
+                    "md5": "274d327cabe660f8df1e54cd14eaf3f5"
+                },
+                "exr": {
+                    "size": 19929420,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/reading_room_4k.exr",
+                    "md5": "fbe1cb76d68378277dd7ecc333645883"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6353628,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/reading_room_2k.hdr",
+                    "md5": "df19e8658b7d83caba3041de29c5be04"
+                },
+                "exr": {
+                    "size": 5260649,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/reading_room_2k.exr",
+                    "md5": "9cb1b5d1dc267a78eee8bc50434a0ca8"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1624482,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/reading_room_1k.hdr",
+                    "md5": "26f7c1c371810a2795349d0588486a65"
+                },
+                "exr": {
+                    "size": 1386194,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/reading_room_1k.exr",
+                    "md5": "c610a8b3160d298212602358e54c9d29"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "tags": [
+        "road",
+        "street",
+        "london",
+        "europe",
+        "asphalt"
+    ],
+    "date_published": 1576550046,
+    "name": "Urban Street 04",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "high contrast",
+        "natural light",
+        "partly cloudy"
+    ],
+    "date_taken": 1568465880,
+    "coords": [
+        51.511786,
+        -0.201884
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        {
+            "url": "http://digic.jp/",
+            "name": "Digic"
+        }
+    ],
+    "max_resolution": [
+        20840,
+        10420
+    ],
+    "files_hash": "e6a2b7c4bb61a8ad27de643a372e358d6f4821b3",
+    "download_count": 149101,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/urban_street_04.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6060648,
+            "md5": "3b0c22006f22dceacc96ea086a503762",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/urban_street_04.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/urban_street_04_8k.hdr",
+                    "size": 104485118,
+                    "md5": "2262e2c409e0d90af1d66f8746cb88bb"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/urban_street_04_8k.exr",
+                    "size": 90292802,
+                    "md5": "c6c7b8882266d05b349f312d5d632c51"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/urban_street_04_16k.hdr",
+                    "size": 396737673,
+                    "md5": "4398c6274b00f3ed6c8eb29106bba6f5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/urban_street_04_16k.exr",
+                    "size": 330273688,
+                    "md5": "717731adb744f6720860d8bf5f964555"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/urban_street_04_4k.hdr",
+                    "size": 26995524,
+                    "md5": "7068383bf2cd109441e35f22b5dac71d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/urban_street_04_4k.exr",
+                    "size": 23826849,
+                    "md5": "7720950df14f360ca48b024587ba2e8d"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/urban_street_04_2k.hdr",
+                    "size": 6861812,
+                    "md5": "31d81abd1ee45a15a16f44d0e7d3023a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/urban_street_04_2k.exr",
+                    "size": 6137291,
+                    "md5": "862ea32316caa1882f90d1e71d92bbda"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/urban_street_04_1k.hdr",
+                    "size": 1724368,
+                    "md5": "2c67f8c6ba0d5e05232b82151f0657e7"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/urban_street_04_1k.exr",
+                    "size": 1575271,
+                    "md5": "853ed7f47a26acdea160f2e636f3c1be"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/urban_street_04_20k.hdr",
+                    "size": 627487802,
+                    "md5": "ebabcb3c0acda83075c0bd8ccc990acd"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/urban_street_04_20k.exr",
+                    "size": 515707200,
+                    "md5": "e99414929e2dd81d8cd48e910ce5cf41"
+                }
+            }
+        }
+    }
+}

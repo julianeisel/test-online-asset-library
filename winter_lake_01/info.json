@@ -1,0 +1,110 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "whitebalance": 6400,
+    "tags": [
+        "field",
+        "lake",
+        "snow",
+        "winter",
+        "frozen"
+    ],
+    "date_published": 1549926000,
+    "name": "Winter Lake 01",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1546955820,
+    "coords": [
+        50.9034383,
+        34.8265526
+    ],
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "files_hash": "8dbcf29ca601f688f0ebd079858e3a76d64f065d",
+    "max_resolution": [
+        16500,
+        8250
+    ],
+    "download_count": 98721,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/winter_lake_01.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 2049120,
+            "md5": "d151775dc8c8b43eacb96e5b4e93ec7f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/winter_lake_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 94279952,
+                    "md5": "5edb62415532de2a80d5ed90c667f8e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/winter_lake_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 61387732,
+                    "md5": "56f7649239e22cc9ce3c5306926919cf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/winter_lake_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 355947154,
+                    "md5": "4593ac5849c2b9b42d1d8651740c86e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/winter_lake_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 235750479,
+                    "md5": "15330f8b35d5bcf0163f1fcf9b875bb5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/winter_lake_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24041235,
+                    "md5": "bef498be58b569b1410ab3df20219b7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/winter_lake_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 15021053,
+                    "md5": "26d236691376d60e00f1b92be0fe337e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/winter_lake_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5994516,
+                    "md5": "94432d0df313fcd84ae8a4e26128bfb2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/winter_lake_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 3800261,
+                    "md5": "cd969cab574917a1dfa430672a03bcd0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/winter_lake_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1496114,
+                    "md5": "f31e938948d4aa4fdfe9550eb9651534",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/winter_lake_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1013081,
+                    "md5": "b6dadb8fd7a696545b77a4aa0b901e70",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/winter_lake_01_1k.exr"
+                }
+            }
+        }
+    }
+}

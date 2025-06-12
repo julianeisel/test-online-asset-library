@@ -1,0 +1,612 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "date_published": 1522879200,
+    "name": "Simon's Town Rocks",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -34.2041,
+        18.457518
+    ],
+    "date_taken": 1464506760,
+    "sponsors": [
+        "3567764"
+    ],
+    "backplates": true,
+    "tags": [
+        "ocean",
+        "rock",
+        "hill",
+        "backplates"
+    ],
+    "files_hash": "f8eb5e50d5c579d54ea601d07c2e442481ed2c79",
+    "authors": {
+        "Greg Zaal": "All",
+        "Rico Cilliers": "Backplates"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 109801,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/simons_town_rocks.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6454080,
+            "md5": "4b88b76b6b94bd5c3f149b06d5f03c3c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/simons_town_rocks.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97010586,
+                    "md5": "5e5a749fd5ad2c448bbbc4bac6c78798",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/simons_town_rocks_8k.hdr"
+                },
+                "exr": {
+                    "size": 83047959,
+                    "md5": "58415f1548c58a165ac88071ed104074",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/simons_town_rocks_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 352856772,
+                    "md5": "c77c0dd405c9870b5313fc7045d486d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/simons_town_rocks_16k.hdr"
+                },
+                "exr": {
+                    "size": 302753645,
+                    "md5": "9c5f9bfaa7b0705d7ee4517fbf6d4dc8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/simons_town_rocks_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24799257,
+                    "md5": "25c09c5d755c6a28fa98b45017f1b1dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/simons_town_rocks_4k.hdr"
+                },
+                "exr": {
+                    "size": 21530809,
+                    "md5": "f4b28e887f37b8392e0c1772f556a21e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/simons_town_rocks_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6186701,
+                    "md5": "07d81ff9083b9a80eda8f036ca7570da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/simons_town_rocks_2k.hdr"
+                },
+                "exr": {
+                    "size": 5539142,
+                    "md5": "1bdafa5ff5e45bbd81ff891a22a662f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/simons_town_rocks_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1553215,
+                    "md5": "9fa163f0f28a78866533f6b3c1f97edb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/simons_town_rocks_1k.hdr"
+                },
+                "exr": {
+                    "size": 1436899,
+                    "md5": "85aa9e8bec84d79c4d2edaa9262f061d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/simons_town_rocks_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0109": {
+                "jpg_pretty": {
+                    "size": 10509360,
+                    "md5": "9481114d374ac3dffb6fb171d3e802d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0109.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9587338,
+                    "md5": "9f861a3825fbac4b9d962c4d7a553a32",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0109.jpg"
+                },
+                "raw": {
+                    "size": 27418082,
+                    "md5": "237fd087af8476cf15d6e59b1561653e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0109.dng"
+                }
+            },
+            "IMG_0107": {
+                "jpg_pretty": {
+                    "size": 5232130,
+                    "md5": "ed7a824a950ac157bf69cda1347b2d35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0107.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5268855,
+                    "md5": "fdb9288505bbdc930582c73e4a9fa40f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0107.jpg"
+                },
+                "raw": {
+                    "size": 22106790,
+                    "md5": "30b96547a60be60181d5aba4ce92bebd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0107.dng"
+                }
+            },
+            "IMG_0129": {
+                "jpg_pretty": {
+                    "size": 11746487,
+                    "md5": "9b843730fcb57f340519dc1a6c179ecd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0129.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10083770,
+                    "md5": "5a0dd5c42f719602646a035370466853",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0129.jpg"
+                },
+                "raw": {
+                    "size": 26503430,
+                    "md5": "668f04722c496dcdce1c84e50c08ed2a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0129.dng"
+                }
+            },
+            "IMG_0108": {
+                "jpg_pretty": {
+                    "size": 10672131,
+                    "md5": "97ef1b9533e787a378f1e6ef5c906184",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0108.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9841962,
+                    "md5": "164cda01b5528bad06082c88e2a75646",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0108.jpg"
+                },
+                "raw": {
+                    "size": 24580004,
+                    "md5": "17b9a47af11c8f890e8ae6e8a04dd6a5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0108.dng"
+                }
+            },
+            "IMG_0105": {
+                "jpg_pretty": {
+                    "size": 6483570,
+                    "md5": "11c22843cadc2425e39deaaf275e959c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0105.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6319246,
+                    "md5": "22f6926a61f3a3f67aa664a2053d1acf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0105.jpg"
+                },
+                "raw": {
+                    "size": 23322616,
+                    "md5": "3580ba02865baab1be3057515c6f2669",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0105.dng"
+                }
+            },
+            "IMG_0127": {
+                "jpg_pretty": {
+                    "size": 5464616,
+                    "md5": "7b99a9e00893f6f43260aa6ad20131e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0127.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5430897,
+                    "md5": "8420b1cff34c572ceffee6a28e07491b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0127.jpg"
+                },
+                "raw": {
+                    "size": 22072884,
+                    "md5": "1732b7f389bb54c523ad7541fef21b60",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0127.dng"
+                }
+            },
+            "IMG_0106": {
+                "jpg_pretty": {
+                    "size": 5572666,
+                    "md5": "0853c8532db7b608b43e20c8af26e7bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0106.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6121384,
+                    "md5": "5ff971d550b1bd2ea60d747518cfb55d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0106.jpg"
+                },
+                "raw": {
+                    "size": 21781938,
+                    "md5": "982a22a03519a505ccd8378a3b2b4600",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0106.dng"
+                }
+            },
+            "IMG_0128": {
+                "jpg_pretty": {
+                    "size": 6100015,
+                    "md5": "f91c3cc5527fe0b0b746ffb42b71e3db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0128.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5883463,
+                    "md5": "6327cd2e992dbcb3383c16a8113bc13f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0128.jpg"
+                },
+                "raw": {
+                    "size": 22654766,
+                    "md5": "4f360cac888439c75e8bedd62de42130",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0128.dng"
+                }
+            },
+            "IMG_0103": {
+                "jpg_pretty": {
+                    "size": 5845510,
+                    "md5": "708dd490febfce96d9947a9711ef3da9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0103.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5808891,
+                    "md5": "b7d276c226dd595ff97f0bbf247d239a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0103.jpg"
+                },
+                "raw": {
+                    "size": 22550906,
+                    "md5": "15e5aa96eca96f7fa24181d8469ed842",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0103.dng"
+                }
+            },
+            "IMG_0125": {
+                "jpg_pretty": {
+                    "size": 6144359,
+                    "md5": "8f15cf3f89b5f360d1808a6c037ad6d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0125.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5759602,
+                    "md5": "07963cb798e655efedbb8458e5ab9c98",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0125.jpg"
+                },
+                "raw": {
+                    "size": 22897310,
+                    "md5": "250ed4dabe3258d5dd39a7f366ce2f7c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0125.dng"
+                }
+            },
+            "IMG_0104": {
+                "jpg_pretty": {
+                    "size": 10049611,
+                    "md5": "ae4b45e4f336e73bc259e20294c1b61b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0104.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9253626,
+                    "md5": "b6e7694d0a5de5af36498d767f575baa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0104.jpg"
+                },
+                "raw": {
+                    "size": 24617568,
+                    "md5": "09e75398bab79d9a5dac199e6c80d197",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0104.dng"
+                }
+            },
+            "IMG_0112": {
+                "jpg_pretty": {
+                    "size": 7262945,
+                    "md5": "6eab9a6d0c44605b70a0dee44c361384",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0112.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6952736,
+                    "md5": "813afd91af8912dbe64a026069aaeccb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0112.jpg"
+                },
+                "raw": {
+                    "size": 23251254,
+                    "md5": "cecdcfdcd1921b25a8667a7ea4736490",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0112.dng"
+                }
+            },
+            "IMG_0113": {
+                "jpg_pretty": {
+                    "size": 7430179,
+                    "md5": "670607c551cf5fc3af2c93d8235c0278",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0113.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7124417,
+                    "md5": "b9aa6c46579ec808da21460b5aa1c0c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0113.jpg"
+                },
+                "raw": {
+                    "size": 22821478,
+                    "md5": "d70047eb1bc50de14fe6ebdb7a380069",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0113.dng"
+                }
+            },
+            "IMG_0099": {
+                "jpg_pretty": {
+                    "size": 9687584,
+                    "md5": "8bfe291864e2171e6557221b9748d0c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0099.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8622809,
+                    "md5": "099bb9a655539908bac9ebfd1e2534b4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0099.jpg"
+                },
+                "raw": {
+                    "size": 23320054,
+                    "md5": "600df9f2e25aa95ed6eaa844a095e211",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0099.dng"
+                }
+            },
+            "IMG_0132": {
+                "jpg_pretty": {
+                    "size": 5346619,
+                    "md5": "77b890ce2b49ae5881488a16e48996b4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0132.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5266219,
+                    "md5": "5c8ac95845af287bdc469fcd7061b2c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0132.jpg"
+                },
+                "raw": {
+                    "size": 22047274,
+                    "md5": "e4b8cae493e6ff6c06ccf3c00c40278d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0132.dng"
+                }
+            },
+            "IMG_0097": {
+                "jpg_pretty": {
+                    "size": 8537501,
+                    "md5": "9cbb0955709e473cad05218c038cb724",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0097.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8106995,
+                    "md5": "d2ae701f0b107b53ad022cfeffd1cd7b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0097.jpg"
+                },
+                "raw": {
+                    "size": 22814378,
+                    "md5": "59e374c106a3f46750d870767f67fcef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0097.dng"
+                }
+            },
+            "IMG_0098": {
+                "jpg_pretty": {
+                    "size": 9553041,
+                    "md5": "85a0c0bd096932d42a0412dc42535577",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0098.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8298560,
+                    "md5": "5c7f80d4369a1ed54a5d605dd5ed2aa5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0098.jpg"
+                },
+                "raw": {
+                    "size": 24142894,
+                    "md5": "512c2ff90554f3896b121639002ecfa5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0098.dng"
+                }
+            },
+            "IMG_0131": {
+                "jpg_pretty": {
+                    "size": 10023149,
+                    "md5": "408a9c80f23f5790936821e74129950b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0131.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9030582,
+                    "md5": "b889aafa68ece4da49749b170d724811",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0131.jpg"
+                },
+                "raw": {
+                    "size": 25338340,
+                    "md5": "17f521e34132145332ae422af69133e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0131.dng"
+                }
+            },
+            "IMG_0093": {
+                "jpg_pretty": {
+                    "size": 6334373,
+                    "md5": "7b5fc45229b13b75f12bc87d75c5851b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0093.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6265966,
+                    "md5": "4bc96855aca40da72e681298ef2e240e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0093.jpg"
+                },
+                "raw": {
+                    "size": 23115474,
+                    "md5": "61d14feeedfc6870679bbb5043270854",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0093.dng"
+                }
+            },
+            "IMG_0094": {
+                "jpg_pretty": {
+                    "size": 4404988,
+                    "md5": "a1e6f143d339b77f86ee4f8ac15dac23",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0094.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4897819,
+                    "md5": "cbd00f6677c36d8374c1a2943b8d6131",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0094.jpg"
+                },
+                "raw": {
+                    "size": 22449754,
+                    "md5": "a71272ac04b5ab32c66c34684c4d4284",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0094.dng"
+                }
+            },
+            "IMG_0119": {
+                "jpg_pretty": {
+                    "size": 7004264,
+                    "md5": "672909ec0060cee26a76d6a82a835e18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0119.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6257854,
+                    "md5": "6f691b8495c92368a0f10c8c956bab1b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0119.jpg"
+                },
+                "raw": {
+                    "size": 24413784,
+                    "md5": "92929f8dc7b585920cddadc8a61e8aa1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0119.dng"
+                }
+            },
+            "IMG_0117": {
+                "jpg_plain": {
+                    "size": 5984601,
+                    "md5": "6a120e945ef83720d66137d870019a7b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0117.jpg"
+                }
+            },
+            "IMG_0114": {
+                "jpg_pretty": {
+                    "size": 5148779,
+                    "md5": "11c6539e11ba00a795969a1be64f5093",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0114.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5467491,
+                    "md5": "3876e41f8eddcea748c02f82954860aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0114.jpg"
+                },
+                "raw": {
+                    "size": 22891534,
+                    "md5": "8cf585ca10a3e132f6757a6b4a67156b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0114.dng"
+                }
+            },
+            "IMG_0115": {
+                "jpg_pretty": {
+                    "size": 5000368,
+                    "md5": "a8207da6c36bbcd8956910942970a9c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0115.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5076990,
+                    "md5": "9840c0adddb39657dd6265096c8a7c12",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0115.jpg"
+                },
+                "raw": {
+                    "size": 22891546,
+                    "md5": "57f59aff31455d4a925d27b275cce2d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0115.dng"
+                }
+            },
+            "IMG_0101": {
+                "jpg_pretty": {
+                    "size": 3235743,
+                    "md5": "528ab657e64a80dd65d16c9615f5bd04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0101.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3315640,
+                    "md5": "08539444b1588818d529f8ae1ea46f6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0101.jpg"
+                },
+                "raw": {
+                    "size": 22743924,
+                    "md5": "312c5c99abeea1ab710cd63d0231a2c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0101.dng"
+                }
+            },
+            "IMG_0123": {
+                "jpg_pretty": {
+                    "size": 5879979,
+                    "md5": "262d27b8357a9021f74d9dbe100958d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0123.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5767726,
+                    "md5": "3f5213e551774e4ddb6185ab0871fbfa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0123.jpg"
+                },
+                "raw": {
+                    "size": 22629962,
+                    "md5": "4526f91a1f34b419cf781cfaa3da619e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0123.dng"
+                }
+            },
+            "IMG_0102": {
+                "jpg_pretty": {
+                    "size": 4111815,
+                    "md5": "55d9cfcbb06a0e10cb7b58cfe9018658",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0102.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4433458,
+                    "md5": "53f641cc029085a9c93543dcfe47124d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0102.jpg"
+                },
+                "raw": {
+                    "size": 22790662,
+                    "md5": "302ff51d6156052b044c46781c430b94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0102.dng"
+                }
+            },
+            "IMG_0124": {
+                "jpg_pretty": {
+                    "size": 6660945,
+                    "md5": "11d4e5cc607d1621dcca4781021ffd0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0124.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6557541,
+                    "md5": "10dd5dca19dcc8ba717530603bda2fb0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0124.jpg"
+                },
+                "raw": {
+                    "size": 23100424,
+                    "md5": "be79cb3233371ddd27f317cc536261f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0124.dng"
+                }
+            },
+            "IMG_0121": {
+                "jpg_pretty": {
+                    "size": 8915370,
+                    "md5": "16a5043a98838d2c64a82b8904f30db9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0121.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8039897,
+                    "md5": "6e6cb397798344641bc690427369c509",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0121.jpg"
+                },
+                "raw": {
+                    "size": 24502538,
+                    "md5": "6324bfe72e86aa4f9d8a50964c2d6c6e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0121.dng"
+                }
+            },
+            "IMG_0100": {
+                "jpg_pretty": {
+                    "size": 8094854,
+                    "md5": "3e5556fa974b3361e4761c2621521884",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_pretty/IMG_0100.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7419180,
+                    "md5": "34e82b43b1e07870f557f2dcc5eff273",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/jpg_plain/IMG_0100.jpg"
+                },
+                "raw": {
+                    "size": 22889254,
+                    "md5": "007be6641f1ecfee66cbd0fb2f65fc4c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/simons_town_rocks/raw/IMG_0100.dng"
+                }
+            }
+        }
+    }
+}

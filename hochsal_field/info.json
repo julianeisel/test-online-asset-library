@@ -1,0 +1,117 @@
+{
+    "donated": true,
+    "type": 0,
+    "tags": [
+        "sun",
+        "grass",
+        "field",
+        "tree",
+        "road",
+        "asphalt"
+    ],
+    "name": "Hochsal Field",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "skies",
+        "high contrast",
+        "clear",
+        "morning-afternoon"
+    ],
+    "date_taken": 1568233080,
+    "authors": {
+        "Adrian Kubasa": "All"
+    },
+    "info": null,
+    "files_hash": "08df41b495f19f6e4cee5b404a788b3421dffb59",
+    "evs_cap": 0,
+    "date_published": 1701561600,
+    "max_resolution": [
+        21504,
+        10752
+    ],
+    "download_count": 44002,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hochsal_field.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 45172689,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hochsal_field.jpg",
+            "md5": "516a863a3a68c23fde59ea04f45e094c"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 92901749,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hochsal_field_8k.hdr",
+                    "md5": "dfd0942ea7235ff9a15d210b702c9fb3"
+                },
+                "exr": {
+                    "size": 81371235,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hochsal_field_8k.exr",
+                    "md5": "4efac84c991d4dca929eb0b32761fb02"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 330405263,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hochsal_field_16k.hdr",
+                    "md5": "73e1742903193953995c926925f9d965"
+                },
+                "exr": {
+                    "size": 300930696,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hochsal_field_16k.exr",
+                    "md5": "9caf66521eb4f3984bb23669c8ad5d63"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24574189,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hochsal_field_4k.hdr",
+                    "md5": "78cec73a206ce162305b76aa47db65e2"
+                },
+                "exr": {
+                    "size": 21113308,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hochsal_field_4k.exr",
+                    "md5": "fc8bb4ad49dc446b47b924b2b145637a"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6257440,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hochsal_field_2k.hdr",
+                    "md5": "adc903b4e7727685a26c096cb0325b14"
+                },
+                "exr": {
+                    "size": 5317599,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hochsal_field_2k.exr",
+                    "md5": "5e03046563d7961715e6859fdafd538e"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1573224,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hochsal_field_1k.hdr",
+                    "md5": "199721f237887c8bccfce1521fcf5184"
+                },
+                "exr": {
+                    "size": 1357191,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hochsal_field_1k.exr",
+                    "md5": "be144db91b1c3fda90c4b2ae84361bd5"
+                }
+            },
+            "21k": {
+                "hdr": {
+                    "size": 533703891,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hochsal_field_21k.hdr",
+                    "md5": "05bd4ea973ac30eeca83d4d5c9f318c3"
+                },
+                "exr": {
+                    "size": 483524666,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hochsal_field_21k.exr",
+                    "md5": "ea9437075baa7c8180ce87ca8bafdca1"
+                }
+            }
+        }
+    }
+}

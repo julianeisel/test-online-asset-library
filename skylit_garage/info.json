@@ -1,0 +1,395 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "date_published": 1522879200,
+    "name": "Skylit Garage",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1464776100,
+    "backplates": true,
+    "tags": [
+        "road",
+        "parking",
+        "pillar",
+        "backplates"
+    ],
+    "sponsors": [
+        "10004313",
+        "44302755"
+    ],
+    "authors": {
+        "Greg Zaal": "All",
+        "Rico Cilliers": "Backplates"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "7b12b134112a04b2293caf46e87d324718677494",
+    "download_count": 71356,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/skylit_garage.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6023367,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/skylit_garage.jpg",
+            "md5": "16322b27a7f51481e6de58bc5cf824fa"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103615130,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/skylit_garage_8k.hdr",
+                    "md5": "de46bdbd15d5a039ed5b67cda495fcdf"
+                },
+                "exr": {
+                    "size": 89411470,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/skylit_garage_8k.exr",
+                    "md5": "63ec1b208123f52ef822c4132994a9d4"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 389290816,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/skylit_garage_16k.hdr",
+                    "md5": "761781a70d29176dd0830517db3e35e1"
+                },
+                "exr": {
+                    "size": 319655288,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/skylit_garage_16k.exr",
+                    "md5": "de90cee02a3c2440bf8bbd246655fa50"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26616847,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/skylit_garage_4k.hdr",
+                    "md5": "d2620e93292bfb5c971242cc9ebd01f5"
+                },
+                "exr": {
+                    "size": 23438502,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/skylit_garage_4k.exr",
+                    "md5": "ec02e4f398c44e900b5420b178e71565"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6741275,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/skylit_garage_2k.hdr",
+                    "md5": "b3fe7c1acd9f060c9b9cc651633fc550"
+                },
+                "exr": {
+                    "size": 6055690,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/skylit_garage_2k.exr",
+                    "md5": "e92b365fadcb7b333dde5e68ab37d70c"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1697898,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/skylit_garage_1k.hdr",
+                    "md5": "13d04c91be821334d93516144eee9b81"
+                },
+                "exr": {
+                    "size": 1572334,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/skylit_garage_1k.exr",
+                    "md5": "e29cacd74b070ab65b309fcb3ac2cb79"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0569": {
+                "jpg_pretty": {
+                    "size": 6183686,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0569.jpg",
+                    "md5": "c79c1aa6ee49631789d977c0c46457cf"
+                },
+                "jpg_plain": {
+                    "size": 6471642,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0569.jpg",
+                    "md5": "503e31e45c1cfe0f8003343ec9f1b3a9"
+                },
+                "raw": {
+                    "size": 20376290,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0569.dng",
+                    "md5": "72a7422557b16db586bf21fe9d4457a5"
+                }
+            },
+            "IMG_0568": {
+                "jpg_pretty": {
+                    "size": 6321200,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0568.jpg",
+                    "md5": "e24cf45a84b4af744c0e918c177a731e"
+                },
+                "jpg_plain": {
+                    "size": 6842522,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0568.jpg",
+                    "md5": "a9726e3ca7d5c21608d7cb125480ed32"
+                },
+                "raw": {
+                    "size": 20606200,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0568.dng",
+                    "md5": "8f101d4cff6d2a158a5bbc7e044b2cc7"
+                }
+            },
+            "IMG_0579": {
+                "jpg_pretty": {
+                    "size": 4729852,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0579.jpg",
+                    "md5": "e3014d77673dab3f156d6ad1b9762aaa"
+                },
+                "jpg_plain": {
+                    "size": 5592077,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0579.jpg",
+                    "md5": "d654ff887ffcaf6940585753b65b3370"
+                },
+                "raw": {
+                    "size": 18141190,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0579.dng",
+                    "md5": "1f0d12e9e0c72ad5aed042b3f071e1d7"
+                }
+            },
+            "IMG_0567": {
+                "jpg_pretty": {
+                    "size": 6056562,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0567.jpg",
+                    "md5": "499c51cce86d355ab0f60ab96ed95d06"
+                },
+                "jpg_plain": {
+                    "size": 6838536,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0567.jpg",
+                    "md5": "8245ae32fea44cc605a45bbaa996ba25"
+                },
+                "raw": {
+                    "size": 18861516,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0567.dng",
+                    "md5": "1b68b344bcf23f8d163801d812117247"
+                }
+            },
+            "IMG_0589": {
+                "jpg_pretty": {
+                    "size": 5615612,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0589.jpg",
+                    "md5": "af533f543087289cfacb8701245e8c4c"
+                },
+                "jpg_plain": {
+                    "size": 4253179,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0589.jpg",
+                    "md5": "720a25b3d7a543ec2c9a688023ed1f25"
+                },
+                "raw": {
+                    "size": 20028610,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0589.dng",
+                    "md5": "e15031902bdffa863b2640a38b80d7ba"
+                }
+            },
+            "IMG_0588": {
+                "jpg_pretty": {
+                    "size": 5996248,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0588.jpg",
+                    "md5": "d54bd545b0bf41aa2206ff61ee52e103"
+                },
+                "jpg_plain": {
+                    "size": 7148055,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0588.jpg",
+                    "md5": "95d906943018b33934bcb0002a83befe"
+                },
+                "raw": {
+                    "size": 20156860,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0588.dng",
+                    "md5": "ced91755a07627e423155517d67937f1"
+                }
+            },
+            "IMG_0587": {
+                "jpg_pretty": {
+                    "size": 6879609,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0587.jpg",
+                    "md5": "3319499e96ce04216e81cc410bfa7863"
+                },
+                "jpg_plain": {
+                    "size": 7473464,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0587.jpg",
+                    "md5": "a267d0f2801b93eeef43725355830ee8"
+                },
+                "raw": {
+                    "size": 20981182,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0587.dng",
+                    "md5": "77c4d9805b958c59375d6a02eac26b9a"
+                }
+            },
+            "IMG_0598": {
+                "jpg_pretty": {
+                    "size": 3115299,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0598.jpg",
+                    "md5": "748ea2354cf92b57d346fec09ad2b4a3"
+                },
+                "jpg_plain": {
+                    "size": 4450055,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0598.jpg",
+                    "md5": "ce23f246aefa2a0c528442b7b4945156"
+                },
+                "raw": {
+                    "size": 18444008,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0598.dng",
+                    "md5": "ae1d9ec7c9752bd1682183f85fe202b0"
+                }
+            },
+            "IMG_0575": {
+                "jpg_pretty": {
+                    "size": 4975403,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0575.jpg",
+                    "md5": "94957758dbb48095cda510f9bc3f26c1"
+                },
+                "jpg_plain": {
+                    "size": 5982019,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0575.jpg",
+                    "md5": "2ada09fdd15f6c1926e3ed94d8699298"
+                },
+                "raw": {
+                    "size": 18200696,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0575.dng",
+                    "md5": "fe66404087b5edd03527847d8ae18954"
+                }
+            },
+            "IMG_0586": {
+                "jpg_pretty": {
+                    "size": 6621929,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0586.jpg",
+                    "md5": "af0fc5d7cec199fdaa684f3d58dff253"
+                },
+                "jpg_plain": {
+                    "size": 7138359,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0586.jpg",
+                    "md5": "1c6481d84645678624aaedcbb2afa9c4"
+                },
+                "raw": {
+                    "size": 20757832,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0586.dng",
+                    "md5": "b79b109e17772ccafc5828952b52640f"
+                }
+            },
+            "IMG_0574": {
+                "jpg_pretty": {
+                    "size": 4942319,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0574.jpg",
+                    "md5": "b72b097102d475f4e35766d2e2a1289a"
+                },
+                "jpg_plain": {
+                    "size": 5588213,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0574.jpg",
+                    "md5": "25cd37afd7e24b5d270f8e7ba7aa3146"
+                },
+                "raw": {
+                    "size": 16890744,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0574.dng",
+                    "md5": "5164bb9b0eda1dd6c8e242df422b1f0e"
+                }
+            },
+            "IMG_0584": {
+                "jpg_pretty": {
+                    "size": 4853452,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0584.jpg",
+                    "md5": "577c7be3a79441633457193b92978cd4"
+                },
+                "jpg_plain": {
+                    "size": 5886238,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0584.jpg",
+                    "md5": "2b123c6324431dea7307feb0deb66f9f"
+                },
+                "raw": {
+                    "size": 18660806,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0584.dng",
+                    "md5": "187900fcbd6ec6877c98ffb7654d01d4"
+                }
+            },
+            "IMG_0572": {
+                "jpg_pretty": {
+                    "size": 4070362,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0572.jpg",
+                    "md5": "556f82e2a0a25716a168cae488c2f7c5"
+                },
+                "jpg_plain": {
+                    "size": 5510039,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0572.jpg",
+                    "md5": "48551b5cb4c6b74cbfa47cbf1ea1c4d2"
+                },
+                "raw": {
+                    "size": 18109100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0572.dng",
+                    "md5": "0e797b28e4fcbd612580695398f718be"
+                }
+            },
+            "IMG_0583": {
+                "jpg_pretty": {
+                    "size": 5912473,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0583.jpg",
+                    "md5": "180110d0217fa1702c1a9d4b065eae2e"
+                },
+                "jpg_plain": {
+                    "size": 5028563,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0583.jpg",
+                    "md5": "aec09c2998e995ae7c416218b8debce3"
+                },
+                "raw": {
+                    "size": 16014176,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0583.dng",
+                    "md5": "33a964faf26a40b878d8aa86871d758f"
+                }
+            },
+            "IMG_0582": {
+                "jpg_pretty": {
+                    "size": 4596406,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0582.jpg",
+                    "md5": "a3ae055ff4d98ebdef6c2e799332da02"
+                },
+                "jpg_plain": {
+                    "size": 5386767,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0582.jpg",
+                    "md5": "3e65f1d1600c88fa5738bec5269b76f2"
+                },
+                "raw": {
+                    "size": 17250172,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0582.dng",
+                    "md5": "56a5b863e078ac8620a6a99a2b0ecb10"
+                }
+            },
+            "IMG_0570": {
+                "jpg_pretty": {
+                    "size": 3805962,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0570.jpg",
+                    "md5": "4d335ccb31b1f0457b6fa981d448bfd6"
+                },
+                "jpg_plain": {
+                    "size": 4950080,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0570.jpg",
+                    "md5": "15fc42f1d029606481684b7c90d5f5d9"
+                },
+                "raw": {
+                    "size": 18503550,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0570.dng",
+                    "md5": "972c6f7a48d6233f03aae0d775793ed7"
+                }
+            },
+            "IMG_0591": {
+                "jpg_pretty": {
+                    "size": 4695696,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_pretty/IMG_0591.jpg",
+                    "md5": "ecb126e18615c8a5e9a604d57605e69b"
+                },
+                "jpg_plain": {
+                    "size": 5694785,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/jpg_plain/IMG_0591.jpg",
+                    "md5": "d1ae40acd995c3ef4ba1c7bc9bb626a8"
+                },
+                "raw": {
+                    "size": 18659728,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/skylit_garage/raw/IMG_0591.dng",
+                    "md5": "be253b178332fb314179d0bbf99b77f2"
+                }
+            }
+        }
+    }
+}

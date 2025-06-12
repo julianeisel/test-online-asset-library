@@ -1,0 +1,132 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5018,
+    "tags": [
+        "chair",
+        "office",
+        "table",
+        "heater",
+        "cat",
+        "wooden ceiling",
+        "computer",
+        "window",
+        "lamp",
+        "curtain",
+        "tiles",
+        "desk",
+        "room",
+        "bright"
+    ],
+    "name": "Poly Haven Studio",
+    "categories": [
+        "low contrast",
+        "indoor",
+        "urban",
+        "artificial light",
+        "natural light",
+        "midday"
+    ],
+    "date_taken": 1684923060,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "info": null,
+    "date_published": 1691971200,
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "0ff8ab9e5f1ceb8b5b1d6f39d4730e0525da4330",
+    "sponsors": [
+        "3237733"
+    ],
+    "download_count": 65923,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/poly_haven_studio.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 43458972,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/poly_haven_studio.jpg",
+            "md5": "b0318b69cb1619e7a36283df441e087c"
+        },
+        "colorchart": {
+            "size": 822918002,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/poly_haven_studio.zip",
+            "md5": "ee166a8061f14c1b6208154fb0a38778"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/poly_haven_studio_8k.hdr",
+                    "size": 100800695,
+                    "md5": "3e39ce288bcddb08eb761f51e60dc86d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/poly_haven_studio_8k.exr",
+                    "size": 329220543,
+                    "md5": "b488599923abfbe6d4b720e237e1f2ed"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/poly_haven_studio_16k.hdr",
+                    "size": 380023718,
+                    "md5": "e6cba25d81303ebfd6f50b963c3e2683"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/poly_haven_studio_16k.exr",
+                    "size": 1256027833,
+                    "md5": "0bf27f4499e69bbaefd4db058021e254"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/poly_haven_studio_4k.hdr",
+                    "size": 25873476,
+                    "md5": "f63b4a87cee91971284a260fe03fe305"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/poly_haven_studio_4k.exr",
+                    "size": 84840871,
+                    "md5": "b8e44ebebce0fb49dac4173b9ee9d23a"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/poly_haven_studio_24k.hdr",
+                    "size": 834884884,
+                    "md5": "fba1dec3136826b1c8d10b84f45f0fd6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/poly_haven_studio_24k.exr",
+                    "size": 2845236569,
+                    "md5": "007b1bfa236b2f23042a0d5cd422e20e"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/poly_haven_studio_2k.hdr",
+                    "size": 6602301,
+                    "md5": "38ea0ff2dbf4b4c7a272106bc0e89f7a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/poly_haven_studio_2k.exr",
+                    "size": 22253034,
+                    "md5": "c12567c079edbdc25fa8bc4a7fb8265d"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/poly_haven_studio_1k.hdr",
+                    "size": 1682195,
+                    "md5": "a1065f613cb6e0388d82a99dcee23d3b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/poly_haven_studio_1k.exr",
+                    "size": 5983944,
+                    "md5": "dd99ade845331747816bf13ada9dd60c"
+                }
+            }
+        }
+    }
+}

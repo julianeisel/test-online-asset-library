@@ -1,0 +1,109 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "whitebalance": 3850,
+    "tags": [
+        "room",
+        "empty",
+        "office",
+        "door",
+        "curtain",
+        "wooden floor",
+        "led panel"
+    ],
+    "name": "Small Empty Room 3",
+    "categories": [
+        "indoor",
+        "urban",
+        "artificial light",
+        "medium contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1690206000,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "date_published": 1698019200,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "24966e7ec82e97d4891f1f3fa2c92ddb54c62e53",
+    "download_count": 46492,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/small_empty_room_3.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 29775858,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/small_empty_room_3.jpg",
+            "md5": "efe1c093c70c8972f25508a6ae5e7f3a"
+        },
+        "colorchart": {
+            "size": 89878126,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/small_empty_room_3.zip",
+            "md5": "d9dc1321f439448b235ffaeec5226dc4"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/small_empty_room_3_8k.hdr",
+                    "size": 95119563,
+                    "md5": "71ee2e678685f3b966ebfb0a9bd3069d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/small_empty_room_3_8k.exr",
+                    "size": 66038660,
+                    "md5": "c75db7537c7f201e80f2ce19d499f967"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/small_empty_room_3_16k.hdr",
+                    "size": 344325985,
+                    "md5": "2e0a0393e27bad389e78bd6aa0839168"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/small_empty_room_3_16k.exr",
+                    "size": 233316025,
+                    "md5": "a2bf7c2f8d643e043be7548d4b101426"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/small_empty_room_3_4k.hdr",
+                    "size": 24487920,
+                    "md5": "53d149974c13a70e68e5cb9a7559e339"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/small_empty_room_3_4k.exr",
+                    "size": 17160746,
+                    "md5": "2479b25d69ad89234adb6e7353d624a2"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/small_empty_room_3_2k.hdr",
+                    "size": 6132453,
+                    "md5": "0404409b925a4c7b9921c3ef261380df"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/small_empty_room_3_2k.exr",
+                    "size": 4428963,
+                    "md5": "791e8f56bc6abde72c71e03bd7d6c5f9"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/small_empty_room_3_1k.hdr",
+                    "size": 1533412,
+                    "md5": "8c8dc407c9774e2fd404dd27c8a05490"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/small_empty_room_3_1k.exr",
+                    "size": 1164032,
+                    "md5": "8bc89dff501631575e5b0c3a16ebe1df"
+                }
+            }
+        }
+    }
+}

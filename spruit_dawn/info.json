@@ -1,0 +1,113 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "tree",
+        "river",
+        "grass",
+        "path",
+        "field",
+        "park",
+        "mist",
+        "power line"
+    ],
+    "date_published": 1532383200,
+    "name": "Spruit Dawn",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -26.1233,
+        28.0159
+    ],
+    "date_taken": 1527657900,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "files_hash": "9455b4e2fc9acaadddc57a39b6ddd1a8dcf275bf",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 35252,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/spruit_dawn.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5832560,
+            "md5": "cf1136d0cb6ff8efe6d98221b08ba0f5",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/spruit_dawn.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 93052827,
+                    "md5": "8ec053a6129383fee81c082482ec93af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/spruit_dawn_8k.hdr"
+                },
+                "exr": {
+                    "size": 78937031,
+                    "md5": "67e9e91946d561d0bd8112b24d0f20c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/spruit_dawn_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 336965562,
+                    "md5": "d204ac18294b52010f52c7f24f099a74",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/spruit_dawn_16k.hdr"
+                },
+                "exr": {
+                    "size": 289058304,
+                    "md5": "e03ba6c486f04185965157ed1048e1e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/spruit_dawn_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23614907,
+                    "md5": "b44ac86171754cdb48254f20a7bd85c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/spruit_dawn_4k.hdr"
+                },
+                "exr": {
+                    "size": 20388293,
+                    "md5": "31fac1060f380e353389abfc25e527db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/spruit_dawn_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5864804,
+                    "md5": "f3a45864c267d715f9a6bed00581dabb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/spruit_dawn_2k.hdr"
+                },
+                "exr": {
+                    "size": 5173660,
+                    "md5": "080737638b580d102f4e355fba518782",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/spruit_dawn_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1477104,
+                    "md5": "833f35579506bc7b51b8f94a42a5d866",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/spruit_dawn_1k.hdr"
+                },
+                "exr": {
+                    "size": 1323029,
+                    "md5": "57e3e1d2d95f94fc658f9672118adf79",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/spruit_dawn_1k.exr"
+                }
+            }
+        }
+    }
+}

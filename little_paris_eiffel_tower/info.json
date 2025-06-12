@@ -1,0 +1,114 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "bridge",
+        "cobblestone",
+        "bicycle",
+        "fountain",
+        "restaurant",
+        "padlock",
+        "cafe"
+    ],
+    "name": "Little Paris Eiffel Tower",
+    "categories": [
+        "outdoor",
+        "nature",
+        "natural light",
+        "high contrast",
+        "sunrise-sunset"
+    ],
+    "date_taken": 1678555860,
+    "coords": [
+        -25.737049,
+        27.90226
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "date_published": 1681862400,
+    "max_resolution": [
+        16000,
+        8000
+    ],
+    "files_hash": "a16190b87c2dda9118a7c882b3658053eb017ae9",
+    "download_count": 138179,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/little_paris_eiffel_tower.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 53867311,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/little_paris_eiffel_tower.jpg",
+            "md5": "0ca9bd822e1175b863c19441ad3876af"
+        },
+        "colorchart": {
+            "size": 217790461,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/little_paris_eiffel_tower.zip",
+            "md5": "22196009ee7c379f7a5509f51011432d"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/little_paris_eiffel_tower_8k.hdr",
+                    "size": 105618065,
+                    "md5": "7b0987c22f707fae83abd2295cb72485"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/little_paris_eiffel_tower_8k.exr",
+                    "size": 387572047,
+                    "md5": "e7d96a37a34d2c569009b5c25cfb56e4"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/little_paris_eiffel_tower_16k.hdr",
+                    "size": 378368014,
+                    "md5": "dc86beb2f3d4e97f47414db9d57b7fdf"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/little_paris_eiffel_tower_16k.exr",
+                    "size": 1459303752,
+                    "md5": "5e86cf2116aabc995424a4bb22a82bc3"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/little_paris_eiffel_tower_4k.hdr",
+                    "size": 27622492,
+                    "md5": "77e16723f86de453e2fdd7d1f3556a1f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/little_paris_eiffel_tower_4k.exr",
+                    "size": 97657542,
+                    "md5": "06a0660d8292c249be1a82a6f97e790a"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/little_paris_eiffel_tower_2k.hdr",
+                    "size": 7097640,
+                    "md5": "234663864d82531d4659500e42d2e35a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/little_paris_eiffel_tower_2k.exr",
+                    "size": 24556933,
+                    "md5": "b713fac0e238f81573e2d2ffc80dbb28"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/little_paris_eiffel_tower_1k.hdr",
+                    "size": 1803201,
+                    "md5": "d7a5d84b9c79e831d2549d002fe5b471"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/little_paris_eiffel_tower_1k.exr",
+                    "size": 6167492,
+                    "md5": "5c9e3289f98165ddc6a83e0279e13bb7"
+                }
+            }
+        }
+    }
+}

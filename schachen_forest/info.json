@@ -1,0 +1,104 @@
+{
+    "donated": true,
+    "type": 0,
+    "tags": [
+        "autumn",
+        "winter",
+        "leaves",
+        "tree",
+        "forest",
+        "earth"
+    ],
+    "name": "Schachen Forest",
+    "categories": [
+        "low contrast",
+        "overcast",
+        "morning-afternoon",
+        "natural light",
+        "nature",
+        "outdoor"
+    ],
+    "date_taken": 1487548800,
+    "authors": {
+        "Adrian Kubasa": "All"
+    },
+    "info": null,
+    "files_hash": "ee9d1337bad048d48cb810e8670a94b0e1052aae",
+    "evs_cap": 0,
+    "date_published": 1705190400,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 8808,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/schachen_forest.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 53101357,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/schachen_forest.jpg",
+            "md5": "bd7503dd0135bc54d26eda3d596683e3"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 111636139,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/schachen_forest_8k.hdr",
+                    "md5": "981aa660bff358cba980413346160efc"
+                },
+                "exr": {
+                    "size": 110692071,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/schachen_forest_8k.exr",
+                    "md5": "b99b0256f060015b321e713cef99f66e"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 417565655,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/schachen_forest_16k.hdr",
+                    "md5": "9f06a1ade6d6073313d5ee98e4f5d288"
+                },
+                "exr": {
+                    "size": 400892219,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/schachen_forest_16k.exr",
+                    "md5": "54c638c1c3511fbe8ac3e2c135f5bf90"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28825974,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/schachen_forest_4k.hdr",
+                    "md5": "d6370b1e7adf81c58603435b93ae07a7"
+                },
+                "exr": {
+                    "size": 28973147,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/schachen_forest_4k.exr",
+                    "md5": "e15ebb04fb35901d6b3474eea6c53d4f"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7303862,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/schachen_forest_2k.hdr",
+                    "md5": "c57e87002d60bc7fb9b23606e82574f4"
+                },
+                "exr": {
+                    "size": 7428217,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/schachen_forest_2k.exr",
+                    "md5": "eac45c912e62a15586101eb4b92ac4d6"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1835057,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/schachen_forest_1k.hdr",
+                    "md5": "6780b9cdd4da3d115e5e504e6f3ac408"
+                },
+                "exr": {
+                    "size": 1888356,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/schachen_forest_1k.exr",
+                    "md5": "8bf03be85586db0531dffd7767f2b2bc"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "sun",
+        "grass",
+        "view",
+        "landscape",
+        "autumn"
+    ],
+    "name": "Rosendal Plains 1",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "partly cloudy",
+        "skies",
+        "high contrast",
+        "midday"
+    ],
+    "date_taken": 1713009900,
+    "coords": [
+        -28.499485,
+        27.876704
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "files_hash": "655585b0ef33e71b38d609a32e2c73651cdd835b",
+    "date_published": 1718582400,
+    "download_count": 42856,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rosendal_plains_1.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 53290120,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rosendal_plains_1.jpg",
+            "md5": "bb532bdcf4b6c6c01db1928d52cb4ab7"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103923616,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rosendal_plains_1_8k.hdr",
+                    "md5": "0052a4ce7fdf3dbc326b4c8c0a4b2fc1"
+                },
+                "exr": {
+                    "size": 386816087,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rosendal_plains_1_8k.exr",
+                    "md5": "f82ac9e7e0c08d7355b9a7ee26edd825"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 388916635,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rosendal_plains_1_16k.hdr",
+                    "md5": "28df9abd8a3fd0b1cc7f3f3b920a774f"
+                },
+                "exr": {
+                    "size": 1529774302,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rosendal_plains_1_16k.exr",
+                    "md5": "4f4b18ebc4990e389cd19a5e0ce7626c"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26983704,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rosendal_plains_1_4k.hdr",
+                    "md5": "ba69e8558978cfe8c30a8e3f84ba424c"
+                },
+                "exr": {
+                    "size": 97157409,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rosendal_plains_1_4k.exr",
+                    "md5": "c2b5cf108936c4cee810cc027cfddb62"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6788952,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rosendal_plains_1_2k.hdr",
+                    "md5": "f1b80b0aaaef842ba25a9701757ec5dc"
+                },
+                "exr": {
+                    "size": 24405744,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rosendal_plains_1_2k.exr",
+                    "md5": "12801ba8939299aa62fbfed8c900688a"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1678863,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rosendal_plains_1_1k.hdr",
+                    "md5": "d72ccc0a769beab6c28589d81f29bc15"
+                },
+                "exr": {
+                    "size": 6125830,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rosendal_plains_1_1k.exr",
+                    "md5": "bf89478eaaf9791d3ed649919dfb9a6f"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 594882469,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rosendal_plains_1_20k.hdr",
+                    "md5": "9d5e67306b1fc58f147382a6f954976e"
+                },
+                "exr": {
+                    "size": 2365555731,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rosendal_plains_1_20k.exr",
+                    "md5": "deeab891aed966f4a323338ee9f1c447"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 207092239,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rosendal_plains_1.zip",
+            "md5": "67368e6a0f0b832d396f1222907b8fe5"
+        }
+    }
+}

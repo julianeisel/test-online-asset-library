@@ -1,0 +1,125 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "concrete",
+        "monument",
+        "symmetrical",
+        "circular",
+        "skylight"
+    ],
+    "name": "Trekker Monument",
+    "categories": [
+        "natural light",
+        "indoor",
+        "urban",
+        "medium contrast",
+        "overcast",
+        "midday"
+    ],
+    "coords": [
+        -28.546551505826518,
+        26.999063868342844
+    ],
+    "date_taken": 1672321020,
+    "info": null,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "files_hash": "c9ef4d5b76bf9eadb9e8ee9ddcbc1e3bbd0b5983",
+    "date_published": 1677024000,
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "download_count": 8763,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/trekker_monument.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 41961135,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/trekker_monument.jpg",
+            "md5": "e82220fb514feebfc6c33bb5ad553b67"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100599130,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/trekker_monument_8k.hdr",
+                    "md5": "933f24dea49b464637b636168c20ea0d"
+                },
+                "exr": {
+                    "size": 383430847,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/trekker_monument_8k.exr",
+                    "md5": "b48e1816f1ba7752b7a5b20acc0739a7"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 381566566,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/trekker_monument_16k.hdr",
+                    "md5": "b3e2249b68494f822dbd7548bd2c9925"
+                },
+                "exr": {
+                    "size": 1515852534,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/trekker_monument_16k.exr",
+                    "md5": "3e26ce0ad2c849fa8e41f88feb8b6a41"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25676297,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/trekker_monument_4k.hdr",
+                    "md5": "e85de59f220bbdcc631494fc3bc3617e"
+                },
+                "exr": {
+                    "size": 96276196,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/trekker_monument_4k.exr",
+                    "md5": "6023230e2ad69bdd58fee7fc043fe577"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6501552,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/trekker_monument_2k.hdr",
+                    "md5": "cfa040192e9b2d194d39a3a9734c1855"
+                },
+                "exr": {
+                    "size": 24156123,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/trekker_monument_2k.exr",
+                    "md5": "b1c14098794ab6b23293f07e5c8957ea"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 839768095,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/trekker_monument_24k.hdr",
+                    "md5": "ba957178e5bc89b62d9ffbeb206fc3d0"
+                },
+                "exr": {
+                    "size": 3374025776,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/trekker_monument_24k.exr",
+                    "md5": "de38cb66bed5f7b6aac0b4ad5d203152"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1642757,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/trekker_monument_1k.hdr",
+                    "md5": "6a7fc67d2381ea0a894071d528fc7cfb"
+                },
+                "exr": {
+                    "size": 6066469,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/trekker_monument_1k.exr",
+                    "md5": "105b185f97aa150d5a6378dad9967923"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 231319972,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/trekker_monument.zip",
+            "md5": "718a85afd4af2cdc415fdb789dceaca2"
+        }
+    }
+}

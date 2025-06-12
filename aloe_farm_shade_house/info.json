@@ -1,0 +1,128 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "sun",
+        "shade",
+        "net",
+        "greenhouse",
+        "farm",
+        "plants",
+        "agriculture",
+        "nursery"
+    ],
+    "name": "Aloe Farm Shade House",
+    "categories": [
+        "outdoor",
+        "nature",
+        "natural light",
+        "medium contrast",
+        "partly cloudy",
+        "morning-afternoon"
+    ],
+    "date_taken": 1678548600,
+    "coords": [
+        -25.7216225962134,
+        27.786606454298244
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "date_published": 1682294400,
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "412d4b5ba536b798b239b921a166aef5b2c414a5",
+    "download_count": 6046,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aloe_farm_shade_house.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 59323376,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/aloe_farm_shade_house.jpg",
+            "md5": "b421b21f9b9c5b1090b66d4a6699faad"
+        },
+        "colorchart": {
+            "size": 209990337,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/aloe_farm_shade_house.zip",
+            "md5": "3b6d5f2b13e504cf717895202da2074e"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 111301483,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/aloe_farm_shade_house_8k.hdr",
+                    "md5": "2e244126d9192ab4d0cf659ca8a9200d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/aloe_farm_shade_house_8k.exr",
+                    "size": 388319409,
+                    "md5": "95038365c03b2966c2996b795c4b2c91"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28503721,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/aloe_farm_shade_house_4k.hdr",
+                    "md5": "38e4d51f5826394359b64c1e566054f2"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/aloe_farm_shade_house_4k.exr",
+                    "size": 97533595,
+                    "md5": "0a4c8829c92cd4a8ff2eed5bad379b48"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7144254,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/aloe_farm_shade_house_2k.hdr",
+                    "md5": "8608a6692f25674d7ca1a4327d2655c2"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/aloe_farm_shade_house_2k.exr",
+                    "size": 24427255,
+                    "md5": "891316c6228996b2de186ba6b304181c"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1762844,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/aloe_farm_shade_house_1k.hdr",
+                    "md5": "16988bda4f294749b6fecb2370b104b0"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/aloe_farm_shade_house_1k.exr",
+                    "size": 6116119,
+                    "md5": "c875147b81e5855b2b578c494747b11c"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 421356684,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/aloe_farm_shade_house_16k.hdr",
+                    "md5": "aefad1d69ec8fbb2bd6c2087842943c1"
+                },
+                "exr": {
+                    "size": 1534330047,
+                    "md5": "4a22f6bda3946db858f1ff54c0a1ac05",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/aloe_farm_shade_house_16k.exr"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 924061728,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/aloe_farm_shade_house_24k.hdr",
+                    "md5": "1f73a9e150cefaacdf7a739b426acc56"
+                },
+                "exr": {
+                    "size": 3416948984,
+                    "md5": "9332374c5878b6bfb18f2a8ddb68bb33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/aloe_farm_shade_house_24k.exr"
+                }
+            }
+        }
+    }
+}

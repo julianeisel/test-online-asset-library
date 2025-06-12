@@ -1,0 +1,113 @@
+{
+    "evs_cap": 12,
+    "name": "Evening Field",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "skies",
+        "partly cloudy",
+        "low contrast",
+        "sunrise-sunset"
+    ],
+    "type": 0,
+    "date_taken": 1698772380,
+    "tags": [
+        "grass",
+        "path",
+        "birch",
+        "field",
+        "farm",
+        "rural",
+        "countryside"
+    ],
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "files_hash": "0b8e213959e2182202d741a5533464c55fa900da",
+    "date_published": 1707264000,
+    "sponsors": [
+        "37678923"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 58564,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/evening_field.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 41095173,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/evening_field.jpg",
+            "md5": "a28d24ab1d2e6e8467c338b40ef8afbf"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101701367,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/evening_field_8k.hdr",
+                    "md5": "97939b84f5d1472344cfa05bc2cb56fe"
+                },
+                "exr": {
+                    "size": 80378444,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/evening_field_8k.exr",
+                    "md5": "6f7c7dbd4a428b5816af5e9d58ef7974"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 385329539,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/evening_field_16k.hdr",
+                    "md5": "68dd4280d3bd4b5f9b5669b4fcffad5d"
+                },
+                "exr": {
+                    "size": 296240650,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/evening_field_16k.exr",
+                    "md5": "c126cabcb471ffadda8997e95e08b0b2"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25862697,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/evening_field_4k.hdr",
+                    "md5": "feb4489acb4e12c64ef45070688a718d"
+                },
+                "exr": {
+                    "size": 20796180,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/evening_field_4k.exr",
+                    "md5": "3988c745ddda2dbeb44b9225daefd2d1"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6452315,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/evening_field_2k.hdr",
+                    "md5": "87a0af8d4a23c0656be77c3c077d6f38"
+                },
+                "exr": {
+                    "size": 5292512,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/evening_field_2k.exr",
+                    "md5": "68dc7c9f7d27d2c1f77a89ab819b5b96"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1598539,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/evening_field_1k.hdr",
+                    "md5": "cb1fb3074ca60eb91ba216a7a4d82749"
+                },
+                "exr": {
+                    "size": 1351952,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/evening_field_1k.exr",
+                    "md5": "5d6797257ac7ca476b8c6f24335373e7"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 85356633,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/evening_field.zip",
+            "md5": "85f35dc48a6197322316d07de39eff4e"
+        }
+    }
+}

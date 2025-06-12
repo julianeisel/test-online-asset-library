@@ -1,0 +1,98 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "horse",
+        "art",
+        "exhibition",
+        "museum"
+    ],
+    "date_published": 1555624800,
+    "name": "Sculpture Exhibition",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1550151000,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "files_hash": "947dd184599edb0197be78f78d99b82bc9252694",
+    "max_resolution": [
+        17000,
+        8500
+    ],
+    "download_count": 41462,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sculpture_exhibition.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 3387371,
+            "md5": "c18837c898c9f6dc3e39f11b7d830466",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/sculpture_exhibition.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98476489,
+                    "md5": "df473bb9c2594a1539e48abe06740d81",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/sculpture_exhibition_8k.hdr"
+                },
+                "exr": {
+                    "size": 76777929,
+                    "md5": "8d2bdc82063d0bc8d76b8761139ea19e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/sculpture_exhibition_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 397171054,
+                    "md5": "356e8a250e6ae9d43c8930f428231252",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/sculpture_exhibition_16k.hdr"
+                },
+                "exr": {
+                    "size": 298231915,
+                    "md5": "e1acb603d2a34553b182c426853d8e4c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/sculpture_exhibition_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25040252,
+                    "md5": "5e92df0f61b16b1faeb4d12d8f4505f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/sculpture_exhibition_4k.hdr"
+                },
+                "exr": {
+                    "size": 19439294,
+                    "md5": "6c7d9cc159ba30b56a893beba629ee0a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/sculpture_exhibition_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6278359,
+                    "md5": "e0ff7c851337fc1eebcdb9d1482af590",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/sculpture_exhibition_2k.hdr"
+                },
+                "exr": {
+                    "size": 4882266,
+                    "md5": "023736249beb2ff436e4a157307880cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/sculpture_exhibition_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1575991,
+                    "md5": "83f856768e2d794dac600584a67b8e2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/sculpture_exhibition_1k.hdr"
+                },
+                "exr": {
+                    "size": 1248734,
+                    "md5": "cb8caf4f2513f6c5a440d8f87b301ffd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/sculpture_exhibition_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "evs_cap": 18,
+    "type": 0,
+    "tags": [
+        "tree",
+        "long grass",
+        "house",
+        "street light",
+        "power line",
+        "stars"
+    ],
+    "date_published": 1506981600,
+    "name": "Preller Drive",
+    "categories": [
+        "outdoor",
+        "urban",
+        "nature",
+        "partly cloudy",
+        "night",
+        "high contrast",
+        "artificial light"
+    ],
+    "date_taken": 1456946460,
+    "coords": [
+        -26.149102,
+        27.992005
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.idin-jewellery.co.uk/",
+            "name": "Idin Jewellery"
+        }
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "a3e2afff91ff3129c0a6dca4316f75a2fe5d0f01",
+    "download_count": 233961,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/preller_drive.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 7510101,
+            "md5": "e9f299b471a44993c89c8781e5d88d6f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/preller_drive.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/preller_drive_8k.hdr",
+                    "size": 113655350,
+                    "md5": "c41426487ccc81bfc3619a43ecc13b26"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/preller_drive_8k.exr",
+                    "size": 210107602,
+                    "md5": "9aba08fc471298c6407fd6ca2c5392b2"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/preller_drive_16k.hdr",
+                    "size": 418409920,
+                    "md5": "db8aa76b2c4c675c230e14d28b9ac229"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/preller_drive_16k.exr",
+                    "size": 471357221,
+                    "md5": "bc8fbd880a24d35d1e55a7a97e2b6b4e"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/preller_drive_4k.hdr",
+                    "size": 29385423,
+                    "md5": "4e4d6c8a42ab595e7c3c37a5d031b6b3"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/preller_drive_4k.exr",
+                    "size": 65652339,
+                    "md5": "06681cad2d9412719eb3f1506ad49d5a"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/preller_drive_2k.hdr",
+                    "size": 7405684,
+                    "md5": "4c41706a8849fecbead3d881483321c5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/preller_drive_2k.exr",
+                    "size": 18215490,
+                    "md5": "22e00bdfa517c413c53d41f381df04df"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/preller_drive_1k.hdr",
+                    "size": 1851723,
+                    "md5": "4995d9760c8b952d949ddf32396a8e65"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/preller_drive_1k.exr",
+                    "size": 5215008,
+                    "md5": "906c00a4a9988fac927d8debbbaa8564"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,339 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1514344312,
+    "name": "Tiber Island",
+    "categories": [
+        "outdoor",
+        "skies",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1510221240,
+    "coords": [
+        41.891,
+        12.4751
+    ],
+    "backplates": true,
+    "tags": [
+        "tree",
+        "sun",
+        "river",
+        "architecture",
+        "europe",
+        "bridge",
+        "rome",
+        "backplates"
+    ],
+    "sponsors": [
+        "8571269",
+        "7934315"
+    ],
+    "files_hash": "b80b6887b6877d36c03fc0dd977d5dd668d35517",
+    "authors": {
+        "Greg Zaal": "All",
+        "Rico Cilliers": "Backplates"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 38355,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/tiber_island.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4700904,
+            "md5": "f7fa42a372505729e561733a009a7429",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/tiber_island.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 92411353,
+                    "md5": "28eed36fbab534ac34ef370de8879b23",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/tiber_island_8k.hdr"
+                },
+                "exr": {
+                    "size": 72225476,
+                    "md5": "3ff18bb71a3aca3ff6893487367bcde6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/tiber_island_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 324846215,
+                    "md5": "f5ee44e006cc7052dfe0c6ecde22623a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/tiber_island_16k.hdr"
+                },
+                "exr": {
+                    "size": 250280081,
+                    "md5": "f76b5e26ec948be67b77ddcc1ec7630d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/tiber_island_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24247319,
+                    "md5": "773fa546bb9bde0896b3d32b8fec60a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/tiber_island_4k.hdr"
+                },
+                "exr": {
+                    "size": 19602705,
+                    "md5": "c6b12c0f3659a79de34516d6fbb6cb62",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/tiber_island_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6250451,
+                    "md5": "69b65b80cf729253ba1166cb02a34c5e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/tiber_island_2k.hdr"
+                },
+                "exr": {
+                    "size": 5253943,
+                    "md5": "7106909e67f970e936e7f20fc1b2e287",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/tiber_island_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1603539,
+                    "md5": "f2ed452f70e64abdbd055b3a2e69e92e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/tiber_island_1k.hdr"
+                },
+                "exr": {
+                    "size": 1405856,
+                    "md5": "3d97657f124eb9c179e80a02b7f79028",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/tiber_island_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC08090": {
+                "jpg_pretty": {
+                    "size": 27115773,
+                    "md5": "24e11753124045c7d451ef08e5f3c4a7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_pretty/DSC08090.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18555480,
+                    "md5": "6408ca7003ed6266b4f4d5f3f76ca357",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_plain/DSC08090.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "4b69945a7ccb5c441e93010767b27167",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/raw/DSC08090.ARW"
+                }
+            },
+            "DSC08093": {
+                "jpg_pretty": {
+                    "size": 23965195,
+                    "md5": "07b55c167a3f36841fea815c9fc23761",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_pretty/DSC08093.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17071235,
+                    "md5": "57659bd3e3151f8c8e55ea7fda806a9e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_plain/DSC08093.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "add6c383d71f24c3c2ae2843ae7bd2c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/raw/DSC08093.ARW"
+                }
+            },
+            "DSC08103": {
+                "jpg_pretty": {
+                    "size": 18601424,
+                    "md5": "74dceebd924a9d91c1b2233c0e7c92cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_pretty/DSC08103.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15237042,
+                    "md5": "27672eee52a42e26855b9ba440e1904c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_plain/DSC08103.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "6e5eed5bb319e66ea6f1fd4ecffe775e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/raw/DSC08103.ARW"
+                }
+            },
+            "DSC08116": {
+                "jpg_pretty": {
+                    "size": 29307881,
+                    "md5": "81ba3c2f671210879360c4043f6a272b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_pretty/DSC08116.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20649874,
+                    "md5": "6e0fe5df1a08333388cd6307a59f14bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_plain/DSC08116.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "00e19731defbd5b9173ef925bab189da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/raw/DSC08116.ARW"
+                }
+            },
+            "DSC08107": {
+                "jpg_pretty": {
+                    "size": 29801705,
+                    "md5": "8f8f4b8b84754645764e47f4225f762e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_pretty/DSC08107.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20361022,
+                    "md5": "a8032cb688feb421a999d3a56b848437",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_plain/DSC08107.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "060be0def6288782241e97d9640385ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/raw/DSC08107.ARW"
+                }
+            },
+            "DSC08109": {
+                "jpg_pretty": {
+                    "size": 26448284,
+                    "md5": "94949dafdb94aca62ed6bbdf3fdd924e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_pretty/DSC08109.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17908172,
+                    "md5": "5134f5b3d05947be3c38a79e746cab1b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_plain/DSC08109.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "95ccbfaaa524dd4e1bd252a71b540c60",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/raw/DSC08109.ARW"
+                }
+            },
+            "DSC08085": {
+                "jpg_pretty": {
+                    "size": 23208142,
+                    "md5": "0efb8860ea51b3dab0f322df31e286a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_pretty/DSC08085.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15926797,
+                    "md5": "01e9aced78fa44fd5b96e5ee2df7c1ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_plain/DSC08085.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "956e77119bf229e8fd84557f360d1260",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/raw/DSC08085.ARW"
+                }
+            },
+            "DSC08096": {
+                "jpg_pretty": {
+                    "size": 20078804,
+                    "md5": "9566d5f60155477fe37d7a77d14c6828",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_pretty/DSC08096.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14963180,
+                    "md5": "cc2cba15597634df302dc624f56e748a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_plain/DSC08096.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "c3cd9de16dd76bf459d9430414f8f8ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/raw/DSC08096.ARW"
+                }
+            },
+            "DSC08086": {
+                "jpg_pretty": {
+                    "size": 21608831,
+                    "md5": "e15d40d15bbf8ae62b535977e9578ddb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_pretty/DSC08086.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16152734,
+                    "md5": "6f091e2f44120951e15384d5ded82ae1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_plain/DSC08086.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "e5221d5460317eb538b7e28d12f6b8e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/raw/DSC08086.ARW"
+                }
+            },
+            "DSC08098": {
+                "jpg_pretty": {
+                    "size": 24480856,
+                    "md5": "29974655066fde8eb476a680a930c33c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_pretty/DSC08098.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18269380,
+                    "md5": "078ac4645bed3323082f919623b4b245",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_plain/DSC08098.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "2f744d2dea01f8ff0c04ac6fb83ebb59",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/raw/DSC08098.ARW"
+                }
+            },
+            "DSC08088": {
+                "jpg_pretty": {
+                    "size": 21251826,
+                    "md5": "1487b76b1fdf30a7f93e0af40d346665",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_pretty/DSC08088.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15760535,
+                    "md5": "470b2a78706b7d4f3e258a064afa9d8a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_plain/DSC08088.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "0f124fafcab4b4b6bd7e317848bac9b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/raw/DSC08088.ARW"
+                }
+            },
+            "DSC08100": {
+                "jpg_pretty": {
+                    "size": 21648561,
+                    "md5": "02c114fd7c2e75044a236a4c1cd5f8f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_pretty/DSC08100.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16051388,
+                    "md5": "a785730f02d4ff540e3e29dec780e793",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_plain/DSC08100.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "fbe8d69a2aa16e2831d7a9c45ca37c3d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/raw/DSC08100.ARW"
+                }
+            },
+            "DSC08112": {
+                "jpg_pretty": {
+                    "size": 19596157,
+                    "md5": "4eb028bdfa9bf3c56281c54006ed437f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_pretty/DSC08112.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15015141,
+                    "md5": "390016e2dfa04c6835aee1c73bb97fda",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/jpg_plain/DSC08112.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "4420ee448d0205debf013190879e701f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_island/raw/DSC08112.ARW"
+                }
+            }
+        }
+    }
+}

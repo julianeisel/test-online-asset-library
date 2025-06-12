@@ -1,0 +1,106 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Syferfontein 6d Clear (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "low contrast",
+        "natural light",
+        "pure skies"
+    ],
+    "coords": [
+        -26.3588,
+        27.7549
+    ],
+    "date_taken": 1534001280,
+    "info": "Edited sky-only version of [Syferfontein 6d Clear](https://polyhaven.com/a/syferfontein_6d_clear).",
+    "authors": {
+        "Greg Zaal": "Original",
+        "Jarod Guest": "Sky Edits"
+    },
+    "files_hash": "b0e589ed020fd13af52ea34d1d9a4281f54bbea0",
+    "date_published": 1676678400,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 17600,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/syferfontein_6d_clear_puresky.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 19815274,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/syferfontein_6d_clear_puresky.jpg",
+            "md5": "f755935cab2c94f69bfd45cc1f5faf10"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 70178012,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/syferfontein_6d_clear_puresky_8k.hdr",
+                    "md5": "f20867ec0e7702e310f91e52a1d7bdb2"
+                },
+                "exr": {
+                    "size": 287489203,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/syferfontein_6d_clear_puresky_8k.exr",
+                    "md5": "94fe25930b3cf0a94f1f9c9b36a2af91"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 245708143,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/syferfontein_6d_clear_puresky_16k.hdr",
+                    "md5": "c38f2e3a0bd3dc25c8782d1847856198"
+                },
+                "exr": {
+                    "size": 1119997003,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/syferfontein_6d_clear_puresky_16k.exr",
+                    "md5": "2392387009762ba1732416379df3f668"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 18832562,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/syferfontein_6d_clear_puresky_4k.hdr",
+                    "md5": "f24e6ca684c165f29b5ead34fe1e5655"
+                },
+                "exr": {
+                    "size": 73948501,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/syferfontein_6d_clear_puresky_4k.exr",
+                    "md5": "369b581ae8c207bd6dd5fcbe8488d589"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4650421,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/syferfontein_6d_clear_puresky_2k.hdr",
+                    "md5": "43d3e9a8d8b64a262f915265f8656a5f"
+                },
+                "exr": {
+                    "size": 19347838,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/syferfontein_6d_clear_puresky_2k.exr",
+                    "md5": "2a42afcd0cfa8672aa3fb258f9a08d09"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1129809,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/syferfontein_6d_clear_puresky_1k.hdr",
+                    "md5": "908b7b028f5db44f47960fd4a3f0138e"
+                },
+                "exr": {
+                    "size": 5241130,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/syferfontein_6d_clear_puresky_1k.exr",
+                    "md5": "dd38ac5f9ca8ae7c4c3b99dc34a0eb1c"
+                }
+            }
+        }
+    }
+}

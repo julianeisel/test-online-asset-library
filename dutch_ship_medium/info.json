@@ -1,0 +1,1858 @@
+{
+    "type": 2,
+    "name": "Dutch Ship Medium",
+    "authors": {
+        "James Ray Cock": "model, textures, cleanup",
+        "Rico Cilliers": "sails model, textures",
+        "Nicol\u00f2 Zubbini": "original model"
+    },
+    "date_published": 1653436800,
+    "files_hash": "0bbc781d9210eea80e853195021dfb5ecc91fc27",
+    "categories": [
+        "ships",
+        "collection: smugglers_cove"
+    ],
+    "tags": [
+        "ship",
+        "boat",
+        "pirates",
+        "old",
+        "wooden",
+        "wood",
+        "colonial",
+        "maritime",
+        "commercial",
+        "ocean",
+        "sea",
+        "medium",
+        "sail"
+    ],
+    "max_resolution": [
+        4096,
+        4096
+    ],
+    "polycount": 69162,
+    "texel_density": 1831.0017121730489,
+    "dimensions": [
+        6808.822154998779,
+        24070.354461669922,
+        24657.122135162354
+    ],
+    "download_count": 9785,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dutch_ship_medium.png?width=256&height=256",
+    "files": {
+        "sails_nor_gl": {
+            "4k": {
+                "jpg": {
+                    "size": 14034067,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_4k.jpg",
+                    "md5": "ac091b2fbd7ff26cdc1ef16c9f06b7e1"
+                },
+                "png": {
+                    "size": 74706298,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_4k.png",
+                    "md5": "3d5c877f25a4d048eb98f69823cbfa5b"
+                },
+                "exr": {
+                    "size": 28978627,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_4k.exr",
+                    "md5": "9f6913d84aefce6f0920e1287a39ef68"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3334525,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_2k.jpg",
+                    "md5": "38100504cb72662f531dd1bd5e8a821b"
+                },
+                "png": {
+                    "size": 19811732,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_2k.png",
+                    "md5": "5630ec44ec5c1c3aab74b861b0cd7337"
+                },
+                "exr": {
+                    "size": 7126977,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_2k.exr",
+                    "md5": "3f3ed6bbbe2fac3eea9b8266b5b11087"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 770917,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_1k.jpg",
+                    "md5": "dd9c9577f8e63071c62448b56f2951f5"
+                },
+                "png": {
+                    "size": 4993588,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_1k.png",
+                    "md5": "3444940adf5d99b0776d0ad5a06920c4"
+                },
+                "exr": {
+                    "size": 1704451,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_1k.exr",
+                    "md5": "a89d08e3e7fb8de819fad6055b2a33ed"
+                }
+            }
+        },
+        "rigging_nor_dx": {
+            "4k": {
+                "jpg": {
+                    "size": 6336428,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_rigging_nor_dx_4k.jpg",
+                    "md5": "561fdac8b4f981e950e4bff87da896fe"
+                },
+                "png": {
+                    "size": 55584137,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_nor_dx_4k.png",
+                    "md5": "342d6bce8281b08e3533b66512fe1d29"
+                },
+                "exr": {
+                    "size": 11662304,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_rigging_nor_dx_4k.exr",
+                    "md5": "e5f097f9a2ae4a94c3bd87515dfc93c3"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1994175,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_rigging_nor_dx_2k.jpg",
+                    "md5": "e88dd78cf611e8acb0db058ad95bddbf"
+                },
+                "png": {
+                    "size": 16385830,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_nor_dx_2k.png",
+                    "md5": "c7d2f5961dd74138dfe28dd61749867b"
+                },
+                "exr": {
+                    "size": 4269296,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_rigging_nor_dx_2k.exr",
+                    "md5": "3c7b94f3a30603a125235f4d33221279"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 549989,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_rigging_nor_dx_1k.jpg",
+                    "md5": "4e6702c39e69ac4df2b4f7ca03c699ee"
+                },
+                "png": {
+                    "size": 4384100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_nor_dx_1k.png",
+                    "md5": "1bcae83e195d86e1bf8d42f18b6eb243"
+                },
+                "exr": {
+                    "size": 1168134,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_rigging_nor_dx_1k.exr",
+                    "md5": "f0a23d60a16bfd7ccc40869ad32c5b55"
+                }
+            }
+        },
+        "blend": {
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/dutch_ship_medium_hull_metal_4k.png": {
+                            "size": 882561,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_metal_4k.png",
+                            "md5": "04a82a55e3ccf327620220d59046d868"
+                        },
+                        "textures/dutch_ship_medium_sails_rough_4k.png": {
+                            "size": 21552577,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_rough_4k.png",
+                            "md5": "169471e930820685ced2c803271d8474"
+                        },
+                        "textures/dutch_ship_medium_rigging_nor_gl_4k.png": {
+                            "size": 55596444,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_4k.png",
+                            "md5": "e7a27a11e3eb1a2d524b871558ccabd2"
+                        },
+                        "textures/dutch_ship_medium_rigging_metal_4k.png": {
+                            "size": 1383065,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_metal_4k.png",
+                            "md5": "34cfd77fa3835396265e494322e2135a"
+                        },
+                        "textures/dutch_ship_medium_sails_nor_gl_4k.png": {
+                            "size": 74706298,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_4k.png",
+                            "md5": "3d5c877f25a4d048eb98f69823cbfa5b"
+                        },
+                        "textures/dutch_ship_medium_hull_nor_gl_4k.png": {
+                            "size": 68666967,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_4k.png",
+                            "md5": "c23b72da73a4cb7f00cd0926c4ad1d88"
+                        },
+                        "textures/dutch_ship_medium_hull_diff_4k.png": {
+                            "size": 61938848,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_diff_4k.png",
+                            "md5": "6923be080fb1c3eca095e151c58fe7a2"
+                        },
+                        "textures/dutch_ship_medium_hull_rough_4k.png": {
+                            "size": 20171436,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_rough_4k.png",
+                            "md5": "edba0699463685c8a2f6ef8e840e0bc3"
+                        },
+                        "textures/dutch_ship_medium_rigging_diff_4k.png": {
+                            "size": 43971503,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_diff_4k.png",
+                            "md5": "5b4f4adb0181909efda9fc636241dd90"
+                        },
+                        "textures/dutch_ship_medium_rigging_rough_4k.png": {
+                            "size": 6501212,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_rough_4k.png",
+                            "md5": "58e3a7555d9ac8e6257ba24805d94f05"
+                        },
+                        "textures/dutch_ship_medium_sails_diff_4k.png": {
+                            "size": 67031699,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_diff_4k.png",
+                            "md5": "aa5b599c656ae1e514d9ab8225f539af"
+                        },
+                        "textures/dutch_ship_medium_sails_alpha_4k.png": {
+                            "size": 63536,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_alpha_4k.png",
+                            "md5": "3c029f689ed582e921fe970c28e93e86"
+                        }
+                    },
+                    "size": 2097495,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/dutch_ship_medium/dutch_ship_medium_4k.blend",
+                    "md5": "7d3d61e1276db2c86293fa0ef550c2bf"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/dutch_ship_medium_rigging_diff_2k.png": {
+                            "size": 16627808,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_diff_2k.png",
+                            "md5": "61c63f5adc296d6e197c26d3c4ca5d9e"
+                        },
+                        "textures/dutch_ship_medium_rigging_rough_2k.png": {
+                            "size": 3796671,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_rough_2k.png",
+                            "md5": "723feeff0990e1051f7addcf3285c652"
+                        },
+                        "textures/dutch_ship_medium_sails_nor_gl_2k.png": {
+                            "size": 19811732,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_2k.png",
+                            "md5": "5630ec44ec5c1c3aab74b861b0cd7337"
+                        },
+                        "textures/dutch_ship_medium_hull_rough_2k.png": {
+                            "size": 6709751,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_rough_2k.png",
+                            "md5": "09ce259b87b6f73254d07fbacf5fa6ad"
+                        },
+                        "textures/dutch_ship_medium_sails_rough_2k.png": {
+                            "size": 5685503,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_rough_2k.png",
+                            "md5": "2da0b2ee22fa2715612668e2e23d7519"
+                        },
+                        "textures/dutch_ship_medium_sails_alpha_2k.png": {
+                            "size": 28224,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_alpha_2k.png",
+                            "md5": "12e51302777bfdfee23f10150736e288"
+                        },
+                        "textures/dutch_ship_medium_hull_metal_2k.png": {
+                            "size": 352736,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_metal_2k.png",
+                            "md5": "6038b64fa43067961cd1742693ec0b0f"
+                        },
+                        "textures/dutch_ship_medium_sails_diff_2k.png": {
+                            "size": 18649619,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_diff_2k.png",
+                            "md5": "dd2bd1b532e0b94f4439eaa68e2b1115"
+                        },
+                        "textures/dutch_ship_medium_rigging_metal_2k.png": {
+                            "size": 824042,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_metal_2k.png",
+                            "md5": "a1decf469557c363c79919ffac082659"
+                        },
+                        "textures/dutch_ship_medium_rigging_nor_gl_2k.png": {
+                            "size": 16389148,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_2k.png",
+                            "md5": "4e60d4adcae634d5e1c78e2f00c75d93"
+                        },
+                        "textures/dutch_ship_medium_hull_diff_2k.png": {
+                            "size": 19218228,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_diff_2k.png",
+                            "md5": "a42ebcb6c7580d6af0d483f4659395d1"
+                        },
+                        "textures/dutch_ship_medium_hull_nor_gl_2k.png": {
+                            "size": 19517331,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_2k.png",
+                            "md5": "7a82ada401e0bb1e7707deef6780c734"
+                        }
+                    },
+                    "size": 2097438,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/dutch_ship_medium/dutch_ship_medium_2k.blend",
+                    "md5": "caf9e478b26d0de11def7144aff46e28"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/dutch_ship_medium_rigging_nor_gl_1k.png": {
+                            "size": 4385863,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_1k.png",
+                            "md5": "29a8ddcf35fb4bc503f00e2952483ec1"
+                        },
+                        "textures/dutch_ship_medium_hull_metal_1k.png": {
+                            "size": 122844,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_metal_1k.png",
+                            "md5": "4d7fedb75b4e06b4badd89b5e22f1aa2"
+                        },
+                        "textures/dutch_ship_medium_sails_nor_gl_1k.png": {
+                            "size": 4993588,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_1k.png",
+                            "md5": "3444940adf5d99b0776d0ad5a06920c4"
+                        },
+                        "textures/dutch_ship_medium_hull_diff_1k.png": {
+                            "size": 5250734,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_diff_1k.png",
+                            "md5": "e84deda554ceb23cbabd0ccd1fbd4089"
+                        },
+                        "textures/dutch_ship_medium_sails_alpha_1k.png": {
+                            "size": 13280,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_alpha_1k.png",
+                            "md5": "b39c85cc1e268b45d8aa3d43040baf0f"
+                        },
+                        "textures/dutch_ship_medium_rigging_diff_1k.png": {
+                            "size": 4682162,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_diff_1k.png",
+                            "md5": "f45c1822f4fbafd4cc75f460ce41061d"
+                        },
+                        "textures/dutch_ship_medium_sails_rough_1k.png": {
+                            "size": 1479103,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_rough_1k.png",
+                            "md5": "a20c8b0dc018f11edbb1ab87c568b717"
+                        },
+                        "textures/dutch_ship_medium_hull_rough_1k.png": {
+                            "size": 1859780,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_rough_1k.png",
+                            "md5": "e846b7be9e19131506e6be0a725701fa"
+                        },
+                        "textures/dutch_ship_medium_rigging_rough_1k.png": {
+                            "size": 1171202,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_rough_1k.png",
+                            "md5": "f4516ca5241270b62cc66b0f8b0c7cef"
+                        },
+                        "textures/dutch_ship_medium_sails_diff_1k.png": {
+                            "size": 4732425,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_diff_1k.png",
+                            "md5": "0b4ab9eb9efb2274802fb00e98ec0beb"
+                        },
+                        "textures/dutch_ship_medium_hull_nor_gl_1k.png": {
+                            "size": 5214867,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_1k.png",
+                            "md5": "9031945e7bbf045403cb64964d0d2bcb"
+                        },
+                        "textures/dutch_ship_medium_rigging_metal_1k.png": {
+                            "size": 302396,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_metal_1k.png",
+                            "md5": "c3b88089617a542124e8efd7f1ba1b0a"
+                        }
+                    },
+                    "size": 2097501,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/dutch_ship_medium/dutch_ship_medium_1k.blend",
+                    "md5": "accd62cebe2be810ae3f89d96fafdfc0"
+                }
+            }
+        },
+        "gltf": {
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/dutch_ship_medium_hull_arm_4k.jpg": {
+                            "size": 16319458,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_hull_arm_4k.jpg",
+                            "md5": "1805bad17c58f3f848b9073babfb3a1b"
+                        },
+                        "textures/dutch_ship_medium_hull_diff_4k.jpg": {
+                            "size": 12553980,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_hull_diff_4k.jpg",
+                            "md5": "cfd425271b55ed0d600303088f0ee1c3"
+                        },
+                        "dutch_ship_medium.bin": {
+                            "size": 2480380,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/dutch_ship_medium/dutch_ship_medium.bin",
+                            "md5": "f73e0108855bc3aef1a65a737a37f575"
+                        },
+                        "textures/dutch_ship_medium_rigging_diff_4k.jpg": {
+                            "size": 6528953,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_rigging_diff_4k.jpg",
+                            "md5": "ce7065d313c13a3faf24437e4c91ddb8"
+                        },
+                        "textures/dutch_ship_medium_sails_diff_4k.jpg": {
+                            "size": 13121895,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_sails_diff_4k.jpg",
+                            "md5": "2df8fd168541b8b7fccf4376293194b8"
+                        },
+                        "textures/dutch_ship_medium_sails_arm_4k.jpg": {
+                            "size": 13343686,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_sails_arm_4k.jpg",
+                            "md5": "43ac6060a88b143bd170dc43017592ba"
+                        },
+                        "textures/dutch_ship_medium_rigging_nor_gl_4k.jpg": {
+                            "size": 6140707,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_4k.jpg",
+                            "md5": "d23c72e96422d2af296905246ce12955"
+                        },
+                        "textures/dutch_ship_medium_sails_nor_gl_4k.jpg": {
+                            "size": 14034067,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_4k.jpg",
+                            "md5": "ac091b2fbd7ff26cdc1ef16c9f06b7e1"
+                        },
+                        "textures/dutch_ship_medium_hull_nor_gl_4k.jpg": {
+                            "size": 14194067,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_4k.jpg",
+                            "md5": "031f3e3f2318544dcf91e8761e508acb"
+                        },
+                        "textures/dutch_ship_medium_rigging_arm_4k.jpg": {
+                            "size": 6361920,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_rigging_arm_4k.jpg",
+                            "md5": "7247a2194055b209cb01d827c000e985"
+                        }
+                    },
+                    "size": 7494,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/dutch_ship_medium/dutch_ship_medium_4k.gltf",
+                    "md5": "0412c3465bd8e03582b495f94471c23f"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/dutch_ship_medium_rigging_nor_gl_2k.jpg": {
+                            "size": 1926834,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_2k.jpg",
+                            "md5": "601ee50212a629c6762b3826ac79b1f6"
+                        },
+                        "dutch_ship_medium.bin": {
+                            "size": 2480380,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/dutch_ship_medium/dutch_ship_medium.bin",
+                            "md5": "f73e0108855bc3aef1a65a737a37f575"
+                        },
+                        "textures/dutch_ship_medium_hull_diff_2k.jpg": {
+                            "size": 2945586,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_hull_diff_2k.jpg",
+                            "md5": "af0fd1ca5255e1671345ddb3d9e07c73"
+                        },
+                        "textures/dutch_ship_medium_hull_nor_gl_2k.jpg": {
+                            "size": 3666864,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_2k.jpg",
+                            "md5": "0c68896a86bf25c8469bfc18e9a3fa0b"
+                        },
+                        "textures/dutch_ship_medium_rigging_arm_2k.jpg": {
+                            "size": 2058601,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_rigging_arm_2k.jpg",
+                            "md5": "c4d84f67e2a0f67ff8ee17546c3d7818"
+                        },
+                        "textures/dutch_ship_medium_rigging_diff_2k.jpg": {
+                            "size": 2198962,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_rigging_diff_2k.jpg",
+                            "md5": "3e7756baa30b638788e494d6c51b57b1"
+                        },
+                        "textures/dutch_ship_medium_sails_nor_gl_2k.jpg": {
+                            "size": 3334525,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_2k.jpg",
+                            "md5": "38100504cb72662f531dd1bd5e8a821b"
+                        },
+                        "textures/dutch_ship_medium_hull_arm_2k.jpg": {
+                            "size": 3901702,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_hull_arm_2k.jpg",
+                            "md5": "27b7637fe58293ca2c6d70e1176c9abd"
+                        },
+                        "textures/dutch_ship_medium_sails_arm_2k.jpg": {
+                            "size": 2506529,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_sails_arm_2k.jpg",
+                            "md5": "1de6299082cd847e8b0958b53f74c64f"
+                        },
+                        "textures/dutch_ship_medium_sails_diff_2k.jpg": {
+                            "size": 2656547,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_sails_diff_2k.jpg",
+                            "md5": "49842bd4280188ecf405caf474f51b9a"
+                        }
+                    },
+                    "size": 7494,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/dutch_ship_medium/dutch_ship_medium_2k.gltf",
+                    "md5": "55813b7ee04c49f7bc703277dc6691f8"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/dutch_ship_medium_hull_arm_1k.jpg": {
+                            "size": 992318,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_hull_arm_1k.jpg",
+                            "md5": "0f24fc5c2234c69a532f4d6c7ed743d8"
+                        },
+                        "textures/dutch_ship_medium_sails_diff_1k.jpg": {
+                            "size": 579788,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_sails_diff_1k.jpg",
+                            "md5": "bc208c775eb005386d089ad5dc1eec00"
+                        },
+                        "textures/dutch_ship_medium_rigging_arm_1k.jpg": {
+                            "size": 556896,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_rigging_arm_1k.jpg",
+                            "md5": "ef43b6361c191488cf38e9dc3ae2ff2c"
+                        },
+                        "dutch_ship_medium.bin": {
+                            "size": 2480380,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/dutch_ship_medium/dutch_ship_medium.bin",
+                            "md5": "f73e0108855bc3aef1a65a737a37f575"
+                        },
+                        "textures/dutch_ship_medium_hull_nor_gl_1k.jpg": {
+                            "size": 967533,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_1k.jpg",
+                            "md5": "db1b09ba5e9456a24ca75a04fcdec460"
+                        },
+                        "textures/dutch_ship_medium_rigging_nor_gl_1k.jpg": {
+                            "size": 535119,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_1k.jpg",
+                            "md5": "9c80020acc0933c64d1d1cafabfe4355"
+                        },
+                        "textures/dutch_ship_medium_sails_arm_1k.jpg": {
+                            "size": 532281,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_sails_arm_1k.jpg",
+                            "md5": "841c9af726ee8fb3fa412cae8cb94068"
+                        },
+                        "textures/dutch_ship_medium_hull_diff_1k.jpg": {
+                            "size": 745169,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_hull_diff_1k.jpg",
+                            "md5": "ea6a1429fc1f457d080ddd0a84d0b1d3"
+                        },
+                        "textures/dutch_ship_medium_sails_nor_gl_1k.jpg": {
+                            "size": 770917,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_1k.jpg",
+                            "md5": "dd9c9577f8e63071c62448b56f2951f5"
+                        },
+                        "textures/dutch_ship_medium_rigging_diff_1k.jpg": {
+                            "size": 567644,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_rigging_diff_1k.jpg",
+                            "md5": "9be03bbd49b2351bf876cff4151d885e"
+                        }
+                    },
+                    "size": 7494,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/dutch_ship_medium/dutch_ship_medium_1k.gltf",
+                    "md5": "ade58c8bbbc75ebcafd5f7f9bbd5cfea"
+                }
+            }
+        },
+        "usd": {
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/dutch_ship_medium_hull_metal_4k.png": {
+                            "size": 882561,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_metal_4k.png",
+                            "md5": "04a82a55e3ccf327620220d59046d868"
+                        },
+                        "textures/dutch_ship_medium_sails_rough_4k.png": {
+                            "size": 21552577,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_rough_4k.png",
+                            "md5": "169471e930820685ced2c803271d8474"
+                        },
+                        "textures/dutch_ship_medium_rigging_nor_gl_4k.png": {
+                            "size": 55596444,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_4k.png",
+                            "md5": "e7a27a11e3eb1a2d524b871558ccabd2"
+                        },
+                        "textures/dutch_ship_medium_rigging_metal_4k.png": {
+                            "size": 1383065,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_metal_4k.png",
+                            "md5": "34cfd77fa3835396265e494322e2135a"
+                        },
+                        "textures/dutch_ship_medium_sails_nor_gl_4k.png": {
+                            "size": 74706298,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_4k.png",
+                            "md5": "3d5c877f25a4d048eb98f69823cbfa5b"
+                        },
+                        "textures/dutch_ship_medium_hull_nor_gl_4k.png": {
+                            "size": 68666967,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_4k.png",
+                            "md5": "c23b72da73a4cb7f00cd0926c4ad1d88"
+                        },
+                        "textures/dutch_ship_medium_hull_diff_4k.png": {
+                            "size": 61938848,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_diff_4k.png",
+                            "md5": "6923be080fb1c3eca095e151c58fe7a2"
+                        },
+                        "textures/dutch_ship_medium_hull_rough_4k.png": {
+                            "size": 20171436,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_rough_4k.png",
+                            "md5": "edba0699463685c8a2f6ef8e840e0bc3"
+                        },
+                        "textures/dutch_ship_medium_rigging_diff_4k.png": {
+                            "size": 43971503,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_diff_4k.png",
+                            "md5": "5b4f4adb0181909efda9fc636241dd90"
+                        },
+                        "textures/dutch_ship_medium_rigging_rough_4k.png": {
+                            "size": 6501212,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_rough_4k.png",
+                            "md5": "58e3a7555d9ac8e6257ba24805d94f05"
+                        },
+                        "textures/dutch_ship_medium_sails_diff_4k.png": {
+                            "size": 67031699,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_diff_4k.png",
+                            "md5": "aa5b599c656ae1e514d9ab8225f539af"
+                        },
+                        "textures/dutch_ship_medium_sails_alpha_4k.png": {
+                            "size": 63536,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_alpha_4k.png",
+                            "md5": "3c029f689ed582e921fe970c28e93e86"
+                        }
+                    },
+                    "size": 3636336,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/dutch_ship_medium/dutch_ship_medium_4k.usdc",
+                    "md5": "c0da713e2a19339427c1ec1f5e8dd5c7"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/dutch_ship_medium_rigging_diff_2k.png": {
+                            "size": 16627808,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_diff_2k.png",
+                            "md5": "61c63f5adc296d6e197c26d3c4ca5d9e"
+                        },
+                        "textures/dutch_ship_medium_rigging_rough_2k.png": {
+                            "size": 3796671,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_rough_2k.png",
+                            "md5": "723feeff0990e1051f7addcf3285c652"
+                        },
+                        "textures/dutch_ship_medium_sails_nor_gl_2k.png": {
+                            "size": 19811732,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_2k.png",
+                            "md5": "5630ec44ec5c1c3aab74b861b0cd7337"
+                        },
+                        "textures/dutch_ship_medium_hull_rough_2k.png": {
+                            "size": 6709751,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_rough_2k.png",
+                            "md5": "09ce259b87b6f73254d07fbacf5fa6ad"
+                        },
+                        "textures/dutch_ship_medium_sails_rough_2k.png": {
+                            "size": 5685503,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_rough_2k.png",
+                            "md5": "2da0b2ee22fa2715612668e2e23d7519"
+                        },
+                        "textures/dutch_ship_medium_sails_alpha_2k.png": {
+                            "size": 28224,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_alpha_2k.png",
+                            "md5": "12e51302777bfdfee23f10150736e288"
+                        },
+                        "textures/dutch_ship_medium_hull_metal_2k.png": {
+                            "size": 352736,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_metal_2k.png",
+                            "md5": "6038b64fa43067961cd1742693ec0b0f"
+                        },
+                        "textures/dutch_ship_medium_sails_diff_2k.png": {
+                            "size": 18649619,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_diff_2k.png",
+                            "md5": "dd2bd1b532e0b94f4439eaa68e2b1115"
+                        },
+                        "textures/dutch_ship_medium_rigging_metal_2k.png": {
+                            "size": 824042,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_metal_2k.png",
+                            "md5": "a1decf469557c363c79919ffac082659"
+                        },
+                        "textures/dutch_ship_medium_rigging_nor_gl_2k.png": {
+                            "size": 16389148,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_2k.png",
+                            "md5": "4e60d4adcae634d5e1c78e2f00c75d93"
+                        },
+                        "textures/dutch_ship_medium_hull_diff_2k.png": {
+                            "size": 19218228,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_diff_2k.png",
+                            "md5": "a42ebcb6c7580d6af0d483f4659395d1"
+                        },
+                        "textures/dutch_ship_medium_hull_nor_gl_2k.png": {
+                            "size": 19517331,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_2k.png",
+                            "md5": "7a82ada401e0bb1e7707deef6780c734"
+                        }
+                    },
+                    "size": 3636336,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/dutch_ship_medium/dutch_ship_medium_2k.usdc",
+                    "md5": "62409002454df55fbe314305fcdb57a7"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/dutch_ship_medium_rigging_nor_gl_1k.png": {
+                            "size": 4385863,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_1k.png",
+                            "md5": "29a8ddcf35fb4bc503f00e2952483ec1"
+                        },
+                        "textures/dutch_ship_medium_hull_metal_1k.png": {
+                            "size": 122844,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_metal_1k.png",
+                            "md5": "4d7fedb75b4e06b4badd89b5e22f1aa2"
+                        },
+                        "textures/dutch_ship_medium_sails_nor_gl_1k.png": {
+                            "size": 4993588,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_1k.png",
+                            "md5": "3444940adf5d99b0776d0ad5a06920c4"
+                        },
+                        "textures/dutch_ship_medium_hull_diff_1k.png": {
+                            "size": 5250734,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_diff_1k.png",
+                            "md5": "e84deda554ceb23cbabd0ccd1fbd4089"
+                        },
+                        "textures/dutch_ship_medium_sails_alpha_1k.png": {
+                            "size": 13280,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_alpha_1k.png",
+                            "md5": "b39c85cc1e268b45d8aa3d43040baf0f"
+                        },
+                        "textures/dutch_ship_medium_rigging_diff_1k.png": {
+                            "size": 4682162,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_diff_1k.png",
+                            "md5": "f45c1822f4fbafd4cc75f460ce41061d"
+                        },
+                        "textures/dutch_ship_medium_sails_rough_1k.png": {
+                            "size": 1479103,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_rough_1k.png",
+                            "md5": "a20c8b0dc018f11edbb1ab87c568b717"
+                        },
+                        "textures/dutch_ship_medium_hull_rough_1k.png": {
+                            "size": 1859780,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_rough_1k.png",
+                            "md5": "e846b7be9e19131506e6be0a725701fa"
+                        },
+                        "textures/dutch_ship_medium_rigging_rough_1k.png": {
+                            "size": 1171202,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_rough_1k.png",
+                            "md5": "f4516ca5241270b62cc66b0f8b0c7cef"
+                        },
+                        "textures/dutch_ship_medium_sails_diff_1k.png": {
+                            "size": 4732425,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_diff_1k.png",
+                            "md5": "0b4ab9eb9efb2274802fb00e98ec0beb"
+                        },
+                        "textures/dutch_ship_medium_hull_nor_gl_1k.png": {
+                            "size": 5214867,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_1k.png",
+                            "md5": "9031945e7bbf045403cb64964d0d2bcb"
+                        },
+                        "textures/dutch_ship_medium_rigging_metal_1k.png": {
+                            "size": 302396,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_metal_1k.png",
+                            "md5": "c3b88089617a542124e8efd7f1ba1b0a"
+                        }
+                    },
+                    "size": 3636336,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/dutch_ship_medium/dutch_ship_medium_1k.usdc",
+                    "md5": "f03ac86f4558b6c4806b1a74fd456294"
+                }
+            }
+        },
+        "hull_nor_gl": {
+            "4k": {
+                "jpg": {
+                    "size": 14194067,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_4k.jpg",
+                    "md5": "031f3e3f2318544dcf91e8761e508acb"
+                },
+                "png": {
+                    "size": 68666967,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_4k.png",
+                    "md5": "c23b72da73a4cb7f00cd0926c4ad1d88"
+                },
+                "exr": {
+                    "size": 31767652,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_4k.exr",
+                    "md5": "d866c74860cfd5bfe20d8b0c005a8bb8"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3666864,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_2k.jpg",
+                    "md5": "0c68896a86bf25c8469bfc18e9a3fa0b"
+                },
+                "png": {
+                    "size": 19517331,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_2k.png",
+                    "md5": "7a82ada401e0bb1e7707deef6780c734"
+                },
+                "exr": {
+                    "size": 8105029,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_2k.exr",
+                    "md5": "5e38504bff42b05a3b1a7ccfe5fb1430"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 967533,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_1k.jpg",
+                    "md5": "db1b09ba5e9456a24ca75a04fcdec460"
+                },
+                "png": {
+                    "size": 5214867,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_1k.png",
+                    "md5": "9031945e7bbf045403cb64964d0d2bcb"
+                },
+                "exr": {
+                    "size": 2127192,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_1k.exr",
+                    "md5": "16001169f0f77ea313161066b5356068"
+                }
+            }
+        },
+        "rigging_diff": {
+            "4k": {
+                "jpg": {
+                    "size": 6528953,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_rigging_diff_4k.jpg",
+                    "md5": "ce7065d313c13a3faf24437e4c91ddb8"
+                },
+                "png": {
+                    "size": 43971503,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_diff_4k.png",
+                    "md5": "5b4f4adb0181909efda9fc636241dd90"
+                },
+                "exr": {
+                    "size": 13409724,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_rigging_diff_4k.exr",
+                    "md5": "44f626498ba6356498440f7859b31bc3"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2198962,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_rigging_diff_2k.jpg",
+                    "md5": "3e7756baa30b638788e494d6c51b57b1"
+                },
+                "png": {
+                    "size": 16627808,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_diff_2k.png",
+                    "md5": "61c63f5adc296d6e197c26d3c4ca5d9e"
+                },
+                "exr": {
+                    "size": 4953772,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_rigging_diff_2k.exr",
+                    "md5": "4cb8e5cdd6e1a4563a2f2a9287cf8549"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 567644,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_rigging_diff_1k.jpg",
+                    "md5": "9be03bbd49b2351bf876cff4151d885e"
+                },
+                "png": {
+                    "size": 4682162,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_diff_1k.png",
+                    "md5": "f45c1822f4fbafd4cc75f460ce41061d"
+                },
+                "exr": {
+                    "size": 1276947,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_rigging_diff_1k.exr",
+                    "md5": "7460dd13ce914dbed8a7834330a518ac"
+                }
+            }
+        },
+        "sails_diff": {
+            "4k": {
+                "jpg": {
+                    "size": 13121895,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_sails_diff_4k.jpg",
+                    "md5": "2df8fd168541b8b7fccf4376293194b8"
+                },
+                "png": {
+                    "size": 67031699,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_diff_4k.png",
+                    "md5": "aa5b599c656ae1e514d9ab8225f539af"
+                },
+                "exr": {
+                    "size": 26096739,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_sails_diff_4k.exr",
+                    "md5": "b01b6ef990b4ad06cd05b1e0a970d14e"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2656547,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_sails_diff_2k.jpg",
+                    "md5": "49842bd4280188ecf405caf474f51b9a"
+                },
+                "png": {
+                    "size": 18649619,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_diff_2k.png",
+                    "md5": "dd2bd1b532e0b94f4439eaa68e2b1115"
+                },
+                "exr": {
+                    "size": 5332065,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_sails_diff_2k.exr",
+                    "md5": "06b55a9f0ff192611555eeec8cc24f4c"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 579788,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_sails_diff_1k.jpg",
+                    "md5": "bc208c775eb005386d089ad5dc1eec00"
+                },
+                "png": {
+                    "size": 4732425,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_diff_1k.png",
+                    "md5": "0b4ab9eb9efb2274802fb00e98ec0beb"
+                },
+                "exr": {
+                    "size": 992820,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_sails_diff_1k.exr",
+                    "md5": "4d266d739a20e33429f08cb44c0e4f35"
+                }
+            }
+        },
+        "hull_mask": {
+            "4k": {
+                "jpg": {
+                    "size": 4460200,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_hull_mask_4k.jpg",
+                    "md5": "3c00e6e0a7466fed550e1c3457c5a649"
+                },
+                "png": {
+                    "size": 5508590,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_mask_4k.png",
+                    "md5": "a23d4e647b061cf4f74f8db50b2b4d88"
+                },
+                "exr": {
+                    "size": 10655619,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_hull_mask_4k.exr",
+                    "md5": "3bda3ac60160cd3293f242a688f255e0"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1483361,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_hull_mask_2k.jpg",
+                    "md5": "9037b3e8a0e9a926824ecbe64dbf4ba7"
+                },
+                "png": {
+                    "size": 3241275,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_mask_2k.png",
+                    "md5": "7ab4dfabb6ca5d6b679cc925876afd69"
+                },
+                "exr": {
+                    "size": 3723179,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_hull_mask_2k.exr",
+                    "md5": "a49b48fe4367b52d7418b8eb3c2e2fce"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 498773,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_hull_mask_1k.jpg",
+                    "md5": "65a21aa5436e18bfc738592f0d702a6b"
+                },
+                "png": {
+                    "size": 1137614,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_mask_1k.png",
+                    "md5": "2420f31a6a3226a6ad40f02b1e93ef40"
+                },
+                "exr": {
+                    "size": 1333515,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_hull_mask_1k.exr",
+                    "md5": "13dec6b0870bdd6a5e4bcee159d2c146"
+                }
+            }
+        },
+        "sails_nor_dx": {
+            "4k": {
+                "jpg": {
+                    "size": 14484892,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_sails_nor_dx_4k.jpg",
+                    "md5": "20b908412b9d4bfb64a3e2ec500d17b8"
+                },
+                "png": {
+                    "size": 74706954,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_nor_dx_4k.png",
+                    "md5": "982e77ff3af9d96ecbb390a29133ecbe"
+                },
+                "exr": {
+                    "size": 29094005,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_sails_nor_dx_4k.exr",
+                    "md5": "f01f802933d1ecdaea1010394faf96c8"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3362479,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_sails_nor_dx_2k.jpg",
+                    "md5": "c5bd1008cc97dde7ed487be2f13c9096"
+                },
+                "png": {
+                    "size": 19810778,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_nor_dx_2k.png",
+                    "md5": "3a00bf3b4462a56ce857cc4fbde498cc"
+                },
+                "exr": {
+                    "size": 7095633,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_sails_nor_dx_2k.exr",
+                    "md5": "8c8725168485391c765c73bf8ba0c4ff"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 762544,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_sails_nor_dx_1k.jpg",
+                    "md5": "227c54d54eaef9500744e906f7809508"
+                },
+                "png": {
+                    "size": 4993331,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_nor_dx_1k.png",
+                    "md5": "622811d938c0ea28fcc9fea812b1713e"
+                },
+                "exr": {
+                    "size": 1692783,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_sails_nor_dx_1k.exr",
+                    "md5": "c38b51fcc7868ba1f5e85fc40f47d580"
+                }
+            }
+        },
+        "sails_alpha": {
+            "4k": {
+                "jpg": {
+                    "size": 286158,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_sails_alpha_4k.jpg",
+                    "md5": "cf1b53907a83495a1406203a1fa4ae41"
+                },
+                "png": {
+                    "size": 63536,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_alpha_4k.png",
+                    "md5": "3c029f689ed582e921fe970c28e93e86"
+                },
+                "exr": {
+                    "size": 70880,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_sails_alpha_4k.exr",
+                    "md5": "448b042b3f72aaf883a3a48a73f5b8ee"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 84407,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_sails_alpha_2k.jpg",
+                    "md5": "1df3ffc74a975c6bce490e41164668c1"
+                },
+                "png": {
+                    "size": 28224,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_alpha_2k.png",
+                    "md5": "12e51302777bfdfee23f10150736e288"
+                },
+                "exr": {
+                    "size": 31339,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_sails_alpha_2k.exr",
+                    "md5": "84d9005bd3b4e136b5fa7e7f05eab93e"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 27328,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_sails_alpha_1k.jpg",
+                    "md5": "c8211fd33d3bb41d4a834bd02fb1efa7"
+                },
+                "png": {
+                    "size": 13280,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_alpha_1k.png",
+                    "md5": "b39c85cc1e268b45d8aa3d43040baf0f"
+                },
+                "exr": {
+                    "size": 15199,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_sails_alpha_1k.exr",
+                    "md5": "d4158ef3aeee8f6ca080261c42523839"
+                }
+            }
+        },
+        "rigging_nor_gl": {
+            "4k": {
+                "jpg": {
+                    "size": 6140707,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_4k.jpg",
+                    "md5": "d23c72e96422d2af296905246ce12955"
+                },
+                "png": {
+                    "size": 55596444,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_4k.png",
+                    "md5": "e7a27a11e3eb1a2d524b871558ccabd2"
+                },
+                "exr": {
+                    "size": 11695211,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_4k.exr",
+                    "md5": "d682a9b035f317a4b74025e9c565c502"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1926834,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_2k.jpg",
+                    "md5": "601ee50212a629c6762b3826ac79b1f6"
+                },
+                "png": {
+                    "size": 16389148,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_2k.png",
+                    "md5": "4e60d4adcae634d5e1c78e2f00c75d93"
+                },
+                "exr": {
+                    "size": 4259091,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_2k.exr",
+                    "md5": "d87fa28f2b562407ab35bd7908c0cade"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 535119,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_1k.jpg",
+                    "md5": "9c80020acc0933c64d1d1cafabfe4355"
+                },
+                "png": {
+                    "size": 4385863,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_1k.png",
+                    "md5": "29a8ddcf35fb4bc503f00e2952483ec1"
+                },
+                "exr": {
+                    "size": 1165134,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_1k.exr",
+                    "md5": "61a2eecebea1de6c13bef2ec245bf09a"
+                }
+            }
+        },
+        "hull_rough": {
+            "4k": {
+                "jpg": {
+                    "size": 14110959,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_hull_rough_4k.jpg",
+                    "md5": "916d5ed2f5792863477f24d422009a88"
+                },
+                "png": {
+                    "size": 20171436,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_rough_4k.png",
+                    "md5": "edba0699463685c8a2f6ef8e840e0bc3"
+                },
+                "exr": {
+                    "size": 16510523,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_hull_rough_4k.exr",
+                    "md5": "3a31c9cae5315efe3fecabf3cc50270a"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3309323,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_hull_rough_2k.jpg",
+                    "md5": "a505bef69b141575e842e7f4b5b04630"
+                },
+                "png": {
+                    "size": 6709751,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_rough_2k.png",
+                    "md5": "09ce259b87b6f73254d07fbacf5fa6ad"
+                },
+                "exr": {
+                    "size": 4751020,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_hull_rough_2k.exr",
+                    "md5": "a4ae97ea8fd46eb6566d6a26afb672d5"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 827697,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_hull_rough_1k.jpg",
+                    "md5": "12a282761db53dc52dfeef0373574a39"
+                },
+                "png": {
+                    "size": 1859780,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_rough_1k.png",
+                    "md5": "e846b7be9e19131506e6be0a725701fa"
+                },
+                "exr": {
+                    "size": 1256591,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_hull_rough_1k.exr",
+                    "md5": "d441cbc8b57bd0b563203d71d3760b95"
+                }
+            }
+        },
+        "rigging_rough": {
+            "4k": {
+                "jpg": {
+                    "size": 4993283,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_rigging_rough_4k.jpg",
+                    "md5": "ce5a69925845172e949bbf8f4cd5e34d"
+                },
+                "png": {
+                    "size": 6501212,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_rough_4k.png",
+                    "md5": "58e3a7555d9ac8e6257ba24805d94f05"
+                },
+                "exr": {
+                    "size": 8822874,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_rigging_rough_4k.exr",
+                    "md5": "6cf5329a8b0bd8ec3eb055d204945231"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1729936,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_rigging_rough_2k.jpg",
+                    "md5": "5c3cd031851fe1465eadef4057853db4"
+                },
+                "png": {
+                    "size": 3796671,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_rough_2k.png",
+                    "md5": "723feeff0990e1051f7addcf3285c652"
+                },
+                "exr": {
+                    "size": 3088211,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_rigging_rough_2k.exr",
+                    "md5": "a66c1a5bdaab5c88e8edc0797884c809"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 467214,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_rigging_rough_1k.jpg",
+                    "md5": "51a8e577957f39305a5fb759475a1f0e"
+                },
+                "png": {
+                    "size": 1171202,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_rough_1k.png",
+                    "md5": "f4516ca5241270b62cc66b0f8b0c7cef"
+                },
+                "exr": {
+                    "size": 865954,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_rigging_rough_1k.exr",
+                    "md5": "f7074e698395c95cfb11e63c03d1ae98"
+                }
+            }
+        },
+        "rigging_metal": {
+            "4k": {
+                "jpg": {
+                    "size": 1204728,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_rigging_metal_4k.jpg",
+                    "md5": "db46f58d7f87313b2cec38ef6afee78d"
+                },
+                "png": {
+                    "size": 1383065,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_metal_4k.png",
+                    "md5": "34cfd77fa3835396265e494322e2135a"
+                },
+                "exr": {
+                    "size": 1608522,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_rigging_metal_4k.exr",
+                    "md5": "ba1e1f675149802c2f8144befbea8b22"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 421160,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_rigging_metal_2k.jpg",
+                    "md5": "6269c61fd0bd6503e337935ddf74e722"
+                },
+                "png": {
+                    "size": 824042,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_metal_2k.png",
+                    "md5": "a1decf469557c363c79919ffac082659"
+                },
+                "exr": {
+                    "size": 698086,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_rigging_metal_2k.exr",
+                    "md5": "6e52a91578df8a3d0738a00383dc06d3"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 131320,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_rigging_metal_1k.jpg",
+                    "md5": "294171372414ea33f1778d045ab2061e"
+                },
+                "png": {
+                    "size": 302396,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_metal_1k.png",
+                    "md5": "c3b88089617a542124e8efd7f1ba1b0a"
+                },
+                "exr": {
+                    "size": 261919,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_rigging_metal_1k.exr",
+                    "md5": "1ba4ecf5838102c6cce792e3ccccd944"
+                }
+            }
+        },
+        "sails_arm": {
+            "4k": {
+                "jpg": {
+                    "size": 13343686,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_sails_arm_4k.jpg",
+                    "md5": "43ac6060a88b143bd170dc43017592ba"
+                },
+                "png": {
+                    "size": 18012714,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_arm_4k.png",
+                    "md5": "a9c1df9462aa306b57ff449c4466f742"
+                },
+                "exr": {
+                    "size": 27986130,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_sails_arm_4k.exr",
+                    "md5": "f699034cd8727d312ccb5c154de2dc2f"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2506529,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_sails_arm_2k.jpg",
+                    "md5": "1de6299082cd847e8b0958b53f74c64f"
+                },
+                "png": {
+                    "size": 6458455,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_arm_2k.png",
+                    "md5": "44d595e6fc57dca7f0d98df54e69face"
+                },
+                "exr": {
+                    "size": 5778588,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_sails_arm_2k.exr",
+                    "md5": "aa69d1e81490c67e68e688090168de99"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 532281,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_sails_arm_1k.jpg",
+                    "md5": "841c9af726ee8fb3fa412cae8cb94068"
+                },
+                "png": {
+                    "size": 1826799,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_arm_1k.png",
+                    "md5": "f6a986ac6039c1d61639c9f6368981c6"
+                },
+                "exr": {
+                    "size": 1255461,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_sails_arm_1k.exr",
+                    "md5": "18c85b295b2de149fb0475c200c7c49b"
+                }
+            }
+        },
+        "hull_arm": {
+            "4k": {
+                "jpg": {
+                    "size": 16319458,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_hull_arm_4k.jpg",
+                    "md5": "1805bad17c58f3f848b9073babfb3a1b"
+                },
+                "png": {
+                    "size": 19416588,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_arm_4k.png",
+                    "md5": "5c06c54e7d2f00cfeff0013ac7b15b1f"
+                },
+                "exr": {
+                    "size": 32873113,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_hull_arm_4k.exr",
+                    "md5": "1b6167e36c1b563ae63d5d7ad4214496"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3901702,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_hull_arm_2k.jpg",
+                    "md5": "27b7637fe58293ca2c6d70e1176c9abd"
+                },
+                "png": {
+                    "size": 8959990,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_arm_2k.png",
+                    "md5": "b2409218718dd8db20a4c5ad04855d85"
+                },
+                "exr": {
+                    "size": 7970853,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_hull_arm_2k.exr",
+                    "md5": "f0025f69ef48299ba24acc275910c9b6"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 992318,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_hull_arm_1k.jpg",
+                    "md5": "0f24fc5c2234c69a532f4d6c7ed743d8"
+                },
+                "png": {
+                    "size": 2567626,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_arm_1k.png",
+                    "md5": "5414181485ca700378d4fad18ee1b4ee"
+                },
+                "exr": {
+                    "size": 2046796,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_hull_arm_1k.exr",
+                    "md5": "5af4332ddeb61d71611b4a8045f59af7"
+                }
+            }
+        },
+        "sails_rough": {
+            "4k": {
+                "jpg": {
+                    "size": 12382127,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_sails_rough_4k.jpg",
+                    "md5": "85c2962e30c6cf3785ec64ffbdd59353"
+                },
+                "png": {
+                    "size": 21552577,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_rough_4k.png",
+                    "md5": "169471e930820685ced2c803271d8474"
+                },
+                "exr": {
+                    "size": 16757306,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_sails_rough_4k.exr",
+                    "md5": "6d4bc98fa7d2f4ccb59a3332de535128"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2338968,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_sails_rough_2k.jpg",
+                    "md5": "0e4f54a852d21e382b72dbb5424e1880"
+                },
+                "png": {
+                    "size": 5685503,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_rough_2k.png",
+                    "md5": "2da0b2ee22fa2715612668e2e23d7519"
+                },
+                "exr": {
+                    "size": 3941142,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_sails_rough_2k.exr",
+                    "md5": "e6573c6a07417510989a48c570ab05cf"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 485355,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_sails_rough_1k.jpg",
+                    "md5": "eb89401eea38de7beb19b5f3e1c90696"
+                },
+                "png": {
+                    "size": 1479103,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_rough_1k.png",
+                    "md5": "a20c8b0dc018f11edbb1ab87c568b717"
+                },
+                "exr": {
+                    "size": 939438,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_sails_rough_1k.exr",
+                    "md5": "bb60b06580ef6fdabbd75b255c4c5bd7"
+                }
+            }
+        },
+        "hull_nor_dx": {
+            "4k": {
+                "jpg": {
+                    "size": 14880249,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_hull_nor_dx_4k.jpg",
+                    "md5": "153b49a298ed1066c20981428938fbc1"
+                },
+                "png": {
+                    "size": 68666852,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_nor_dx_4k.png",
+                    "md5": "f9f5be894a5c7abfa656e58eeaf5f39b"
+                },
+                "exr": {
+                    "size": 31720029,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_hull_nor_dx_4k.exr",
+                    "md5": "252e81da1e8d21e80bc36f356b2bb795"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3715368,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_hull_nor_dx_2k.jpg",
+                    "md5": "3176a0e48e493cfee643a83e9a4cdfa0"
+                },
+                "png": {
+                    "size": 19516967,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_nor_dx_2k.png",
+                    "md5": "9ef92af4371b269847959b316d12cc88"
+                },
+                "exr": {
+                    "size": 8087448,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_hull_nor_dx_2k.exr",
+                    "md5": "07c8262a303df19612f36fa63e1d8d18"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 969644,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_hull_nor_dx_1k.jpg",
+                    "md5": "51dab42cd6ba2f4866d6a10906956349"
+                },
+                "png": {
+                    "size": 5214737,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_nor_dx_1k.png",
+                    "md5": "490599d0216a6a91d7fba6c40fc831fd"
+                },
+                "exr": {
+                    "size": 2114793,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_hull_nor_dx_1k.exr",
+                    "md5": "1d9d9cb82385c127144638240ed035d6"
+                }
+            }
+        },
+        "hull_diff": {
+            "4k": {
+                "jpg": {
+                    "size": 12553980,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_hull_diff_4k.jpg",
+                    "md5": "cfd425271b55ed0d600303088f0ee1c3"
+                },
+                "png": {
+                    "size": 61938848,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_diff_4k.png",
+                    "md5": "6923be080fb1c3eca095e151c58fe7a2"
+                },
+                "exr": {
+                    "size": 28598303,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_hull_diff_4k.exr",
+                    "md5": "990d3568a9538d48d6c7bc93092efeb1"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2945586,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_hull_diff_2k.jpg",
+                    "md5": "af0fd1ca5255e1671345ddb3d9e07c73"
+                },
+                "png": {
+                    "size": 19218228,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_diff_2k.png",
+                    "md5": "a42ebcb6c7580d6af0d483f4659395d1"
+                },
+                "exr": {
+                    "size": 6506902,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_hull_diff_2k.exr",
+                    "md5": "f5f1db4737f52f28f49de0c8d9e4927e"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 745169,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_hull_diff_1k.jpg",
+                    "md5": "ea6a1429fc1f457d080ddd0a84d0b1d3"
+                },
+                "png": {
+                    "size": 5250734,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_diff_1k.png",
+                    "md5": "e84deda554ceb23cbabd0ccd1fbd4089"
+                },
+                "exr": {
+                    "size": 1576705,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_hull_diff_1k.exr",
+                    "md5": "0fc6ef186a63c2d2b43ff1a525a2893a"
+                }
+            }
+        },
+        "rigging_arm": {
+            "4k": {
+                "jpg": {
+                    "size": 6361920,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_rigging_arm_4k.jpg",
+                    "md5": "7247a2194055b209cb01d827c000e985"
+                },
+                "png": {
+                    "size": 8947914,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_arm_4k.png",
+                    "md5": "8390c10f750d8df2061b7a0824eb1db2"
+                },
+                "exr": {
+                    "size": 12231394,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_rigging_arm_4k.exr",
+                    "md5": "18360ebe817137d8d2bf19567b53bb34"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2058601,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_rigging_arm_2k.jpg",
+                    "md5": "c4d84f67e2a0f67ff8ee17546c3d7818"
+                },
+                "png": {
+                    "size": 5907573,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_arm_2k.png",
+                    "md5": "7543e03cb58d7ad6cc9f9d8ca32f542e"
+                },
+                "exr": {
+                    "size": 4539452,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_rigging_arm_2k.exr",
+                    "md5": "75981b980b67cf7f07ed7dbdd8f8b6ab"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 556896,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_rigging_arm_1k.jpg",
+                    "md5": "ef43b6361c191488cf38e9dc3ae2ff2c"
+                },
+                "png": {
+                    "size": 1896962,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_arm_1k.png",
+                    "md5": "7b3b29b2993a10f6024a37c970e62471"
+                },
+                "exr": {
+                    "size": 1245735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_rigging_arm_1k.exr",
+                    "md5": "1e42ba33babc3ead17a610679b86ce46"
+                }
+            }
+        },
+        "hull_metal": {
+            "4k": {
+                "jpg": {
+                    "size": 918705,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dutch_ship_medium/dutch_ship_medium_hull_metal_4k.jpg",
+                    "md5": "a4a0f5c0ac9c1134d5cb509ec0457178"
+                },
+                "png": {
+                    "size": 882561,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_metal_4k.png",
+                    "md5": "04a82a55e3ccf327620220d59046d868"
+                },
+                "exr": {
+                    "size": 965178,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dutch_ship_medium/dutch_ship_medium_hull_metal_4k.exr",
+                    "md5": "04037e3fd036ce64212c4c7464713791"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 269847,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dutch_ship_medium/dutch_ship_medium_hull_metal_2k.jpg",
+                    "md5": "29d65ed4f3ffcf9f9c7f002b942eeca0"
+                },
+                "png": {
+                    "size": 352736,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_metal_2k.png",
+                    "md5": "6038b64fa43067961cd1742693ec0b0f"
+                },
+                "exr": {
+                    "size": 358006,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dutch_ship_medium/dutch_ship_medium_hull_metal_2k.exr",
+                    "md5": "bb7111c84ff19ac9bab724a924567a77"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 90738,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dutch_ship_medium/dutch_ship_medium_hull_metal_1k.jpg",
+                    "md5": "73fad3923a52f00ad0138bfc67391ae0"
+                },
+                "png": {
+                    "size": 122844,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_metal_1k.png",
+                    "md5": "4d7fedb75b4e06b4badd89b5e22f1aa2"
+                },
+                "exr": {
+                    "size": 129920,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dutch_ship_medium/dutch_ship_medium_hull_metal_1k.exr",
+                    "md5": "7b6c2a39e7e31fe7782b3d02775194c0"
+                }
+            }
+        },
+        "fbx": {
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/dutch_ship_medium_hull_metal_4k.png": {
+                            "size": 882561,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_metal_4k.png",
+                            "md5": "04a82a55e3ccf327620220d59046d868"
+                        },
+                        "textures/dutch_ship_medium_sails_rough_4k.png": {
+                            "size": 21552577,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_rough_4k.png",
+                            "md5": "169471e930820685ced2c803271d8474"
+                        },
+                        "textures/dutch_ship_medium_rigging_nor_gl_4k.png": {
+                            "size": 55596444,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_4k.png",
+                            "md5": "e7a27a11e3eb1a2d524b871558ccabd2"
+                        },
+                        "textures/dutch_ship_medium_rigging_metal_4k.png": {
+                            "size": 1383065,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_metal_4k.png",
+                            "md5": "34cfd77fa3835396265e494322e2135a"
+                        },
+                        "textures/dutch_ship_medium_sails_nor_gl_4k.png": {
+                            "size": 74706298,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_4k.png",
+                            "md5": "3d5c877f25a4d048eb98f69823cbfa5b"
+                        },
+                        "textures/dutch_ship_medium_hull_nor_gl_4k.png": {
+                            "size": 68666967,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_4k.png",
+                            "md5": "c23b72da73a4cb7f00cd0926c4ad1d88"
+                        },
+                        "textures/dutch_ship_medium_hull_diff_4k.png": {
+                            "size": 61938848,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_diff_4k.png",
+                            "md5": "6923be080fb1c3eca095e151c58fe7a2"
+                        },
+                        "textures/dutch_ship_medium_hull_rough_4k.png": {
+                            "size": 20171436,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_hull_rough_4k.png",
+                            "md5": "edba0699463685c8a2f6ef8e840e0bc3"
+                        },
+                        "textures/dutch_ship_medium_rigging_diff_4k.png": {
+                            "size": 43971503,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_diff_4k.png",
+                            "md5": "5b4f4adb0181909efda9fc636241dd90"
+                        },
+                        "textures/dutch_ship_medium_rigging_rough_4k.png": {
+                            "size": 6501212,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_rigging_rough_4k.png",
+                            "md5": "58e3a7555d9ac8e6257ba24805d94f05"
+                        },
+                        "textures/dutch_ship_medium_sails_diff_4k.png": {
+                            "size": 67031699,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_diff_4k.png",
+                            "md5": "aa5b599c656ae1e514d9ab8225f539af"
+                        },
+                        "textures/dutch_ship_medium_sails_alpha_4k.png": {
+                            "size": 63536,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dutch_ship_medium/dutch_ship_medium_sails_alpha_4k.png",
+                            "md5": "3c029f689ed582e921fe970c28e93e86"
+                        }
+                    },
+                    "size": 2533532,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/dutch_ship_medium/dutch_ship_medium_4k.fbx",
+                    "md5": "f4f04b48000c73f7b71f157ce0f4470a"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/dutch_ship_medium_rigging_diff_2k.png": {
+                            "size": 16627808,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_diff_2k.png",
+                            "md5": "61c63f5adc296d6e197c26d3c4ca5d9e"
+                        },
+                        "textures/dutch_ship_medium_rigging_rough_2k.png": {
+                            "size": 3796671,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_rough_2k.png",
+                            "md5": "723feeff0990e1051f7addcf3285c652"
+                        },
+                        "textures/dutch_ship_medium_sails_nor_gl_2k.png": {
+                            "size": 19811732,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_2k.png",
+                            "md5": "5630ec44ec5c1c3aab74b861b0cd7337"
+                        },
+                        "textures/dutch_ship_medium_hull_rough_2k.png": {
+                            "size": 6709751,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_rough_2k.png",
+                            "md5": "09ce259b87b6f73254d07fbacf5fa6ad"
+                        },
+                        "textures/dutch_ship_medium_sails_rough_2k.png": {
+                            "size": 5685503,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_rough_2k.png",
+                            "md5": "2da0b2ee22fa2715612668e2e23d7519"
+                        },
+                        "textures/dutch_ship_medium_sails_alpha_2k.png": {
+                            "size": 28224,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_alpha_2k.png",
+                            "md5": "12e51302777bfdfee23f10150736e288"
+                        },
+                        "textures/dutch_ship_medium_hull_metal_2k.png": {
+                            "size": 352736,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_metal_2k.png",
+                            "md5": "6038b64fa43067961cd1742693ec0b0f"
+                        },
+                        "textures/dutch_ship_medium_sails_diff_2k.png": {
+                            "size": 18649619,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_sails_diff_2k.png",
+                            "md5": "dd2bd1b532e0b94f4439eaa68e2b1115"
+                        },
+                        "textures/dutch_ship_medium_rigging_metal_2k.png": {
+                            "size": 824042,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_metal_2k.png",
+                            "md5": "a1decf469557c363c79919ffac082659"
+                        },
+                        "textures/dutch_ship_medium_rigging_nor_gl_2k.png": {
+                            "size": 16389148,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_2k.png",
+                            "md5": "4e60d4adcae634d5e1c78e2f00c75d93"
+                        },
+                        "textures/dutch_ship_medium_hull_diff_2k.png": {
+                            "size": 19218228,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_diff_2k.png",
+                            "md5": "a42ebcb6c7580d6af0d483f4659395d1"
+                        },
+                        "textures/dutch_ship_medium_hull_nor_gl_2k.png": {
+                            "size": 19517331,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_2k.png",
+                            "md5": "7a82ada401e0bb1e7707deef6780c734"
+                        }
+                    },
+                    "size": 2533532,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/dutch_ship_medium/dutch_ship_medium_2k.fbx",
+                    "md5": "ec601c2a5c360986da65e96207eaee85"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/dutch_ship_medium_rigging_nor_gl_1k.png": {
+                            "size": 4385863,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_nor_gl_1k.png",
+                            "md5": "29a8ddcf35fb4bc503f00e2952483ec1"
+                        },
+                        "textures/dutch_ship_medium_hull_metal_1k.png": {
+                            "size": 122844,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_metal_1k.png",
+                            "md5": "4d7fedb75b4e06b4badd89b5e22f1aa2"
+                        },
+                        "textures/dutch_ship_medium_sails_nor_gl_1k.png": {
+                            "size": 4993588,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_nor_gl_1k.png",
+                            "md5": "3444940adf5d99b0776d0ad5a06920c4"
+                        },
+                        "textures/dutch_ship_medium_sails_alpha_1k.png": {
+                            "size": 13280,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_alpha_1k.png",
+                            "md5": "b39c85cc1e268b45d8aa3d43040baf0f"
+                        },
+                        "textures/dutch_ship_medium_hull_diff_1k.png": {
+                            "size": 5250734,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_diff_1k.png",
+                            "md5": "e84deda554ceb23cbabd0ccd1fbd4089"
+                        },
+                        "textures/dutch_ship_medium_rigging_diff_1k.png": {
+                            "size": 4682162,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_diff_1k.png",
+                            "md5": "f45c1822f4fbafd4cc75f460ce41061d"
+                        },
+                        "textures/dutch_ship_medium_sails_rough_1k.png": {
+                            "size": 1479103,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_rough_1k.png",
+                            "md5": "a20c8b0dc018f11edbb1ab87c568b717"
+                        },
+                        "textures/dutch_ship_medium_hull_rough_1k.png": {
+                            "size": 1859780,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_rough_1k.png",
+                            "md5": "e846b7be9e19131506e6be0a725701fa"
+                        },
+                        "textures/dutch_ship_medium_rigging_rough_1k.png": {
+                            "size": 1171202,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_rough_1k.png",
+                            "md5": "f4516ca5241270b62cc66b0f8b0c7cef"
+                        },
+                        "textures/dutch_ship_medium_sails_diff_1k.png": {
+                            "size": 4732425,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_sails_diff_1k.png",
+                            "md5": "0b4ab9eb9efb2274802fb00e98ec0beb"
+                        },
+                        "textures/dutch_ship_medium_hull_nor_gl_1k.png": {
+                            "size": 5214867,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_hull_nor_gl_1k.png",
+                            "md5": "9031945e7bbf045403cb64964d0d2bcb"
+                        },
+                        "textures/dutch_ship_medium_rigging_metal_1k.png": {
+                            "size": 302396,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dutch_ship_medium/dutch_ship_medium_rigging_metal_1k.png",
+                            "md5": "c3b88089617a542124e8efd7f1ba1b0a"
+                        }
+                    },
+                    "size": 2533532,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/dutch_ship_medium/dutch_ship_medium_1k.fbx",
+                    "md5": "7457f3db4b3a30c8e10e766751079be4"
+                }
+            }
+        }
+    }
+}

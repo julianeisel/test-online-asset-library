@@ -1,0 +1,124 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "road",
+        "asphalt",
+        "plane",
+        "hangar",
+        "curve"
+    ],
+    "name": "Hanger Exterior Cloudy",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "overcast",
+        "midday",
+        "urban",
+        "low contrast"
+    ],
+    "date_taken": 1712417220,
+    "coords": [
+        -29.643961,
+        30.397948
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "files_hash": "54ebf2fc10f605876a9a38ecd480e5a74d505037",
+    "date_published": 1715904000,
+    "download_count": 16641,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hanger_exterior_cloudy.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 34821424,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hanger_exterior_cloudy.jpg",
+            "md5": "d194e9d235150f500ed58680d5957aa2"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98910521,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hanger_exterior_cloudy_8k.hdr",
+                    "md5": "3b5a5c3fe9482a6a409401a7fc1a8bfd"
+                },
+                "exr": {
+                    "size": 382566955,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hanger_exterior_cloudy_8k.exr",
+                    "md5": "8a053bd93eaec2ab1dd615c81be8bbd0"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 374099960,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hanger_exterior_cloudy_16k.hdr",
+                    "md5": "1d2777c4c882ab58757dded45e4ab4fc"
+                },
+                "exr": {
+                    "size": 1516186733,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hanger_exterior_cloudy_16k.exr",
+                    "md5": "190ce78bcb52ec888bef65b2e3365b9e"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25613180,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hanger_exterior_cloudy_4k.hdr",
+                    "md5": "90beac4136289db356544912587f1e61"
+                },
+                "exr": {
+                    "size": 95968740,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hanger_exterior_cloudy_4k.exr",
+                    "md5": "6ae71fda7de82bdeab08af1b0e46e14e"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6463643,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hanger_exterior_cloudy_2k.hdr",
+                    "md5": "9b59868119d0de4b44294ad479ddc34c"
+                },
+                "exr": {
+                    "size": 24105523,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hanger_exterior_cloudy_2k.exr",
+                    "md5": "94e7716645193e38e07804b98751ec27"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1603575,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hanger_exterior_cloudy_1k.hdr",
+                    "md5": "b862c294744436d392e039aba4fdf39b"
+                },
+                "exr": {
+                    "size": 6052056,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hanger_exterior_cloudy_1k.exr",
+                    "md5": "7ea6e1d0e56d2064e28a5645bdd85199"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 574529587,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hanger_exterior_cloudy_20k.hdr",
+                    "md5": "b5991c3741a91e72056e628f0b125571"
+                },
+                "exr": {
+                    "size": 2343655386,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hanger_exterior_cloudy_20k.exr",
+                    "md5": "6d876c712a032dcbe275fff274f107b0"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 194934814,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/hanger_exterior_cloudy.zip",
+            "md5": "20058b67c71868f73dbf6a5bbf55027c"
+        }
+    }
+}

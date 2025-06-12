@@ -1,0 +1,127 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5313,
+    "name": "Skidpan",
+    "date_taken": 1668701340,
+    "coords": [
+        -26.32381194982623,
+        28.06584939065912
+    ],
+    "info": null,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "categories": [
+        "natural light",
+        "outdoor",
+        "partly cloudy",
+        "low contrast",
+        "morning-afternoon",
+        "urban",
+        "skies"
+    ],
+    "tags": [
+        "asphalt",
+        "road",
+        "street",
+        "race",
+        "barrier",
+        "track"
+    ],
+    "date_published": 1674604800,
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "109f1f5e54ff50f982361151c27a586849e8e4a2",
+    "download_count": 40660,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/skidpan.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 38390892,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/skidpan.jpg",
+            "md5": "a002a5d1aee85a24d4ab063f264b66d5"
+        },
+        "colorchart": {
+            "size": 203972792,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/skidpan.zip",
+            "md5": "5229bedb7b2b991efe99a4139699a33f"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/skidpan_8k.hdr",
+                    "size": 100092885,
+                    "md5": "82dda186812e808cc4384e80664dea69"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/skidpan_8k.exr",
+                    "size": 322686587,
+                    "md5": "ec97efdb17ce02355801bc3b8b9152eb"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/skidpan_16k.hdr",
+                    "size": 374915957,
+                    "md5": "a05eb576230dbdba6508d47927f18edb"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/skidpan_16k.exr",
+                    "size": 1224932432,
+                    "md5": "77956a54edcc6a9c8aee2c746c1f33df"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/skidpan_4k.hdr",
+                    "size": 25500306,
+                    "md5": "1f83f633e2940ae14c203b5ac04180de"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/skidpan_4k.exr",
+                    "size": 83169720,
+                    "md5": "fa40c3cc02eb38486d38119a294f6253"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/skidpan_24k.hdr",
+                    "size": 827649586,
+                    "md5": "91a9479daccb8aeba929a23e6532189b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/skidpan_24k.exr",
+                    "size": 2765882957,
+                    "md5": "c861405c9dba828ff4cab1dbc7faf81f"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/skidpan_2k.hdr",
+                    "size": 6392699,
+                    "md5": "cd01e317ac16840778c4a1fbbcf17820"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/skidpan_2k.exr",
+                    "size": 21783797,
+                    "md5": "3049dec08b8eccc02e94ba0ec53f83f4"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/skidpan_1k.hdr",
+                    "size": 1598278,
+                    "md5": "22fdfb280bd4486157de10747b094965"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/skidpan_1k.exr",
+                    "size": 5859187,
+                    "md5": "a641b7ccb991ecf1a338d548da5d76b4"
+                }
+            }
+        }
+    }
+}

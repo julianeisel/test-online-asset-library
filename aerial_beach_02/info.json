@@ -1,0 +1,834 @@
+{
+    "type": 1,
+    "tags": [
+        "beach",
+        "flat",
+        "costal",
+        "ocean",
+        "seaside"
+    ],
+    "date_published": 1609950183,
+    "sponsors": [
+        "42579608"
+    ],
+    "name": "Aerial Beach 02",
+    "categories": [
+        "terrain",
+        "sand",
+        "natural",
+        "outdoor",
+        "aerial"
+    ],
+    "authors": {
+        "Rob Tuytel": "All"
+    },
+    "dimensions": [
+        20000.011444091797,
+        20000
+    ],
+    "files_hash": "9ccd5fd25e79d09f6aa11ccb03e0e7910b56c054",
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "download_count": 28605,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/aerial_beach_02.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 17058954,
+                    "md5": "86e99ccd85a41c84ee9a3ef5435dd9e6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/aerial_beach_02/aerial_beach_02_diff_8k.jpg"
+                },
+                "png": {
+                    "size": 83478105,
+                    "md5": "2093849af4f26f36105de2ee5bde0955",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/aerial_beach_02/aerial_beach_02_diff_8k.png"
+                },
+                "exr": {
+                    "size": 66566877,
+                    "md5": "c0fc45a1be62d0168d59f1b7bccfb615",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/aerial_beach_02/aerial_beach_02_diff_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5197300,
+                    "md5": "c6202a3fe73151130d1a2aaa68db17fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/aerial_beach_02/aerial_beach_02_diff_4k.jpg"
+                },
+                "png": {
+                    "size": 21345820,
+                    "md5": "498759253ff7104f4feeb719d32b26e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/aerial_beach_02/aerial_beach_02_diff_4k.png"
+                },
+                "exr": {
+                    "size": 13313081,
+                    "md5": "4b3ce7ecb3654eeb61f46212327218b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/aerial_beach_02/aerial_beach_02_diff_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1354184,
+                    "md5": "3a1440d755d13d68d4d02707ae15b685",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_beach_02/aerial_beach_02_diff_2k.jpg"
+                },
+                "png": {
+                    "size": 5389585,
+                    "md5": "15d778bb44e59c4e5857843d8f4520fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/aerial_beach_02/aerial_beach_02_diff_2k.png"
+                },
+                "exr": {
+                    "size": 3452922,
+                    "md5": "f44142adf8c3d62d3f637591cf5267f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/aerial_beach_02/aerial_beach_02_diff_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 309954,
+                    "md5": "8add95ec469c7b776d3289e774927f28",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_beach_02/aerial_beach_02_diff_1k.jpg"
+                },
+                "png": {
+                    "size": 1267626,
+                    "md5": "babf06344de4fdb297c6746a90b6e43c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_02/aerial_beach_02_diff_1k.png"
+                },
+                "exr": {
+                    "size": 850460,
+                    "md5": "7b3b59032f40525bb060778d62e1944a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/aerial_beach_02/aerial_beach_02_diff_1k.exr"
+                }
+            }
+        },
+        "rough_ao": {
+            "8k": {
+                "jpg": {
+                    "size": 31850425,
+                    "md5": "9c873c2b103e1185282da3475d8f9a99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/aerial_beach_02/aerial_beach_02_rough_ao_8k.jpg"
+                },
+                "png": {
+                    "size": 81309260,
+                    "md5": "54ef8ef0ef865fe09d201fa5dbf87ac2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/aerial_beach_02/aerial_beach_02_rough_ao_8k.png"
+                },
+                "exr": {
+                    "size": 90279826,
+                    "md5": "0f6a6d520bf327f92fae7986a20f90f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/aerial_beach_02/aerial_beach_02_rough_ao_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 7302902,
+                    "md5": "6b6a46dfd2587c6495c95abec9ebf947",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/aerial_beach_02/aerial_beach_02_rough_ao_4k.jpg"
+                },
+                "png": {
+                    "size": 21187091,
+                    "md5": "4c8623627d96640af9466bec76b46559",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/aerial_beach_02/aerial_beach_02_rough_ao_4k.png"
+                },
+                "exr": {
+                    "size": 20025914,
+                    "md5": "2b5a5c9191559cdcd9fd636954460300",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/aerial_beach_02/aerial_beach_02_rough_ao_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1631051,
+                    "md5": "ec1ad53207a6742f0b5a9ac72a1f44b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_beach_02/aerial_beach_02_rough_ao_2k.jpg"
+                },
+                "png": {
+                    "size": 5416546,
+                    "md5": "a0bab6882e4e05edc694ffb552d8bacb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/aerial_beach_02/aerial_beach_02_rough_ao_2k.png"
+                },
+                "exr": {
+                    "size": 4931687,
+                    "md5": "d10e1b38955ae55bd312305da4c5be35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/aerial_beach_02/aerial_beach_02_rough_ao_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 337127,
+                    "md5": "b099b0675d70c3f45c6ac74b28e0d5ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_beach_02/aerial_beach_02_rough_ao_1k.jpg"
+                },
+                "png": {
+                    "size": 1270565,
+                    "md5": "b92427959deba1f25b781ddceefa3e5d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_02/aerial_beach_02_rough_ao_1k.png"
+                },
+                "exr": {
+                    "size": 1107535,
+                    "md5": "5c920afc1327080fc08b6f57e1aab9b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/aerial_beach_02/aerial_beach_02_rough_ao_1k.exr"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 8064692,
+                    "md5": "b9672e87f9e1c12999469e6d2d31bd3c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/aerial_beach_02/aerial_beach_02_arm_8k.jpg"
+                },
+                "png": {
+                    "size": 77653023,
+                    "md5": "3426c051de1c155c89758ce9b7cbeffd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/aerial_beach_02/aerial_beach_02_arm_8k.png"
+                },
+                "exr": {
+                    "size": 73413750,
+                    "md5": "af673e5f66f3a7a10f3b759ef3cf1e83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/aerial_beach_02/aerial_beach_02_arm_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1969080,
+                    "md5": "d025b0493676b2cfc92323fc6df86288",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/aerial_beach_02/aerial_beach_02_arm_4k.jpg"
+                },
+                "png": {
+                    "size": 19327930,
+                    "md5": "1f9006f7ecfd4bf17325e12de5ae00af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/aerial_beach_02/aerial_beach_02_arm_4k.png"
+                },
+                "exr": {
+                    "size": 17722662,
+                    "md5": "5e7b74ea21f135a19c2f005724e74cf4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/aerial_beach_02/aerial_beach_02_arm_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 411935,
+                    "md5": "1be5af1f29e183b32cf112bad8d1f381",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_beach_02/aerial_beach_02_arm_2k.jpg"
+                },
+                "png": {
+                    "size": 4496976,
+                    "md5": "1e8fb83e0be44e048a369ee3e70f1883",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/aerial_beach_02/aerial_beach_02_arm_2k.png"
+                },
+                "exr": {
+                    "size": 4004323,
+                    "md5": "d14ef02215f32eb05d555cb823577504",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/aerial_beach_02/aerial_beach_02_arm_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 86301,
+                    "md5": "aafb629ac0812a7c5e36dae7b9ed0ea0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_beach_02/aerial_beach_02_arm_1k.jpg"
+                },
+                "png": {
+                    "size": 1036611,
+                    "md5": "c22bc9527cb752f2617d917bd10a6d19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_02/aerial_beach_02_arm_1k.png"
+                },
+                "exr": {
+                    "size": 855602,
+                    "md5": "670b2f2a0494362f1655fd21d36652ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/aerial_beach_02/aerial_beach_02_arm_1k.exr"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 22943191,
+                    "md5": "1eff09fdb84c82fd5bb99d1da37d0220",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/aerial_beach_02/aerial_beach_02_ao_8k.jpg"
+                },
+                "png": {
+                    "size": 57470383,
+                    "md5": "a5c76e034847da4444c99431757f8b0c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/aerial_beach_02/aerial_beach_02_ao_8k.png"
+                },
+                "exr": {
+                    "size": 39690718,
+                    "md5": "8029d53e0d1d69026e1af9e750e30bde",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/aerial_beach_02/aerial_beach_02_ao_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4868849,
+                    "md5": "2c632cd71421bdb00d6639ea4b398bd4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/aerial_beach_02/aerial_beach_02_ao_4k.jpg"
+                },
+                "png": {
+                    "size": 8330510,
+                    "md5": "68f6a5fe2db60f7285ab0514ad16c01a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/aerial_beach_02/aerial_beach_02_ao_4k.png"
+                },
+                "exr": {
+                    "size": 10884574,
+                    "md5": "c153b9966e79f7faa39c43e302527c96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/aerial_beach_02/aerial_beach_02_ao_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 993109,
+                    "md5": "5a9a7ed77623f9b813e7553206943e5f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_beach_02/aerial_beach_02_ao_2k.jpg"
+                },
+                "png": {
+                    "size": 1841676,
+                    "md5": "0a29231f38a1aae53437a494b0599502",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/aerial_beach_02/aerial_beach_02_ao_2k.png"
+                },
+                "exr": {
+                    "size": 2351871,
+                    "md5": "00dd5fe2dede9d3f642f653b7af95ed6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/aerial_beach_02/aerial_beach_02_ao_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 209329,
+                    "md5": "818fe7c54ea9a8087daa871665f8adc8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_beach_02/aerial_beach_02_ao_1k.jpg"
+                },
+                "png": {
+                    "size": 431161,
+                    "md5": "3fef571c0fb79cd86ebf13cbe91f2bcc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_02/aerial_beach_02_ao_1k.png"
+                },
+                "exr": {
+                    "size": 551612,
+                    "md5": "e2abeedcda207fb8e46bedb5ba675dac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/aerial_beach_02/aerial_beach_02_ao_1k.exr"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 4697941,
+                    "md5": "b81dabcd562251c29406cd9ea68e3a77",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/aerial_beach_02/aerial_beach_02_disp_8k.jpg"
+                },
+                "png": {
+                    "size": 57556546,
+                    "md5": "0fc137e192ec9775ddc92e2fcb0342a3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/aerial_beach_02/aerial_beach_02_disp_8k.png"
+                },
+                "exr": {
+                    "size": 9500523,
+                    "md5": "41409d0e3c221649e008d541d213c854",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/aerial_beach_02/aerial_beach_02_disp_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1488698,
+                    "md5": "cfde2091ff55bf9f9aa4d3c0814f72ea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/aerial_beach_02/aerial_beach_02_disp_4k.jpg"
+                },
+                "png": {
+                    "size": 27911456,
+                    "md5": "bee0efac0a066b1a21e01dd9f5f25141",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/aerial_beach_02/aerial_beach_02_disp_4k.png"
+                },
+                "exr": {
+                    "size": 3039234,
+                    "md5": "208db0ab02b65f61c12c1c91bd7ee8d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/aerial_beach_02/aerial_beach_02_disp_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 461592,
+                    "md5": "33f6c7a703b81e6d0befd87983f328e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_beach_02/aerial_beach_02_disp_2k.jpg"
+                },
+                "png": {
+                    "size": 7293030,
+                    "md5": "b03024aa09049766f31e48215b78924e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/aerial_beach_02/aerial_beach_02_disp_2k.png"
+                },
+                "exr": {
+                    "size": 991183,
+                    "md5": "9df163b1e637f6fd63c95bbffb845e19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/aerial_beach_02/aerial_beach_02_disp_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 133530,
+                    "md5": "73a5f9939242eb0c0be3af8b2358e4c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_beach_02/aerial_beach_02_disp_1k.jpg"
+                },
+                "png": {
+                    "size": 1881339,
+                    "md5": "f191c60692acb4418f0166f68630cd9f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_02/aerial_beach_02_disp_1k.png"
+                },
+                "exr": {
+                    "size": 298511,
+                    "md5": "a03a67d73fb4a2f1a6051bf84b2cd4c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/aerial_beach_02/aerial_beach_02_disp_1k.exr"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 13774255,
+                    "md5": "2e921fa29192ec795791e06d2f7b7bf7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/aerial_beach_02/aerial_beach_02_rough_8k.jpg"
+                },
+                "png": {
+                    "size": 27740915,
+                    "md5": "ce48fcd71d568015f20cf25685762636",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/aerial_beach_02/aerial_beach_02_rough_8k.png"
+                },
+                "exr": {
+                    "size": 41183686,
+                    "md5": "2e151ba77b5a94407fe190d951521dd0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/aerial_beach_02/aerial_beach_02_rough_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3884228,
+                    "md5": "2ad78dad3eec2d23c01252d5773ba7e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/aerial_beach_02/aerial_beach_02_rough_4k.jpg"
+                },
+                "png": {
+                    "size": 7189477,
+                    "md5": "2263375e018c842f3c605a7109fd5b64",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/aerial_beach_02/aerial_beach_02_rough_4k.png"
+                },
+                "exr": {
+                    "size": 10904880,
+                    "md5": "bd0f489de5c57c1f93067393691de897",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/aerial_beach_02/aerial_beach_02_rough_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 912205,
+                    "md5": "61adb27586f9e8ae3a3d21dd32204f18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_beach_02/aerial_beach_02_rough_2k.jpg"
+                },
+                "png": {
+                    "size": 1780616,
+                    "md5": "7b4bb89b6a7a11b496f96afe6c46894d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/aerial_beach_02/aerial_beach_02_rough_2k.png"
+                },
+                "exr": {
+                    "size": 2772837,
+                    "md5": "16e7b230dbc13ff65e78e6a2e14fe13c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/aerial_beach_02/aerial_beach_02_rough_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 199246,
+                    "md5": "9d83895af5cfaab9d9fe65c09a9b6b1e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_beach_02/aerial_beach_02_rough_1k.jpg"
+                },
+                "png": {
+                    "size": 416249,
+                    "md5": "8204e83e5660536edfe2bc1ee6dfd3fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_02/aerial_beach_02_rough_1k.png"
+                },
+                "exr": {
+                    "size": 645807,
+                    "md5": "9c7516d0aca4fd0f2229ac8725e42f43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/aerial_beach_02/aerial_beach_02_rough_1k.exr"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/aerial_beach_02/aerial_beach_02_nor_dx_8k.jpg",
+                    "size": 19337889,
+                    "md5": "fdfd1c5236b079d02a4e20621b2b18b1"
+                },
+                "png": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/aerial_beach_02/aerial_beach_02_nor_dx_8k.png",
+                    "size": 153352814,
+                    "md5": "07b159a45b3408e8ed1acb8ab4bc337a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/aerial_beach_02/aerial_beach_02_nor_dx_8k.exr",
+                    "size": 137795125,
+                    "md5": "d237c9ad92cd9bcca3e316565837d999"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/aerial_beach_02/aerial_beach_02_nor_dx_4k.jpg",
+                    "size": 4276583,
+                    "md5": "0d8ede6ce8b1096ec72bf2f4d0c7c4b3"
+                },
+                "png": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/aerial_beach_02/aerial_beach_02_nor_dx_4k.png",
+                    "size": 37883086,
+                    "md5": "566e479e306340f3bbf291a6b746e7a3"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/aerial_beach_02/aerial_beach_02_nor_dx_4k.exr",
+                    "size": 32928797,
+                    "md5": "2d53a05df7021239b9a0eeb1fddcbeea"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_beach_02/aerial_beach_02_nor_dx_2k.jpg",
+                    "size": 898002,
+                    "md5": "22ec1577b78454e4a34b791d2f11c5b6"
+                },
+                "png": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/aerial_beach_02/aerial_beach_02_nor_dx_2k.png",
+                    "size": 9690224,
+                    "md5": "499ae923c3b41fce1b051cac8ba62dd2"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/aerial_beach_02/aerial_beach_02_nor_dx_2k.exr",
+                    "size": 7947327,
+                    "md5": "cc9710c42751cdf69d8d26b723e339c9"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_beach_02/aerial_beach_02_nor_dx_1k.jpg",
+                    "size": 157136,
+                    "md5": "2230d310cb34c7ebdb275555ee9ebbba"
+                },
+                "png": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_02/aerial_beach_02_nor_dx_1k.png",
+                    "size": 2315545,
+                    "md5": "ae43668eac4a683b647dc12258b65bce"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/aerial_beach_02/aerial_beach_02_nor_dx_1k.exr",
+                    "size": 1808574,
+                    "md5": "971dc7e6498d47c0275bd02d64d78d14"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/aerial_beach_02/aerial_beach_02_nor_gl_8k.jpg",
+                    "size": 19419129,
+                    "md5": "7333d16b91cad7f818facacc344e8113"
+                },
+                "png": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/aerial_beach_02/aerial_beach_02_nor_gl_8k.png",
+                    "size": 245155681,
+                    "md5": "f67ff4d4d801cc008cf8db09b54ac41b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/aerial_beach_02/aerial_beach_02_nor_gl_8k.exr",
+                    "size": 138163859,
+                    "md5": "3b0993b63abc3981bd238740d29af8b3"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/aerial_beach_02/aerial_beach_02_nor_gl_4k.jpg",
+                    "size": 4293816,
+                    "md5": "40d1263fa6d94fc68f8109606c5aff80"
+                },
+                "png": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/aerial_beach_02/aerial_beach_02_nor_gl_4k.png",
+                    "size": 85607499,
+                    "md5": "50c8e9890d8a045ea7ff798cf70a0941"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/aerial_beach_02/aerial_beach_02_nor_gl_4k.exr",
+                    "size": 32916391,
+                    "md5": "f3e542087ecb714c14abd51a38026bfd"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_beach_02/aerial_beach_02_nor_gl_2k.jpg",
+                    "size": 902291,
+                    "md5": "6b42c35e1f3d7e942f99b576e0b79ad0"
+                },
+                "png": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/aerial_beach_02/aerial_beach_02_nor_gl_2k.png",
+                    "size": 22299068,
+                    "md5": "40dec29d4661ed1c4b30ee80f661f64b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/aerial_beach_02/aerial_beach_02_nor_gl_2k.exr",
+                    "size": 7945755,
+                    "md5": "9845286262bfc6fa38649c56a8374256"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_beach_02/aerial_beach_02_nor_gl_1k.jpg",
+                    "size": 158791,
+                    "md5": "846899ad7a4e9e3fab80e497c0dc890b"
+                },
+                "png": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_02/aerial_beach_02_nor_gl_1k.png",
+                    "size": 5570529,
+                    "md5": "21ee04dccc4a1fc3f5b2eb5537d13e5e"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/aerial_beach_02/aerial_beach_02_nor_gl_1k.exr",
+                    "size": 1808889,
+                    "md5": "4c9892c15fb4f993d980ff022de8c026"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "size": 273452,
+                    "md5": "613b603912c262b67d289b4e0524e0dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/8k/aerial_beach_02/aerial_beach_02_8k.blend",
+                    "include": {
+                        "textures/aerial_beach_02_rough_8k.jpg": {
+                            "size": 13774255,
+                            "md5": "2e921fa29192ec795791e06d2f7b7bf7",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/aerial_beach_02/aerial_beach_02_rough_8k.jpg"
+                        },
+                        "textures/aerial_beach_02_diff_8k.jpg": {
+                            "size": 17058954,
+                            "md5": "86e99ccd85a41c84ee9a3ef5435dd9e6",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/aerial_beach_02/aerial_beach_02_diff_8k.jpg"
+                        },
+                        "textures/aerial_beach_02_disp_8k.png": {
+                            "size": 57556546,
+                            "md5": "0fc137e192ec9775ddc92e2fcb0342a3",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/aerial_beach_02/aerial_beach_02_disp_8k.png"
+                        },
+                        "textures/aerial_beach_02_nor_gl_8k.exr": {
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/aerial_beach_02/aerial_beach_02_nor_gl_8k.exr",
+                            "size": 138163859,
+                            "md5": "3b0993b63abc3981bd238740d29af8b3"
+                        }
+                    }
+                }
+            },
+            "4k": {
+                "blend": {
+                    "size": 273462,
+                    "md5": "273d7b5a72b7fcc5524033f94db848ee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/4k/aerial_beach_02/aerial_beach_02_4k.blend",
+                    "include": {
+                        "textures/aerial_beach_02_diff_4k.jpg": {
+                            "size": 5197300,
+                            "md5": "c6202a3fe73151130d1a2aaa68db17fd",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/aerial_beach_02/aerial_beach_02_diff_4k.jpg"
+                        },
+                        "textures/aerial_beach_02_disp_4k.png": {
+                            "size": 27911456,
+                            "md5": "bee0efac0a066b1a21e01dd9f5f25141",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/aerial_beach_02/aerial_beach_02_disp_4k.png"
+                        },
+                        "textures/aerial_beach_02_rough_4k.jpg": {
+                            "size": 3884228,
+                            "md5": "2ad78dad3eec2d23c01252d5773ba7e0",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/aerial_beach_02/aerial_beach_02_rough_4k.jpg"
+                        },
+                        "textures/aerial_beach_02_nor_gl_4k.exr": {
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/aerial_beach_02/aerial_beach_02_nor_gl_4k.exr",
+                            "size": 32916391,
+                            "md5": "f3e542087ecb714c14abd51a38026bfd"
+                        }
+                    }
+                }
+            },
+            "2k": {
+                "blend": {
+                    "size": 273647,
+                    "md5": "0e20966344ad7166b9d3a0178260b2ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/2k/aerial_beach_02/aerial_beach_02_2k.blend",
+                    "include": {
+                        "textures/aerial_beach_02_diff_2k.jpg": {
+                            "size": 1354184,
+                            "md5": "3a1440d755d13d68d4d02707ae15b685",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_beach_02/aerial_beach_02_diff_2k.jpg"
+                        },
+                        "textures/aerial_beach_02_disp_2k.png": {
+                            "size": 7293030,
+                            "md5": "b03024aa09049766f31e48215b78924e",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/aerial_beach_02/aerial_beach_02_disp_2k.png"
+                        },
+                        "textures/aerial_beach_02_rough_2k.jpg": {
+                            "size": 912205,
+                            "md5": "61adb27586f9e8ae3a3d21dd32204f18",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_beach_02/aerial_beach_02_rough_2k.jpg"
+                        },
+                        "textures/aerial_beach_02_nor_gl_2k.exr": {
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/aerial_beach_02/aerial_beach_02_nor_gl_2k.exr",
+                            "size": 7945755,
+                            "md5": "9845286262bfc6fa38649c56a8374256"
+                        }
+                    }
+                }
+            },
+            "1k": {
+                "blend": {
+                    "size": 273444,
+                    "md5": "dd55c66445b6a178fbb1b24a7176ab63",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/1k/aerial_beach_02/aerial_beach_02_1k.blend",
+                    "include": {
+                        "textures/aerial_beach_02_disp_1k.png": {
+                            "size": 1881339,
+                            "md5": "f191c60692acb4418f0166f68630cd9f",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/aerial_beach_02/aerial_beach_02_disp_1k.png"
+                        },
+                        "textures/aerial_beach_02_diff_1k.jpg": {
+                            "size": 309954,
+                            "md5": "8add95ec469c7b776d3289e774927f28",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_beach_02/aerial_beach_02_diff_1k.jpg"
+                        },
+                        "textures/aerial_beach_02_rough_1k.jpg": {
+                            "size": 199246,
+                            "md5": "9d83895af5cfaab9d9fe65c09a9b6b1e",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_beach_02/aerial_beach_02_rough_1k.jpg"
+                        },
+                        "textures/aerial_beach_02_nor_gl_1k.exr": {
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/aerial_beach_02/aerial_beach_02_nor_gl_1k.exr",
+                            "size": 1808889,
+                            "md5": "4c9892c15fb4f993d980ff022de8c026"
+                        }
+                    }
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "size": 2721,
+                    "md5": "1826da2a293760f899a7eef2a602c645",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/aerial_beach_02/aerial_beach_02_8k.gltf",
+                    "include": {
+                        "textures/aerial_beach_02_rough_8k.jpg": {
+                            "size": 13774255,
+                            "md5": "2e921fa29192ec795791e06d2f7b7bf7",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/aerial_beach_02/aerial_beach_02_rough_8k.jpg"
+                        },
+                        "textures/aerial_beach_02_diff_8k.jpg": {
+                            "size": 17058954,
+                            "md5": "86e99ccd85a41c84ee9a3ef5435dd9e6",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/aerial_beach_02/aerial_beach_02_diff_8k.jpg"
+                        },
+                        "aerial_beach_02.bin": {
+                            "size": 2369908,
+                            "md5": "569311f0deda2a4551d5c2324707d09a",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/aerial_beach_02/aerial_beach_02.bin"
+                        },
+                        "textures/aerial_beach_02_nor_gl_8k.jpg": {
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/aerial_beach_02/aerial_beach_02_nor_gl_8k.jpg",
+                            "size": 19419129,
+                            "md5": "7333d16b91cad7f818facacc344e8113"
+                        }
+                    }
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "size": 2721,
+                    "md5": "3f27d3485d5fbca6a376271004283536",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/4k/aerial_beach_02/aerial_beach_02_4k.gltf",
+                    "include": {
+                        "textures/aerial_beach_02_diff_4k.jpg": {
+                            "size": 5197300,
+                            "md5": "c6202a3fe73151130d1a2aaa68db17fd",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/aerial_beach_02/aerial_beach_02_diff_4k.jpg"
+                        },
+                        "textures/aerial_beach_02_rough_4k.jpg": {
+                            "size": 3884228,
+                            "md5": "2ad78dad3eec2d23c01252d5773ba7e0",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/aerial_beach_02/aerial_beach_02_rough_4k.jpg"
+                        },
+                        "aerial_beach_02.bin": {
+                            "size": 2369908,
+                            "md5": "569311f0deda2a4551d5c2324707d09a",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/aerial_beach_02/aerial_beach_02.bin"
+                        },
+                        "textures/aerial_beach_02_nor_gl_4k.jpg": {
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/aerial_beach_02/aerial_beach_02_nor_gl_4k.jpg",
+                            "size": 4293816,
+                            "md5": "40d1263fa6d94fc68f8109606c5aff80"
+                        }
+                    }
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "size": 2721,
+                    "md5": "4b5f6d9c3ed508defc376e3408ff0398",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/2k/aerial_beach_02/aerial_beach_02_2k.gltf",
+                    "include": {
+                        "textures/aerial_beach_02_diff_2k.jpg": {
+                            "size": 1354184,
+                            "md5": "3a1440d755d13d68d4d02707ae15b685",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_beach_02/aerial_beach_02_diff_2k.jpg"
+                        },
+                        "aerial_beach_02.bin": {
+                            "size": 2369908,
+                            "md5": "569311f0deda2a4551d5c2324707d09a",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/aerial_beach_02/aerial_beach_02.bin"
+                        },
+                        "textures/aerial_beach_02_rough_2k.jpg": {
+                            "size": 912205,
+                            "md5": "61adb27586f9e8ae3a3d21dd32204f18",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_beach_02/aerial_beach_02_rough_2k.jpg"
+                        },
+                        "textures/aerial_beach_02_nor_gl_2k.jpg": {
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_beach_02/aerial_beach_02_nor_gl_2k.jpg",
+                            "size": 902291,
+                            "md5": "6b42c35e1f3d7e942f99b576e0b79ad0"
+                        }
+                    }
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "size": 2721,
+                    "md5": "0dadba095323e198c095fdb8e192c4cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/1k/aerial_beach_02/aerial_beach_02_1k.gltf",
+                    "include": {
+                        "textures/aerial_beach_02_diff_1k.jpg": {
+                            "size": 309954,
+                            "md5": "8add95ec469c7b776d3289e774927f28",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_beach_02/aerial_beach_02_diff_1k.jpg"
+                        },
+                        "aerial_beach_02.bin": {
+                            "size": 2369908,
+                            "md5": "569311f0deda2a4551d5c2324707d09a",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/aerial_beach_02/aerial_beach_02.bin"
+                        },
+                        "textures/aerial_beach_02_rough_1k.jpg": {
+                            "size": 199246,
+                            "md5": "9d83895af5cfaab9d9fe65c09a9b6b1e",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_beach_02/aerial_beach_02_rough_1k.jpg"
+                        },
+                        "textures/aerial_beach_02_nor_gl_1k.jpg": {
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_beach_02/aerial_beach_02_nor_gl_1k.jpg",
+                            "size": 158791,
+                            "md5": "846899ad7a4e9e3fab80e497c0dc890b"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

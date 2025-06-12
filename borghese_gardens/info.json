@@ -1,0 +1,122 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "tags": [
+        "sun",
+        "tree",
+        "rome",
+        "europe",
+        "park"
+    ],
+    "name": "Borghese Gardens",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1635852960,
+    "coords": [
+        41.912776,
+        12.486894
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1640044800,
+    "max_resolution": [
+        18316,
+        9158
+    ],
+    "files_hash": "9c50eab00b8c1c0ec2273a15f339c40976966c0a",
+    "download_count": 32451,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/borghese_gardens.png?width=256&height=256",
+    "files": {
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/borghese_gardens.zip",
+            "size": 165893126,
+            "md5": "5790269d6bdef52d582bbc209696b263"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/borghese_gardens.jpg",
+            "size": 59356012,
+            "md5": "4de313cb132d17e394dc06dc0b00f18a"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/borghese_gardens_8k.hdr",
+                    "size": 110865368,
+                    "md5": "0112975c0ea04deef038b91d238f5992"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/borghese_gardens_8k.exr",
+                    "size": 388862603,
+                    "md5": "7b459b2c63300d33ea96f4faf95d132b"
+                }
+            },
+            "18k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/borghese_gardens_18k.hdr",
+                    "size": 530131297,
+                    "md5": "d193ae6f5bdc2f4f1adc59ddce903b3f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/borghese_gardens_18k.exr",
+                    "size": 1846834065,
+                    "md5": "0f6fb0a9cc4c7adb42062b07f4656714"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/borghese_gardens_16k.hdr",
+                    "size": 427237155,
+                    "md5": "b13a2801576c9d020ed3323ea74f6498"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/borghese_gardens_16k.exr",
+                    "size": 1497978191,
+                    "md5": "0c3335af4712aecd46c525d404b75957"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/borghese_gardens_4k.hdr",
+                    "size": 27960322,
+                    "md5": "bc130ddafa15fa6630a97c419ee069d6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/borghese_gardens_4k.exr",
+                    "size": 97734693,
+                    "md5": "be636f71f512f4cc2c80ff424cb41d64"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/borghese_gardens_2k.hdr",
+                    "size": 6921193,
+                    "md5": "164f424edf339fab46289c1d49b606e2"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/borghese_gardens_2k.exr",
+                    "size": 24498868,
+                    "md5": "c3464c943807f9601fef4995068981e1"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/borghese_gardens_1k.hdr",
+                    "size": 1723350,
+                    "md5": "2ddc80dda474ca03d2919604ba79b131"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/borghese_gardens_1k.exr",
+                    "size": 6139611,
+                    "md5": "1b661d0c10a4b77810f87fa50203b936"
+                }
+            }
+        }
+    }
+}

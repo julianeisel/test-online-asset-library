@@ -1,0 +1,591 @@
+{
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 6800,
+    "tags": [
+        "path",
+        "tree",
+        "field",
+        "long grass",
+        "dry",
+        "backplates"
+    ],
+    "name": "Near The River 02",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "partly cloudy",
+        "medium contrast",
+        "sunrise-sunset"
+    ],
+    "backplates": true,
+    "date_taken": 1700914500,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "files_hash": "f1add2ce314928d2f871a579e990de300bdd3daa",
+    "date_published": 1707696000,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "sponsors": [
+        "82322099"
+    ],
+    "download_count": 24530,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/near_the_river_02.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 46665961,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/near_the_river_02.jpg",
+            "md5": "38574c821c147e8b11eadbb76e34650b"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101848434,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/near_the_river_02_8k.hdr",
+                    "md5": "baeab83b663cc1524d769fbe1d87c1cd"
+                },
+                "exr": {
+                    "size": 88349724,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/near_the_river_02_8k.exr",
+                    "md5": "7b7ff6ad1aac11a912433434b07941c2"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 377726514,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/near_the_river_02_16k.hdr",
+                    "md5": "33c1df94efef1369fa515a7474f1f3db"
+                },
+                "exr": {
+                    "size": 321509587,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/near_the_river_02_16k.exr",
+                    "md5": "4ea71144b129b1019935b65a81fe20ac"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26121453,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/near_the_river_02_4k.hdr",
+                    "md5": "e47eb00d725080db21243179c3a9acc4"
+                },
+                "exr": {
+                    "size": 23051602,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/near_the_river_02_4k.exr",
+                    "md5": "c96173ecd77253dc84f370db69f8b3e2"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6557549,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/near_the_river_02_2k.hdr",
+                    "md5": "bab50b308a4779defc2133beca2a4f02"
+                },
+                "exr": {
+                    "size": 5930773,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/near_the_river_02_2k.exr",
+                    "md5": "9dcd5a41875d7bd28906c98c868bf4de"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1642150,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/near_the_river_02_1k.hdr",
+                    "md5": "f7846476ee9b6b16a71de65b05412101"
+                },
+                "exr": {
+                    "size": 1524737,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/near_the_river_02_1k.exr",
+                    "md5": "cd9901d4037134fbed41f1a3aaeee88e"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 95292682,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/near_the_river_02.zip",
+            "md5": "3d57b76784c60c20811bd990ae041bd1"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "size": 11460217,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/10.jpg",
+                    "md5": "3f798c648c94b96ce2f72dda7bd79324"
+                },
+                "jpg_plain": {
+                    "size": 8961693,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/10.jpg",
+                    "md5": "b7a009ca6e2a8746e7e6d6cbcec4dd81"
+                },
+                "raw": {
+                    "size": 30361084,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/10.NEF",
+                    "md5": "16e97c46f5b66449f26b7cef4ab86ecd"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "size": 12706993,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/11.jpg",
+                    "md5": "a3826e5f1675fd80063a74c9fa5ed479"
+                },
+                "jpg_plain": {
+                    "size": 10872188,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/11.jpg",
+                    "md5": "a78d9a8c4a56c5386b5ce36fc0d7e0df"
+                },
+                "raw": {
+                    "size": 32332341,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/11.NEF",
+                    "md5": "bbc28e3978ff6f84a3d0440fe1ff477d"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "size": 13952735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/12.jpg",
+                    "md5": "01547de0ed40cc5064f5fac6358bafbe"
+                },
+                "jpg_plain": {
+                    "size": 10965553,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/12.jpg",
+                    "md5": "9aa4fb65f48592d3b394535458e274bb"
+                },
+                "raw": {
+                    "size": 32162357,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/12.NEF",
+                    "md5": "ad0232c1c4a6bb14548e0999c86ef18a"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "size": 10485526,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/13.jpg",
+                    "md5": "f1ff38ba23ea17f09caa0d63dbb17c2e"
+                },
+                "jpg_plain": {
+                    "size": 8320267,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/13.jpg",
+                    "md5": "ef73a6989f98387e4b223d3fb2191129"
+                },
+                "raw": {
+                    "size": 29957576,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/13.NEF",
+                    "md5": "ff3ced50e3fd955221999973b808a06b"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "size": 10979981,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/14.jpg",
+                    "md5": "d97339dce64ab2b32929f0cdbf2c3886"
+                },
+                "jpg_plain": {
+                    "size": 8241077,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/14.jpg",
+                    "md5": "71f9a4c3cdad19d4ea337591e6c6911a"
+                },
+                "raw": {
+                    "size": 29478261,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/14.NEF",
+                    "md5": "33b698d86e69b228e562c1c339adefc9"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "size": 11624385,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/15.jpg",
+                    "md5": "35c778da4c2ee2258d2c9468413cc2ed"
+                },
+                "jpg_plain": {
+                    "size": 10334897,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/15.jpg",
+                    "md5": "0b76165e8cea3380d137f907587f4783"
+                },
+                "raw": {
+                    "size": 32042175,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/15.NEF",
+                    "md5": "cacb8c1622e303f0748878eab3d3ff6f"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "size": 12800271,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/16.jpg",
+                    "md5": "5c911860c92070fcadcc215c22d6f510"
+                },
+                "jpg_plain": {
+                    "size": 11184247,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/16.jpg",
+                    "md5": "815b880db234d07fd9f45cdf898e0e33"
+                },
+                "raw": {
+                    "size": 32948401,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/16.NEF",
+                    "md5": "b9364fb3731e7498ce622eee15db7219"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "size": 10345040,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/17.jpg",
+                    "md5": "64d351916d626032ef4259dd114c556b"
+                },
+                "jpg_plain": {
+                    "size": 8022169,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/17.jpg",
+                    "md5": "b061a9e89d5c579cae07063f0e0395f0"
+                },
+                "raw": {
+                    "size": 29593667,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/17.NEF",
+                    "md5": "3c52228f96bb5e66ffdbdeba1b6f4011"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "size": 12166341,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/18.jpg",
+                    "md5": "50d140a1c7b18c86fae0b7d0f424195d"
+                },
+                "jpg_plain": {
+                    "size": 10159989,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/18.jpg",
+                    "md5": "adb7afadcf2eee5c662843fea65ddd0e"
+                },
+                "raw": {
+                    "size": 31673997,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/18.NEF",
+                    "md5": "26f3997a17596a8f19c94b4624608163"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "size": 10053554,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/19.jpg",
+                    "md5": "962ef465731c1370752cce1e134323d7"
+                },
+                "jpg_plain": {
+                    "size": 9031082,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/19.jpg",
+                    "md5": "bd1ea556568a4c5cb277fbe7acfeec73"
+                },
+                "raw": {
+                    "size": 30476143,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/19.NEF",
+                    "md5": "4da732f2930e96785bf85112623813f0"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "size": 8242964,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/20.jpg",
+                    "md5": "275526c01d50cca16b9f7561f1ab90e7"
+                },
+                "jpg_plain": {
+                    "size": 7435900,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/20.jpg",
+                    "md5": "326cd065865838fcad043d9ebac25144"
+                },
+                "raw": {
+                    "size": 29569195,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/20.NEF",
+                    "md5": "db0b35cbe8047a0e80b67bf147158487"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "size": 10534758,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/21.jpg",
+                    "md5": "c648d763ceab6bb756ee3b5c1924ad42"
+                },
+                "jpg_plain": {
+                    "size": 8507898,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/21.jpg",
+                    "md5": "dd0d98d27c29e295fe2d295d92f8bf9c"
+                },
+                "raw": {
+                    "size": 29123108,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/21.NEF",
+                    "md5": "1ffa5dccedf390735bf0803f37b08f65"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "size": 8358563,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/22.jpg",
+                    "md5": "411396cb5c0ee94a81035556f9b9c3c6"
+                },
+                "jpg_plain": {
+                    "size": 6797435,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/22.jpg",
+                    "md5": "87f61dae13448f275ff03fa60ca7f504"
+                },
+                "raw": {
+                    "size": 27825788,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/22.NEF",
+                    "md5": "f0f54a92d1ebfef3b458dce97099f87e"
+                }
+            },
+            "23": {
+                "jpg_pretty": {
+                    "size": 8603761,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/23.jpg",
+                    "md5": "c3a8ab2dab03b3714b49769fc267a527"
+                },
+                "jpg_plain": {
+                    "size": 6550265,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/23.jpg",
+                    "md5": "daf1a587e892e874ea30394f2dbe57ce"
+                },
+                "raw": {
+                    "size": 27534381,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/23.NEF",
+                    "md5": "9337e0d06bb1227c9c38430266240e8f"
+                }
+            },
+            "24": {
+                "jpg_pretty": {
+                    "size": 7945208,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/24.jpg",
+                    "md5": "6012df78a9def7c544412326c5237c7c"
+                },
+                "jpg_plain": {
+                    "size": 6226010,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/24.jpg",
+                    "md5": "d45bdaff76b6ff7b0be3db97b36c63bc"
+                },
+                "raw": {
+                    "size": 27516816,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/24.NEF",
+                    "md5": "9048b16248482ac8201bdefd5d4085c0"
+                }
+            },
+            "25": {
+                "jpg_pretty": {
+                    "size": 8888178,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/25.jpg",
+                    "md5": "473862bd63d853e068bb2a75eb1ec23f"
+                },
+                "jpg_plain": {
+                    "size": 7844887,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/25.jpg",
+                    "md5": "b185fcce52b6513087eff6490921ec59"
+                },
+                "raw": {
+                    "size": 29155696,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/25.NEF",
+                    "md5": "820fe66772fa492a5176640a8533fbf0"
+                }
+            },
+            "26": {
+                "jpg_pretty": {
+                    "size": 8459019,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/26.jpg",
+                    "md5": "aaf575f97ad15fae2ae5c6c914b105e7"
+                },
+                "jpg_plain": {
+                    "size": 6413889,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/26.jpg",
+                    "md5": "f70416753174fb2e3913efbb4859c0ff"
+                },
+                "raw": {
+                    "size": 28384378,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/26.NEF",
+                    "md5": "f2d9a8d768793cc42b4028591e061348"
+                }
+            },
+            "27": {
+                "jpg_pretty": {
+                    "size": 7959747,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/27.jpg",
+                    "md5": "02831267a28274153b64ecfdb567bf38"
+                },
+                "jpg_plain": {
+                    "size": 5531505,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/27.jpg",
+                    "md5": "a5fcd6e2f30afe25a92fc40ed46d3e86"
+                },
+                "raw": {
+                    "size": 26803650,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/27.NEF",
+                    "md5": "75fe7f5092a5002cc740b323374c086a"
+                }
+            },
+            "28": {
+                "jpg_pretty": {
+                    "size": 8718744,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/28.jpg",
+                    "md5": "fa46d6b3241adbbf040881c33daa39a2"
+                },
+                "jpg_plain": {
+                    "size": 6070446,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/28.jpg",
+                    "md5": "e3b387a2b665e5405af81fb4b12ab48b"
+                },
+                "raw": {
+                    "size": 27431786,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/28.NEF",
+                    "md5": "5055bbdb4aae89916f56a4d5fcb8042b"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "size": 9708966,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/01.jpg",
+                    "md5": "7431c93ab1b399f4aee43b1d24bb48ef"
+                },
+                "jpg_plain": {
+                    "size": 7313827,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/01.jpg",
+                    "md5": "48772a45109752fae957b55951ff97f1"
+                },
+                "raw": {
+                    "size": 28113551,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/01.NEF",
+                    "md5": "959a8ef8e7720bd6a168c86347376f01"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "size": 8820315,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/02.jpg",
+                    "md5": "c3822980e5660477a421e9233bbcabe1"
+                },
+                "jpg_plain": {
+                    "size": 6622247,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/02.jpg",
+                    "md5": "af44ac5eff79ff148e11935f0072d268"
+                },
+                "raw": {
+                    "size": 28061180,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/02.NEF",
+                    "md5": "4e10fb6697f4dd085912cfba79ae4765"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "size": 8922126,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/03.jpg",
+                    "md5": "eba5f876d5d9eea6739deb468c823577"
+                },
+                "jpg_plain": {
+                    "size": 6109270,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/03.jpg",
+                    "md5": "0930d188d7d53f18d2c5a41fbea127db"
+                },
+                "raw": {
+                    "size": 27128039,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/03.NEF",
+                    "md5": "6d10c4d7b24e0e6fd3d4756fb92d6a37"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "size": 7966668,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/04.jpg",
+                    "md5": "4adc5113788b95766f1ead1ef3db4393"
+                },
+                "jpg_plain": {
+                    "size": 6132112,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/04.jpg",
+                    "md5": "c45bc9dbf9ef06b3bd6738f982953a9b"
+                },
+                "raw": {
+                    "size": 27603506,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/04.NEF",
+                    "md5": "f62ce3bd4d2009abc18b37ab17985743"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "size": 8596461,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/05.jpg",
+                    "md5": "bb706751ef99cd97f447f97cf8e087fa"
+                },
+                "jpg_plain": {
+                    "size": 7274624,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/05.jpg",
+                    "md5": "09e5c6841d62e8415fc7332d830f6459"
+                },
+                "raw": {
+                    "size": 29104203,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/05.NEF",
+                    "md5": "c26de68be2575bbcb61f85f9714ec0c8"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "size": 9745684,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/06.jpg",
+                    "md5": "d5f28b127121314c8d805d936d3655c9"
+                },
+                "jpg_plain": {
+                    "size": 7900248,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/06.jpg",
+                    "md5": "667755df97ed1680c0705c13894538d8"
+                },
+                "raw": {
+                    "size": 30392533,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/06.NEF",
+                    "md5": "a835ae5b73b16caae81d5ee05ff83130"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "size": 8273422,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/07.jpg",
+                    "md5": "1e3795bfded1fd5bbd4472417e1cf665"
+                },
+                "jpg_plain": {
+                    "size": 6406617,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/07.jpg",
+                    "md5": "5f2a26730ed27eaa12b7ca6eb85b5235"
+                },
+                "raw": {
+                    "size": 28316612,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/07.NEF",
+                    "md5": "852502762e2df2b354d1bdee720b1df5"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "size": 9752356,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/08.jpg",
+                    "md5": "dcaf304ff46aeb1b1c06ecf2246849cc"
+                },
+                "jpg_plain": {
+                    "size": 8789732,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/08.jpg",
+                    "md5": "93efc8055f541f9838270ccc3631bd41"
+                },
+                "raw": {
+                    "size": 31127949,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/08.NEF",
+                    "md5": "f598c9d61b6cdf0cc76327203c6e65c5"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "size": 11817516,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_pretty/09.jpg",
+                    "md5": "c4111e347beb6e65c066f1c4d1c3e30a"
+                },
+                "jpg_plain": {
+                    "size": 9080779,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/jpg_plain/09.jpg",
+                    "md5": "e27cde2a9e45c0f191fe1dba740a235d"
+                },
+                "raw": {
+                    "size": 30310614,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/near_the_river_02/raw/09.NEF",
+                    "md5": "14fc1ae37c84e035808bf967484b1448"
+                }
+            }
+        }
+    }
+}

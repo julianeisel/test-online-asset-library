@@ -1,0 +1,109 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "tags": [
+        "tree",
+        "sun",
+        "grass",
+        "hill",
+        "bench",
+        "park"
+    ],
+    "date_published": 1522879200,
+    "name": "Sisulu",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -26.088887,
+        27.844385
+    ],
+    "date_taken": 1438526400,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "42579608"
+    ],
+    "files_hash": "5ab4e7f462f19cfd9d4d98a05c17888cbe2b7fb0",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 24804,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sisulu.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 9335224,
+            "md5": "c46dcb9116814efa814a5e45add87c2a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/sisulu.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 106548041,
+                    "md5": "acb478b2f5320ee24c95bf6cbfc7df9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/sisulu_8k.hdr"
+                },
+                "exr": {
+                    "size": 97403678,
+                    "md5": "b0ed8dae51dfa5c63c746d194fb23337",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/sisulu_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 396868049,
+                    "md5": "b5cd7fbe40a2ed8ff03cf77a776769a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/sisulu_16k.hdr"
+                },
+                "exr": {
+                    "size": 365712622,
+                    "md5": "33a8ba5741a92f505665bd9e4d2c283e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/sisulu_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27366102,
+                    "md5": "c75e102fbe2759d2e47e60f879a6138b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/sisulu_4k.hdr"
+                },
+                "exr": {
+                    "size": 24670516,
+                    "md5": "2f83c76db8cd09cf0a8b90907588f4f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/sisulu_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6851631,
+                    "md5": "cb294cf3fd8bb8b292c0155c00409f9f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/sisulu_2k.hdr"
+                },
+                "exr": {
+                    "size": 6133338,
+                    "md5": "06588c1c156a8ac28870311c7126b1d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/sisulu_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1690625,
+                    "md5": "336f37f322db10560b808d7bbd6bb757",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/sisulu_1k.hdr"
+                },
+                "exr": {
+                    "size": 1532144,
+                    "md5": "be670c9b0085d6a0822759050068d859",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/sisulu_1k.exr"
+                }
+            }
+        }
+    }
+}

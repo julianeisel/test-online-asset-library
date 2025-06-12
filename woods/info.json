@@ -1,0 +1,104 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tree",
+        "dirt",
+        "forest",
+        "river",
+        "autumn"
+    ],
+    "date_published": 1506981600,
+    "name": "Woods",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1438239720,
+    "coords": [
+        -26.163682,
+        27.999798
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "05737207843335eabcb1f82aadf8009c3c2e041e",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 20313,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/woods.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 8844694,
+            "md5": "34af418e4f9707fbb69a81bf3ea37875",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/woods.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 109301657,
+                    "md5": "051308444137c1da63d19926d1ec4914",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/woods_8k.hdr"
+                },
+                "exr": {
+                    "size": 112119205,
+                    "md5": "f5aea2b0aa374c5f1a81fef558c9632a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/woods_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 413083671,
+                    "md5": "be81cae71cd189f82e587949e86b6d06",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/woods_16k.hdr"
+                },
+                "exr": {
+                    "size": 396750337,
+                    "md5": "199c8eda2376fd7e662d825386a96db4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/woods_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28596289,
+                    "md5": "d31738ff50635c892cb80c278f0caf0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/woods_4k.hdr"
+                },
+                "exr": {
+                    "size": 29849731,
+                    "md5": "48282572bde8409e31dd36a1e4feb646",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/woods_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7398588,
+                    "md5": "a0699034191fdb506a5e2942f54da9e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/woods_2k.hdr"
+                },
+                "exr": {
+                    "size": 7782001,
+                    "md5": "1401b10120934e8e38fbccf2b870ca1b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/woods_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1882382,
+                    "md5": "ca6c52888e28ee7d76d000f991321f61",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/woods_1k.hdr"
+                },
+                "exr": {
+                    "size": 1985739,
+                    "md5": "698da3e15254b3942b154f73288e132b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/woods_1k.exr"
+                }
+            }
+        }
+    }
+}

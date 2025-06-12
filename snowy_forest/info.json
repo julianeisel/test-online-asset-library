@@ -1,0 +1,107 @@
+{
+    "donated": true,
+    "type": 0,
+    "tags": [
+        "snow",
+        "winter",
+        "moss",
+        "forest",
+        "tree",
+        "woods"
+    ],
+    "name": "Snowy Forest",
+    "categories": [
+        "outdoor",
+        "low contrast",
+        "overcast",
+        "natural light",
+        "nature",
+        "morning-afternoon"
+    ],
+    "date_taken": 1488636000,
+    "authors": {
+        "Adrian Kubasa": "All"
+    },
+    "info": null,
+    "files_hash": "c19cdc72501c5c80d89b3f4385c0d234b6b68a85",
+    "evs_cap": 0,
+    "date_published": 1705795200,
+    "sponsors": [
+        "82322099"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 22357,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snowy_forest.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 59854684,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/snowy_forest.jpg",
+            "md5": "e744ab5f3470a8dfb469c64dea6e49ad"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 113757833,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/snowy_forest_8k.hdr",
+                    "md5": "c4fde7207e4e5db043ababfb9a3e7a60"
+                },
+                "exr": {
+                    "size": 116631766,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/snowy_forest_8k.exr",
+                    "md5": "942f825e0afe935ad1fa5bae46d6a153"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 428936637,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/snowy_forest_16k.hdr",
+                    "md5": "226d8258a753085f031604df0e24e5e5"
+                },
+                "exr": {
+                    "size": 419942004,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/snowy_forest_16k.exr",
+                    "md5": "20b977ecf5744f9e430375b173c6bc6b"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29424181,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/snowy_forest_4k.hdr",
+                    "md5": "d61a4fb77af0e6a574c86e305bbdbfc6"
+                },
+                "exr": {
+                    "size": 30623136,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/snowy_forest_4k.exr",
+                    "md5": "85c3bd99bc93e5e5962776fb0be7605c"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7490780,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/snowy_forest_2k.hdr",
+                    "md5": "7b4affcfca6722f99988efa09ad29cd0"
+                },
+                "exr": {
+                    "size": 7858002,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/snowy_forest_2k.exr",
+                    "md5": "1f77e0b5d58d49a8dca93a3d9d23a170"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1894914,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/snowy_forest_1k.hdr",
+                    "md5": "7a8909355fa53a99a5a67df22176a64c"
+                },
+                "exr": {
+                    "size": 2004840,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/snowy_forest_1k.exr",
+                    "md5": "1a2b38d5af3fcdc9c25ff7726b4ac427"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "donated": true,
+    "evs_cap": 11,
+    "type": 0,
+    "whitebalance": 6504,
+    "tags": [
+        "pier",
+        "rock",
+        "boat",
+        "lake",
+        "dam",
+        "sign",
+        "water"
+    ],
+    "name": "Ouchy Pier",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "partly cloudy",
+        "overcast",
+        "skies",
+        "low contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1669894800,
+    "coords": [
+        46.504583,
+        6.625878
+    ],
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "max_resolution": [
+        21774,
+        10887
+    ],
+    "files_hash": "093d93cbaee1ba977e43d03f3b73036952bc87e6",
+    "date_published": 1724371200,
+    "download_count": 12568,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ouchy_pier.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 41372171,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/ouchy_pier.jpg",
+            "md5": "07bc9fe7077e109de22a34aeef8e432c"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101544946,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/ouchy_pier_8k.hdr",
+                    "md5": "d8b547aaa23cea7009862fc03daf0d2d"
+                },
+                "exr": {
+                    "size": 384803108,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/ouchy_pier_8k.exr",
+                    "md5": "9343cd0908793f87f5cb19be8628a3bc"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 391225890,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/ouchy_pier_16k.hdr",
+                    "md5": "115b68d19f768ee8b9482cf721f8d677"
+                },
+                "exr": {
+                    "size": 1528106736,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/ouchy_pier_16k.exr",
+                    "md5": "06dbb82045cef747c6921194e2bb62d1"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25930956,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/ouchy_pier_4k.hdr",
+                    "md5": "b9b865fcffafb829a45d9eec61b842b8"
+                },
+                "exr": {
+                    "size": 96531825,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/ouchy_pier_4k.exr",
+                    "md5": "9641022516aa453d26a667a7d6018d3c"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6556744,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/ouchy_pier_2k.hdr",
+                    "md5": "b4f3ac7a31f3874473368095131ef477"
+                },
+                "exr": {
+                    "size": 24263101,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/ouchy_pier_2k.exr",
+                    "md5": "a0cd1db493508eb1a295fc742f974f90"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1653011,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/ouchy_pier_1k.hdr",
+                    "md5": "289ed9950a6b19bd41b8325e9f61ddc8"
+                },
+                "exr": {
+                    "size": 6098497,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/ouchy_pier_1k.exr",
+                    "md5": "55aa8582e4e4f550b89ba9d6d69f2f78"
+                }
+            },
+            "21k": {
+                "hdr": {
+                    "size": 676566151,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/ouchy_pier_21k.hdr",
+                    "md5": "1a74d2920bfcd828719ec0570144953c"
+                },
+                "exr": {
+                    "size": 2674607280,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/ouchy_pier_21k.exr",
+                    "md5": "6504f2098c439097bdc4af4d08d5e7da"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 394760104,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/ouchy_pier.zip",
+            "md5": "02a93928f08b5a8ec0e34d16c11ebb56"
+        }
+    }
+}

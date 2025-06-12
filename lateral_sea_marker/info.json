@@ -1,0 +1,1144 @@
+{
+    "donated": true,
+    "date_published": 1663113600,
+    "files_hash": "f3e94659ca6dab6f744a1b78b0ee4d7860e61d86",
+    "name": "Lateral Sea Marker",
+    "categories": [
+        "props"
+    ],
+    "type": 2,
+    "tags": [
+        "ocean",
+        "water",
+        "dock",
+        "harbor",
+        "ship",
+        "marker",
+        "buoy"
+    ],
+    "authors": {
+        "James Ray Cock": "Additional texture wear",
+        "Kuutti Siitonen": "All"
+    },
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "polycount": 13014,
+    "texel_density": 900.6052440281672,
+    "dimensions": [
+        3004.8038959503174,
+        3004.8047304153442,
+        6838.706851005554
+    ],
+    "sponsors": [
+        "11109006",
+        "4714267"
+    ],
+    "download_count": 2077,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lateral_sea_marker.png?width=256&height=256",
+    "files": {
+        "mask01": {
+            "8k": {
+                "jpg": {
+                    "size": 803471,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/lateral_sea_marker/lateral_sea_marker_mask01_8k.jpg",
+                    "md5": "adc8550a40623c6b63d14c1d5c138f0f"
+                },
+                "png": {
+                    "size": 133375,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/lateral_sea_marker/lateral_sea_marker_mask01_8k.png",
+                    "md5": "b83d35071b3babe5ed6d0e92011d73b7"
+                },
+                "exr": {
+                    "size": 154090,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_mask01_8k.exr",
+                    "md5": "941e90d6514be2b269f6479d95853deb"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 205541,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lateral_sea_marker/lateral_sea_marker_mask01_4k.jpg",
+                    "md5": "2885e05c8ade0b74d2796ac55c92c5ed"
+                },
+                "png": {
+                    "size": 34944,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/lateral_sea_marker/lateral_sea_marker_mask01_4k.png",
+                    "md5": "a02b403b0305d8a523e29718d220ef6d"
+                },
+                "exr": {
+                    "size": 45214,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_mask01_4k.exr",
+                    "md5": "67c802a65857ae23141dccc21598f659"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 53888,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lateral_sea_marker/lateral_sea_marker_mask01_2k.jpg",
+                    "md5": "9fdaf3b146db87c8c3602e00e50f23e7"
+                },
+                "png": {
+                    "size": 9763,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/lateral_sea_marker/lateral_sea_marker_mask01_2k.png",
+                    "md5": "16a5fd3537372b43d36db49419d343e8"
+                },
+                "exr": {
+                    "size": 14990,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_mask01_2k.exr",
+                    "md5": "176f730e0249af82422bb83dcd18f798"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 15035,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lateral_sea_marker/lateral_sea_marker_mask01_1k.jpg",
+                    "md5": "44d8008fa152e8134c47c1afb4a7ee65"
+                },
+                "png": {
+                    "size": 3091,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/lateral_sea_marker/lateral_sea_marker_mask01_1k.png",
+                    "md5": "c6f8bca7d44029f7fca7f9d441131ba0"
+                },
+                "exr": {
+                    "size": 5983,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_mask01_1k.exr",
+                    "md5": "a40010c2417f335e2e8a047f7d33d6a0"
+                }
+            }
+        },
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 33065469,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/lateral_sea_marker/lateral_sea_marker_diff_8k.jpg",
+                    "md5": "412ecb21107090bb9c743c7291f6048b"
+                },
+                "png": {
+                    "size": 171487885,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/lateral_sea_marker/lateral_sea_marker_diff_8k.png",
+                    "md5": "647df2ee9546eeae873dc51cf0adad19"
+                },
+                "exr": {
+                    "size": 76405360,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_diff_8k.exr",
+                    "md5": "5a2a99aa5e030bfe411e21ce246c7455"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 8984684,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lateral_sea_marker/lateral_sea_marker_diff_4k.jpg",
+                    "md5": "ab5af54d027db31afb11e330cfa6e708"
+                },
+                "png": {
+                    "size": 64593119,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/lateral_sea_marker/lateral_sea_marker_diff_4k.png",
+                    "md5": "5007baa9be8cb65693a81d7f5b5471f7"
+                },
+                "exr": {
+                    "size": 20416378,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_diff_4k.exr",
+                    "md5": "c1bdfb524856a15426cd9c68a6b2fe8a"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2466852,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lateral_sea_marker/lateral_sea_marker_diff_2k.jpg",
+                    "md5": "b12f5d44814dc44851ad616e32060722"
+                },
+                "png": {
+                    "size": 18660388,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/lateral_sea_marker/lateral_sea_marker_diff_2k.png",
+                    "md5": "8bb6ce8af04ead721e148102c37e13df"
+                },
+                "exr": {
+                    "size": 5682369,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_diff_2k.exr",
+                    "md5": "305fda4b7abe44de35c0be2145582114"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 687389,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lateral_sea_marker/lateral_sea_marker_diff_1k.jpg",
+                    "md5": "40624517f4f94d7944804580f859eb9e"
+                },
+                "png": {
+                    "size": 5064030,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/lateral_sea_marker/lateral_sea_marker_diff_1k.png",
+                    "md5": "6ae54127d4826388d063c0ce802e0a5d"
+                },
+                "exr": {
+                    "size": 1607015,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_diff_1k.exr",
+                    "md5": "60fd052d1e48683e0499bccae1250cc9"
+                }
+            }
+        },
+        "mask02": {
+            "8k": {
+                "jpg": {
+                    "size": 1771814,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/lateral_sea_marker/lateral_sea_marker_mask02_8k.jpg",
+                    "md5": "6737dfd61603c904ff0132eab62e4ec8"
+                },
+                "png": {
+                    "size": 258092,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/lateral_sea_marker/lateral_sea_marker_mask02_8k.png",
+                    "md5": "5fcd4b0921f915ae0cf3ca35e3b2efc9"
+                },
+                "exr": {
+                    "size": 357673,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_mask02_8k.exr",
+                    "md5": "271f45fd85b27fb1799b90adfab298ab"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 673241,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lateral_sea_marker/lateral_sea_marker_mask02_4k.jpg",
+                    "md5": "fd6f1c0e3abfa8e3fafce1033c4b30a1"
+                },
+                "png": {
+                    "size": 136507,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/lateral_sea_marker/lateral_sea_marker_mask02_4k.png",
+                    "md5": "fd7ccb22def3e0136b5f76a1ed9748c8"
+                },
+                "exr": {
+                    "size": 162783,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_mask02_4k.exr",
+                    "md5": "29b7874299d7f7f64d2e913dbbff9c32"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 288651,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lateral_sea_marker/lateral_sea_marker_mask02_2k.jpg",
+                    "md5": "b0705bc17c38eaf813c7796cc5803816"
+                },
+                "png": {
+                    "size": 79109,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/lateral_sea_marker/lateral_sea_marker_mask02_2k.png",
+                    "md5": "46fc0d9dfc7cf9103f89237e5975d8d8"
+                },
+                "exr": {
+                    "size": 94030,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_mask02_2k.exr",
+                    "md5": "af0c3e4c63c8ff4fbbbd82e02f5c0ccb"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 132454,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lateral_sea_marker/lateral_sea_marker_mask02_1k.jpg",
+                    "md5": "f072c681e78c722aab2573b6da8c742d"
+                },
+                "png": {
+                    "size": 45141,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/lateral_sea_marker/lateral_sea_marker_mask02_1k.png",
+                    "md5": "335dcc3610deb9994afd06c5d1dcf56d"
+                },
+                "exr": {
+                    "size": 58105,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_mask02_1k.exr",
+                    "md5": "629ab4655adc241bf8cdc0006a9010e4"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 28498330,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/lateral_sea_marker/lateral_sea_marker_nor_dx_8k.jpg",
+                    "md5": "62102ad3f7212a388bbac11b90427793"
+                },
+                "png": {
+                    "size": 152517371,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/lateral_sea_marker/lateral_sea_marker_nor_dx_8k.png",
+                    "md5": "64d3bfe868e2e0201190179f1eb39a33"
+                },
+                "exr": {
+                    "size": 58958352,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_nor_dx_8k.exr",
+                    "md5": "5dd03a524303185f5ac31dae170ed9a0"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 7359609,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lateral_sea_marker/lateral_sea_marker_nor_dx_4k.jpg",
+                    "md5": "9201bb057375577149b8ba834ec7281a"
+                },
+                "png": {
+                    "size": 45529784,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/lateral_sea_marker/lateral_sea_marker_nor_dx_4k.png",
+                    "md5": "103a89c172140562560ede632cf9eef2"
+                },
+                "exr": {
+                    "size": 15508243,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_nor_dx_4k.exr",
+                    "md5": "1dbade3d9240acd93733b14622b85259"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1970378,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lateral_sea_marker/lateral_sea_marker_nor_dx_2k.jpg",
+                    "md5": "06fd421dcc89774ed3bf4184991b022c"
+                },
+                "png": {
+                    "size": 13061451,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/lateral_sea_marker/lateral_sea_marker_nor_dx_2k.png",
+                    "md5": "b938791922fefa72a2b83db594c078cb"
+                },
+                "exr": {
+                    "size": 4231448,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_nor_dx_2k.exr",
+                    "md5": "14a05d3cafb8bc5211d3fd6f0d6bae12"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 551324,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lateral_sea_marker/lateral_sea_marker_nor_dx_1k.jpg",
+                    "md5": "af2e4ff16da668d0f4219dc3ce27b5ca"
+                },
+                "png": {
+                    "size": 3665304,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/lateral_sea_marker/lateral_sea_marker_nor_dx_1k.png",
+                    "md5": "b1ed168df195d93fee9abcd2315e51fc"
+                },
+                "exr": {
+                    "size": 1198272,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_nor_dx_1k.exr",
+                    "md5": "09fe98e80f5f31bcdc33a970b49e6a37"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/lateral_sea_marker_rough_8k.exr": {
+                            "size": 33180785,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_rough_8k.exr",
+                            "md5": "898dab8a6068751a594d18ebd0777a39"
+                        },
+                        "textures/lateral_sea_marker_nor_gl_8k.exr": {
+                            "size": 59145942,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_nor_gl_8k.exr",
+                            "md5": "ebb652e647f338def4c83692cc13ed3f"
+                        },
+                        "textures/lateral_sea_marker_metal_8k.exr": {
+                            "size": 16479204,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_metal_8k.exr",
+                            "md5": "f65f7e4f1df1244fe142606d77767f45"
+                        },
+                        "textures/lateral_sea_marker_diff_8k.jpg": {
+                            "size": 33065469,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/lateral_sea_marker/lateral_sea_marker_diff_8k.jpg",
+                            "md5": "412ecb21107090bb9c743c7291f6048b"
+                        }
+                    },
+                    "size": 522706,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/lateral_sea_marker/lateral_sea_marker_8k.blend",
+                    "md5": "86ea913da0c1652309d787bb09192974"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/lateral_sea_marker_nor_gl_4k.exr": {
+                            "size": 15526168,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_nor_gl_4k.exr",
+                            "md5": "eb42ba979eccc0e7c29048a9085eedbe"
+                        },
+                        "textures/lateral_sea_marker_rough_4k.exr": {
+                            "size": 13126592,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_rough_4k.exr",
+                            "md5": "cddfbfa4b888fb106d72ebe7ee2ed9b8"
+                        },
+                        "textures/lateral_sea_marker_metal_4k.exr": {
+                            "size": 6060755,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_metal_4k.exr",
+                            "md5": "a339a7fd160cdc3e1e9a070dcadac9cf"
+                        },
+                        "textures/lateral_sea_marker_diff_4k.jpg": {
+                            "size": 8984684,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lateral_sea_marker/lateral_sea_marker_diff_4k.jpg",
+                            "md5": "ab5af54d027db31afb11e330cfa6e708"
+                        }
+                    },
+                    "size": 523022,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/lateral_sea_marker/lateral_sea_marker_4k.blend",
+                    "md5": "085f6d706958c4f4a71ed28f7f7add7d"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/lateral_sea_marker_nor_gl_2k.exr": {
+                            "size": 4231833,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_nor_gl_2k.exr",
+                            "md5": "e1a4a22c4de403f5bc4f0b13fbb503e0"
+                        },
+                        "textures/lateral_sea_marker_diff_2k.jpg": {
+                            "size": 2466852,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lateral_sea_marker/lateral_sea_marker_diff_2k.jpg",
+                            "md5": "b12f5d44814dc44851ad616e32060722"
+                        },
+                        "textures/lateral_sea_marker_metal_2k.exr": {
+                            "size": 2004931,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_metal_2k.exr",
+                            "md5": "13f8eb44647178fa9938a376319ef2a1"
+                        },
+                        "textures/lateral_sea_marker_rough_2k.exr": {
+                            "size": 4157583,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_rough_2k.exr",
+                            "md5": "13b63d72f01c7c87a3fa9b1fade8abd6"
+                        }
+                    },
+                    "size": 523031,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/lateral_sea_marker/lateral_sea_marker_2k.blend",
+                    "md5": "1d151a097609e646e4af2c9affcf007d"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/lateral_sea_marker_rough_1k.exr": {
+                            "size": 1154302,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_rough_1k.exr",
+                            "md5": "2d4783ea6f0d26fe278e63c9fa352d49"
+                        },
+                        "textures/lateral_sea_marker_diff_1k.jpg": {
+                            "size": 687389,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lateral_sea_marker/lateral_sea_marker_diff_1k.jpg",
+                            "md5": "40624517f4f94d7944804580f859eb9e"
+                        },
+                        "textures/lateral_sea_marker_metal_1k.exr": {
+                            "size": 626771,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_metal_1k.exr",
+                            "md5": "ee3c279b01813140f5f5306595c208c2"
+                        },
+                        "textures/lateral_sea_marker_nor_gl_1k.exr": {
+                            "size": 1196564,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_nor_gl_1k.exr",
+                            "md5": "7208966af0455d7c9661eeee380b7f37"
+                        }
+                    },
+                    "size": 522997,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/lateral_sea_marker/lateral_sea_marker_1k.blend",
+                    "md5": "893ef2695cc694e7de09ff1e15434329"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "textures/lateral_sea_marker_nor_gl_8k.jpg": {
+                            "size": 27894808,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/lateral_sea_marker/lateral_sea_marker_nor_gl_8k.jpg",
+                            "md5": "1e7bc0a0992b49a1bbd890c9df2bc819"
+                        },
+                        "lateral_sea_marker.bin": {
+                            "size": 453348,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/lateral_sea_marker/lateral_sea_marker.bin",
+                            "md5": "f6ed9426a3ac79b5f48c3a7b295c5a6f"
+                        },
+                        "textures/lateral_sea_marker_diff_8k.jpg": {
+                            "size": 33065469,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/lateral_sea_marker/lateral_sea_marker_diff_8k.jpg",
+                            "md5": "412ecb21107090bb9c743c7291f6048b"
+                        },
+                        "textures/lateral_sea_marker_arm_8k.jpg": {
+                            "size": 32812952,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/lateral_sea_marker/lateral_sea_marker_arm_8k.jpg",
+                            "md5": "aa21261f9d4af482af4422240df6dd43"
+                        }
+                    },
+                    "size": 2735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/lateral_sea_marker/lateral_sea_marker_8k.gltf",
+                    "md5": "0e8dc4c06f410befe37b416039a758e2"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "lateral_sea_marker.bin": {
+                            "size": 453348,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/lateral_sea_marker/lateral_sea_marker.bin",
+                            "md5": "f6ed9426a3ac79b5f48c3a7b295c5a6f"
+                        },
+                        "textures/lateral_sea_marker_nor_gl_4k.jpg": {
+                            "size": 7302170,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lateral_sea_marker/lateral_sea_marker_nor_gl_4k.jpg",
+                            "md5": "72dca19dc43be1e97e1a92112be893cc"
+                        },
+                        "textures/lateral_sea_marker_diff_4k.jpg": {
+                            "size": 8984684,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lateral_sea_marker/lateral_sea_marker_diff_4k.jpg",
+                            "md5": "ab5af54d027db31afb11e330cfa6e708"
+                        },
+                        "textures/lateral_sea_marker_arm_4k.jpg": {
+                            "size": 9175334,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lateral_sea_marker/lateral_sea_marker_arm_4k.jpg",
+                            "md5": "89543d2bfe06bd27d06ec967f35e13fe"
+                        }
+                    },
+                    "size": 2735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/lateral_sea_marker/lateral_sea_marker_4k.gltf",
+                    "md5": "2950958c45a479448f4401439354827f"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/lateral_sea_marker_arm_2k.jpg": {
+                            "size": 2680571,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lateral_sea_marker/lateral_sea_marker_arm_2k.jpg",
+                            "md5": "816adfcb1e36f9833fb25aabbb801419"
+                        },
+                        "textures/lateral_sea_marker_nor_gl_2k.jpg": {
+                            "size": 1962916,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lateral_sea_marker/lateral_sea_marker_nor_gl_2k.jpg",
+                            "md5": "7b28064b485d660559ea4f73be90389c"
+                        },
+                        "lateral_sea_marker.bin": {
+                            "size": 453348,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/lateral_sea_marker/lateral_sea_marker.bin",
+                            "md5": "f6ed9426a3ac79b5f48c3a7b295c5a6f"
+                        },
+                        "textures/lateral_sea_marker_diff_2k.jpg": {
+                            "size": 2466852,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lateral_sea_marker/lateral_sea_marker_diff_2k.jpg",
+                            "md5": "b12f5d44814dc44851ad616e32060722"
+                        }
+                    },
+                    "size": 2735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/lateral_sea_marker/lateral_sea_marker_2k.gltf",
+                    "md5": "e41143e69cf597a1fc1ffcf29dde59bf"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/lateral_sea_marker_diff_1k.jpg": {
+                            "size": 687389,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lateral_sea_marker/lateral_sea_marker_diff_1k.jpg",
+                            "md5": "40624517f4f94d7944804580f859eb9e"
+                        },
+                        "textures/lateral_sea_marker_nor_gl_1k.jpg": {
+                            "size": 549623,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lateral_sea_marker/lateral_sea_marker_nor_gl_1k.jpg",
+                            "md5": "9c1423e9ee0509878d498247c2c00d81"
+                        },
+                        "textures/lateral_sea_marker_arm_1k.jpg": {
+                            "size": 782484,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lateral_sea_marker/lateral_sea_marker_arm_1k.jpg",
+                            "md5": "559c64af29206d0ffda647d0f95ccf6f"
+                        },
+                        "lateral_sea_marker.bin": {
+                            "size": 453348,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/lateral_sea_marker/lateral_sea_marker.bin",
+                            "md5": "f6ed9426a3ac79b5f48c3a7b295c5a6f"
+                        }
+                    },
+                    "size": 2735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/lateral_sea_marker/lateral_sea_marker_1k.gltf",
+                    "md5": "befeb928f149deed3fba97a028683950"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/lateral_sea_marker_rough_8k.exr": {
+                            "size": 33180785,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_rough_8k.exr",
+                            "md5": "898dab8a6068751a594d18ebd0777a39"
+                        },
+                        "textures/lateral_sea_marker_nor_gl_8k.exr": {
+                            "size": 59145942,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_nor_gl_8k.exr",
+                            "md5": "ebb652e647f338def4c83692cc13ed3f"
+                        },
+                        "textures/lateral_sea_marker_metal_8k.exr": {
+                            "size": 16479204,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_metal_8k.exr",
+                            "md5": "f65f7e4f1df1244fe142606d77767f45"
+                        },
+                        "textures/lateral_sea_marker_diff_8k.jpg": {
+                            "size": 33065469,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/lateral_sea_marker/lateral_sea_marker_diff_8k.jpg",
+                            "md5": "412ecb21107090bb9c743c7291f6048b"
+                        }
+                    },
+                    "size": 639183,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/lateral_sea_marker/lateral_sea_marker_8k.usdc",
+                    "md5": "6cce0653f5b1a235978175c832bb175c"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/lateral_sea_marker_nor_gl_4k.exr": {
+                            "size": 15526168,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_nor_gl_4k.exr",
+                            "md5": "eb42ba979eccc0e7c29048a9085eedbe"
+                        },
+                        "textures/lateral_sea_marker_rough_4k.exr": {
+                            "size": 13126592,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_rough_4k.exr",
+                            "md5": "cddfbfa4b888fb106d72ebe7ee2ed9b8"
+                        },
+                        "textures/lateral_sea_marker_metal_4k.exr": {
+                            "size": 6060755,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_metal_4k.exr",
+                            "md5": "a339a7fd160cdc3e1e9a070dcadac9cf"
+                        },
+                        "textures/lateral_sea_marker_diff_4k.jpg": {
+                            "size": 8984684,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lateral_sea_marker/lateral_sea_marker_diff_4k.jpg",
+                            "md5": "ab5af54d027db31afb11e330cfa6e708"
+                        }
+                    },
+                    "size": 639183,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/lateral_sea_marker/lateral_sea_marker_4k.usdc",
+                    "md5": "020f5a7b06dfe74a201dff5dec27f7fc"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/lateral_sea_marker_nor_gl_2k.exr": {
+                            "size": 4231833,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_nor_gl_2k.exr",
+                            "md5": "e1a4a22c4de403f5bc4f0b13fbb503e0"
+                        },
+                        "textures/lateral_sea_marker_diff_2k.jpg": {
+                            "size": 2466852,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lateral_sea_marker/lateral_sea_marker_diff_2k.jpg",
+                            "md5": "b12f5d44814dc44851ad616e32060722"
+                        },
+                        "textures/lateral_sea_marker_metal_2k.exr": {
+                            "size": 2004931,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_metal_2k.exr",
+                            "md5": "13f8eb44647178fa9938a376319ef2a1"
+                        },
+                        "textures/lateral_sea_marker_rough_2k.exr": {
+                            "size": 4157583,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_rough_2k.exr",
+                            "md5": "13b63d72f01c7c87a3fa9b1fade8abd6"
+                        }
+                    },
+                    "size": 639183,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/lateral_sea_marker/lateral_sea_marker_2k.usdc",
+                    "md5": "338d33b2682e4648b7baee6bd7288ea1"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/lateral_sea_marker_rough_1k.exr": {
+                            "size": 1154302,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_rough_1k.exr",
+                            "md5": "2d4783ea6f0d26fe278e63c9fa352d49"
+                        },
+                        "textures/lateral_sea_marker_diff_1k.jpg": {
+                            "size": 687389,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lateral_sea_marker/lateral_sea_marker_diff_1k.jpg",
+                            "md5": "40624517f4f94d7944804580f859eb9e"
+                        },
+                        "textures/lateral_sea_marker_metal_1k.exr": {
+                            "size": 626771,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_metal_1k.exr",
+                            "md5": "ee3c279b01813140f5f5306595c208c2"
+                        },
+                        "textures/lateral_sea_marker_nor_gl_1k.exr": {
+                            "size": 1196564,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_nor_gl_1k.exr",
+                            "md5": "7208966af0455d7c9661eeee380b7f37"
+                        }
+                    },
+                    "size": 639183,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/lateral_sea_marker/lateral_sea_marker_1k.usdc",
+                    "md5": "fe869740e8611c768690523ad6e3cd13"
+                }
+            }
+        },
+        "Metal": {
+            "8k": {
+                "jpg": {
+                    "size": 13043932,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/lateral_sea_marker/lateral_sea_marker_metal_8k.jpg",
+                    "md5": "240fcbe3e438e8a76948b3742daea000"
+                },
+                "png": {
+                    "size": 14997075,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/lateral_sea_marker/lateral_sea_marker_metal_8k.png",
+                    "md5": "83d1212b02792ace39b7652541a5bc8e"
+                },
+                "exr": {
+                    "size": 16479204,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_metal_8k.exr",
+                    "md5": "f65f7e4f1df1244fe142606d77767f45"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4244740,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lateral_sea_marker/lateral_sea_marker_metal_4k.jpg",
+                    "md5": "87250ade30709c7a8633a7226364247f"
+                },
+                "png": {
+                    "size": 7129399,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/lateral_sea_marker/lateral_sea_marker_metal_4k.png",
+                    "md5": "1a8d0622c71e3c4b7dab7bfb17ba9417"
+                },
+                "exr": {
+                    "size": 6060755,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_metal_4k.exr",
+                    "md5": "a339a7fd160cdc3e1e9a070dcadac9cf"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1324320,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lateral_sea_marker/lateral_sea_marker_metal_2k.jpg",
+                    "md5": "95e49b026fd5a59d861d0612d0b530a3"
+                },
+                "png": {
+                    "size": 2416717,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/lateral_sea_marker/lateral_sea_marker_metal_2k.png",
+                    "md5": "aaa8628cd74867413c9987d84ae9690c"
+                },
+                "exr": {
+                    "size": 2004931,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_metal_2k.exr",
+                    "md5": "13f8eb44647178fa9938a376319ef2a1"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 405185,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lateral_sea_marker/lateral_sea_marker_metal_1k.jpg",
+                    "md5": "013334b3c6e1ff339aa44c72969df97e"
+                },
+                "png": {
+                    "size": 743636,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/lateral_sea_marker/lateral_sea_marker_metal_1k.png",
+                    "md5": "c84cad3b69b450ce516d2fb3754644df"
+                },
+                "exr": {
+                    "size": 626771,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_metal_1k.exr",
+                    "md5": "ee3c279b01813140f5f5306595c208c2"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 21599759,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/lateral_sea_marker/lateral_sea_marker_rough_8k.jpg",
+                    "md5": "5e322976105b27295a1f728627917817"
+                },
+                "png": {
+                    "size": 27886571,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/lateral_sea_marker/lateral_sea_marker_rough_8k.png",
+                    "md5": "e77822394a3798ce19a4b045a4dd0ce6"
+                },
+                "exr": {
+                    "size": 33180785,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_rough_8k.exr",
+                    "md5": "898dab8a6068751a594d18ebd0777a39"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 6609462,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lateral_sea_marker/lateral_sea_marker_rough_4k.jpg",
+                    "md5": "57f8615490883e0d954590937976825b"
+                },
+                "png": {
+                    "size": 17341213,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/lateral_sea_marker/lateral_sea_marker_rough_4k.png",
+                    "md5": "f32703e4dbc3379b4a169670244af71f"
+                },
+                "exr": {
+                    "size": 13126592,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_rough_4k.exr",
+                    "md5": "cddfbfa4b888fb106d72ebe7ee2ed9b8"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1986983,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lateral_sea_marker/lateral_sea_marker_rough_2k.jpg",
+                    "md5": "b80fcb4b4d1fe669ffe5fdbda8591944"
+                },
+                "png": {
+                    "size": 6035481,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/lateral_sea_marker/lateral_sea_marker_rough_2k.png",
+                    "md5": "6910b681dead281d4ab3bd2817ff0148"
+                },
+                "exr": {
+                    "size": 4157583,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_rough_2k.exr",
+                    "md5": "13b63d72f01c7c87a3fa9b1fade8abd6"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 580374,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lateral_sea_marker/lateral_sea_marker_rough_1k.jpg",
+                    "md5": "74421c0121a6b7b74351ff532fab9b91"
+                },
+                "png": {
+                    "size": 1715359,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/lateral_sea_marker/lateral_sea_marker_rough_1k.png",
+                    "md5": "5df4f040252f28a55a72bbd12e1711e7"
+                },
+                "exr": {
+                    "size": 1154302,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_rough_1k.exr",
+                    "md5": "2d4783ea6f0d26fe278e63c9fa352d49"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 22998601,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/lateral_sea_marker/lateral_sea_marker_ao_8k.jpg",
+                    "md5": "9f5f9fa4320d2c775c5c57a3eb1272af"
+                },
+                "png": {
+                    "size": 78847098,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/lateral_sea_marker/lateral_sea_marker_ao_8k.png",
+                    "md5": "e1f6d3e53a61519545259a63855fefcb"
+                },
+                "exr": {
+                    "size": 48759105,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_ao_8k.exr",
+                    "md5": "74e414c06caa71c356f90118e9bdc283"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5164261,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lateral_sea_marker/lateral_sea_marker_ao_4k.jpg",
+                    "md5": "9cfec8fbf5c162c7de20aa48a1b6831f"
+                },
+                "png": {
+                    "size": 21028530,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/lateral_sea_marker/lateral_sea_marker_ao_4k.png",
+                    "md5": "df606a3907a7cd83b3db46a43f4b1660"
+                },
+                "exr": {
+                    "size": 12666711,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_ao_4k.exr",
+                    "md5": "27f51212c7bddcba29d7e85eb5298f3d"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1222186,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lateral_sea_marker/lateral_sea_marker_ao_2k.jpg",
+                    "md5": "ae836a0c08faf30a14a2ab713b6bdc42"
+                },
+                "png": {
+                    "size": 5330982,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/lateral_sea_marker/lateral_sea_marker_ao_2k.png",
+                    "md5": "c089dd6599f7a0aaf18968c9cff43069"
+                },
+                "exr": {
+                    "size": 3234769,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_ao_2k.exr",
+                    "md5": "c938f6f89107006c003b88ed5f70eb81"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 350850,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lateral_sea_marker/lateral_sea_marker_ao_1k.jpg",
+                    "md5": "b066f060e3b98c06dd8abc542956af00"
+                },
+                "png": {
+                    "size": 1372100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/lateral_sea_marker/lateral_sea_marker_ao_1k.png",
+                    "md5": "f60d419572a72c9b98db4718fd9d2094"
+                },
+                "exr": {
+                    "size": 851966,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_ao_1k.exr",
+                    "md5": "9315237c1133c334000616b3d67fd2db"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 27894808,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/lateral_sea_marker/lateral_sea_marker_nor_gl_8k.jpg",
+                    "md5": "1e7bc0a0992b49a1bbd890c9df2bc819"
+                },
+                "png": {
+                    "size": 152499580,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/lateral_sea_marker/lateral_sea_marker_nor_gl_8k.png",
+                    "md5": "d4ecd8585564df2bbe15e32a69d8e48d"
+                },
+                "exr": {
+                    "size": 59145942,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_nor_gl_8k.exr",
+                    "md5": "ebb652e647f338def4c83692cc13ed3f"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 7302170,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lateral_sea_marker/lateral_sea_marker_nor_gl_4k.jpg",
+                    "md5": "72dca19dc43be1e97e1a92112be893cc"
+                },
+                "png": {
+                    "size": 45499030,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/lateral_sea_marker/lateral_sea_marker_nor_gl_4k.png",
+                    "md5": "58c4bbde309078a1a098a55fd030827d"
+                },
+                "exr": {
+                    "size": 15526168,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_nor_gl_4k.exr",
+                    "md5": "eb42ba979eccc0e7c29048a9085eedbe"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1962916,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lateral_sea_marker/lateral_sea_marker_nor_gl_2k.jpg",
+                    "md5": "7b28064b485d660559ea4f73be90389c"
+                },
+                "png": {
+                    "size": 13052576,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/lateral_sea_marker/lateral_sea_marker_nor_gl_2k.png",
+                    "md5": "45b589cdf87a34f772a42d9821217443"
+                },
+                "exr": {
+                    "size": 4231833,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_nor_gl_2k.exr",
+                    "md5": "e1a4a22c4de403f5bc4f0b13fbb503e0"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 549623,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lateral_sea_marker/lateral_sea_marker_nor_gl_1k.jpg",
+                    "md5": "9c1423e9ee0509878d498247c2c00d81"
+                },
+                "png": {
+                    "size": 3660027,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/lateral_sea_marker/lateral_sea_marker_nor_gl_1k.png",
+                    "md5": "5e01711bd5aa91b399b4d1519da0da45"
+                },
+                "exr": {
+                    "size": 1196564,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_nor_gl_1k.exr",
+                    "md5": "7208966af0455d7c9661eeee380b7f37"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 32812952,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/lateral_sea_marker/lateral_sea_marker_arm_8k.jpg",
+                    "md5": "aa21261f9d4af482af4422240df6dd43"
+                },
+                "png": {
+                    "size": 163268153,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/lateral_sea_marker/lateral_sea_marker_arm_8k.png",
+                    "md5": "bc6523809371dba0d8d5bb951da2d492"
+                },
+                "exr": {
+                    "size": 71906018,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_arm_8k.exr",
+                    "md5": "a70de2441d0210a6686500bc402ec1fa"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 9175334,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lateral_sea_marker/lateral_sea_marker_arm_4k.jpg",
+                    "md5": "89543d2bfe06bd27d06ec967f35e13fe"
+                },
+                "png": {
+                    "size": 53553122,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/lateral_sea_marker/lateral_sea_marker_arm_4k.png",
+                    "md5": "5033f95574bae0df2f054ffc2e6dbab9"
+                },
+                "exr": {
+                    "size": 20009771,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_arm_4k.exr",
+                    "md5": "c4024608bcb19720faf3f5f38e9cac0a"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2680571,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lateral_sea_marker/lateral_sea_marker_arm_2k.jpg",
+                    "md5": "816adfcb1e36f9833fb25aabbb801419"
+                },
+                "png": {
+                    "size": 15778270,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/lateral_sea_marker/lateral_sea_marker_arm_2k.png",
+                    "md5": "f5bf53e9d60aafb049a489f4b5468781"
+                },
+                "exr": {
+                    "size": 5961319,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_arm_2k.exr",
+                    "md5": "1055892be403392a227c7c686c7d9878"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 782484,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lateral_sea_marker/lateral_sea_marker_arm_1k.jpg",
+                    "md5": "559c64af29206d0ffda647d0f95ccf6f"
+                },
+                "png": {
+                    "size": 4340621,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/lateral_sea_marker/lateral_sea_marker_arm_1k.png",
+                    "md5": "d9d67c9cf76090fe7501fff6642e10a2"
+                },
+                "exr": {
+                    "size": 1782658,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_arm_1k.exr",
+                    "md5": "594c02316b02754943da08178b3d98f2"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/lateral_sea_marker_rough_8k.exr": {
+                            "size": 33180785,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_rough_8k.exr",
+                            "md5": "898dab8a6068751a594d18ebd0777a39"
+                        },
+                        "textures/lateral_sea_marker_nor_gl_8k.exr": {
+                            "size": 59145942,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_nor_gl_8k.exr",
+                            "md5": "ebb652e647f338def4c83692cc13ed3f"
+                        },
+                        "textures/lateral_sea_marker_metal_8k.exr": {
+                            "size": 16479204,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/lateral_sea_marker/lateral_sea_marker_metal_8k.exr",
+                            "md5": "f65f7e4f1df1244fe142606d77767f45"
+                        },
+                        "textures/lateral_sea_marker_diff_8k.jpg": {
+                            "size": 33065469,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/lateral_sea_marker/lateral_sea_marker_diff_8k.jpg",
+                            "md5": "412ecb21107090bb9c743c7291f6048b"
+                        }
+                    },
+                    "size": 428204,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/lateral_sea_marker/lateral_sea_marker_8k.fbx",
+                    "md5": "93e1cd06dbd087cafc84b18cf3768743"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/lateral_sea_marker_nor_gl_4k.exr": {
+                            "size": 15526168,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_nor_gl_4k.exr",
+                            "md5": "eb42ba979eccc0e7c29048a9085eedbe"
+                        },
+                        "textures/lateral_sea_marker_rough_4k.exr": {
+                            "size": 13126592,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_rough_4k.exr",
+                            "md5": "cddfbfa4b888fb106d72ebe7ee2ed9b8"
+                        },
+                        "textures/lateral_sea_marker_metal_4k.exr": {
+                            "size": 6060755,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lateral_sea_marker/lateral_sea_marker_metal_4k.exr",
+                            "md5": "a339a7fd160cdc3e1e9a070dcadac9cf"
+                        },
+                        "textures/lateral_sea_marker_diff_4k.jpg": {
+                            "size": 8984684,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lateral_sea_marker/lateral_sea_marker_diff_4k.jpg",
+                            "md5": "ab5af54d027db31afb11e330cfa6e708"
+                        }
+                    },
+                    "size": 428204,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/lateral_sea_marker/lateral_sea_marker_4k.fbx",
+                    "md5": "c1c83e3f3b2add1bf0603a7797aae725"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/lateral_sea_marker_nor_gl_2k.exr": {
+                            "size": 4231833,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_nor_gl_2k.exr",
+                            "md5": "e1a4a22c4de403f5bc4f0b13fbb503e0"
+                        },
+                        "textures/lateral_sea_marker_diff_2k.jpg": {
+                            "size": 2466852,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lateral_sea_marker/lateral_sea_marker_diff_2k.jpg",
+                            "md5": "b12f5d44814dc44851ad616e32060722"
+                        },
+                        "textures/lateral_sea_marker_metal_2k.exr": {
+                            "size": 2004931,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_metal_2k.exr",
+                            "md5": "13f8eb44647178fa9938a376319ef2a1"
+                        },
+                        "textures/lateral_sea_marker_rough_2k.exr": {
+                            "size": 4157583,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lateral_sea_marker/lateral_sea_marker_rough_2k.exr",
+                            "md5": "13b63d72f01c7c87a3fa9b1fade8abd6"
+                        }
+                    },
+                    "size": 428204,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/lateral_sea_marker/lateral_sea_marker_2k.fbx",
+                    "md5": "4de588b2e30603070eaaa69f0ea438c8"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/lateral_sea_marker_rough_1k.exr": {
+                            "size": 1154302,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_rough_1k.exr",
+                            "md5": "2d4783ea6f0d26fe278e63c9fa352d49"
+                        },
+                        "textures/lateral_sea_marker_diff_1k.jpg": {
+                            "size": 687389,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lateral_sea_marker/lateral_sea_marker_diff_1k.jpg",
+                            "md5": "40624517f4f94d7944804580f859eb9e"
+                        },
+                        "textures/lateral_sea_marker_metal_1k.exr": {
+                            "size": 626771,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_metal_1k.exr",
+                            "md5": "ee3c279b01813140f5f5306595c208c2"
+                        },
+                        "textures/lateral_sea_marker_nor_gl_1k.exr": {
+                            "size": 1196564,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lateral_sea_marker/lateral_sea_marker_nor_gl_1k.exr",
+                            "md5": "7208966af0455d7c9661eeee380b7f37"
+                        }
+                    },
+                    "size": 428204,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/lateral_sea_marker/lateral_sea_marker_1k.fbx",
+                    "md5": "9e2a1bd6f233e4da9c57a330aaeff739"
+                }
+            }
+        }
+    }
+}

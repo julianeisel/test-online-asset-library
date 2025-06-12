@@ -1,0 +1,122 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "street",
+        "europe",
+        "alley",
+        "plant",
+        "stair",
+        "couch",
+        "cobblestone"
+    ],
+    "date_published": 1581980400,
+    "name": "Palermo Sidewalk",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        38.117164,
+        13.362831
+    ],
+    "date_taken": 1569753720,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "max_resolution": [
+        20536,
+        10268
+    ],
+    "files_hash": "9f4fc73ff5d021e23784c850e8e7487455981977",
+    "download_count": 46671,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/palermo_sidewalk.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5843656,
+            "md5": "e5601431f57885fe02b5ab338497ab1e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/palermo_sidewalk.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/palermo_sidewalk_8k.hdr",
+                    "size": 103188496,
+                    "md5": "b9ad84a25ebacd3a6c2d5b6e60422a9a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/palermo_sidewalk_8k.exr",
+                    "size": 93083143,
+                    "md5": "ed0783ba7a44d0bb4084183b7b32c368"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/palermo_sidewalk_16k.hdr",
+                    "size": 391293526,
+                    "md5": "b29f9f88a2e745c196da6f3ac31d9b6f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/palermo_sidewalk_16k.exr",
+                    "size": 341057163,
+                    "md5": "1e08e54be1280afb32d98799348d231e"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/palermo_sidewalk_4k.hdr",
+                    "size": 26617077,
+                    "md5": "e11d3659275fa54013a778006b7b9bcc"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/palermo_sidewalk_4k.exr",
+                    "size": 24582371,
+                    "md5": "24b802e494789013a07ba9d5c16d00b6"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/palermo_sidewalk_2k.hdr",
+                    "size": 6769173,
+                    "md5": "ce83f1c8a2af32195a87d5efe11472bb"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/palermo_sidewalk_2k.exr",
+                    "size": 6357948,
+                    "md5": "6efb361b1a75c31017db547634c5e022"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/palermo_sidewalk_1k.hdr",
+                    "size": 1705915,
+                    "md5": "af4e4788acb836b33276273e111fdbea"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/palermo_sidewalk_1k.exr",
+                    "size": 1640752,
+                    "md5": "01d9f1c00ea0bc8fd6dcd4a26c4eed87"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/palermo_sidewalk_20k.hdr",
+                    "size": 599703062,
+                    "md5": "aa3a17a2e08aac957c57bfcd98fe036d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/palermo_sidewalk_20k.exr",
+                    "size": 512856168,
+                    "md5": "798a075f228a3eccd345a462c637b60a"
+                }
+            }
+        }
+    }
+}

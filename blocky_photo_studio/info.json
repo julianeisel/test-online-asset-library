@@ -1,0 +1,109 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 4950,
+    "tags": [
+        "studio",
+        "stair",
+        "ramp",
+        "stand",
+        "modern",
+        "concrete"
+    ],
+    "name": "Blocky Photo Studio",
+    "categories": [
+        "urban",
+        "indoor",
+        "studio",
+        "artificial light",
+        "natural light",
+        "low contrast"
+    ],
+    "date_taken": 1671463020,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "date_published": 1673740800,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "692b04d1184b22c8ca4d7e409232be24f8febc87",
+    "download_count": 78206,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/blocky_photo_studio.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 28500264,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/blocky_photo_studio.jpg",
+            "md5": "97c2c8da3cbe7d99ba9860d9e1f64a90"
+        },
+        "colorchart": {
+            "size": 74102346,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/blocky_photo_studio.zip",
+            "md5": "5bcee03499b135f2abed4ad7bae2d0f6"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/blocky_photo_studio_8k.hdr",
+                    "size": 94922848,
+                    "md5": "689b9f91931e37fac48824c70feadef7"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/blocky_photo_studio_8k.exr",
+                    "size": 66265938,
+                    "md5": "b43a3613f3964235ef6df96b5a18cf33"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/blocky_photo_studio_16k.hdr",
+                    "size": 352737146,
+                    "md5": "06d1e11371b3128aca698167f6c3a005"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/blocky_photo_studio_16k.exr",
+                    "size": 235130032,
+                    "md5": "730b8c524a9255ab76b3b8f3cda1ed6e"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/blocky_photo_studio_4k.hdr",
+                    "size": 24509398,
+                    "md5": "7deb0f4c5940fff4d81fd69b05f445b5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/blocky_photo_studio_4k.exr",
+                    "size": 17346475,
+                    "md5": "33a3b0c7717acb527a49440dc77ceeb6"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/blocky_photo_studio_2k.hdr",
+                    "size": 6245063,
+                    "md5": "47711aae2863bb4dee7ca5e35cae4735"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/blocky_photo_studio_2k.exr",
+                    "size": 4576645,
+                    "md5": "8c79751496fd4f6919d598459abaede2"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1589468,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/blocky_photo_studio_1k.hdr",
+                    "md5": "ec4045848f5b355b79cb72a6349e9828"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/blocky_photo_studio_1k.exr",
+                    "size": 1231707,
+                    "md5": "e7af9781074e4c842eaa74be78e01457"
+                }
+            }
+        }
+    }
+}

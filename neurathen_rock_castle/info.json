@@ -1,0 +1,128 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "sun",
+        "tree",
+        "cliff",
+        "valley",
+        "forest",
+        "vista",
+        "rock",
+        "rail"
+    ],
+    "date_published": 1610464734,
+    "name": "Neurathen Rock Castle",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1597156500,
+    "coords": [
+        50.965901,
+        14.072404
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "max_resolution": [
+        19288,
+        9644
+    ],
+    "files_hash": "297762c4d2c25211f248df74de0d5430c6ef0475",
+    "download_count": 79106,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/neurathen_rock_castle.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 9376413,
+            "md5": "625ced5f5023862d9a36fcfc14972985",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/neurathen_rock_castle.jpg"
+        },
+        "colorchart": {
+            "size": 202448229,
+            "md5": "d422a6c268d3230af34896b01219ffdc",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/neurathen_rock_castle.zip"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/neurathen_rock_castle_19k.hdr",
+                    "size": 560871385,
+                    "md5": "a0e3021e75e9015fbe8e43d11d00e81f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/neurathen_rock_castle_19k.exr",
+                    "size": 1347693065,
+                    "md5": "79a315bca497ffa04ee33ecc7049c10b"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/neurathen_rock_castle_8k.hdr",
+                    "size": 107035615,
+                    "md5": "321ad7a0cc64c5f0acc98c5ec197ba86"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/neurathen_rock_castle_8k.exr",
+                    "size": 339561855,
+                    "md5": "ac749449f36651be0aee4915229a7433"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/neurathen_rock_castle_16k.hdr",
+                    "size": 409875630,
+                    "md5": "5d670a5ae0a341d9ec239ca166c7a478"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/neurathen_rock_castle_16k.exr",
+                    "size": 1121775450,
+                    "md5": "ed33671c0f1d847f66426a72a1d02b4b"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/neurathen_rock_castle_4k.hdr",
+                    "size": 27278085,
+                    "md5": "52b06e0007cf676513742880c139ec9d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/neurathen_rock_castle_4k.exr",
+                    "size": 87654467,
+                    "md5": "29e710e2f609dc7c7b86305be1feacd9"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/neurathen_rock_castle_2k.hdr",
+                    "size": 6862966,
+                    "md5": "59b76a1957816ae371210b4592a2dbf2"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/neurathen_rock_castle_2k.exr",
+                    "size": 22818254,
+                    "md5": "c35873886d752ae6c79db14059da2f07"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/neurathen_rock_castle_1k.hdr",
+                    "size": 1720670,
+                    "md5": "d12194551a15b608a420bca00b9220f3"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/neurathen_rock_castle_1k.exr",
+                    "size": 6091690,
+                    "md5": "b06b036e4ecd9ebe95525f90930a5e4d"
+                }
+            }
+        }
+    }
+}

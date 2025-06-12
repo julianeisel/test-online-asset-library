@@ -1,0 +1,102 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 6900,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Overcast Soil (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "natural light",
+        "nature",
+        "low contrast",
+        "overcast",
+        "morning-afternoon",
+        "pure skies"
+    ],
+    "date_taken": 1697731980,
+    "authors": {
+        "Jarod Guest": "Sky Edits",
+        "Sergej Majboroda": "Original"
+    },
+    "info": "Edited sky-only version of [Overcast Soil](https://polyhaven.com/a/overcast_soil).",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "9033f81c52e20f80a4d4c7bad282af4fc4a8570f",
+    "date_published": 1713312000,
+    "download_count": 103943,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/overcast_soil_puresky.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 13198100,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/overcast_soil_puresky.jpg",
+            "md5": "6e690e8cd4e7aef6f5c04cca62619331"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 59735239,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/overcast_soil_puresky_8k.hdr",
+                    "md5": "26570377f6ce8eec5ee6d0d789527b6d"
+                },
+                "exr": {
+                    "size": 265247812,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/overcast_soil_puresky_8k.exr",
+                    "md5": "97978e52c311f4cceaee6ab9bc67505a"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 204595749,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/overcast_soil_puresky_16k.hdr",
+                    "md5": "ca57bd3ff91dda9cacc596b09941c27f"
+                },
+                "exr": {
+                    "size": 1031861215,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/overcast_soil_puresky_16k.exr",
+                    "md5": "6fa8433692dbbf8cba53f409405d2599"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 16949123,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/overcast_soil_puresky_4k.hdr",
+                    "md5": "8c05e24908d99a6c4c5c1a63d753df3f"
+                },
+                "exr": {
+                    "size": 69068643,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/overcast_soil_puresky_4k.exr",
+                    "md5": "49ded06d723d5999a254c375b5adddcf"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4568000,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/overcast_soil_puresky_2k.hdr",
+                    "md5": "877caf0680d7269037995f6567a67103"
+                },
+                "exr": {
+                    "size": 18347191,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/overcast_soil_puresky_2k.exr",
+                    "md5": "e3889939fbd1f73f125647219667b9e8"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1195816,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/overcast_soil_puresky_1k.hdr",
+                    "md5": "7fbca6264f4618a787092b9e1679a578"
+                },
+                "exr": {
+                    "size": 5028556,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/overcast_soil_puresky_1k.exr",
+                    "md5": "bbc9a5bbbbdf75efca416094df31799d"
+                }
+            }
+        }
+    }
+}

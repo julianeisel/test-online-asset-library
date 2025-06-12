@@ -1,0 +1,120 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "field",
+        "moon",
+        "grass",
+        "architecture"
+    ],
+    "date_published": 1607986800,
+    "name": "Solitude Night",
+    "categories": [
+        "outdoor",
+        "urban",
+        "night",
+        "partly cloudy",
+        "high contrast",
+        "artificial light",
+        "natural light"
+    ],
+    "coords": [
+        48.787329,
+        9.084771
+    ],
+    "date_taken": 1601757360,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "files_hash": "5cb49111fdc80bf5dd253e31a7be9353232fb746",
+    "max_resolution": [
+        19590,
+        9795
+    ],
+    "download_count": 159250,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/solitude_night.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 11722717,
+            "md5": "b1e6f10d8856399c3cdff55487bebfaf",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/solitude_night.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 622809433,
+                    "md5": "b18757310fbe07ce0856fa1e5551ef5e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/solitude_night_19k.hdr"
+                },
+                "exr": {
+                    "size": 637699005,
+                    "md5": "32100b50886a1a6a53d9235bcf322476",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/solitude_night_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 112947818,
+                    "md5": "d79e862e28e00c6186991c9e38323fc6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/solitude_night_8k.hdr"
+                },
+                "exr": {
+                    "size": 113618496,
+                    "md5": "a788a0e1622e9b0d35ccfcf4ba6477f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/solitude_night_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 439866564,
+                    "md5": "1354556298b9e4551f34387f8038b368",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/solitude_night_16k.hdr"
+                },
+                "exr": {
+                    "size": 452758607,
+                    "md5": "5305779aeb8923a105ca0c4474c9b223",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/solitude_night_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28568564,
+                    "md5": "d0719eea524d0d9b39dec67097630527",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/solitude_night_4k.hdr"
+                },
+                "exr": {
+                    "size": 28089103,
+                    "md5": "ea3b9c28a76b574e7ec64c1c42fefa2d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/solitude_night_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7165884,
+                    "md5": "5b86116768c22f0ca3e9469826149eaa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/solitude_night_2k.hdr"
+                },
+                "exr": {
+                    "size": 6873886,
+                    "md5": "7359a3d697f08d55b6532e75189cc8d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/solitude_night_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1787264,
+                    "md5": "2b53518f02dcb69bfbf0d6229ce3c9a7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/solitude_night_1k.hdr"
+                },
+                "exr": {
+                    "size": 1672014,
+                    "md5": "09d1210cc8a6c333d0059552167898f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/solitude_night_1k.exr"
+                }
+            }
+        }
+    }
+}

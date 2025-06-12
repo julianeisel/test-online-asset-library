@@ -1,0 +1,637 @@
+{
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "field",
+        "dry grass",
+        "farm",
+        "rural",
+        "countryside",
+        "mud",
+        "backplates"
+    ],
+    "name": "Harvest",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "skies",
+        "clear",
+        "high contrast",
+        "morning-afternoon"
+    ],
+    "backplates": true,
+    "date_taken": 1699958340,
+    "authors": {
+        "Greg Zaal": "Processing",
+        "Sergej Majboroda": "Photography"
+    },
+    "info": null,
+    "files_hash": "22e8e81195d26534936623e7984ee8fcc663cc34",
+    "date_published": 1708473600,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 22632,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/harvest.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 49965863,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/harvest.jpg",
+            "md5": "de0d90d29b9ed7a8cadfcc53cd60aaa8"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99785554,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/harvest_8k.hdr",
+                    "md5": "bfb7978eb913a8c2d514e6bc5a49c29c"
+                },
+                "exr": {
+                    "size": 385894458,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/harvest_8k.exr",
+                    "md5": "ac126bd06c09db1492da9f8053fa7ebb"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 366619259,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/harvest_16k.hdr",
+                    "md5": "dd414fd0cdfe8e8293bc43ad5474f2be"
+                },
+                "exr": {
+                    "size": 1507207660,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/harvest_16k.exr",
+                    "md5": "71d4718d6969a86fa3ab9142292d1b06"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25798158,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/harvest_4k.hdr",
+                    "md5": "ee285d569d42c3f63cf31aaeb3644181"
+                },
+                "exr": {
+                    "size": 97199117,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/harvest_4k.exr",
+                    "md5": "517cbe29601e87115fc60d1b7809cdee"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6443029,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/harvest_2k.hdr",
+                    "md5": "e52c7c753be5960e6e8a5d9544690e88"
+                },
+                "exr": {
+                    "size": 24438676,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/harvest_2k.exr",
+                    "md5": "6370538513ea22af722eee7216ae4474"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1580853,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/harvest_1k.hdr",
+                    "md5": "b698f625eb1f4ca2b960c492db8edcd8"
+                },
+                "exr": {
+                    "size": 6121007,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/harvest_1k.exr",
+                    "md5": "9caa6f10e27cd94ea43cd96f768bf693"
+                }
+            }
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "size": 11406041,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/10.jpg",
+                    "md5": "36f6f749072bcb73583242342adc0158"
+                },
+                "jpg_plain": {
+                    "size": 10120907,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/10.jpg",
+                    "md5": "50d2367ae02ba3bfdb9d53db7387bd60"
+                },
+                "raw": {
+                    "size": 33404345,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/10.NEF",
+                    "md5": "0daf6402e31e9ec058adb7be2873e6c2"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "size": 10205064,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/11.jpg",
+                    "md5": "253467bf97ec7abd832ef3a0e6081b22"
+                },
+                "jpg_plain": {
+                    "size": 8525989,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/11.jpg",
+                    "md5": "e71950aa81568fe7b907b4fe779e61a9"
+                },
+                "raw": {
+                    "size": 30316578,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/11.NEF",
+                    "md5": "1e9609d4676a699c7a7fd810d9e855c1"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "size": 11978207,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/12.jpg",
+                    "md5": "c27aad08f7604060425feea3896c2f28"
+                },
+                "jpg_plain": {
+                    "size": 10423952,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/12.jpg",
+                    "md5": "57b03047f85d5a28e0eeb693942ffb6d"
+                },
+                "raw": {
+                    "size": 33418803,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/12.NEF",
+                    "md5": "224967e23b09465643f64cdcefcf26f3"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "size": 12310394,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/13.jpg",
+                    "md5": "88593804b8ab85715c7ea5d0279ab584"
+                },
+                "jpg_plain": {
+                    "size": 10761515,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/13.jpg",
+                    "md5": "6a1b61b96bc0e0aadc214fd675525a96"
+                },
+                "raw": {
+                    "size": 33072931,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/13.NEF",
+                    "md5": "4f2681a2d90fb2cb65287d297fade2bd"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "size": 9672060,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/14.jpg",
+                    "md5": "3b279d6aa9cfd1bdd66f14848ab582b2"
+                },
+                "jpg_plain": {
+                    "size": 8212076,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/14.jpg",
+                    "md5": "563a00f7120e96a96106b62bb8c014be"
+                },
+                "raw": {
+                    "size": 29785015,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/14.NEF",
+                    "md5": "93683baf420b337585f61d5d06e32bae"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "size": 8993688,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/15.jpg",
+                    "md5": "b1c273c8783ae5ebf127c3d918bacef0"
+                },
+                "jpg_plain": {
+                    "size": 7311918,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/15.jpg",
+                    "md5": "deda6c1ecbf7978dae7ccef9b907a141"
+                },
+                "raw": {
+                    "size": 28695580,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/15.NEF",
+                    "md5": "72ef9aaef0ec4b82f8c5d076c4b298da"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "size": 10969973,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/16.jpg",
+                    "md5": "e4b4375edab2e406fb293660363424ee"
+                },
+                "jpg_plain": {
+                    "size": 9317638,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/16.jpg",
+                    "md5": "322b564b4d7be7da4f07d5dcc1eb6a0f"
+                },
+                "raw": {
+                    "size": 31821701,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/16.NEF",
+                    "md5": "b54d34a826376e14fbfbaa7fc9dd7bc9"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "size": 9635687,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/17.jpg",
+                    "md5": "a079cec872580dc3f90c6fe38421aaa0"
+                },
+                "jpg_plain": {
+                    "size": 8410696,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/17.jpg",
+                    "md5": "f68a72f6af231036dd03333c70f0d264"
+                },
+                "raw": {
+                    "size": 31584816,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/17.NEF",
+                    "md5": "01147494b7198f9ebbdc419d8a5400a4"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "size": 8670274,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/18.jpg",
+                    "md5": "ec4caf995a9ef113543c7db97c26bd86"
+                },
+                "jpg_plain": {
+                    "size": 7012249,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/18.jpg",
+                    "md5": "03b2e555f3fc59ccf474225460bf7b4c"
+                },
+                "raw": {
+                    "size": 28580371,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/18.NEF",
+                    "md5": "c2215d26db8058a7ba9fb159e475119c"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "size": 7927294,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/19.jpg",
+                    "md5": "089cf8ebd0a9195974438428eee7eba7"
+                },
+                "jpg_plain": {
+                    "size": 6258815,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/19.jpg",
+                    "md5": "09cee7015028c53edb79aceeda4a7fb4"
+                },
+                "raw": {
+                    "size": 28258711,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/19.NEF",
+                    "md5": "c01dff4060f8aea7f70bdd546a926bcc"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "size": 9217385,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/20.jpg",
+                    "md5": "b5838d561f8a893362197b3c07636a58"
+                },
+                "jpg_plain": {
+                    "size": 8264977,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/20.jpg",
+                    "md5": "a595f1df6bdba3ab0ccd68334d8f3e59"
+                },
+                "raw": {
+                    "size": 30463768,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/20.NEF",
+                    "md5": "3652fff6dd88e6204b11d609f46fdc30"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "size": 8674000,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/21.jpg",
+                    "md5": "f8adcbb3a95f78d9f7026a4deaf89def"
+                },
+                "jpg_plain": {
+                    "size": 7288455,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/21.jpg",
+                    "md5": "8f6a4c57c2dfc0811f290e75db9c3572"
+                },
+                "raw": {
+                    "size": 28705922,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/21.NEF",
+                    "md5": "8a51df8c008f7ca1026596669b62de51"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "size": 7823452,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/22.jpg",
+                    "md5": "6ea6d2d14c415b1dcb302833c1103178"
+                },
+                "jpg_plain": {
+                    "size": 5909070,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/22.jpg",
+                    "md5": "f583d7a871445075511929a5c6571546"
+                },
+                "raw": {
+                    "size": 26901393,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/22.NEF",
+                    "md5": "b503828bac55dedb354a0d3e3d151587"
+                }
+            },
+            "23": {
+                "jpg_pretty": {
+                    "size": 6982184,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/23.jpg",
+                    "md5": "5157264ae9b4d6b4abe21c83c6efb13b"
+                },
+                "jpg_plain": {
+                    "size": 5574906,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/23.jpg",
+                    "md5": "295dc4db09af217d33e980fc03311179"
+                },
+                "raw": {
+                    "size": 26874380,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/23.NEF",
+                    "md5": "7e5c2199ef9ea314a370e432f2e560a6"
+                }
+            },
+            "24": {
+                "jpg_pretty": {
+                    "size": 8384572,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/24.jpg",
+                    "md5": "c7e72895966b06457a89ef852657d322"
+                },
+                "jpg_plain": {
+                    "size": 7074863,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/24.jpg",
+                    "md5": "bf8e8e6ecdce6424dc94340b7dc876a2"
+                },
+                "raw": {
+                    "size": 28798595,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/24.NEF",
+                    "md5": "91a22a16fb17c506d7734725e06e3e76"
+                }
+            },
+            "25": {
+                "jpg_pretty": {
+                    "size": 9113721,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/25.jpg",
+                    "md5": "0ed64f8311d333074042bfd1df912f1f"
+                },
+                "jpg_plain": {
+                    "size": 7345625,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/25.jpg",
+                    "md5": "9448ac85959eb429e49019eaccb477a8"
+                },
+                "raw": {
+                    "size": 28043607,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/25.NEF",
+                    "md5": "27d225e623d3aa6a5da11c7365fa6f8f"
+                }
+            },
+            "26": {
+                "jpg_pretty": {
+                    "size": 9319812,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/26.jpg",
+                    "md5": "785a2156c1ed62c0d5eb1bb704841fd9"
+                },
+                "jpg_plain": {
+                    "size": 7745449,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/26.jpg",
+                    "md5": "d557fe92935fc263624221e947b87364"
+                },
+                "raw": {
+                    "size": 28609442,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/26.NEF",
+                    "md5": "a11a8b18abfc1b3cbd06b7c1d36456fd"
+                }
+            },
+            "27": {
+                "jpg_pretty": {
+                    "size": 8947205,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/27.jpg",
+                    "md5": "1edc2c4421ef92ce0da9ae863508d302"
+                },
+                "jpg_plain": {
+                    "size": 8286485,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/27.jpg",
+                    "md5": "10fb722b617e60ac51eb99612a690258"
+                },
+                "raw": {
+                    "size": 30067324,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/27.NEF",
+                    "md5": "b87e3f085d8b52e026531005971a65b6"
+                }
+            },
+            "28": {
+                "jpg_pretty": {
+                    "size": 10527124,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/28.jpg",
+                    "md5": "401ccd148ee538490122c2b79fa70da1"
+                },
+                "jpg_plain": {
+                    "size": 9210586,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/28.jpg",
+                    "md5": "66ed28294a949a39649001ba0188189a"
+                },
+                "raw": {
+                    "size": 31156353,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/28.NEF",
+                    "md5": "4b57211a032abdc2c920fea02fc222cc"
+                }
+            },
+            "29": {
+                "jpg_pretty": {
+                    "size": 9782777,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/29.jpg",
+                    "md5": "816a25b84d9c7e28b6c70031945000d0"
+                },
+                "jpg_plain": {
+                    "size": 8154794,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/29.jpg",
+                    "md5": "4a9b3a9f335c2916029f97d05ec7bdc6"
+                },
+                "raw": {
+                    "size": 28972348,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/29.NEF",
+                    "md5": "654a88acef4c94c1c6be7cd2f5eba37e"
+                }
+            },
+            "30": {
+                "jpg_pretty": {
+                    "size": 8856064,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/30.jpg",
+                    "md5": "64551eee5a05f7468782853f2d463c98"
+                },
+                "jpg_plain": {
+                    "size": 7272197,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/30.jpg",
+                    "md5": "458d8524ac5ef73e5705c96f33e4315c"
+                },
+                "raw": {
+                    "size": 28992679,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/30.NEF",
+                    "md5": "95fba9ea589811293ba51e00d636b479"
+                }
+            },
+            "31": {
+                "jpg_pretty": {
+                    "size": 8257977,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/31.jpg",
+                    "md5": "c13324c11be13bae1982c4b6392d18fe"
+                },
+                "jpg_plain": {
+                    "size": 7444902,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/31.jpg",
+                    "md5": "419749e1fa1924144a5a251fa4619877"
+                },
+                "raw": {
+                    "size": 31298840,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/31.NEF",
+                    "md5": "76e6e3ae95e755556c300cc6871ae7a0"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "size": 8977113,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/01.jpg",
+                    "md5": "99eee729f8092387724058f03c053563"
+                },
+                "jpg_plain": {
+                    "size": 7427082,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/01.jpg",
+                    "md5": "8639400118def1db6e5aa08acb7d280a"
+                },
+                "raw": {
+                    "size": 28339411,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/01.NEF",
+                    "md5": "3526d884b0e5bf4f32fd17e3825d7071"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "size": 8815620,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/02.jpg",
+                    "md5": "8fe0d16ae85b412ab167f89bb4c17daf"
+                },
+                "jpg_plain": {
+                    "size": 7240877,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/02.jpg",
+                    "md5": "4c6965346790000afe74c8bbfea751ea"
+                },
+                "raw": {
+                    "size": 29572413,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/02.NEF",
+                    "md5": "b1366f77406555fcde2f4c2b49a00d48"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "size": 9209545,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/03.jpg",
+                    "md5": "56e51da57dd016def9c1b3546966db72"
+                },
+                "jpg_plain": {
+                    "size": 7347393,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/03.jpg",
+                    "md5": "443d45938d6a7aa578a81ce9f35bc423"
+                },
+                "raw": {
+                    "size": 28584119,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/03.NEF",
+                    "md5": "d53b6d965f52f6207db40183889fff03"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "size": 9435269,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/04.jpg",
+                    "md5": "047689cec0037a744ac82a3c5ed0e733"
+                },
+                "jpg_plain": {
+                    "size": 7977068,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/04.jpg",
+                    "md5": "2cfc2aac97868964a3cf36a99a4c4dec"
+                },
+                "raw": {
+                    "size": 30977837,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/04.NEF",
+                    "md5": "86a2ce0666abb77bf95ca6571f269525"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "size": 8515283,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/05.jpg",
+                    "md5": "6040f8b233ec106af2e247d7ee71e24d"
+                },
+                "jpg_plain": {
+                    "size": 7320004,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/05.jpg",
+                    "md5": "9315a152356836d4c4528275e0b2e193"
+                },
+                "raw": {
+                    "size": 29071942,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/05.NEF",
+                    "md5": "58b31a4bd4f12c09a4f78bc6ed3e7e06"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "size": 8829679,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/06.jpg",
+                    "md5": "c52014366e4bc4c56b080020b49aa341"
+                },
+                "jpg_plain": {
+                    "size": 7042509,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/06.jpg",
+                    "md5": "a43b634720e14b28da3b2ac324e12c26"
+                },
+                "raw": {
+                    "size": 30608533,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/06.NEF",
+                    "md5": "ce57e1c76d888acc0256df538e25c379"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "size": 9406456,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/07.jpg",
+                    "md5": "11409bb12c7a9f09f6559d99f296cd0e"
+                },
+                "jpg_plain": {
+                    "size": 7666899,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/07.jpg",
+                    "md5": "8833dd98cf4dea1e6fb0410332269ef6"
+                },
+                "raw": {
+                    "size": 31280276,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/07.NEF",
+                    "md5": "4771c3addd819d59a4467e8b22724943"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "size": 9158014,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/08.jpg",
+                    "md5": "be9c59665ef36b5a63aaed7b12b9990b"
+                },
+                "jpg_plain": {
+                    "size": 7631459,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/08.jpg",
+                    "md5": "aa55737851204a41ef3ae331a4b8c6a0"
+                },
+                "raw": {
+                    "size": 30157183,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/08.NEF",
+                    "md5": "d7d95eb725db38584de16b9fa80938fc"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "size": 10860206,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_pretty/09.jpg",
+                    "md5": "42404c90d9ffa2f674fb00187cb49706"
+                },
+                "jpg_plain": {
+                    "size": 10235159,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/jpg_plain/09.jpg",
+                    "md5": "68b7726da8761fe95e3f1b6aceb60506"
+                },
+                "raw": {
+                    "size": 33845808,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/harvest/raw/09.NEF",
+                    "md5": "728b3a2a069da0a21f1d38d364215e51"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "evs_cap": 26,
+    "name": "Outdoor Workshop",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "nature"
+    ],
+    "type": 0,
+    "date_taken": 1622646300,
+    "whitebalance": 5319,
+    "tags": [
+        "sun",
+        "dirt",
+        "farm",
+        "machine",
+        "workshop",
+        "tractor"
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "date_published": 1661126400,
+    "prepaid": true,
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "63a731fdb74f46c2336b8e3109a9f469c33eee82",
+    "download_count": 18507,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/outdoor_workshop.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 47819497,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/outdoor_workshop.jpg",
+            "md5": "4a1ae212eea3f95d0341c74ba49e39af"
+        },
+        "colorchart": {
+            "size": 69138240,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/outdoor_workshop.zip",
+            "md5": "2d5f71d5cfd3e894e10e9007a5749b2f"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/outdoor_workshop_8k.hdr",
+                    "size": 99006946,
+                    "md5": "5dfd634d55e95ea98f83d0de61672036"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/outdoor_workshop_8k.exr",
+                    "size": 332291028,
+                    "md5": "2261d43e80d1832ad3f7aedfad0023f7"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/outdoor_workshop_16k.hdr",
+                    "size": 366056809,
+                    "md5": "8a46ffe4e0832431b09eaf6292e94112"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/outdoor_workshop_16k.exr",
+                    "size": 1267619022,
+                    "md5": "f129f2cc5143a920e7853116ea2aa612"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/outdoor_workshop_4k.hdr",
+                    "size": 24540021,
+                    "md5": "1d378757cbb3d5a5b9a44e5eea7265f5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/outdoor_workshop_4k.exr",
+                    "size": 85038676,
+                    "md5": "7a32adb4ea13ea826368c46fe9f2a74c"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/outdoor_workshop_24k.hdr",
+                    "size": 810882593,
+                    "md5": "946afc462d47f25f5c28b039a19a6043"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/outdoor_workshop_24k.exr",
+                    "size": 2862095232,
+                    "md5": "dda844c24a196cdba2e907172b12d8d5"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/outdoor_workshop_2k.hdr",
+                    "size": 5995849,
+                    "md5": "85fa5ff40d86dd44b511f4bb4c87b47b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/outdoor_workshop_2k.exr",
+                    "size": 22125963,
+                    "md5": "83a82e9378b874933cb9a559fd3b9256"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/outdoor_workshop_1k.hdr",
+                    "size": 1497661,
+                    "md5": "5e4d193c4982f4e1b2ac63c400163c20"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/outdoor_workshop_1k.exr",
+                    "size": 5917550,
+                    "md5": "c6776bdfbcdcdf3bc9e09662116810c0"
+                }
+            }
+        }
+    }
+}

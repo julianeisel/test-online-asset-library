@@ -1,0 +1,833 @@
+{
+    "type": 1,
+    "tags": [
+        "cobblestone",
+        "old",
+        "moss",
+        "pavement"
+    ],
+    "date_published": 1529359200,
+    "name": "Cobblestone Color",
+    "authors": {
+        "Rob Tuytel": "All"
+    },
+    "sponsors": [
+        "3237733"
+    ],
+    "dimensions": [
+        2400.0000953674316,
+        2400.0000953674316
+    ],
+    "files_hash": "b7df4228284281e9135a212b07e61e8e03e0c974",
+    "categories": [
+        "floor",
+        "man made",
+        "outdoor",
+        "dirty",
+        "cobblestone"
+    ],
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "download_count": 39291,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cobblestone_color.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 16475327,
+                    "md5": "1cd98fa0a10f2e16926450cccf1d544b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/cobblestone_color/cobblestone_color_diff_8k.jpg"
+                },
+                "png": {
+                    "size": 117704258,
+                    "md5": "b4e46128dceb64e6acbdff3c3f1b0c53",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/cobblestone_color/cobblestone_color_diff_8k.png"
+                },
+                "exr": {
+                    "size": 68756401,
+                    "md5": "553aaea4050d318c2acf516cf481ad47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/cobblestone_color/cobblestone_color_diff_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5730753,
+                    "md5": "c761db42b0b1291ceb74c76c75cfae43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/cobblestone_color/cobblestone_color_diff_4k.jpg"
+                },
+                "png": {
+                    "size": 34419452,
+                    "md5": "bd821d8bcdf612829fc5a9da187fbd41",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/cobblestone_color/cobblestone_color_diff_4k.png"
+                },
+                "exr": {
+                    "size": 24516248,
+                    "md5": "2f562e0f1c41a9186569c215db3b3628",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/cobblestone_color/cobblestone_color_diff_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1614022,
+                    "md5": "3653bb20a09799ba5a474efc26aa7119",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_color/cobblestone_color_diff_2k.jpg"
+                },
+                "png": {
+                    "size": 9373776,
+                    "md5": "2c2232193b5ceeb0f822752ed4261a64",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/cobblestone_color/cobblestone_color_diff_2k.png"
+                },
+                "exr": {
+                    "size": 7128753,
+                    "md5": "ef6c9929581856accddaf39573b13b30",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/cobblestone_color/cobblestone_color_diff_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 389083,
+                    "md5": "adf1f97c4d28866a6b4849e26f0b0d6e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_color/cobblestone_color_diff_1k.jpg"
+                },
+                "png": {
+                    "size": 2351438,
+                    "md5": "a05f7f29c0fa9c32dee49768c85babbe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/cobblestone_color/cobblestone_color_diff_1k.png"
+                },
+                "exr": {
+                    "size": 1926365,
+                    "md5": "01186d7149d559f2bd2f88815ae7291b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/cobblestone_color/cobblestone_color_diff_1k.exr"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 5339119,
+                    "md5": "6769dfa6827a3a865d873ef887374d83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/cobblestone_color/cobblestone_color_nor_dx_8k.jpg"
+                },
+                "png": {
+                    "size": 58446117,
+                    "md5": "7831d07c8800d24a6fbf62e66b625d73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/cobblestone_color/cobblestone_color_nor_dx_8k.png"
+                },
+                "exr": {
+                    "size": 42305110,
+                    "md5": "41f6f0f7e3b3dad4b0fc745a5aec422c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/cobblestone_color/cobblestone_color_nor_dx_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1848367,
+                    "md5": "a469564c6e5da3304172f2c9a6789610",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/cobblestone_color/cobblestone_color_nor_dx_4k.jpg"
+                },
+                "png": {
+                    "size": 19579408,
+                    "md5": "1d36857b57b056cce7a523d2c1bee155",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/cobblestone_color/cobblestone_color_nor_dx_4k.png"
+                },
+                "exr": {
+                    "size": 14748431,
+                    "md5": "88434f7ee4f0f8378f1019c54e0cd783",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/cobblestone_color/cobblestone_color_nor_dx_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 603807,
+                    "md5": "538eca83c8ae411157a1d1926bcb3183",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_color/cobblestone_color_nor_dx_2k.jpg"
+                },
+                "png": {
+                    "size": 6080796,
+                    "md5": "089c60eb3c7651fd191806c0add69768",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/cobblestone_color/cobblestone_color_nor_dx_2k.png"
+                },
+                "exr": {
+                    "size": 5216456,
+                    "md5": "1011a7713ad0f9fc3e14113b83472944",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/cobblestone_color/cobblestone_color_nor_dx_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 175915,
+                    "md5": "085f396d4493676d8c72d8413999fd9f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_color/cobblestone_color_nor_dx_1k.jpg"
+                },
+                "png": {
+                    "size": 1771835,
+                    "md5": "4075d0e0a3be13a654adf8c301e8ab57",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/cobblestone_color/cobblestone_color_nor_dx_1k.png"
+                },
+                "exr": {
+                    "size": 1723289,
+                    "md5": "e80dbb02b3ab2217a1d692b7d6b282c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/cobblestone_color/cobblestone_color_nor_dx_1k.exr"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 6466855,
+                    "md5": "5f29451b71d68dfdd8ca5e0c95eba345",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/cobblestone_color/cobblestone_color_nor_gl_8k.jpg"
+                },
+                "png": {
+                    "size": 58424089,
+                    "md5": "f848d1f5f4d5f17642ac4b99aaec7ec9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/cobblestone_color/cobblestone_color_nor_gl_8k.png"
+                },
+                "exr": {
+                    "size": 42032285,
+                    "md5": "ef5872dadd3bfe4202422b6d7d692402",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/cobblestone_color/cobblestone_color_nor_gl_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2278538,
+                    "md5": "7cd3d97b878b37d0b4d9fcf0076b35aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/cobblestone_color/cobblestone_color_nor_gl_4k.jpg"
+                },
+                "png": {
+                    "size": 19559678,
+                    "md5": "97df24b2b1bdc98ed87359aab429cbef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/cobblestone_color/cobblestone_color_nor_gl_4k.png"
+                },
+                "exr": {
+                    "size": 14684943,
+                    "md5": "292a65824c06cf5f064cda47531bc33c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/cobblestone_color/cobblestone_color_nor_gl_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 748147,
+                    "md5": "b599039d56ba353f14db69e8dc741dba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_color/cobblestone_color_nor_gl_2k.jpg"
+                },
+                "png": {
+                    "size": 6083113,
+                    "md5": "da2f5ca9b41ff1f1c2bf8e98052189ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/cobblestone_color/cobblestone_color_nor_gl_2k.png"
+                },
+                "exr": {
+                    "size": 5170724,
+                    "md5": "df9cc4862a7839d1da2d92d443033a8c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/cobblestone_color/cobblestone_color_nor_gl_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 210308,
+                    "md5": "6a416757d74bf091dfd8af48ad9a0e37",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_color/cobblestone_color_nor_gl_1k.jpg"
+                },
+                "png": {
+                    "size": 1771768,
+                    "md5": "5b5719ed1c66a04c8dcb134ca6060acc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/cobblestone_color/cobblestone_color_nor_gl_1k.png"
+                },
+                "exr": {
+                    "size": 1739890,
+                    "md5": "765e13acb7626fc32c651bf091044e39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/cobblestone_color/cobblestone_color_nor_gl_1k.exr"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "size": 275636,
+                    "md5": "92cd64ee823529fa509b0bfdc2a64f64",
+                    "include": {
+                        "textures/cobblestone_color_disp_8k.png": {
+                            "size": 53036628,
+                            "md5": "9986f3c5db7bac854d32e2c8ed75ec0b",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/cobblestone_color/cobblestone_color_disp_8k.png"
+                        },
+                        "textures/cobblestone_color_diff_8k.jpg": {
+                            "size": 16475327,
+                            "md5": "1cd98fa0a10f2e16926450cccf1d544b",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/cobblestone_color/cobblestone_color_diff_8k.jpg"
+                        },
+                        "textures/cobblestone_color_rough_8k.jpg": {
+                            "size": 8843323,
+                            "md5": "3c144bc1a21dd3b32016e8e9549c7ec1",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/cobblestone_color/cobblestone_color_rough_8k.jpg"
+                        },
+                        "textures/cobblestone_color_nor_gl_8k.exr": {
+                            "size": 42032285,
+                            "md5": "ef5872dadd3bfe4202422b6d7d692402",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/cobblestone_color/cobblestone_color_nor_gl_8k.exr"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/8k/cobblestone_color/cobblestone_color_8k.blend"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "size": 275578,
+                    "md5": "ef587f5f5c1e8291bb95db6a5c8926ab",
+                    "include": {
+                        "textures/cobblestone_color_disp_4k.png": {
+                            "size": 20271330,
+                            "md5": "43c18d8d549ac746ba9d35364d6c9f68",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/cobblestone_color/cobblestone_color_disp_4k.png"
+                        },
+                        "textures/cobblestone_color_diff_4k.jpg": {
+                            "size": 5730753,
+                            "md5": "c761db42b0b1291ceb74c76c75cfae43",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/cobblestone_color/cobblestone_color_diff_4k.jpg"
+                        },
+                        "textures/cobblestone_color_nor_gl_4k.exr": {
+                            "size": 14684943,
+                            "md5": "292a65824c06cf5f064cda47531bc33c",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/cobblestone_color/cobblestone_color_nor_gl_4k.exr"
+                        },
+                        "textures/cobblestone_color_rough_4k.jpg": {
+                            "size": 2837047,
+                            "md5": "cedc7ee181c692d3ee8d6b873b6421b6",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/cobblestone_color/cobblestone_color_rough_4k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/4k/cobblestone_color/cobblestone_color_4k.blend"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "size": 275610,
+                    "md5": "a0308c1df3b27e96499af2fb346d1662",
+                    "include": {
+                        "textures/cobblestone_color_disp_2k.png": {
+                            "size": 5801508,
+                            "md5": "b1d2b86e9147ec82db1321c44b5e25d4",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/cobblestone_color/cobblestone_color_disp_2k.png"
+                        },
+                        "textures/cobblestone_color_nor_gl_2k.exr": {
+                            "size": 5170724,
+                            "md5": "df9cc4862a7839d1da2d92d443033a8c",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/cobblestone_color/cobblestone_color_nor_gl_2k.exr"
+                        },
+                        "textures/cobblestone_color_rough_2k.jpg": {
+                            "size": 728680,
+                            "md5": "5356df799858e636c9dad945a4094ddf",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_color/cobblestone_color_rough_2k.jpg"
+                        },
+                        "textures/cobblestone_color_diff_2k.jpg": {
+                            "size": 1614022,
+                            "md5": "3653bb20a09799ba5a474efc26aa7119",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_color/cobblestone_color_diff_2k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/2k/cobblestone_color/cobblestone_color_2k.blend"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "size": 275622,
+                    "md5": "48d047a73102e39b4037909d114bd57f",
+                    "include": {
+                        "textures/cobblestone_color_diff_1k.jpg": {
+                            "size": 389083,
+                            "md5": "adf1f97c4d28866a6b4849e26f0b0d6e",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_color/cobblestone_color_diff_1k.jpg"
+                        },
+                        "textures/cobblestone_color_rough_1k.jpg": {
+                            "size": 169538,
+                            "md5": "c1e07a866168acf88f0f95c656db313c",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_color/cobblestone_color_rough_1k.jpg"
+                        },
+                        "textures/cobblestone_color_nor_gl_1k.exr": {
+                            "size": 1739890,
+                            "md5": "765e13acb7626fc32c651bf091044e39",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/cobblestone_color/cobblestone_color_nor_gl_1k.exr"
+                        },
+                        "textures/cobblestone_color_disp_1k.png": {
+                            "size": 1555285,
+                            "md5": "d867dcba2b54943062bb6d0545a7d2ca",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/cobblestone_color/cobblestone_color_disp_1k.png"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/1k/cobblestone_color/cobblestone_color_1k.blend"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "size": 3583,
+                    "md5": "8a0485803a35f6096dc0aed133e00811",
+                    "include": {
+                        "cobblestone_color.bin": {
+                            "size": 2369204,
+                            "md5": "8de12cee860cedd7c90dff16bf57d87e",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/cobblestone_color/cobblestone_color.bin"
+                        },
+                        "textures/cobblestone_color_nor_gl_8k.jpg": {
+                            "size": 6466855,
+                            "md5": "5f29451b71d68dfdd8ca5e0c95eba345",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/cobblestone_color/cobblestone_color_nor_gl_8k.jpg"
+                        },
+                        "textures/cobblestone_color_diff_8k.jpg": {
+                            "size": 16475327,
+                            "md5": "1cd98fa0a10f2e16926450cccf1d544b",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/cobblestone_color/cobblestone_color_diff_8k.jpg"
+                        },
+                        "textures/cobblestone_color_rough_8k.jpg": {
+                            "size": 8843323,
+                            "md5": "3c144bc1a21dd3b32016e8e9549c7ec1",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/cobblestone_color/cobblestone_color_rough_8k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/cobblestone_color/cobblestone_color_8k.gltf"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "size": 3583,
+                    "md5": "20fd1ec1d64db79bb9b7ec43037c9ac0",
+                    "include": {
+                        "cobblestone_color.bin": {
+                            "size": 2369204,
+                            "md5": "8de12cee860cedd7c90dff16bf57d87e",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/cobblestone_color/cobblestone_color.bin"
+                        },
+                        "textures/cobblestone_color_diff_4k.jpg": {
+                            "size": 5730753,
+                            "md5": "c761db42b0b1291ceb74c76c75cfae43",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/cobblestone_color/cobblestone_color_diff_4k.jpg"
+                        },
+                        "textures/cobblestone_color_nor_gl_4k.jpg": {
+                            "size": 2278538,
+                            "md5": "7cd3d97b878b37d0b4d9fcf0076b35aa",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/cobblestone_color/cobblestone_color_nor_gl_4k.jpg"
+                        },
+                        "textures/cobblestone_color_rough_4k.jpg": {
+                            "size": 2837047,
+                            "md5": "cedc7ee181c692d3ee8d6b873b6421b6",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/cobblestone_color/cobblestone_color_rough_4k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/4k/cobblestone_color/cobblestone_color_4k.gltf"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "size": 3583,
+                    "md5": "140e06aa5572f525878edd196ca520be",
+                    "include": {
+                        "textures/cobblestone_color_nor_gl_2k.jpg": {
+                            "size": 748147,
+                            "md5": "b599039d56ba353f14db69e8dc741dba",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_color/cobblestone_color_nor_gl_2k.jpg"
+                        },
+                        "cobblestone_color.bin": {
+                            "size": 2369204,
+                            "md5": "8de12cee860cedd7c90dff16bf57d87e",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/cobblestone_color/cobblestone_color.bin"
+                        },
+                        "textures/cobblestone_color_rough_2k.jpg": {
+                            "size": 728680,
+                            "md5": "5356df799858e636c9dad945a4094ddf",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_color/cobblestone_color_rough_2k.jpg"
+                        },
+                        "textures/cobblestone_color_diff_2k.jpg": {
+                            "size": 1614022,
+                            "md5": "3653bb20a09799ba5a474efc26aa7119",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_color/cobblestone_color_diff_2k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/2k/cobblestone_color/cobblestone_color_2k.gltf"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "size": 3583,
+                    "md5": "0f4f08c27707525ba672190e2d0254cd",
+                    "include": {
+                        "textures/cobblestone_color_diff_1k.jpg": {
+                            "size": 389083,
+                            "md5": "adf1f97c4d28866a6b4849e26f0b0d6e",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_color/cobblestone_color_diff_1k.jpg"
+                        },
+                        "cobblestone_color.bin": {
+                            "size": 2369204,
+                            "md5": "8de12cee860cedd7c90dff16bf57d87e",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/cobblestone_color/cobblestone_color.bin"
+                        },
+                        "textures/cobblestone_color_rough_1k.jpg": {
+                            "size": 169538,
+                            "md5": "c1e07a866168acf88f0f95c656db313c",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_color/cobblestone_color_rough_1k.jpg"
+                        },
+                        "textures/cobblestone_color_nor_gl_1k.jpg": {
+                            "size": 210308,
+                            "md5": "6a416757d74bf091dfd8af48ad9a0e37",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_color/cobblestone_color_nor_gl_1k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/1k/cobblestone_color/cobblestone_color_1k.gltf"
+                }
+            }
+        },
+        "Bump": {
+            "8k": {
+                "jpg": {
+                    "size": 22320815,
+                    "md5": "5f8b86c29ab81d8759ec10002842ada7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/cobblestone_color/cobblestone_color_bump_8k.jpg"
+                },
+                "png": {
+                    "size": 46652031,
+                    "md5": "b215d8061d5b51e82851c9d8ffcff58d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/cobblestone_color/cobblestone_color_bump_8k.png"
+                },
+                "exr": {
+                    "size": 79987176,
+                    "md5": "7403bdd6eba403cce5e519ed9d8ada1e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/cobblestone_color/cobblestone_color_bump_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 8060016,
+                    "md5": "4e9c9fdd855c7e76f449928c01efe6dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/cobblestone_color/cobblestone_color_bump_4k.jpg"
+                },
+                "png": {
+                    "size": 13880398,
+                    "md5": "2003e1913516a422213b17465a43b611",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/cobblestone_color/cobblestone_color_bump_4k.png"
+                },
+                "exr": {
+                    "size": 23117916,
+                    "md5": "df8c59361d212400e41cde061bd2701c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/cobblestone_color/cobblestone_color_bump_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2248145,
+                    "md5": "226304421b86e6dd0e49a195ce0a720d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_color/cobblestone_color_bump_2k.jpg"
+                },
+                "png": {
+                    "size": 3752172,
+                    "md5": "4668aca6d607ac80dae7711d6d7ca536",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/cobblestone_color/cobblestone_color_bump_2k.png"
+                },
+                "exr": {
+                    "size": 6235762,
+                    "md5": "beb7c4cd68b7832a76b86c8539bdc238",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/cobblestone_color/cobblestone_color_bump_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 543942,
+                    "md5": "2c59400830351e2ac62ee633a05b2512",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_color/cobblestone_color_bump_1k.jpg"
+                },
+                "png": {
+                    "size": 946276,
+                    "md5": "665c7c825128ec15abbf100d4c6713cf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/cobblestone_color/cobblestone_color_bump_1k.png"
+                },
+                "exr": {
+                    "size": 1584559,
+                    "md5": "9eb9b956e471fe02197c0a385ed885a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/cobblestone_color/cobblestone_color_bump_1k.exr"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 7860750,
+                    "md5": "f7533a9abde47142664b1fd9bbd1be91",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/cobblestone_color/cobblestone_color_arm_8k.jpg"
+                },
+                "png": {
+                    "size": 37421426,
+                    "md5": "bed5098a1435ba4ac42a695c466b9bf6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/cobblestone_color/cobblestone_color_arm_8k.png"
+                },
+                "exr": {
+                    "size": 45640928,
+                    "md5": "d6831246ba2c2b26534eb32c628c6041",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/cobblestone_color/cobblestone_color_arm_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2331213,
+                    "md5": "83b0c85382c4d373aac1eac7e5d01e70",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/cobblestone_color/cobblestone_color_arm_4k.jpg"
+                },
+                "png": {
+                    "size": 11101317,
+                    "md5": "1e96ad4a057dca30217ebb525d276f31",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/cobblestone_color/cobblestone_color_arm_4k.png"
+                },
+                "exr": {
+                    "size": 18357759,
+                    "md5": "ba20fc3cd2885a355fc9e670c7d27ab3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/cobblestone_color/cobblestone_color_arm_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 566050,
+                    "md5": "57471a392406b718e1b683d91c5dcf88",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_color/cobblestone_color_arm_2k.jpg"
+                },
+                "png": {
+                    "size": 2844848,
+                    "md5": "68fa8925bb75a589940bc606f8eb5108",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/cobblestone_color/cobblestone_color_arm_2k.png"
+                },
+                "exr": {
+                    "size": 5518127,
+                    "md5": "70fc3caf30335b9e192faa6236e8f397",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/cobblestone_color/cobblestone_color_arm_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 132150,
+                    "md5": "5e7b0b9ad5282cae72b877302681dfd6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_color/cobblestone_color_arm_1k.jpg"
+                },
+                "png": {
+                    "size": 698326,
+                    "md5": "bb69eb98c5d763e05afaeea964b97eb1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/cobblestone_color/cobblestone_color_arm_1k.png"
+                },
+                "exr": {
+                    "size": 1350166,
+                    "md5": "112a8e0ef3708759db609d43ee980b2d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/cobblestone_color/cobblestone_color_arm_1k.exr"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 1402462,
+                    "md5": "b6c837e8b21ba800c90e674557f9deb4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/cobblestone_color/cobblestone_color_disp_8k.jpg"
+                },
+                "png": {
+                    "size": 53036628,
+                    "md5": "9986f3c5db7bac854d32e2c8ed75ec0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/cobblestone_color/cobblestone_color_disp_8k.png"
+                },
+                "exr": {
+                    "size": 17444463,
+                    "md5": "3cd840e3a3d354d031cb7610a26b233d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/cobblestone_color/cobblestone_color_disp_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 451073,
+                    "md5": "81b527c15b4249431305376913444870",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/cobblestone_color/cobblestone_color_disp_4k.jpg"
+                },
+                "png": {
+                    "size": 20271330,
+                    "md5": "43c18d8d549ac746ba9d35364d6c9f68",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/cobblestone_color/cobblestone_color_disp_4k.png"
+                },
+                "exr": {
+                    "size": 6527567,
+                    "md5": "dbc5642f4da07e2172f6cf4752ba446e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/cobblestone_color/cobblestone_color_disp_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 160320,
+                    "md5": "7614d5feb4448afd3174a4934b676f29",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_color/cobblestone_color_disp_2k.jpg"
+                },
+                "png": {
+                    "size": 5801508,
+                    "md5": "b1d2b86e9147ec82db1321c44b5e25d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/cobblestone_color/cobblestone_color_disp_2k.png"
+                },
+                "exr": {
+                    "size": 2438464,
+                    "md5": "1d66d1ed59c3a3bee4c6e2675cc6b579",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/cobblestone_color/cobblestone_color_disp_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 59464,
+                    "md5": "4a70fe3b1844776258822536bafa90c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_color/cobblestone_color_disp_1k.jpg"
+                },
+                "png": {
+                    "size": 1555285,
+                    "md5": "d867dcba2b54943062bb6d0545a7d2ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/cobblestone_color/cobblestone_color_disp_1k.png"
+                },
+                "exr": {
+                    "size": 800478,
+                    "md5": "1eae37bf08cc27dd24d2e031f7dc3233",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/cobblestone_color/cobblestone_color_disp_1k.exr"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 8843323,
+                    "md5": "3c144bc1a21dd3b32016e8e9549c7ec1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/cobblestone_color/cobblestone_color_rough_8k.jpg"
+                },
+                "png": {
+                    "size": 42543262,
+                    "md5": "6c8143915d1f7986c8f4481f465602c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/cobblestone_color/cobblestone_color_rough_8k.png"
+                },
+                "exr": {
+                    "size": 23517190,
+                    "md5": "77ea5cfbeafc0f617f8ae8dbd7afc5ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/cobblestone_color/cobblestone_color_rough_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2837047,
+                    "md5": "cedc7ee181c692d3ee8d6b873b6421b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/cobblestone_color/cobblestone_color_rough_4k.jpg"
+                },
+                "png": {
+                    "size": 13702029,
+                    "md5": "fe78e149afd95785b39dc5c2b1ae763e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/cobblestone_color/cobblestone_color_rough_4k.png"
+                },
+                "exr": {
+                    "size": 8782835,
+                    "md5": "301d4abc6b66e27ec7f661950534ceb0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/cobblestone_color/cobblestone_color_rough_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 728680,
+                    "md5": "5356df799858e636c9dad945a4094ddf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_color/cobblestone_color_rough_2k.jpg"
+                },
+                "png": {
+                    "size": 3775359,
+                    "md5": "8631112450cc93c3a4a8b6edace2c12f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/cobblestone_color/cobblestone_color_rough_2k.png"
+                },
+                "exr": {
+                    "size": 2519438,
+                    "md5": "c87aa983f29381ae4a382d23a75a5904",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/cobblestone_color/cobblestone_color_rough_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 169538,
+                    "md5": "c1e07a866168acf88f0f95c656db313c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_color/cobblestone_color_rough_1k.jpg"
+                },
+                "png": {
+                    "size": 926233,
+                    "md5": "1d34a6c7d90fa9fd5771cc6e7fce71da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/cobblestone_color/cobblestone_color_rough_1k.png"
+                },
+                "exr": {
+                    "size": 633480,
+                    "md5": "85a7aa934fea01cc9234a970b2979751",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/cobblestone_color/cobblestone_color_rough_1k.exr"
+                }
+            }
+        },
+        "spec": {
+            "8k": {
+                "jpg": {
+                    "size": 6914275,
+                    "md5": "a92d94d0988ea0710e4e1bba3337da9d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/cobblestone_color/cobblestone_color_spec_8k.jpg"
+                },
+                "png": {
+                    "size": 13741492,
+                    "md5": "0288523ad23bdf1ee0d287ff18a3898c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/cobblestone_color/cobblestone_color_spec_8k.png"
+                },
+                "exr": {
+                    "size": 24889706,
+                    "md5": "85c05ba9bc88a5838baa8f9f02278902",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/cobblestone_color/cobblestone_color_spec_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2650803,
+                    "md5": "7cfe6cc2e35506d5eb940c6fec11f30d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/cobblestone_color/cobblestone_color_spec_4k.jpg"
+                },
+                "png": {
+                    "size": 4572583,
+                    "md5": "501f4a2c48d0b09f700345621c0e3014",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/cobblestone_color/cobblestone_color_spec_4k.png"
+                },
+                "exr": {
+                    "size": 7934043,
+                    "md5": "668d4d26599417beabac375af705da99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/cobblestone_color/cobblestone_color_spec_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 790727,
+                    "md5": "18048f23843fc336407ea1738920983b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/cobblestone_color/cobblestone_color_spec_2k.jpg"
+                },
+                "png": {
+                    "size": 1505402,
+                    "md5": "49b1970c3bfa06628cf960a6f4b6c72a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/cobblestone_color/cobblestone_color_spec_2k.png"
+                },
+                "exr": {
+                    "size": 2711793,
+                    "md5": "c49ea2b1b2c9c7e153ad1fd7a281408d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/cobblestone_color/cobblestone_color_spec_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 197350,
+                    "md5": "d52a26fcd56e400b9436e55e93932688",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/cobblestone_color/cobblestone_color_spec_1k.jpg"
+                },
+                "png": {
+                    "size": 476823,
+                    "md5": "9b383fc1a303b212e17ee6b5b3b5b08a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/cobblestone_color/cobblestone_color_spec_1k.png"
+                },
+                "exr": {
+                    "size": 889545,
+                    "md5": "c2364be0adce67b76c353f4474131e35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/cobblestone_color/cobblestone_color_spec_1k.exr"
+                }
+            }
+        }
+    }
+}

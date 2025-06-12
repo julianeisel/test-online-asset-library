@@ -1,0 +1,125 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5329,
+    "tags": [
+        "fort",
+        "seat",
+        "stage",
+        "cobblestone",
+        "concrete"
+    ],
+    "name": "Amphitheatre Zanzibar Fort",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "urban",
+        "low contrast",
+        "morning-afternoon",
+        "partly cloudy"
+    ],
+    "date_taken": 1633080720,
+    "coords": [
+        -6.161257996537621,
+        39.18935791993835
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "date_published": 1652104005,
+    "prepaid": true,
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "248c3be10bd332580321b5976f532f10e454e1f7",
+    "download_count": 24678,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/amphitheatre_zanzibar_fort.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 36111669,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/amphitheatre_zanzibar_fort.jpg",
+            "md5": "f63aecee7d9ffdd3cff13d4159154c87"
+        },
+        "colorchart": {
+            "size": 842693062,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/amphitheatre_zanzibar_fort.zip",
+            "md5": "02d6c92183265cea7d97b65e08d18e9d"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/amphitheatre_zanzibar_fort_8k.hdr",
+                    "size": 97081575,
+                    "md5": "31d151ab684c1347587d0f8f19475d1a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/amphitheatre_zanzibar_fort_8k.exr",
+                    "size": 78726844,
+                    "md5": "e68ec252490296ee119676fff295d0ad"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/amphitheatre_zanzibar_fort_16k.hdr",
+                    "size": 357346519,
+                    "md5": "5dbf351c1e6fced1d33ce16fa01b8ad5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/amphitheatre_zanzibar_fort_16k.exr",
+                    "size": 257044190,
+                    "md5": "705b62176e578ddada0d11b67dd98fc8"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/amphitheatre_zanzibar_fort_4k.hdr",
+                    "size": 24786346,
+                    "md5": "a3823dcebb8e50edc432c6a4033d6e31"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/amphitheatre_zanzibar_fort_4k.exr",
+                    "size": 21091016,
+                    "md5": "4f69cb80cb20f3a838cb1751673a7659"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/amphitheatre_zanzibar_fort_24k.hdr",
+                    "size": 773173450,
+                    "md5": "f9b4e63060ecc1799a9a07cbf7582b99"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/amphitheatre_zanzibar_fort_24k.exr",
+                    "size": 586238107,
+                    "md5": "f801a30c0a1f568e8921fd1b28c37a1c"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/amphitheatre_zanzibar_fort_2k.hdr",
+                    "size": 6288070,
+                    "md5": "53a9559d981a2b24e5cfd2eaf871cffa"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/amphitheatre_zanzibar_fort_2k.exr",
+                    "size": 5625204,
+                    "md5": "fe4cfdd29177495e8c920b0e28bfd7c1"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/amphitheatre_zanzibar_fort_1k.hdr",
+                    "size": 1599726,
+                    "md5": "59e65b7c82139a530fff880dc6fd411e"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/amphitheatre_zanzibar_fort_1k.exr",
+                    "size": 1501466,
+                    "md5": "ffc7d4189afd35030c7957e66bc84c70"
+                }
+            }
+        }
+    }
+}

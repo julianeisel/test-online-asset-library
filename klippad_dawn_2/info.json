@@ -1,0 +1,131 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "arid",
+        "hilltop",
+        "rocky",
+        "desolate",
+        "desert",
+        "mountain",
+        "valley"
+    ],
+    "social_post_pending": true,
+    "name": "Klippad Dawn 2",
+    "date_taken": 1694157360,
+    "coords": [
+        -29.654551983908654,
+        18.0300945839593
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "c8d4c3c0651146b029dd47d82f0dda21ef4dd9f3",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "skies",
+        "partly cloudy",
+        "low contrast",
+        "sunrise-sunset",
+        "collection: namaqualand"
+    ],
+    "sponsors": [
+        "82322099"
+    ],
+    "date_published": 1728345600,
+    "download_count": 142,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/klippad_dawn_2.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 46304923,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/klippad_dawn_2.jpg",
+            "md5": "4bd0d60d534074e544b213d625205def"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103251523,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/klippad_dawn_2_8k.hdr",
+                    "md5": "dc6c3d7c79102f06eee6eb68c5a9e74a"
+                },
+                "exr": {
+                    "size": 329474788,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/klippad_dawn_2_8k.exr",
+                    "md5": "c0986473fc3e049c833201c276357e70"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 388104398,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/klippad_dawn_2_16k.hdr",
+                    "md5": "46eb206287fd637473c96d39f9de6179"
+                },
+                "exr": {
+                    "size": 1254715534,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/klippad_dawn_2_16k.exr",
+                    "md5": "44173c1bd1ab9b4827190b2fbc956783"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26202598,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/klippad_dawn_2_4k.hdr",
+                    "md5": "50789b97b88777af626042e333097fe0"
+                },
+                "exr": {
+                    "size": 84697882,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/klippad_dawn_2_4k.exr",
+                    "md5": "d7dc991b17f43512ac867534de8c9e39"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 855504235,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/klippad_dawn_2_24k.hdr",
+                    "md5": "ccc35e7ddc0be4561ebd715882968e86"
+                },
+                "exr": {
+                    "size": 2836333094,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/klippad_dawn_2_24k.exr",
+                    "md5": "f54a1f98ab05631f9618ff1f609487f7"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6563046,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/klippad_dawn_2_2k.hdr",
+                    "md5": "68001d632ff3e38693a63cedcd5abe3f"
+                },
+                "exr": {
+                    "size": 22161840,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/klippad_dawn_2_2k.exr",
+                    "md5": "8e41c78435f3ab45537363f83a42e6b9"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1645375,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/klippad_dawn_2_1k.hdr",
+                    "md5": "98126639bbceeaec45962f88627bdb96"
+                },
+                "exr": {
+                    "size": 5966423,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/klippad_dawn_2_1k.exr",
+                    "md5": "b6ee2bf1371a0973a0d0d2e5d1ead63c"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 646242372,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/klippad_dawn_2.zip",
+            "md5": "44c25285be20f2882deab657e52d7d9a"
+        }
+    }
+}

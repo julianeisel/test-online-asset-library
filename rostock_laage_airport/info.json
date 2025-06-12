@@ -1,0 +1,128 @@
+{
+    "evs_cap": 16,
+    "type": 0,
+    "whitebalance": 4800,
+    "tags": [
+        "airport",
+        "hall",
+        "warehouse",
+        "high ceiling",
+        "tiles",
+        "europe",
+        "building",
+        "aviation",
+        "museum",
+        "modern"
+    ],
+    "categories": [
+        "indoor",
+        "low contrast",
+        "natural light",
+        "artificial light",
+        "urban"
+    ],
+    "date_taken": 1697705460,
+    "coords": [
+        53.914053,
+        12.286228
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "info": null,
+    "name": "Rostock-Laage Airport",
+    "files_hash": "ac9c454abd5367ff42d5f657733e6162a0842acf",
+    "date_published": 1705622400,
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "download_count": 42708,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rostock_laage_airport.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 45119295,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rostock_laage_airport.jpg",
+            "md5": "5138ec1ea218102f3846b2982148677a"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100659070,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rostock_laage_airport_8k.hdr",
+                    "md5": "8068f3fce45a86c53267a71ff554c335"
+                },
+                "exr": {
+                    "size": 385293189,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rostock_laage_airport_8k.exr",
+                    "md5": "715c2588674bc1e6f357fcb5b0bb8bb6"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 381671544,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rostock_laage_airport_16k.hdr",
+                    "md5": "c9cb3e6a49031f998d1c28b2ff9b7d59"
+                },
+                "exr": {
+                    "size": 1528204407,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rostock_laage_airport_16k.exr",
+                    "md5": "57d18487240207a2072d88e7eedfc05b"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25748753,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rostock_laage_airport_4k.hdr",
+                    "md5": "9e3fa924e7b54b2cbc4557cb3d0a5fae"
+                },
+                "exr": {
+                    "size": 96691162,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rostock_laage_airport_4k.exr",
+                    "md5": "fc631fada16fc7c1c93c7eda01fe7909"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 840655100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rostock_laage_airport_24k.hdr",
+                    "md5": "1395a3f1357fd8e202af21bb67b4d227"
+                },
+                "exr": {
+                    "size": 3402053711,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rostock_laage_airport_24k.exr",
+                    "md5": "0c50a18762314b37e27b9354a36136da"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6557668,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rostock_laage_airport_2k.hdr",
+                    "md5": "c458e3fb6c234ebbc94a093912d884bf"
+                },
+                "exr": {
+                    "size": 24316996,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rostock_laage_airport_2k.exr",
+                    "md5": "6e2383db01c7575277d891f110c787ac"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1666919,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rostock_laage_airport_1k.hdr",
+                    "md5": "ca1f40ff9dd4ca2c2b74b31c7fe7f6f6"
+                },
+                "exr": {
+                    "size": 6118459,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rostock_laage_airport_1k.exr",
+                    "md5": "8525cb2e8c8753575a87b3e4714fb6f9"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 1085597995,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rostock_laage_airport.zip",
+            "md5": "e6c6a64c3661cb12077ad213fd5f9a8e"
+        }
+    }
+}

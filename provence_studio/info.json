@@ -1,0 +1,113 @@
+{
+    "evs_cap": 16,
+    "type": 0,
+    "whitebalance": 4100,
+    "tags": [
+        "couch",
+        "stair",
+        "door",
+        "studio",
+        "umbrella",
+        "chair",
+        "curtain",
+        "bicycle"
+    ],
+    "name": "Provence Studio",
+    "categories": [
+        "studio",
+        "indoor",
+        "urban",
+        "artificial light",
+        "low contrast"
+    ],
+    "coords": [
+        49.23183224035684,
+        28.459055204887047
+    ],
+    "date_taken": 1649250000,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1651190400,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "545c27452a94f746d210cbad21cf2a82c4b27d82",
+    "download_count": 38796,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/provence_studio.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 30930094,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/provence_studio.jpg",
+            "md5": "40bead2acdce8477f2e9427d5d40670d"
+        },
+        "colorchart": {
+            "size": 69988528,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/provence_studio.zip",
+            "md5": "5ab0ca4d110bf6973eb56318c6d0e661"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/provence_studio_8k.hdr",
+                    "size": 93560264,
+                    "md5": "05dcffbf5df7367a63b9c7625283f825"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/provence_studio_8k.exr",
+                    "size": 68945683,
+                    "md5": "1e40db074699be4956eab03c2f051f20"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/provence_studio_16k.hdr",
+                    "size": 343419443,
+                    "md5": "c1c0f83538028e8970af16088a8fc37a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/provence_studio_16k.exr",
+                    "size": 244993150,
+                    "md5": "d27460ffbe2a183dbfd7d20345f5a51c"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/provence_studio_4k.hdr",
+                    "size": 24248704,
+                    "md5": "494d5e73e8109de1a76f9608e3889c70"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/provence_studio_4k.exr",
+                    "size": 18286071,
+                    "md5": "764b5e182f0451a1f86d35ea8ef13418"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/provence_studio_2k.hdr",
+                    "size": 6238505,
+                    "md5": "92eca3bc240262f66ad7eb07085b8497"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/provence_studio_2k.exr",
+                    "size": 4877876,
+                    "md5": "f85276dfe241416efd28dc5963f7871e"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/provence_studio_1k.hdr",
+                    "size": 1601611,
+                    "md5": "a2aa154b8dbad4e5b05891bf15ff254e"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/provence_studio_1k.exr",
+                    "size": 1321388,
+                    "md5": "5f674eebf56dd72e0bb6f6fcbe43e0b1"
+                }
+            }
+        }
+    }
+}

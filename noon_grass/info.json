@@ -1,0 +1,109 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "tags": [
+        "tree",
+        "sun",
+        "grass"
+    ],
+    "date_published": 1511996400,
+    "name": "Noon Grass",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -26.153069,
+        27.991045
+    ],
+    "date_taken": 1450781460,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "name": "Karonis"
+        }
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "f51a79a2a2d281745bda587eb5ee10c93d94d78e",
+    "download_count": 329966,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/noon_grass.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 8540181,
+            "md5": "a003d40ecc0c21995bf2d15317a36a22",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/noon_grass.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/noon_grass_8k.hdr",
+                    "size": 98118315,
+                    "md5": "fd2c18bfb3974e41b568858a1d40f6fe"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/noon_grass_8k.exr",
+                    "size": 92671300,
+                    "md5": "d6409330c55c86091d1532e0268ab024"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/noon_grass_16k.hdr",
+                    "size": 366137662,
+                    "md5": "9d8b7467263a1b7fe61aafafe9aa0743"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/noon_grass_16k.exr",
+                    "size": 347610543,
+                    "md5": "41d2bf5270c086fd337ca45d86aa7341"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/noon_grass_4k.hdr",
+                    "size": 25352937,
+                    "md5": "d382ac8882dbcc0f4aa994ff13e7d61d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/noon_grass_4k.exr",
+                    "size": 23829350,
+                    "md5": "7261cdf53f166e98527b9001bbf7778a"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/noon_grass_2k.hdr",
+                    "size": 6367923,
+                    "md5": "1e0908b14d868fccc9b024f87587cee4"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/noon_grass_2k.exr",
+                    "size": 5987226,
+                    "md5": "5f36ca6c6b8d173c0baf0ebc667d54ad"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/noon_grass_1k.hdr",
+                    "size": 1557132,
+                    "md5": "64f0c7e8990ff10d484531b1c938c62f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/noon_grass_1k.exr",
+                    "size": 1495549,
+                    "md5": "b08e240dadd793a62167f3690c0bf578"
+                }
+            }
+        }
+    }
+}

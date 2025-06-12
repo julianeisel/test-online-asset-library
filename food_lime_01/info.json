@@ -1,0 +1,874 @@
+{
+    "donated": true,
+    "date_published": 1625619600,
+    "sponsors": [
+        "6265765"
+    ],
+    "name": "Food Lime 01",
+    "categories": [
+        "food",
+        "nature"
+    ],
+    "type": 2,
+    "authors": {
+        "Oliver Harries": "All"
+    },
+    "tags": [
+        "fruit",
+        "fruitbowl",
+        "food",
+        "lemon",
+        "lime",
+        "citrus",
+        "green",
+        "fresh"
+    ],
+    "files_hash": "a165716f79d467761912275c2a3acc716de90b4b",
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "polycount": 8100,
+    "texel_density": 48393.33830867773,
+    "dimensions": [
+        60.0700993090868,
+        61.33793853223324,
+        75.4411633242853
+    ],
+    "download_count": 16206,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/food_lime_01.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 6877897,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_lime_01/food_lime_01_diff_8k.jpg",
+                    "md5": "da39ad47ea24fdecffbd7d09f9783192"
+                },
+                "png": {
+                    "size": 86522209,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_lime_01/food_lime_01_diff_8k.png",
+                    "md5": "cf42ee5582fc9d31950230c1631c543b"
+                },
+                "exr": {
+                    "size": 35918838,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_lime_01/food_lime_01_diff_8k.exr",
+                    "md5": "83d716ca24def704009f791e97907b36"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2242499,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_lime_01/food_lime_01_diff_4k.jpg",
+                    "md5": "547f278cb6c327259360ab2f3eb9b004"
+                },
+                "png": {
+                    "size": 43239132,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_lime_01/food_lime_01_diff_4k.png",
+                    "md5": "e5bb1e96344a7525ac76031370354267"
+                },
+                "exr": {
+                    "size": 11240262,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_lime_01/food_lime_01_diff_4k.exr",
+                    "md5": "a052f9bf40f0ac1dbcf735809a790f91"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 630469,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_lime_01/food_lime_01_diff_2k.jpg",
+                    "md5": "8cab0c363eaedb38bd6aa0adbe1ad0f7"
+                },
+                "png": {
+                    "size": 12361721,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_lime_01/food_lime_01_diff_2k.png",
+                    "md5": "bab2a1a3fab27c090bc3c112f5cb6032"
+                },
+                "exr": {
+                    "size": 3285831,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_lime_01/food_lime_01_diff_2k.exr",
+                    "md5": "541be02059f8ac86edad789ac10479ce"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 150868,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_lime_01/food_lime_01_diff_1k.jpg",
+                    "md5": "c7499db31a1fec41e0378956dc2d65a2"
+                },
+                "png": {
+                    "size": 3225768,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_lime_01/food_lime_01_diff_1k.png",
+                    "md5": "f8a288a83d1376a46a556f2cb75738aa"
+                },
+                "exr": {
+                    "size": 909927,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_lime_01/food_lime_01_diff_1k.exr",
+                    "md5": "06b5d6fc2dcc36d5bfd870f41386210b"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 7552821,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_lime_01/food_lime_01_nor_dx_8k.jpg",
+                    "md5": "4eff557980ab28f9a5bd8fa528329f5a"
+                },
+                "png": {
+                    "size": 182524153,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_lime_01/food_lime_01_nor_dx_8k.png",
+                    "md5": "a722b11120adbb5067f51a141cad6742"
+                },
+                "exr": {
+                    "size": 50209965,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_lime_01/food_lime_01_nor_dx_8k.exr",
+                    "md5": "4aeb7eb734960594c6716e8290d5619f"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2178185,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_lime_01/food_lime_01_nor_dx_4k.jpg",
+                    "md5": "37dc5283498e15b24cd99c9f82e1ca08"
+                },
+                "png": {
+                    "size": 49573395,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_lime_01/food_lime_01_nor_dx_4k.png",
+                    "md5": "92dd3c968ef71d235fb908f591381368"
+                },
+                "exr": {
+                    "size": 15531642,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_lime_01/food_lime_01_nor_dx_4k.exr",
+                    "md5": "971d98168014e708281f8c434bf019c5"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 549005,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_lime_01/food_lime_01_nor_dx_2k.jpg",
+                    "md5": "6641790cf9e5bd0b0b41bbe21031eb5c"
+                },
+                "png": {
+                    "size": 12622455,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_lime_01/food_lime_01_nor_dx_2k.png",
+                    "md5": "c1bdad9b63b81c8e40cf2df49cb0a1e9"
+                },
+                "exr": {
+                    "size": 4127238,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_lime_01/food_lime_01_nor_dx_2k.exr",
+                    "md5": "cd20c6035c6cfe9bf4ddb73aace2b6cd"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 132417,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_lime_01/food_lime_01_nor_dx_1k.jpg",
+                    "md5": "3d034ba389c5957350a5059a4720c9db"
+                },
+                "png": {
+                    "size": 3181853,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_lime_01/food_lime_01_nor_dx_1k.png",
+                    "md5": "e3f9809c050cc210a94577004556d8a1"
+                },
+                "exr": {
+                    "size": 1061308,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_lime_01/food_lime_01_nor_dx_1k.exr",
+                    "md5": "47bda693fa2e3427935c317d668ec153"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 7521857,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_lime_01/food_lime_01_nor_gl_8k.jpg",
+                    "md5": "989187a6e7b57f95803e3e9b9e51a53c"
+                },
+                "png": {
+                    "size": 196940810,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_lime_01/food_lime_01_nor_gl_8k.png",
+                    "md5": "4428d6fc181646dbe983ff627b5b960c"
+                },
+                "exr": {
+                    "size": 50217095,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_lime_01/food_lime_01_nor_gl_8k.exr",
+                    "md5": "7f6a18033fe121864bcc0f2c6577dad9"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2180413,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_lime_01/food_lime_01_nor_gl_4k.jpg",
+                    "md5": "c977b88345ef8c83a6fa5c422ccb6620"
+                },
+                "png": {
+                    "size": 49572655,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_lime_01/food_lime_01_nor_gl_4k.png",
+                    "md5": "de3f4f43f077c188ec89c73abdf61a51"
+                },
+                "exr": {
+                    "size": 15532895,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_lime_01/food_lime_01_nor_gl_4k.exr",
+                    "md5": "dfbf8459ae7efffa20f8f1c4cc744489"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 550501,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_lime_01/food_lime_01_nor_gl_2k.jpg",
+                    "md5": "200d992465a7c778b8a365dd1cc41850"
+                },
+                "png": {
+                    "size": 12620509,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_lime_01/food_lime_01_nor_gl_2k.png",
+                    "md5": "ede2bec3e0b757c87f952f628efbfc74"
+                },
+                "exr": {
+                    "size": 4127550,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_lime_01/food_lime_01_nor_gl_2k.exr",
+                    "md5": "c97bf29ce4c8b52f161bb50b16e86f13"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 132792,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_lime_01/food_lime_01_nor_gl_1k.jpg",
+                    "md5": "6faf3f2d419827472cb384d17c6a69aa"
+                },
+                "png": {
+                    "size": 3180803,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_lime_01/food_lime_01_nor_gl_1k.png",
+                    "md5": "f1147276f4b8edf337a9f480c4e3cbef"
+                },
+                "exr": {
+                    "size": 1061718,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_lime_01/food_lime_01_nor_gl_1k.exr",
+                    "md5": "900def606006cab55a09509ec6efab95"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/food_lime_01_nor_gl_8k.exr": {
+                            "size": 50217095,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_lime_01/food_lime_01_nor_gl_8k.exr",
+                            "md5": "7f6a18033fe121864bcc0f2c6577dad9"
+                        },
+                        "textures/food_lime_01_rough_8k.jpg": {
+                            "size": 3683926,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_lime_01/food_lime_01_rough_8k.jpg",
+                            "md5": "abf0cd53d555070e0327e8a6414b02c5"
+                        },
+                        "textures/food_lime_01_diff_8k.jpg": {
+                            "size": 6877897,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_lime_01/food_lime_01_diff_8k.jpg",
+                            "md5": "da39ad47ea24fdecffbd7d09f9783192"
+                        }
+                    },
+                    "size": 476862,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/food_lime_01/food_lime_01_8k.blend",
+                    "md5": "7d265300d3bcc2bf9722bb1cbcbc0f54"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/food_lime_01_diff_4k.jpg": {
+                            "size": 2242499,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_lime_01/food_lime_01_diff_4k.jpg",
+                            "md5": "547f278cb6c327259360ab2f3eb9b004"
+                        },
+                        "textures/food_lime_01_nor_gl_4k.exr": {
+                            "size": 15532895,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_lime_01/food_lime_01_nor_gl_4k.exr",
+                            "md5": "dfbf8459ae7efffa20f8f1c4cc744489"
+                        },
+                        "textures/food_lime_01_rough_4k.jpg": {
+                            "size": 1116464,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_lime_01/food_lime_01_rough_4k.jpg",
+                            "md5": "deecf9f6c7f6515f87edaaf8086793cf"
+                        }
+                    },
+                    "size": 476866,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/food_lime_01/food_lime_01_4k.blend",
+                    "md5": "4967b484f91e90e7fb82757f2ad700ec"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/food_lime_01_nor_gl_2k.exr": {
+                            "size": 4127550,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_lime_01/food_lime_01_nor_gl_2k.exr",
+                            "md5": "c97bf29ce4c8b52f161bb50b16e86f13"
+                        },
+                        "textures/food_lime_01_diff_2k.jpg": {
+                            "size": 630469,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_lime_01/food_lime_01_diff_2k.jpg",
+                            "md5": "8cab0c363eaedb38bd6aa0adbe1ad0f7"
+                        },
+                        "textures/food_lime_01_rough_2k.jpg": {
+                            "size": 325175,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_lime_01/food_lime_01_rough_2k.jpg",
+                            "md5": "4a257d94bc7364c7a1dbfe80747d3198"
+                        }
+                    },
+                    "size": 476840,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/food_lime_01/food_lime_01_2k.blend",
+                    "md5": "81351a0440e1e1cd0d1316c49df080b8"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/food_lime_01_rough_1k.jpg": {
+                            "size": 104346,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_lime_01/food_lime_01_rough_1k.jpg",
+                            "md5": "35a46c889d58183885c945da9950d757"
+                        },
+                        "textures/food_lime_01_nor_gl_1k.exr": {
+                            "size": 1061718,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_lime_01/food_lime_01_nor_gl_1k.exr",
+                            "md5": "900def606006cab55a09509ec6efab95"
+                        },
+                        "textures/food_lime_01_diff_1k.jpg": {
+                            "size": 150868,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_lime_01/food_lime_01_diff_1k.jpg",
+                            "md5": "c7499db31a1fec41e0378956dc2d65a2"
+                        }
+                    },
+                    "size": 476848,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/food_lime_01/food_lime_01_1k.blend",
+                    "md5": "1b74f59002a446b5c2a81245db60ab0f"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "textures/food_lime_01_nor_gl_8k.jpg": {
+                            "size": 7521857,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_lime_01/food_lime_01_nor_gl_8k.jpg",
+                            "md5": "989187a6e7b57f95803e3e9b9e51a53c"
+                        },
+                        "textures/food_lime_01_rough_8k.jpg": {
+                            "size": 3683926,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_lime_01/food_lime_01_rough_8k.jpg",
+                            "md5": "abf0cd53d555070e0327e8a6414b02c5"
+                        },
+                        "textures/food_lime_01_diff_8k.jpg": {
+                            "size": 6877897,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_lime_01/food_lime_01_diff_8k.jpg",
+                            "md5": "da39ad47ea24fdecffbd7d09f9783192"
+                        },
+                        "food_lime_01.bin": {
+                            "size": 188600,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_lime_01/food_lime_01.bin",
+                            "md5": "6f5d8d5d07cc03d1a59b29bf3d85e977"
+                        }
+                    },
+                    "size": 2696,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_lime_01/food_lime_01_8k.gltf",
+                    "md5": "b083fb6b05ccec397cfd82a91abbce31"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/food_lime_01_diff_4k.jpg": {
+                            "size": 2242499,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_lime_01/food_lime_01_diff_4k.jpg",
+                            "md5": "547f278cb6c327259360ab2f3eb9b004"
+                        },
+                        "textures/food_lime_01_nor_gl_4k.jpg": {
+                            "size": 2180413,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_lime_01/food_lime_01_nor_gl_4k.jpg",
+                            "md5": "c977b88345ef8c83a6fa5c422ccb6620"
+                        },
+                        "textures/food_lime_01_rough_4k.jpg": {
+                            "size": 1116464,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_lime_01/food_lime_01_rough_4k.jpg",
+                            "md5": "deecf9f6c7f6515f87edaaf8086793cf"
+                        },
+                        "food_lime_01.bin": {
+                            "size": 188600,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_lime_01/food_lime_01.bin",
+                            "md5": "6f5d8d5d07cc03d1a59b29bf3d85e977"
+                        }
+                    },
+                    "size": 2696,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/food_lime_01/food_lime_01_4k.gltf",
+                    "md5": "0ec55843ace26691ff60dc7dde4eef00"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/food_lime_01_nor_gl_2k.jpg": {
+                            "size": 550501,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_lime_01/food_lime_01_nor_gl_2k.jpg",
+                            "md5": "200d992465a7c778b8a365dd1cc41850"
+                        },
+                        "textures/food_lime_01_diff_2k.jpg": {
+                            "size": 630469,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_lime_01/food_lime_01_diff_2k.jpg",
+                            "md5": "8cab0c363eaedb38bd6aa0adbe1ad0f7"
+                        },
+                        "textures/food_lime_01_rough_2k.jpg": {
+                            "size": 325175,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_lime_01/food_lime_01_rough_2k.jpg",
+                            "md5": "4a257d94bc7364c7a1dbfe80747d3198"
+                        },
+                        "food_lime_01.bin": {
+                            "size": 188600,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_lime_01/food_lime_01.bin",
+                            "md5": "6f5d8d5d07cc03d1a59b29bf3d85e977"
+                        }
+                    },
+                    "size": 2696,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/food_lime_01/food_lime_01_2k.gltf",
+                    "md5": "09e49a72378e18c85f6b288740a2e7ef"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/food_lime_01_rough_1k.jpg": {
+                            "size": 104346,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_lime_01/food_lime_01_rough_1k.jpg",
+                            "md5": "35a46c889d58183885c945da9950d757"
+                        },
+                        "textures/food_lime_01_nor_gl_1k.jpg": {
+                            "size": 132792,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_lime_01/food_lime_01_nor_gl_1k.jpg",
+                            "md5": "6faf3f2d419827472cb384d17c6a69aa"
+                        },
+                        "food_lime_01.bin": {
+                            "size": 188600,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_lime_01/food_lime_01.bin",
+                            "md5": "6f5d8d5d07cc03d1a59b29bf3d85e977"
+                        },
+                        "textures/food_lime_01_diff_1k.jpg": {
+                            "size": 150868,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_lime_01/food_lime_01_diff_1k.jpg",
+                            "md5": "c7499db31a1fec41e0378956dc2d65a2"
+                        }
+                    },
+                    "size": 2696,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/food_lime_01/food_lime_01_1k.gltf",
+                    "md5": "1b24ddf8c097918e6e9c134c59bd852d"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/food_lime_01_nor_gl_8k.exr": {
+                            "size": 50217095,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_lime_01/food_lime_01_nor_gl_8k.exr",
+                            "md5": "7f6a18033fe121864bcc0f2c6577dad9"
+                        },
+                        "textures/food_lime_01_rough_8k.jpg": {
+                            "size": 3683926,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_lime_01/food_lime_01_rough_8k.jpg",
+                            "md5": "abf0cd53d555070e0327e8a6414b02c5"
+                        },
+                        "textures/food_lime_01_diff_8k.jpg": {
+                            "size": 6877897,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_lime_01/food_lime_01_diff_8k.jpg",
+                            "md5": "da39ad47ea24fdecffbd7d09f9783192"
+                        }
+                    },
+                    "size": 573452,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/food_lime_01/food_lime_01_8k.usdc",
+                    "md5": "89f29e0f36621673f1adeccda900757d"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/food_lime_01_diff_4k.jpg": {
+                            "size": 2242499,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_lime_01/food_lime_01_diff_4k.jpg",
+                            "md5": "547f278cb6c327259360ab2f3eb9b004"
+                        },
+                        "textures/food_lime_01_nor_gl_4k.exr": {
+                            "size": 15532895,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_lime_01/food_lime_01_nor_gl_4k.exr",
+                            "md5": "dfbf8459ae7efffa20f8f1c4cc744489"
+                        },
+                        "textures/food_lime_01_rough_4k.jpg": {
+                            "size": 1116464,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_lime_01/food_lime_01_rough_4k.jpg",
+                            "md5": "deecf9f6c7f6515f87edaaf8086793cf"
+                        }
+                    },
+                    "size": 573452,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/food_lime_01/food_lime_01_4k.usdc",
+                    "md5": "54dfbbbe096bfdcb1056c7dd3d971f15"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/food_lime_01_nor_gl_2k.exr": {
+                            "size": 4127550,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_lime_01/food_lime_01_nor_gl_2k.exr",
+                            "md5": "c97bf29ce4c8b52f161bb50b16e86f13"
+                        },
+                        "textures/food_lime_01_diff_2k.jpg": {
+                            "size": 630469,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_lime_01/food_lime_01_diff_2k.jpg",
+                            "md5": "8cab0c363eaedb38bd6aa0adbe1ad0f7"
+                        },
+                        "textures/food_lime_01_rough_2k.jpg": {
+                            "size": 325175,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_lime_01/food_lime_01_rough_2k.jpg",
+                            "md5": "4a257d94bc7364c7a1dbfe80747d3198"
+                        }
+                    },
+                    "size": 573452,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/food_lime_01/food_lime_01_2k.usdc",
+                    "md5": "99a5ded18fba21be03f864cc4592c906"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/food_lime_01_rough_1k.jpg": {
+                            "size": 104346,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_lime_01/food_lime_01_rough_1k.jpg",
+                            "md5": "35a46c889d58183885c945da9950d757"
+                        },
+                        "textures/food_lime_01_nor_gl_1k.exr": {
+                            "size": 1061718,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_lime_01/food_lime_01_nor_gl_1k.exr",
+                            "md5": "900def606006cab55a09509ec6efab95"
+                        },
+                        "textures/food_lime_01_diff_1k.jpg": {
+                            "size": 150868,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_lime_01/food_lime_01_diff_1k.jpg",
+                            "md5": "c7499db31a1fec41e0378956dc2d65a2"
+                        }
+                    },
+                    "size": 573452,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/food_lime_01/food_lime_01_1k.usdc",
+                    "md5": "dcde9aa6982473621d54c36c5fefdd92"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 3379638,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_lime_01/food_lime_01_arm_8k.jpg",
+                    "md5": "7523d419a72c9419d7484a790ef93a7b"
+                },
+                "png": {
+                    "size": 24009228,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_lime_01/food_lime_01_arm_8k.png",
+                    "md5": "4baabd243aa182136f83dd5482b39fe3"
+                },
+                "exr": {
+                    "size": 24824943,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_lime_01/food_lime_01_arm_8k.exr",
+                    "md5": "1d03c013f101ff0866c7cd5d22f4d39d"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1044080,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_lime_01/food_lime_01_arm_4k.jpg",
+                    "md5": "bf2f0e588115580eff92d97143360d44"
+                },
+                "png": {
+                    "size": 7332617,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_lime_01/food_lime_01_arm_4k.png",
+                    "md5": "0d485863a53ad774e75d0fa545072e1a"
+                },
+                "exr": {
+                    "size": 9118545,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_lime_01/food_lime_01_arm_4k.exr",
+                    "md5": "fda413309f0d10ddbebee2a535d689ef"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 329825,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_lime_01/food_lime_01_arm_2k.jpg",
+                    "md5": "e0d2febabb6062e626fbd8e5114fd4de"
+                },
+                "png": {
+                    "size": 1975693,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_lime_01/food_lime_01_arm_2k.png",
+                    "md5": "be13f0940f1501bed1892d17a22afb57"
+                },
+                "exr": {
+                    "size": 2854954,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_lime_01/food_lime_01_arm_2k.exr",
+                    "md5": "e2d9d6f098c3e954ff84caf6582f5e09"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 114694,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_lime_01/food_lime_01_arm_1k.jpg",
+                    "md5": "bfec82183e1869bbbc600a0704af7da6"
+                },
+                "png": {
+                    "size": 562816,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_lime_01/food_lime_01_arm_1k.png",
+                    "md5": "6c6ecddb4ed3759d2651e6ed6d38113b"
+                },
+                "exr": {
+                    "size": 882020,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_lime_01/food_lime_01_arm_1k.exr",
+                    "md5": "375eb880f82c22517beca16950c44a53"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/food_lime_01_nor_gl_8k.exr": {
+                            "size": 50217095,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_lime_01/food_lime_01_nor_gl_8k.exr",
+                            "md5": "7f6a18033fe121864bcc0f2c6577dad9"
+                        },
+                        "textures/food_lime_01_rough_8k.jpg": {
+                            "size": 3683926,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_lime_01/food_lime_01_rough_8k.jpg",
+                            "md5": "abf0cd53d555070e0327e8a6414b02c5"
+                        },
+                        "textures/food_lime_01_diff_8k.jpg": {
+                            "size": 6877897,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_lime_01/food_lime_01_diff_8k.jpg",
+                            "md5": "da39ad47ea24fdecffbd7d09f9783192"
+                        }
+                    },
+                    "size": 387260,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/food_lime_01/food_lime_01_8k.fbx",
+                    "md5": "01fba043e1dd00f332569e2c8a8302b4"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/food_lime_01_diff_4k.jpg": {
+                            "size": 2242499,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_lime_01/food_lime_01_diff_4k.jpg",
+                            "md5": "547f278cb6c327259360ab2f3eb9b004"
+                        },
+                        "textures/food_lime_01_nor_gl_4k.exr": {
+                            "size": 15532895,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_lime_01/food_lime_01_nor_gl_4k.exr",
+                            "md5": "dfbf8459ae7efffa20f8f1c4cc744489"
+                        },
+                        "textures/food_lime_01_rough_4k.jpg": {
+                            "size": 1116464,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_lime_01/food_lime_01_rough_4k.jpg",
+                            "md5": "deecf9f6c7f6515f87edaaf8086793cf"
+                        }
+                    },
+                    "size": 387260,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/food_lime_01/food_lime_01_4k.fbx",
+                    "md5": "ad6a9e85a39ae682b9c0ed3d3d862f41"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/food_lime_01_nor_gl_2k.exr": {
+                            "size": 4127550,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_lime_01/food_lime_01_nor_gl_2k.exr",
+                            "md5": "c97bf29ce4c8b52f161bb50b16e86f13"
+                        },
+                        "textures/food_lime_01_diff_2k.jpg": {
+                            "size": 630469,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_lime_01/food_lime_01_diff_2k.jpg",
+                            "md5": "8cab0c363eaedb38bd6aa0adbe1ad0f7"
+                        },
+                        "textures/food_lime_01_rough_2k.jpg": {
+                            "size": 325175,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_lime_01/food_lime_01_rough_2k.jpg",
+                            "md5": "4a257d94bc7364c7a1dbfe80747d3198"
+                        }
+                    },
+                    "size": 387260,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/food_lime_01/food_lime_01_2k.fbx",
+                    "md5": "ebb34efafb0b18eef191878aad6fedd0"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/food_lime_01_rough_1k.jpg": {
+                            "size": 104346,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_lime_01/food_lime_01_rough_1k.jpg",
+                            "md5": "35a46c889d58183885c945da9950d757"
+                        },
+                        "textures/food_lime_01_nor_gl_1k.exr": {
+                            "size": 1061718,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_lime_01/food_lime_01_nor_gl_1k.exr",
+                            "md5": "900def606006cab55a09509ec6efab95"
+                        },
+                        "textures/food_lime_01_diff_1k.jpg": {
+                            "size": 150868,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_lime_01/food_lime_01_diff_1k.jpg",
+                            "md5": "c7499db31a1fec41e0378956dc2d65a2"
+                        }
+                    },
+                    "size": 387260,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/food_lime_01/food_lime_01_1k.fbx",
+                    "md5": "ee77644c19a3e6121961e90f808c35c5"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 3683926,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_lime_01/food_lime_01_rough_8k.jpg",
+                    "md5": "abf0cd53d555070e0327e8a6414b02c5"
+                },
+                "png": {
+                    "size": 28413393,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_lime_01/food_lime_01_rough_8k.png",
+                    "md5": "8982bcff5c36841bc08268e1fd9e1e11"
+                },
+                "exr": {
+                    "size": 12627932,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_lime_01/food_lime_01_rough_8k.exr",
+                    "md5": "89116acd7014fbb4387d0570594b5906"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1116464,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_lime_01/food_lime_01_rough_4k.jpg",
+                    "md5": "deecf9f6c7f6515f87edaaf8086793cf"
+                },
+                "png": {
+                    "size": 15789587,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_lime_01/food_lime_01_rough_4k.png",
+                    "md5": "d5ec840507cd4447eb01cff965d07c9d"
+                },
+                "exr": {
+                    "size": 4458619,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_lime_01/food_lime_01_rough_4k.exr",
+                    "md5": "9f4ab626d2b93817b9ca27e83f9b4145"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 325175,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_lime_01/food_lime_01_rough_2k.jpg",
+                    "md5": "4a257d94bc7364c7a1dbfe80747d3198"
+                },
+                "png": {
+                    "size": 5180563,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_lime_01/food_lime_01_rough_2k.png",
+                    "md5": "e1d60366775ab11407bba68f21b80216"
+                },
+                "exr": {
+                    "size": 1359105,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_lime_01/food_lime_01_rough_2k.exr",
+                    "md5": "28ed5fcf4e4c1b1f983e65b7202fd7d6"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 104346,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_lime_01/food_lime_01_rough_1k.jpg",
+                    "md5": "35a46c889d58183885c945da9950d757"
+                },
+                "png": {
+                    "size": 1469347,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_lime_01/food_lime_01_rough_1k.png",
+                    "md5": "2714aaf52afb73fb55de99f0546323d8"
+                },
+                "exr": {
+                    "size": 415593,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_lime_01/food_lime_01_rough_1k.exr",
+                    "md5": "27d38ca7bf09c334910cedf3370c21e2"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 1736724,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_lime_01/food_lime_01_ao_8k.jpg",
+                    "md5": "2975556b0e762a5d8563dd12500b4eb2"
+                },
+                "png": {
+                    "size": 14544164,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_lime_01/food_lime_01_ao_8k.png",
+                    "md5": "485d1062aa5d5389909de45343a89ead"
+                },
+                "exr": {
+                    "size": 5198644,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_lime_01/food_lime_01_ao_8k.exr",
+                    "md5": "57666793140c073f09e07ec9135e4dec"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 469575,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_lime_01/food_lime_01_ao_4k.jpg",
+                    "md5": "4676b24285b12cda68e4c66a17b55a7f"
+                },
+                "png": {
+                    "size": 5300085,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_lime_01/food_lime_01_ao_4k.png",
+                    "md5": "9bbc2722e5ff299357b105438cba29b4"
+                },
+                "exr": {
+                    "size": 1334564,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_lime_01/food_lime_01_ao_4k.exr",
+                    "md5": "2f849122ea0bc4225a5d292749ee55a9"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 155567,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_lime_01/food_lime_01_ao_2k.jpg",
+                    "md5": "b6c09ef2aab15d9bb951180d6e7b6cb5"
+                },
+                "png": {
+                    "size": 1957063,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_lime_01/food_lime_01_ao_2k.png",
+                    "md5": "0ad1ce499301502ba64e7f59a48b10f4"
+                },
+                "exr": {
+                    "size": 465599,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_lime_01/food_lime_01_ao_2k.exr",
+                    "md5": "4bf4691fe869f9adf36e56b0562bd668"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 57810,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_lime_01/food_lime_01_ao_1k.jpg",
+                    "md5": "1c31805ba459225c9a9a005823adf114"
+                },
+                "png": {
+                    "size": 697154,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_lime_01/food_lime_01_ao_1k.png",
+                    "md5": "13ef0068e9cda4798ef1113489a31f2d"
+                },
+                "exr": {
+                    "size": 192038,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_lime_01/food_lime_01_ao_1k.exr",
+                    "md5": "a8678f02eff9f3c06da78592aeab385b"
+                }
+            }
+        }
+    }
+}

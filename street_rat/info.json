@@ -1,0 +1,1076 @@
+{
+    "donated": true,
+    "name": "Street Rat",
+    "type": 2,
+    "authors": {
+        "Sean Buckley": "All"
+    },
+    "info": null,
+    "files_hash": "6adbf008010647efdce2c7aa831e0a3095b328ca",
+    "date_published": 1693785600,
+    "categories": [
+        "nature",
+        "creature",
+        "collection: hidden_alley"
+    ],
+    "tags": [
+        "rat",
+        "mouse",
+        "animal",
+        "vermin",
+        "rodent",
+        "alleyway",
+        "pest",
+        "feral"
+    ],
+    "sponsors": [
+        "78546118"
+    ],
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "polycount": 14286,
+    "texel_density": 69522.93943774853,
+    "dimensions": [
+        32.26977214217186,
+        148.4108306467533,
+        34.03247334063053
+    ],
+    "download_count": 24854,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/street_rat.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 17216514,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/street_rat/street_rat_diff_8k.jpg",
+                    "md5": "3292d4273a6f49f93304dc503e12c484"
+                },
+                "png": {
+                    "size": 172208884,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/street_rat/street_rat_diff_8k.png",
+                    "md5": "be76b7c59c957399394dc4a0357fe495"
+                },
+                "exr": {
+                    "size": 29926213,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/street_rat/street_rat_diff_8k.exr",
+                    "md5": "341eb45026847f14ca2881243a3cd4d5"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5772746,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/street_rat/street_rat_diff_4k.jpg",
+                    "md5": "3a28f4fc329c2978ea18d39157caef55"
+                },
+                "png": {
+                    "size": 51173638,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/street_rat/street_rat_diff_4k.png",
+                    "md5": "8269f4de9f9cc614e4491763cf3ebb8b"
+                },
+                "exr": {
+                    "size": 10157292,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/street_rat/street_rat_diff_4k.exr",
+                    "md5": "de4fe80283862a064de34bd2fc4ce4d9"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1823103,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_rat/street_rat_diff_2k.jpg",
+                    "md5": "89777e7b58b204cc4d2d89094b0b27b4"
+                },
+                "png": {
+                    "size": 15032402,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/street_rat/street_rat_diff_2k.png",
+                    "md5": "1430be707d75bd1fa3ce68971a89959e"
+                },
+                "exr": {
+                    "size": 3255648,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/street_rat/street_rat_diff_2k.exr",
+                    "md5": "1cdfd4c5753e37070782aa35a8a5ec82"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 529505,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/street_rat/street_rat_diff_1k.jpg",
+                    "md5": "de1c29cf4020629b4d9479b84b1d4f2a"
+                },
+                "png": {
+                    "size": 4338550,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/street_rat/street_rat_diff_1k.png",
+                    "md5": "c01418358669170640a4eec7df996574"
+                },
+                "exr": {
+                    "size": 997115,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/street_rat/street_rat_diff_1k.exr",
+                    "md5": "f254df5f962f7d1717e9c0b9a8066a5e"
+                }
+            }
+        },
+        "sss": {
+            "8k": {
+                "jpg": {
+                    "size": 1292532,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/street_rat/street_rat_sss_8k.jpg",
+                    "md5": "76417e0a29b26c03980b296b2e27fefb"
+                },
+                "png": {
+                    "size": 46679452,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/street_rat/street_rat_sss_8k.png",
+                    "md5": "1c8d2dba71bd67e7ebbbc0d3606e4659"
+                },
+                "exr": {
+                    "size": 4412022,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/street_rat/street_rat_sss_8k.exr",
+                    "md5": "4e3603be380de30a77d715eb5725cb3c"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 365915,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/street_rat/street_rat_sss_4k.jpg",
+                    "md5": "2a06c870668d178b4231bb200ba76d1f"
+                },
+                "png": {
+                    "size": 7961997,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/street_rat/street_rat_sss_4k.png",
+                    "md5": "c4060e8f7f84ec979b26f9ba8467cdda"
+                },
+                "exr": {
+                    "size": 1147760,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/street_rat/street_rat_sss_4k.exr",
+                    "md5": "3960c2c91725fe26b2d9164db835c7f1"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 111448,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_rat/street_rat_sss_2k.jpg",
+                    "md5": "91e116b77c6578885a8f2dc294b45d8a"
+                },
+                "png": {
+                    "size": 1938021,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/street_rat/street_rat_sss_2k.png",
+                    "md5": "9ade17b8df27acc871c5a2bcbfaa967c"
+                },
+                "exr": {
+                    "size": 379097,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/street_rat/street_rat_sss_2k.exr",
+                    "md5": "c435cd914f0414aad41c122557bb2faa"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 37027,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/street_rat/street_rat_sss_1k.jpg",
+                    "md5": "0380b95d9f4e92b612455d1c936e4703"
+                },
+                "png": {
+                    "size": 450794,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/street_rat/street_rat_sss_1k.png",
+                    "md5": "eae156640355f3a15792984f62fc4212"
+                },
+                "exr": {
+                    "size": 145540,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/street_rat/street_rat_sss_1k.exr",
+                    "md5": "3a11931752ede1a8fa234bd02e013b62"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 42889302,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/street_rat/street_rat_nor_dx_8k.jpg",
+                    "md5": "9d1938563a2edbc2e1dbd37f91aa0bb9"
+                },
+                "png": {
+                    "size": 240783380,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/street_rat/street_rat_nor_dx_8k.png",
+                    "md5": "3dfd3006d35076d5d86fe19e735f3b81"
+                },
+                "exr": {
+                    "size": 87774736,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/street_rat/street_rat_nor_dx_8k.exr",
+                    "md5": "fa02f25d2720fd3fc372be8b46a3c85d"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 11824954,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/street_rat/street_rat_nor_dx_4k.jpg",
+                    "md5": "fc4225b43393addaa9d9e83cb12f7cfe"
+                },
+                "png": {
+                    "size": 67307565,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/street_rat/street_rat_nor_dx_4k.png",
+                    "md5": "e799778118256cb3902158f2b49b04a3"
+                },
+                "exr": {
+                    "size": 24959795,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/street_rat/street_rat_nor_dx_4k.exr",
+                    "md5": "28d45b6d423b012931cc5b84f76b7512"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3057929,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_rat/street_rat_nor_dx_2k.jpg",
+                    "md5": "21e6146e898726e8e92a7e5b6fcb35db"
+                },
+                "png": {
+                    "size": 19046773,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/street_rat/street_rat_nor_dx_2k.png",
+                    "md5": "9613061855c5b079666695a89f7653fc"
+                },
+                "exr": {
+                    "size": 6634244,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/street_rat/street_rat_nor_dx_2k.exr",
+                    "md5": "6e85b7f1968735b1ab9c3bc954d5c5fe"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 754357,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/street_rat/street_rat_nor_dx_1k.jpg",
+                    "md5": "cbe607e809d7d0577b2d7acd089cbc8a"
+                },
+                "png": {
+                    "size": 5244883,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/street_rat/street_rat_nor_dx_1k.png",
+                    "md5": "cdceec42d27f1e6044fecffe0ce86e21"
+                },
+                "exr": {
+                    "size": 1696364,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/street_rat/street_rat_nor_dx_1k.exr",
+                    "md5": "25c5d4fc0df38d484beae7c6b9d383fa"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 40365870,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/street_rat/street_rat_nor_gl_8k.jpg",
+                    "md5": "1d1b2e43d5c96f8342079243ffc8820f"
+                },
+                "png": {
+                    "size": 240953483,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/street_rat/street_rat_nor_gl_8k.png",
+                    "md5": "55a713a90ac4c55632bd1de521f073b7"
+                },
+                "exr": {
+                    "size": 87102618,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/street_rat/street_rat_nor_gl_8k.exr",
+                    "md5": "184483e560afb963242aeaf5f2770ea6"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 11410915,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/street_rat/street_rat_nor_gl_4k.jpg",
+                    "md5": "70a775667081f4845c8b486924dcb7c1"
+                },
+                "png": {
+                    "size": 67311417,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/street_rat/street_rat_nor_gl_4k.png",
+                    "md5": "eaea9560d7207c48a52eeff0a9842049"
+                },
+                "exr": {
+                    "size": 24843978,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/street_rat/street_rat_nor_gl_4k.exr",
+                    "md5": "b5195c05e81cb587fb187a0d7e48e776"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2965543,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_rat/street_rat_nor_gl_2k.jpg",
+                    "md5": "ba6f38e35d23e380abfead7a390b7bce"
+                },
+                "png": {
+                    "size": 19091281,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/street_rat/street_rat_nor_gl_2k.png",
+                    "md5": "a078babc975a4ea7093df47318c13bf0"
+                },
+                "exr": {
+                    "size": 6627965,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/street_rat/street_rat_nor_gl_2k.exr",
+                    "md5": "77cd6b0abb28122e3d9f91525810134e"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 730495,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/street_rat/street_rat_nor_gl_1k.jpg",
+                    "md5": "a750181da724f3b6f9594868c95678fb"
+                },
+                "png": {
+                    "size": 5252295,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/street_rat/street_rat_nor_gl_1k.png",
+                    "md5": "4b42fc02ca6897854d07b1ba41ee187e"
+                },
+                "exr": {
+                    "size": 1695091,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/street_rat/street_rat_nor_gl_1k.exr",
+                    "md5": "47974599309b505a646a2f184fc34f27"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/street_rat_rough_8k.exr": {
+                            "size": 48071902,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/street_rat/street_rat_rough_8k.exr",
+                            "md5": "e52a16111a585ef6ccbda53310975d56"
+                        },
+                        "textures/street_rat_nor_gl_8k.exr": {
+                            "size": 87102618,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/street_rat/street_rat_nor_gl_8k.exr",
+                            "md5": "184483e560afb963242aeaf5f2770ea6"
+                        },
+                        "textures/street_rat_sss_8k.png": {
+                            "size": 46679452,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/street_rat/street_rat_sss_8k.png",
+                            "md5": "1c8d2dba71bd67e7ebbbc0d3606e4659"
+                        },
+                        "textures/street_rat_diff_8k.jpg": {
+                            "size": 17216514,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/street_rat/street_rat_diff_8k.jpg",
+                            "md5": "3292d4273a6f49f93304dc503e12c484"
+                        }
+                    },
+                    "size": 1518678,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/street_rat/street_rat_8k.blend",
+                    "md5": "0c25093cf32d5af2017058bb1dfa32da"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/street_rat_rough_4k.exr": {
+                            "size": 14506853,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/street_rat/street_rat_rough_4k.exr",
+                            "md5": "a9861df3fc6917b6b52f4b90efd32525"
+                        },
+                        "textures/street_rat_sss_4k.png": {
+                            "size": 7961997,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/street_rat/street_rat_sss_4k.png",
+                            "md5": "c4060e8f7f84ec979b26f9ba8467cdda"
+                        },
+                        "textures/street_rat_diff_4k.jpg": {
+                            "size": 5772746,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/street_rat/street_rat_diff_4k.jpg",
+                            "md5": "3a28f4fc329c2978ea18d39157caef55"
+                        },
+                        "textures/street_rat_nor_gl_4k.exr": {
+                            "size": 24843978,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/street_rat/street_rat_nor_gl_4k.exr",
+                            "md5": "b5195c05e81cb587fb187a0d7e48e776"
+                        }
+                    },
+                    "size": 1517972,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/street_rat/street_rat_4k.blend",
+                    "md5": "49c31fb5137639a9ae4f59e0339e902a"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/street_rat_sss_2k.png": {
+                            "size": 1938021,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/street_rat/street_rat_sss_2k.png",
+                            "md5": "9ade17b8df27acc871c5a2bcbfaa967c"
+                        },
+                        "textures/street_rat_diff_2k.jpg": {
+                            "size": 1823103,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_rat/street_rat_diff_2k.jpg",
+                            "md5": "89777e7b58b204cc4d2d89094b0b27b4"
+                        },
+                        "textures/street_rat_nor_gl_2k.exr": {
+                            "size": 6627965,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/street_rat/street_rat_nor_gl_2k.exr",
+                            "md5": "77cd6b0abb28122e3d9f91525810134e"
+                        },
+                        "textures/street_rat_rough_2k.exr": {
+                            "size": 4249681,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/street_rat/street_rat_rough_2k.exr",
+                            "md5": "73ff6e7d84c81139ce2c222be309daee"
+                        }
+                    },
+                    "size": 1512059,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/street_rat/street_rat_2k.blend",
+                    "md5": "b3df40cd9a6cbb67f5e4b6fa0cef6bd1"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/street_rat_nor_gl_1k.exr": {
+                            "size": 1695091,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/street_rat/street_rat_nor_gl_1k.exr",
+                            "md5": "47974599309b505a646a2f184fc34f27"
+                        },
+                        "textures/street_rat_diff_1k.jpg": {
+                            "size": 529505,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/street_rat/street_rat_diff_1k.jpg",
+                            "md5": "de1c29cf4020629b4d9479b84b1d4f2a"
+                        },
+                        "textures/street_rat_sss_1k.png": {
+                            "size": 450794,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/street_rat/street_rat_sss_1k.png",
+                            "md5": "eae156640355f3a15792984f62fc4212"
+                        },
+                        "textures/street_rat_rough_1k.exr": {
+                            "size": 1207742,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/street_rat/street_rat_rough_1k.exr",
+                            "md5": "a670b161a61b9caa477a922ff9de4d2f"
+                        }
+                    },
+                    "size": 1522005,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/street_rat/street_rat_1k.blend",
+                    "md5": "6ed997d70a2aed6181f9e74f3be1147d"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "street_rat.bin": {
+                            "size": 1365280,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/street_rat/street_rat.bin",
+                            "md5": "f7cf930cf7af0c11283938250bdeb197"
+                        },
+                        "textures/street_rat_arm_8k.jpg": {
+                            "size": 39088537,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/street_rat/street_rat_arm_8k.jpg",
+                            "md5": "e2dfedb3d970f15807249a8e52599997"
+                        },
+                        "textures/street_rat_nor_gl_8k.jpg": {
+                            "size": 40365870,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/street_rat/street_rat_nor_gl_8k.jpg",
+                            "md5": "1d1b2e43d5c96f8342079243ffc8820f"
+                        },
+                        "textures/street_rat_diff_8k.jpg": {
+                            "size": 17216514,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/street_rat/street_rat_diff_8k.jpg",
+                            "md5": "3292d4273a6f49f93304dc503e12c484"
+                        }
+                    },
+                    "size": 2770,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/street_rat/street_rat_8k.gltf",
+                    "md5": "dfec6fd9015048077421b9003b51a44a"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/street_rat_arm_4k.jpg": {
+                            "size": 12227618,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/street_rat/street_rat_arm_4k.jpg",
+                            "md5": "1a30eb9e39a151316fb0d2cb3f0bfc04"
+                        },
+                        "street_rat.bin": {
+                            "size": 1365280,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/street_rat/street_rat.bin",
+                            "md5": "f7cf930cf7af0c11283938250bdeb197"
+                        },
+                        "textures/street_rat_nor_gl_4k.jpg": {
+                            "size": 11410915,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/street_rat/street_rat_nor_gl_4k.jpg",
+                            "md5": "70a775667081f4845c8b486924dcb7c1"
+                        },
+                        "textures/street_rat_diff_4k.jpg": {
+                            "size": 5772746,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/street_rat/street_rat_diff_4k.jpg",
+                            "md5": "3a28f4fc329c2978ea18d39157caef55"
+                        }
+                    },
+                    "size": 2770,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/street_rat/street_rat_4k.gltf",
+                    "md5": "341fb31121f68a3a9f8f09a01ae04422"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "street_rat.bin": {
+                            "size": 1365280,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/street_rat/street_rat.bin",
+                            "md5": "f7cf930cf7af0c11283938250bdeb197"
+                        },
+                        "textures/street_rat_diff_2k.jpg": {
+                            "size": 1823103,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_rat/street_rat_diff_2k.jpg",
+                            "md5": "89777e7b58b204cc4d2d89094b0b27b4"
+                        },
+                        "textures/street_rat_nor_gl_2k.jpg": {
+                            "size": 2965543,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_rat/street_rat_nor_gl_2k.jpg",
+                            "md5": "ba6f38e35d23e380abfead7a390b7bce"
+                        },
+                        "textures/street_rat_arm_2k.jpg": {
+                            "size": 3528311,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_rat/street_rat_arm_2k.jpg",
+                            "md5": "78c39e3890dea5020944c52c56bb1e01"
+                        }
+                    },
+                    "size": 2770,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/street_rat/street_rat_2k.gltf",
+                    "md5": "f406a0f1b91fe66e91328e3f1ca67236"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/street_rat_nor_gl_1k.jpg": {
+                            "size": 730495,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/street_rat/street_rat_nor_gl_1k.jpg",
+                            "md5": "a750181da724f3b6f9594868c95678fb"
+                        },
+                        "textures/street_rat_diff_1k.jpg": {
+                            "size": 529505,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/street_rat/street_rat_diff_1k.jpg",
+                            "md5": "de1c29cf4020629b4d9479b84b1d4f2a"
+                        },
+                        "street_rat.bin": {
+                            "size": 1365280,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/street_rat/street_rat.bin",
+                            "md5": "f7cf930cf7af0c11283938250bdeb197"
+                        },
+                        "textures/street_rat_arm_1k.jpg": {
+                            "size": 982063,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/street_rat/street_rat_arm_1k.jpg",
+                            "md5": "d56f60a7ba19fc823713337906ea9b70"
+                        }
+                    },
+                    "size": 2770,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/street_rat/street_rat_1k.gltf",
+                    "md5": "b6bf11e09d7a1efe0f03d4913216546c"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/street_rat_rough_8k.exr": {
+                            "size": 48071902,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/street_rat/street_rat_rough_8k.exr",
+                            "md5": "e52a16111a585ef6ccbda53310975d56"
+                        },
+                        "textures/street_rat_nor_gl_8k.exr": {
+                            "size": 87102618,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/street_rat/street_rat_nor_gl_8k.exr",
+                            "md5": "184483e560afb963242aeaf5f2770ea6"
+                        },
+                        "textures/street_rat_sss_8k.png": {
+                            "size": 46679452,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/street_rat/street_rat_sss_8k.png",
+                            "md5": "1c8d2dba71bd67e7ebbbc0d3606e4659"
+                        },
+                        "textures/street_rat_diff_8k.jpg": {
+                            "size": 17216514,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/street_rat/street_rat_diff_8k.jpg",
+                            "md5": "3292d4273a6f49f93304dc503e12c484"
+                        }
+                    },
+                    "size": 2847636,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/street_rat/street_rat_8k.usdc",
+                    "md5": "00f7316fb0ae0481e6f5e0a8d6261bb8"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/street_rat_rough_4k.exr": {
+                            "size": 14506853,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/street_rat/street_rat_rough_4k.exr",
+                            "md5": "a9861df3fc6917b6b52f4b90efd32525"
+                        },
+                        "textures/street_rat_sss_4k.png": {
+                            "size": 7961997,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/street_rat/street_rat_sss_4k.png",
+                            "md5": "c4060e8f7f84ec979b26f9ba8467cdda"
+                        },
+                        "textures/street_rat_diff_4k.jpg": {
+                            "size": 5772746,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/street_rat/street_rat_diff_4k.jpg",
+                            "md5": "3a28f4fc329c2978ea18d39157caef55"
+                        },
+                        "textures/street_rat_nor_gl_4k.exr": {
+                            "size": 24843978,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/street_rat/street_rat_nor_gl_4k.exr",
+                            "md5": "b5195c05e81cb587fb187a0d7e48e776"
+                        }
+                    },
+                    "size": 2847636,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/street_rat/street_rat_4k.usdc",
+                    "md5": "5aa22fb2af3bb98d791e30c35c2e23a4"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/street_rat_sss_2k.png": {
+                            "size": 1938021,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/street_rat/street_rat_sss_2k.png",
+                            "md5": "9ade17b8df27acc871c5a2bcbfaa967c"
+                        },
+                        "textures/street_rat_diff_2k.jpg": {
+                            "size": 1823103,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_rat/street_rat_diff_2k.jpg",
+                            "md5": "89777e7b58b204cc4d2d89094b0b27b4"
+                        },
+                        "textures/street_rat_nor_gl_2k.exr": {
+                            "size": 6627965,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/street_rat/street_rat_nor_gl_2k.exr",
+                            "md5": "77cd6b0abb28122e3d9f91525810134e"
+                        },
+                        "textures/street_rat_rough_2k.exr": {
+                            "size": 4249681,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/street_rat/street_rat_rough_2k.exr",
+                            "md5": "73ff6e7d84c81139ce2c222be309daee"
+                        }
+                    },
+                    "size": 2847636,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/street_rat/street_rat_2k.usdc",
+                    "md5": "8a39f7ac6fda38f3e5342a67583b793d"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/street_rat_nor_gl_1k.exr": {
+                            "size": 1695091,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/street_rat/street_rat_nor_gl_1k.exr",
+                            "md5": "47974599309b505a646a2f184fc34f27"
+                        },
+                        "textures/street_rat_diff_1k.jpg": {
+                            "size": 529505,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/street_rat/street_rat_diff_1k.jpg",
+                            "md5": "de1c29cf4020629b4d9479b84b1d4f2a"
+                        },
+                        "textures/street_rat_sss_1k.png": {
+                            "size": 450794,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/street_rat/street_rat_sss_1k.png",
+                            "md5": "eae156640355f3a15792984f62fc4212"
+                        },
+                        "textures/street_rat_rough_1k.exr": {
+                            "size": 1207742,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/street_rat/street_rat_rough_1k.exr",
+                            "md5": "a670b161a61b9caa477a922ff9de4d2f"
+                        }
+                    },
+                    "size": 2847636,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/street_rat/street_rat_1k.usdc",
+                    "md5": "f7264b3ec4caa7fa52a913e6b3aff6a4"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 39088537,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/street_rat/street_rat_arm_8k.jpg",
+                    "md5": "e2dfedb3d970f15807249a8e52599997"
+                },
+                "png": {
+                    "size": 109919028,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/street_rat/street_rat_arm_8k.png",
+                    "md5": "6c4fd14ebf0db5096bfd1998ddae244c"
+                },
+                "exr": {
+                    "size": 72102512,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/street_rat/street_rat_arm_8k.exr",
+                    "md5": "24d54e3cb2478b9b2920140fe8d7f1c2"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 12227618,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/street_rat/street_rat_arm_4k.jpg",
+                    "md5": "1a30eb9e39a151316fb0d2cb3f0bfc04"
+                },
+                "png": {
+                    "size": 39149532,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/street_rat/street_rat_arm_4k.png",
+                    "md5": "0b0c9eec58dbe53dc2c2116006e14cb4"
+                },
+                "exr": {
+                    "size": 23969185,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/street_rat/street_rat_arm_4k.exr",
+                    "md5": "fc63c39d8dae20e273dbb585e30529c7"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3528311,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_rat/street_rat_arm_2k.jpg",
+                    "md5": "78c39e3890dea5020944c52c56bb1e01"
+                },
+                "png": {
+                    "size": 11905702,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/street_rat/street_rat_arm_2k.png",
+                    "md5": "f07301f82c1d164f70af9259eb2eedb0"
+                },
+                "exr": {
+                    "size": 7015440,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/street_rat/street_rat_arm_2k.exr",
+                    "md5": "130c464ef83677883451fd506040f1ef"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 982063,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/street_rat/street_rat_arm_1k.jpg",
+                    "md5": "d56f60a7ba19fc823713337906ea9b70"
+                },
+                "png": {
+                    "size": 3343387,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/street_rat/street_rat_arm_1k.png",
+                    "md5": "ed970a9e30dfd236e957c33c21c3c50f"
+                },
+                "exr": {
+                    "size": 1987443,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/street_rat/street_rat_arm_1k.exr",
+                    "md5": "837e4d51aa5621098637f1aa094ca520"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/street_rat_rough_8k.exr": {
+                            "size": 48071902,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/street_rat/street_rat_rough_8k.exr",
+                            "md5": "e52a16111a585ef6ccbda53310975d56"
+                        },
+                        "textures/street_rat_nor_gl_8k.exr": {
+                            "size": 87102618,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/street_rat/street_rat_nor_gl_8k.exr",
+                            "md5": "184483e560afb963242aeaf5f2770ea6"
+                        },
+                        "textures/street_rat_sss_8k.png": {
+                            "size": 46679452,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/street_rat/street_rat_sss_8k.png",
+                            "md5": "1c8d2dba71bd67e7ebbbc0d3606e4659"
+                        },
+                        "textures/street_rat_diff_8k.jpg": {
+                            "size": 17216514,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/street_rat/street_rat_diff_8k.jpg",
+                            "md5": "3292d4273a6f49f93304dc503e12c484"
+                        }
+                    },
+                    "size": 1860012,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/street_rat/street_rat_8k.fbx",
+                    "md5": "81c411ae2635c7de6dc2dc39ecc3429e"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/street_rat_rough_4k.exr": {
+                            "size": 14506853,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/street_rat/street_rat_rough_4k.exr",
+                            "md5": "a9861df3fc6917b6b52f4b90efd32525"
+                        },
+                        "textures/street_rat_sss_4k.png": {
+                            "size": 7961997,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/street_rat/street_rat_sss_4k.png",
+                            "md5": "c4060e8f7f84ec979b26f9ba8467cdda"
+                        },
+                        "textures/street_rat_diff_4k.jpg": {
+                            "size": 5772746,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/street_rat/street_rat_diff_4k.jpg",
+                            "md5": "3a28f4fc329c2978ea18d39157caef55"
+                        },
+                        "textures/street_rat_nor_gl_4k.exr": {
+                            "size": 24843978,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/street_rat/street_rat_nor_gl_4k.exr",
+                            "md5": "b5195c05e81cb587fb187a0d7e48e776"
+                        }
+                    },
+                    "size": 1860012,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/street_rat/street_rat_4k.fbx",
+                    "md5": "5cd70fbd06835c2a3415586b1a7d0312"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/street_rat_sss_2k.png": {
+                            "size": 1938021,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/street_rat/street_rat_sss_2k.png",
+                            "md5": "9ade17b8df27acc871c5a2bcbfaa967c"
+                        },
+                        "textures/street_rat_diff_2k.jpg": {
+                            "size": 1823103,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_rat/street_rat_diff_2k.jpg",
+                            "md5": "89777e7b58b204cc4d2d89094b0b27b4"
+                        },
+                        "textures/street_rat_nor_gl_2k.exr": {
+                            "size": 6627965,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/street_rat/street_rat_nor_gl_2k.exr",
+                            "md5": "77cd6b0abb28122e3d9f91525810134e"
+                        },
+                        "textures/street_rat_rough_2k.exr": {
+                            "size": 4249681,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/street_rat/street_rat_rough_2k.exr",
+                            "md5": "73ff6e7d84c81139ce2c222be309daee"
+                        }
+                    },
+                    "size": 1860044,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/street_rat/street_rat_2k.fbx",
+                    "md5": "742f22c04db76b2079786a79ad3c48e3"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/street_rat_nor_gl_1k.exr": {
+                            "size": 1695091,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/street_rat/street_rat_nor_gl_1k.exr",
+                            "md5": "47974599309b505a646a2f184fc34f27"
+                        },
+                        "textures/street_rat_diff_1k.jpg": {
+                            "size": 529505,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/street_rat/street_rat_diff_1k.jpg",
+                            "md5": "de1c29cf4020629b4d9479b84b1d4f2a"
+                        },
+                        "textures/street_rat_sss_1k.png": {
+                            "size": 450794,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/street_rat/street_rat_sss_1k.png",
+                            "md5": "eae156640355f3a15792984f62fc4212"
+                        },
+                        "textures/street_rat_rough_1k.exr": {
+                            "size": 1207742,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/street_rat/street_rat_rough_1k.exr",
+                            "md5": "a670b161a61b9caa477a922ff9de4d2f"
+                        }
+                    },
+                    "size": 1859964,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/street_rat/street_rat_1k.fbx",
+                    "md5": "112b10ffffc6f5d2eff8485d6a336626"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 9579964,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/street_rat/street_rat_ao_8k.jpg",
+                    "md5": "dcf6bb6f6186ec0dbe5b605aab22b5f6"
+                },
+                "png": {
+                    "size": 23955293,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/street_rat/street_rat_ao_8k.png",
+                    "md5": "2ca8d9eeb4101b9264555ed278237cb8"
+                },
+                "exr": {
+                    "size": 16249056,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/street_rat/street_rat_ao_8k.exr",
+                    "md5": "f8e2020ae07f52e3c2b24cc2e0cb79d0"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3692787,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/street_rat/street_rat_ao_4k.jpg",
+                    "md5": "1a4c2af9952659bca49e25bd621f48d4"
+                },
+                "png": {
+                    "size": 8721554,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/street_rat/street_rat_ao_4k.png",
+                    "md5": "cf9b2feeb8d48d72019d85e19563656b"
+                },
+                "exr": {
+                    "size": 6708423,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/street_rat/street_rat_ao_4k.exr",
+                    "md5": "2f8d8f2b2efabd96e3cb6a3217243cc1"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1001445,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_rat/street_rat_ao_2k.jpg",
+                    "md5": "233972cec0e15c4b58555b0af2b6d7eb"
+                },
+                "png": {
+                    "size": 3023487,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/street_rat/street_rat_ao_2k.png",
+                    "md5": "3482f626be966fd7892f222938630c82"
+                },
+                "exr": {
+                    "size": 2015951,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/street_rat/street_rat_ao_2k.exr",
+                    "md5": "c681852ccf4a3c9d2bc9e9daf4f65038"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 278099,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/street_rat/street_rat_ao_1k.jpg",
+                    "md5": "5608c5ba41e8caf6a109b0cfc081c1ad"
+                },
+                "png": {
+                    "size": 935651,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/street_rat/street_rat_ao_1k.png",
+                    "md5": "528ba755a908c7a645ac7c259431df5c"
+                },
+                "exr": {
+                    "size": 566794,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/street_rat/street_rat_ao_1k.exr",
+                    "md5": "4840ffbed2133f2a932a3b14eeb4d938"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 7614498,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/street_rat/street_rat_height_8k.jpg",
+                    "md5": "c0aae3280cdf259c1ca8aee885822d2d"
+                },
+                "png": {
+                    "size": 62131442,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/street_rat/street_rat_height_8k.png",
+                    "md5": "b5c1f36683a6c09670ac10a0619237c1"
+                },
+                "exr": {
+                    "size": 48599980,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/street_rat/street_rat_height_8k.exr",
+                    "md5": "c6260d0c1424966643b701d3a1ac4c68"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2517221,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/street_rat/street_rat_height_4k.jpg",
+                    "md5": "694db985111048e8e310eb002a0f40d3"
+                },
+                "png": {
+                    "size": 15503928,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/street_rat/street_rat_height_4k.png",
+                    "md5": "be7fb97833a192c059a5a45d1d70f169"
+                },
+                "exr": {
+                    "size": 13945437,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/street_rat/street_rat_height_4k.exr",
+                    "md5": "46cd3c27b5b6e278ea70b8cd01200706"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 811305,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_rat/street_rat_height_2k.jpg",
+                    "md5": "40fe6ee1d4e2e5faf7c66689455db1ef"
+                },
+                "png": {
+                    "size": 4498214,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/street_rat/street_rat_height_2k.png",
+                    "md5": "9c2c16a70c3ae27447f04823d6070c36"
+                },
+                "exr": {
+                    "size": 4143998,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/street_rat/street_rat_height_2k.exr",
+                    "md5": "aa13ccaa05b99395a7a6cfa8c4a21609"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 243726,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/street_rat/street_rat_height_1k.jpg",
+                    "md5": "dad68c2cade2a5d76845703be576873d"
+                },
+                "png": {
+                    "size": 1297238,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/street_rat/street_rat_height_1k.png",
+                    "md5": "d4f9cc5a17a0dbbc3851ac7fbb423a90"
+                },
+                "exr": {
+                    "size": 1207692,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/street_rat/street_rat_height_1k.exr",
+                    "md5": "0313d6b22e00bd4a14be5a9606677fc2"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 31341543,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/street_rat/street_rat_rough_8k.jpg",
+                    "md5": "084799ce47915b2c70ee1d4b0647b8c0"
+                },
+                "png": {
+                    "size": 72901082,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/street_rat/street_rat_rough_8k.png",
+                    "md5": "e7936e8f8f013276b817411308c59093"
+                },
+                "exr": {
+                    "size": 48071902,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/street_rat/street_rat_rough_8k.exr",
+                    "md5": "e52a16111a585ef6ccbda53310975d56"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 9789308,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/street_rat/street_rat_rough_4k.jpg",
+                    "md5": "0a7dcd2dd9f05de978861e4158b4a7b3"
+                },
+                "png": {
+                    "size": 20940179,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/street_rat/street_rat_rough_4k.png",
+                    "md5": "8c6fa7b3b849da28e344bf4d160ff79f"
+                },
+                "exr": {
+                    "size": 14506853,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/street_rat/street_rat_rough_4k.exr",
+                    "md5": "a9861df3fc6917b6b52f4b90efd32525"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2811544,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/street_rat/street_rat_rough_2k.jpg",
+                    "md5": "667aac42aaa6dd7c8aa33cbe47f110ac"
+                },
+                "png": {
+                    "size": 6040423,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/street_rat/street_rat_rough_2k.png",
+                    "md5": "5588999496ce9ba042faff5a5c3b50d7"
+                },
+                "exr": {
+                    "size": 4249681,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/street_rat/street_rat_rough_2k.exr",
+                    "md5": "73ff6e7d84c81139ce2c222be309daee"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 771256,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/street_rat/street_rat_rough_1k.jpg",
+                    "md5": "5311d1f07898ed31eb786cb70217b3e6"
+                },
+                "png": {
+                    "size": 1687061,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/street_rat/street_rat_rough_1k.png",
+                    "md5": "ae888fd046d3bb2a717767cca8db8ca3"
+                },
+                "exr": {
+                    "size": 1207742,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/street_rat/street_rat_rough_1k.exr",
+                    "md5": "a670b161a61b9caa477a922ff9de4d2f"
+                }
+            }
+        }
+    }
+}

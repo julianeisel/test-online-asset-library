@@ -1,0 +1,106 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "pure skies"
+    ],
+    "date_published": 1670025600,
+    "name": "Table Mountain 1 (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "high contrast",
+        "natural light",
+        "pure skies"
+    ],
+    "date_taken": 1464964200,
+    "coords": [
+        -33.958547,
+        18.405612
+    ],
+    "info": "Edited sky-only version of [Table Mountain 1](https://polyhaven.com/a/table_mountain_1).",
+    "authors": {
+        "Greg Zaal": "Original",
+        "Jarod Guest": "Sky edits"
+    },
+    "files_hash": "26ab59fa90b7a492c9da696a9f9ae6e8ce29f74f",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 55837,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/table_mountain_1_puresky.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 17813935,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/table_mountain_1_puresky.jpg",
+            "md5": "059decfe5688d7434451cc9c531d570e"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 68847988,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/table_mountain_1_puresky_8k.hdr",
+                    "md5": "8155d1a95b215bf3192a843c8d181e09"
+                },
+                "exr": {
+                    "size": 285125086,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/table_mountain_1_puresky_8k.exr",
+                    "md5": "e8a563e69a807debf20919ba6a86008e"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 230568315,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/table_mountain_1_puresky_16k.hdr",
+                    "md5": "98c43779382522e81bc58ba3aa04a24c"
+                },
+                "exr": {
+                    "size": 1103812257,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/table_mountain_1_puresky_16k.exr",
+                    "md5": "b7ae9a491d89c2ca6cca7d06b1218f15"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 19336378,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/table_mountain_1_puresky_4k.hdr",
+                    "md5": "295692ba4a4494103ce36cb3477f7b1b"
+                },
+                "exr": {
+                    "size": 74309876,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/table_mountain_1_puresky_4k.exr",
+                    "md5": "9f7dc9b0a3588556e05b65fa8bc13b04"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5179035,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/table_mountain_1_puresky_2k.hdr",
+                    "md5": "e0d9c6f16ddb80934162ca3f6c79d87e"
+                },
+                "exr": {
+                    "size": 19772809,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/table_mountain_1_puresky_2k.exr",
+                    "md5": "3585b1824f894415f76ca23692c903bd"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1381374,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/table_mountain_1_puresky_1k.hdr",
+                    "md5": "6c68d0e51d99c9a8a93438472ab8bc42"
+                },
+                "exr": {
+                    "size": 5430524,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/table_mountain_1_puresky_1k.exr",
+                    "md5": "8ad447cca20ef593dd8cecab4783c410"
+                }
+            }
+        }
+    }
+}

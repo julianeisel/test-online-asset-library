@@ -1,0 +1,108 @@
+{
+    "donated": true,
+    "type": 0,
+    "tags": [
+        "contemporary",
+        "clean",
+        "white",
+        "bath",
+        "shower",
+        "toilet",
+        "basin",
+        "sink",
+        "bathroom",
+        "spacious",
+        "tiles",
+        "sloped ceiling",
+        "heater"
+    ],
+    "name": "Modern Bathroom",
+    "categories": [
+        "indoor",
+        "midday",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1497916800,
+    "authors": {
+        "Adrian Kubasa": "All"
+    },
+    "files_hash": "eae73f17be3e468a621600361a3e14d389c71f90",
+    "evs_cap": 0,
+    "date_published": 1707609600,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 27963,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/modern_bathroom.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 35630554,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/modern_bathroom.jpg",
+            "md5": "8907d5b71508a37cd9297ffbbeda6bc4"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101510959,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/modern_bathroom_8k.hdr",
+                    "md5": "d2e0f814b33158241f8e2c365c8d7a8c"
+                },
+                "exr": {
+                    "size": 81471064,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/modern_bathroom_8k.exr",
+                    "md5": "a715006ce858495e825e4cdba22df081"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 385007650,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/modern_bathroom_16k.hdr",
+                    "md5": "a2b13aa0c1bd6f470af6487b1b1db044"
+                },
+                "exr": {
+                    "size": 283641033,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/modern_bathroom_16k.exr",
+                    "md5": "53d671b1198dbe4079257425d302c925"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25882229,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/modern_bathroom_4k.hdr",
+                    "md5": "6a8c8335eaca9c46e69b3968bced9036"
+                },
+                "exr": {
+                    "size": 20920795,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/modern_bathroom_4k.exr",
+                    "md5": "f630c417c85285775be49353afd101f1"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6501344,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/modern_bathroom_2k.hdr",
+                    "md5": "4d7af85f7e6bacf371388e64502e607a"
+                },
+                "exr": {
+                    "size": 5193028,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/modern_bathroom_2k.exr",
+                    "md5": "0b5a9c6566b09fad402447071cb572d0"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1623200,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/modern_bathroom_1k.hdr",
+                    "md5": "24511667b12a64ebcfedfae48c0a1460"
+                },
+                "exr": {
+                    "size": 1299500,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/modern_bathroom_1k.exr",
+                    "md5": "06ec8eefbb8542c3ee5fb64bd60caaea"
+                }
+            }
+        }
+    }
+}

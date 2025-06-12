@@ -1,0 +1,764 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "date_published": 1508536800,
+    "name": "The Sky Is On Fire",
+    "categories": [
+        "outdoor",
+        "skies",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        -33.903853,
+        18.397963
+    ],
+    "date_taken": 1464882900,
+    "sponsors": [
+        {
+            "url": "http://www.eidyknowles.com/",
+            "name": "Eidy"
+        }
+    ],
+    "backplates": true,
+    "tags": [
+        "twilight",
+        "rail",
+        "promenade",
+        "path",
+        "ocean",
+        "wave",
+        "backplates"
+    ],
+    "files_hash": "9be3cf12e0beb7d272c3c11894cc921d1360220d",
+    "authors": {
+        "Greg Zaal": "All",
+        "Rico Cilliers": "Backplates"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 459466,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/the_sky_is_on_fire.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 3467321,
+            "md5": "178cd92790281f0637d3f3e02ab3bf68",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/the_sky_is_on_fire.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 92913392,
+                    "md5": "54f608a00a3ecbff4025fd96ef71f266",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/the_sky_is_on_fire_8k.hdr"
+                },
+                "exr": {
+                    "size": 68114042,
+                    "md5": "918a0a78df2c9f2ff45bbaa98cb2faf4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/the_sky_is_on_fire_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 345976514,
+                    "md5": "2186fb3ff14f5b6886ead66c15a14f24",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/the_sky_is_on_fire_16k.hdr"
+                },
+                "exr": {
+                    "size": 245390723,
+                    "md5": "192daada4e4770dffa5101b7070390a3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/the_sky_is_on_fire_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23779584,
+                    "md5": "4ddb5ea0a4fb336ee55acc78e13a0fb4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/the_sky_is_on_fire_4k.hdr"
+                },
+                "exr": {
+                    "size": 18139397,
+                    "md5": "853633a42f4f7e16a9ef33c3829035d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/the_sky_is_on_fire_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5996454,
+                    "md5": "ca2a97070f1bbac3d35300c245b430da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/the_sky_is_on_fire_2k.hdr"
+                },
+                "exr": {
+                    "size": 4780357,
+                    "md5": "3794b9110d2108aed81d3137ee36468c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/the_sky_is_on_fire_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1526564,
+                    "md5": "61a167446d21d16fc68328475e889419",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/the_sky_is_on_fire_1k.hdr"
+                },
+                "exr": {
+                    "size": 1272209,
+                    "md5": "c57a6805e79ca230d7e331937cfcadaf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/the_sky_is_on_fire_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0809": {
+                "jpg_pretty": {
+                    "size": 5711189,
+                    "md5": "b1c1bb4ebf0cd355a478e36c4cdee02b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0809.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5040637,
+                    "md5": "e22aa2a0d2a3a716328eeded49d42bdd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0809.jpg"
+                },
+                "raw": {
+                    "size": 18776512,
+                    "md5": "0115bba9e40a2b63002ec169e4cd9ee2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0809.dng"
+                }
+            },
+            "IMG_0808": {
+                "jpg_pretty": {
+                    "size": 5892830,
+                    "md5": "ec994416dc1ecb2131f811cfbf6f7f36",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0808.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5126518,
+                    "md5": "a8f80992091aee35d521d7d970340a6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0808.jpg"
+                },
+                "raw": {
+                    "size": 18654860,
+                    "md5": "b5d28c608c04693f64de90ce570f8dfe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0808.dng"
+                }
+            },
+            "IMG_0829": {
+                "jpg_pretty": {
+                    "size": 6408583,
+                    "md5": "95015d945eae4edf8b1a2c69b785a67a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0829.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5349700,
+                    "md5": "b2421124556e6c806e0e6977515d2c70",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0829.jpg"
+                },
+                "raw": {
+                    "size": 18720378,
+                    "md5": "7744e8ebc9fc6a9f4290ae331f00529c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0829.dng"
+                }
+            },
+            "IMG_0828": {
+                "jpg_pretty": {
+                    "size": 6744639,
+                    "md5": "1b87840cef5ed9d5adc3a675bf6c3cea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0828.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4055714,
+                    "md5": "c624673375c2881df6442c224d5e3c4b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0828.jpg"
+                },
+                "raw": {
+                    "size": 17353820,
+                    "md5": "6d50558b7cab5449d578b6383da6f997",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0828.dng"
+                }
+            },
+            "IMG_0827": {
+                "jpg_pretty": {
+                    "size": 6484341,
+                    "md5": "b2eb109377bc233df6de2a5d49b24e9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0827.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5365055,
+                    "md5": "5361003b0424d75976ab107032c24a46",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0827.jpg"
+                },
+                "raw": {
+                    "size": 18927098,
+                    "md5": "38fb12b399ee8d862c395e49b837017d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0827.dng"
+                }
+            },
+            "IMG_0849": {
+                "jpg_pretty": {
+                    "size": 6005188,
+                    "md5": "d81734ba27212b9c6e6a1df143289a13",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0849.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4903389,
+                    "md5": "9fc722832b2b579ec9d0ad8dc5940262",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0849.jpg"
+                },
+                "raw": {
+                    "size": 18994262,
+                    "md5": "c04fd11b4891921113ab24cb895790f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0849.dng"
+                }
+            },
+            "IMG_0826": {
+                "jpg_pretty": {
+                    "size": 6130635,
+                    "md5": "2c81eefa1449ef0508c7c74c764e677e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0826.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5072264,
+                    "md5": "c3a3cc33af18059c62d82f3e96a6f716",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0826.jpg"
+                },
+                "raw": {
+                    "size": 18768762,
+                    "md5": "69613d553443658a1800a5562473a65c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0826.dng"
+                }
+            },
+            "IMG_0825": {
+                "jpg_pretty": {
+                    "size": 6409422,
+                    "md5": "955611efa1ada8d4343f83fb7d5deb9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0825.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5312088,
+                    "md5": "10e6fe411d86962fb9b097b1fb42ed1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0825.jpg"
+                },
+                "raw": {
+                    "size": 19027970,
+                    "md5": "119be25f3b386bef89b0a1af315973ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0825.dng"
+                }
+            },
+            "IMG_0824": {
+                "jpg_pretty": {
+                    "size": 6468422,
+                    "md5": "78de0d2371ef9fe2ca115aad1fbd15ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0824.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5347347,
+                    "md5": "98dce69d73af7faa1c643c0828373c3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0824.jpg"
+                },
+                "raw": {
+                    "size": 19061126,
+                    "md5": "df6497a7c7ee88f71d10cb589c4bdb16",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0824.dng"
+                }
+            },
+            "IMG_0845": {
+                "jpg_pretty": {
+                    "size": 5726890,
+                    "md5": "c1503c2e48b31b1ba75ef2cca1c0b8ff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0845.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4260866,
+                    "md5": "cd1c560df34be4b5cd8b22539092176b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0845.jpg"
+                },
+                "raw": {
+                    "size": 18455252,
+                    "md5": "b60297ec5601a0b57a9e64c8831c8063",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0845.dng"
+                }
+            },
+            "IMG_0822": {
+                "jpg_pretty": {
+                    "size": 5953363,
+                    "md5": "384fa3824dda799a8639fb45cf62d1cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0822.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4893084,
+                    "md5": "01fa71636746f01872a0eed7b7b05d8e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0822.jpg"
+                },
+                "raw": {
+                    "size": 19199776,
+                    "md5": "6cd8fbec4645793ab81a62493c6ef68b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0822.dng"
+                }
+            },
+            "IMG_0844": {
+                "jpg_pretty": {
+                    "size": 5506956,
+                    "md5": "826692b9825d729a946fd8d37c0f346f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0844.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4433379,
+                    "md5": "f2c27b751013d49bf90350c4f487e2ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0844.jpg"
+                },
+                "raw": {
+                    "size": 18297242,
+                    "md5": "4b2b79133929858088b0cbe872f6ded7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0844.dng"
+                }
+            },
+            "IMG_0821": {
+                "jpg_pretty": {
+                    "size": 5981873,
+                    "md5": "ee421bbc10ee8cfdcd657457fd2fd708",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0821.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4877864,
+                    "md5": "9e123ec1f6ab1c6b4f9c2a344bab8bcb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0821.jpg"
+                },
+                "raw": {
+                    "size": 19275862,
+                    "md5": "a2fabce04b105ee313105363935a9352",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0821.dng"
+                }
+            },
+            "IMG_0820": {
+                "jpg_pretty": {
+                    "size": 5567061,
+                    "md5": "3ab224d369ce8902e4319cee61e946d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0820.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4544779,
+                    "md5": "3f5ba041848d708f8a48d19f75ef2559",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0820.jpg"
+                },
+                "raw": {
+                    "size": 19310106,
+                    "md5": "a7e4764d248ce33d1328e73c29730470",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0820.dng"
+                }
+            },
+            "IMG_0842": {
+                "jpg_pretty": {
+                    "size": 5819761,
+                    "md5": "d57f776a69eb36e8bba7fd31b8fcee5a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0842.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4764474,
+                    "md5": "4f899b5fad48de4f8ddf8e6a087210f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0842.jpg"
+                },
+                "raw": {
+                    "size": 18581542,
+                    "md5": "1e39472d82e634752afbaa94908932ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0842.dng"
+                }
+            },
+            "IMG_0850": {
+                "jpg_pretty": {
+                    "size": 6234159,
+                    "md5": "ee491b72cb4a921780dec64c5eb1d941",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0850.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5021579,
+                    "md5": "cc3b1788090dbdc2328a7ce1fea5e8f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0850.jpg"
+                },
+                "raw": {
+                    "size": 19174426,
+                    "md5": "ecfdc2c31717a74ef88ced9d1eb38d0c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0850.dng"
+                }
+            },
+            "IMG_0819": {
+                "jpg_pretty": {
+                    "size": 5521066,
+                    "md5": "365bff83789918830f1755e45bc9d7cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0819.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4408891,
+                    "md5": "dfc5d2637e0277ea3995ba2c6af0f994",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0819.jpg"
+                },
+                "raw": {
+                    "size": 19075728,
+                    "md5": "82e268223894b98b0ebaebadb36ce464",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0819.dng"
+                }
+            },
+            "IMG_0818": {
+                "jpg_pretty": {
+                    "size": 6287776,
+                    "md5": "b4904ca043756f2eaabd2bd8a8104f44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0818.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5073794,
+                    "md5": "6c8a90b22b546ccd1504e5c46940e528",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0818.jpg"
+                },
+                "raw": {
+                    "size": 18891380,
+                    "md5": "81b43b4b3a88da8abfc64e6007aa51bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0818.dng"
+                }
+            },
+            "IMG_0817": {
+                "jpg_pretty": {
+                    "size": 6297105,
+                    "md5": "7e88d44a43b9d1c731e7e52f95e00b60",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0817.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5139179,
+                    "md5": "2b001e9f4bb41c5b1b289e97e99477cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0817.jpg"
+                },
+                "raw": {
+                    "size": 18833336,
+                    "md5": "27e22cdce6438f1be118dd2ce62796e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0817.dng"
+                }
+            },
+            "IMG_0839": {
+                "jpg_pretty": {
+                    "size": 5567890,
+                    "md5": "25fc58e6c9113ba32cd48558a62b7c9e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0839.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5009567,
+                    "md5": "8c33377445ea92c4374138faaf30db7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0839.jpg"
+                },
+                "raw": {
+                    "size": 18107446,
+                    "md5": "639b0905770b69790bc069563f163513",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0839.dng"
+                }
+            },
+            "IMG_0816": {
+                "jpg_pretty": {
+                    "size": 5485258,
+                    "md5": "f9e37b93642e6c5e8bb2178863a9ede3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0816.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4963415,
+                    "md5": "84a0ebec68d82527da152fdd317ef62a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0816.jpg"
+                },
+                "raw": {
+                    "size": 18609572,
+                    "md5": "f4b6788288a5a56c2ba6865afadd79d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0816.dng"
+                }
+            },
+            "IMG_0838": {
+                "jpg_pretty": {
+                    "size": 6991579,
+                    "md5": "9a4ecd3101b626b580cb039b02495eb2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0838.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5848291,
+                    "md5": "7da43a46b74cec528fa0649b4e3864fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0838.jpg"
+                },
+                "raw": {
+                    "size": 18647626,
+                    "md5": "4f885d82db8ff463abad56f92beaa643",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0838.dng"
+                }
+            },
+            "IMG_0815": {
+                "jpg_pretty": {
+                    "size": 6177872,
+                    "md5": "270e26a80b62b04c94901bf488f672e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0815.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4942570,
+                    "md5": "135eba5ca23a13474faec71d12200eed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0815.jpg"
+                },
+                "raw": {
+                    "size": 18767890,
+                    "md5": "05bf05fbba1e0d0ce3345b2ff1b413be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0815.dng"
+                }
+            },
+            "IMG_0837": {
+                "jpg_pretty": {
+                    "size": 5431513,
+                    "md5": "2c0a7ad85cdde792e6a5e4ebe1e329d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0837.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4534761,
+                    "md5": "f6f8db73385beafd54379aaafa32be5e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0837.jpg"
+                },
+                "raw": {
+                    "size": 19181292,
+                    "md5": "4e6cfda039a630ecd4a21b07a977dea1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0837.dng"
+                }
+            },
+            "IMG_0836": {
+                "jpg_pretty": {
+                    "size": 6473128,
+                    "md5": "e421408a7ed925787b9e3a43ebd88074",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0836.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4418901,
+                    "md5": "60edf5ec746d25656a068b77b586d85f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0836.jpg"
+                },
+                "raw": {
+                    "size": 17736382,
+                    "md5": "09e530b6d08fe7a49a13372a766ecfb3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0836.dng"
+                }
+            },
+            "IMG_0813": {
+                "jpg_pretty": {
+                    "size": 5466676,
+                    "md5": "fe7cb6130734e9d1ac092de898e8191f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0813.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4862277,
+                    "md5": "68c62752ce2f1b35ecc9b7ec2532746a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0813.jpg"
+                },
+                "raw": {
+                    "size": 18754326,
+                    "md5": "8022ebf0dde5c4c7a3829f93b9ce6e39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0813.dng"
+                }
+            },
+            "IMG_0835": {
+                "jpg_pretty": {
+                    "size": 6432355,
+                    "md5": "6d5502962f07fe3e9291ea5eae1452c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0835.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4834443,
+                    "md5": "e4ba1e7bd30715dcf1c5b2c7411c7037",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0835.jpg"
+                },
+                "raw": {
+                    "size": 18240666,
+                    "md5": "2ad84dbb9ae7eceac293a6671f06d762",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0835.dng"
+                }
+            },
+            "IMG_0812": {
+                "jpg_pretty": {
+                    "size": 5868418,
+                    "md5": "e8cc8b325a211d975370e43ee0933c47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0812.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4794333,
+                    "md5": "204be8ea9aa2d110a4e2c1f226812d22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0812.jpg"
+                },
+                "raw": {
+                    "size": 19051176,
+                    "md5": "439869417aaf8d0da1dbe366b4bf577a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0812.dng"
+                }
+            },
+            "IMG_0834": {
+                "jpg_pretty": {
+                    "size": 6982574,
+                    "md5": "c2e8d817e11830c235557984e5e2819a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0834.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5395543,
+                    "md5": "841e95e04a72e6c22dfd071700b49280",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0834.jpg"
+                },
+                "raw": {
+                    "size": 18523500,
+                    "md5": "d4081ca597548e3bf7103a92b73ce771",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0834.dng"
+                }
+            },
+            "IMG_0811": {
+                "jpg_pretty": {
+                    "size": 5991446,
+                    "md5": "d3a950f6b1f0bd4f99c6b7e2a742545c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0811.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4916908,
+                    "md5": "0e2faa6044b0fecf8519bb92ef59eb8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0811.jpg"
+                },
+                "raw": {
+                    "size": 19145276,
+                    "md5": "c06ffa76d8fcc85de3c4b4d1e1e7e475",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0811.dng"
+                }
+            },
+            "IMG_0833": {
+                "jpg_pretty": {
+                    "size": 6206549,
+                    "md5": "2c0e52dd7afe7a8cd9acb69d17cfe9c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0833.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4599595,
+                    "md5": "59e65ca547b09717cddf3baeb13f39fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0833.jpg"
+                },
+                "raw": {
+                    "size": 18268782,
+                    "md5": "c7f2d72e66577f8b38dcb20c81683084",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0833.dng"
+                }
+            },
+            "IMG_0810": {
+                "jpg_pretty": {
+                    "size": 5439288,
+                    "md5": "f5369da27b5f202d851574e38b193e8e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0810.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4839899,
+                    "md5": "fb561a8609987c46765d3d5fb985cf94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0810.jpg"
+                },
+                "raw": {
+                    "size": 18552928,
+                    "md5": "51c78f7b10287549aed35de12741774a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0810.dng"
+                }
+            },
+            "IMG_0832": {
+                "jpg_pretty": {
+                    "size": 5862558,
+                    "md5": "6d7b6239ca5fb5489c5a6bd53658dc9f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0832.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5239774,
+                    "md5": "d47e888eda3f47c2e8f24a1009ff672b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0832.jpg"
+                },
+                "raw": {
+                    "size": 18720680,
+                    "md5": "c01948e19785851dae2dd23ca8d62861",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0832.dng"
+                }
+            },
+            "IMG_0831": {
+                "jpg_pretty": {
+                    "size": 5671658,
+                    "md5": "87f1df2c76970716a30806f6c5384445",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0831.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4700125,
+                    "md5": "7766d28f8c3f8eb58573166e48ca7df3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0831.jpg"
+                },
+                "raw": {
+                    "size": 18569966,
+                    "md5": "a509a5b381b7ecb61b136f5b867af576",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0831.dng"
+                }
+            },
+            "IMG_0853": {
+                "jpg_pretty": {
+                    "size": 6634990,
+                    "md5": "27dc01993c868aff6ee26f6f7c6e9ca5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0853.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4773815,
+                    "md5": "98cc2e8a46c240e291f9bd663fe80931",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0853.jpg"
+                },
+                "raw": {
+                    "size": 17787378,
+                    "md5": "63b5c3bd0e296fca1c202e67b326fbc3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0853.dng"
+                }
+            },
+            "IMG_0830": {
+                "jpg_pretty": {
+                    "size": 5890210,
+                    "md5": "a48d0ba75426e9e1c1fdae61ef3d7348",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0830.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4812929,
+                    "md5": "9cf960494a377cca038e1fe6a0d8a249",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0830.jpg"
+                },
+                "raw": {
+                    "size": 18500346,
+                    "md5": "20fd42ca1734b9955fbffd380ff185bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0830.dng"
+                }
+            },
+            "IMG_0852": {
+                "jpg_pretty": {
+                    "size": 5924485,
+                    "md5": "b604a990b81a00008135d987f0604830",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0852.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4827113,
+                    "md5": "631c2a30a9317955559718f621238b08",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0852.jpg"
+                },
+                "raw": {
+                    "size": 19487702,
+                    "md5": "dcd869a48804d910d8dbc3e2b1ffc46d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0852.dng"
+                }
+            },
+            "IMG_0851": {
+                "jpg_pretty": {
+                    "size": 5904948,
+                    "md5": "516e8ad5d7ad1f9cd2c9181565b8b9bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_pretty/IMG_0851.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4851326,
+                    "md5": "a1a77d7872a68f2c379bafd66c4f47f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/jpg_plain/IMG_0851.jpg"
+                },
+                "raw": {
+                    "size": 19450608,
+                    "md5": "b9b0794a1afd0833a644180a376805ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/the_sky_is_on_fire/raw/IMG_0851.dng"
+                }
+            }
+        }
+    }
+}

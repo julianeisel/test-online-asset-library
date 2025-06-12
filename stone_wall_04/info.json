@@ -1,0 +1,768 @@
+{
+    "name": "Stone Wall 04",
+    "categories": [
+        "wall",
+        "rock",
+        "man made"
+    ],
+    "type": 1,
+    "tags": [
+        "weathered",
+        "rough",
+        "worn",
+        "wall",
+        "uneven",
+        "rocks",
+        "rock",
+        "fortress walls",
+        "sturdy",
+        "ancient walls",
+        "rugged",
+        "durable",
+        "fort",
+        "stonework"
+    ],
+    "authors": {
+        "Amal Kumar": "All"
+    },
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "dimensions": [
+        1700.0000476837158,
+        1700.0000476837158
+    ],
+    "files_hash": "fd972b06431aae802b22b23d5b6ecae33b19c847",
+    "date_published": 1716422400,
+    "download_count": 20594,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_wall_04.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 56640586,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/stone_wall_04/stone_wall_04_diff_8k.jpg",
+                    "md5": "abb3d29cdb25197a08d9419e841c5248"
+                },
+                "png": {
+                    "size": 363525744,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/stone_wall_04/stone_wall_04_diff_8k.png",
+                    "md5": "15f34a7114d5187a29cc505d7f733355"
+                },
+                "exr": {
+                    "size": 92003915,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/stone_wall_04/stone_wall_04_diff_8k.exr",
+                    "md5": "df83494327ad4bd20361913d5bfebe4e"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 15702496,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/stone_wall_04/stone_wall_04_diff_4k.jpg",
+                    "md5": "92c800b6f4a9ee7efd62ec100a59edc7"
+                },
+                "png": {
+                    "size": 92976665,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/stone_wall_04/stone_wall_04_diff_4k.png",
+                    "md5": "64b3334d991769fbe8d0451612e65cf0"
+                },
+                "exr": {
+                    "size": 26779516,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/stone_wall_04/stone_wall_04_diff_4k.exr",
+                    "md5": "c2c87f343882d797f8f45d2a41d3bc1a"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3957414,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/stone_wall_04/stone_wall_04_diff_2k.jpg",
+                    "md5": "d51ffc29d4779a0b17560312431fda0c"
+                },
+                "png": {
+                    "size": 23372109,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/stone_wall_04/stone_wall_04_diff_2k.png",
+                    "md5": "38e101b8e229924168231e1cc298b7c8"
+                },
+                "exr": {
+                    "size": 6986741,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/stone_wall_04/stone_wall_04_diff_2k.exr",
+                    "md5": "9244fa0590b29a09e5544f24dad696dd"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 944234,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_wall_04/stone_wall_04_diff_1k.jpg",
+                    "md5": "0cc56635b6f6b1298f49fd97d4e0653d"
+                },
+                "png": {
+                    "size": 5819305,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/stone_wall_04/stone_wall_04_diff_1k.png",
+                    "md5": "d6914f16f31c421f71d3800e45c1afaf"
+                },
+                "exr": {
+                    "size": 1723739,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/stone_wall_04/stone_wall_04_diff_1k.exr",
+                    "md5": "17b307e2d88361750b387e8a556ddf88"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 69049141,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/stone_wall_04/stone_wall_04_nor_dx_8k.jpg",
+                    "md5": "9217fba0544fddcdb0943568826541bd"
+                },
+                "png": {
+                    "size": 365369815,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/stone_wall_04/stone_wall_04_nor_dx_8k.png",
+                    "md5": "b3c803e341480652f492564325fa8e1f"
+                },
+                "exr": {
+                    "size": 139608563,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/stone_wall_04/stone_wall_04_nor_dx_8k.exr",
+                    "md5": "ac1497a72cdf72fcb21f9db2c8cc1b04"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 18690407,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/stone_wall_04/stone_wall_04_nor_dx_4k.jpg",
+                    "md5": "ebc27ba64a0ff56b05a8064da9926922"
+                },
+                "png": {
+                    "size": 93169275,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/stone_wall_04/stone_wall_04_nor_dx_4k.png",
+                    "md5": "e1da6b4e1c52c692856a159a2a2ab457"
+                },
+                "exr": {
+                    "size": 37358722,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/stone_wall_04/stone_wall_04_nor_dx_4k.exr",
+                    "md5": "74accf2e1b5d5b43e5f15a6dae304212"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 4900355,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/stone_wall_04/stone_wall_04_nor_dx_2k.jpg",
+                    "md5": "0df138ce1b09fa429f7d1f3bf0043da0"
+                },
+                "png": {
+                    "size": 23555377,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/stone_wall_04/stone_wall_04_nor_dx_2k.png",
+                    "md5": "e4d0a573eeecb8e56078957f9f9b3ae0"
+                },
+                "exr": {
+                    "size": 9786981,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/stone_wall_04/stone_wall_04_nor_dx_2k.exr",
+                    "md5": "4a284e9c2feee9fa3f9550397924ec55"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1219878,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_wall_04/stone_wall_04_nor_dx_1k.jpg",
+                    "md5": "b284cb6a258c6e260d43a23ccae51642"
+                },
+                "png": {
+                    "size": 5906509,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/stone_wall_04/stone_wall_04_nor_dx_1k.png",
+                    "md5": "f3e08aa6c0aecbb5fe79d15a20bfdf68"
+                },
+                "exr": {
+                    "size": 2481528,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/stone_wall_04/stone_wall_04_nor_dx_1k.exr",
+                    "md5": "aa02b1adb8a0b50fd27cbae4634cc404"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 69094969,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/stone_wall_04/stone_wall_04_nor_gl_8k.jpg",
+                    "md5": "f36e8d84d34d811c08ab0d65bae396d2"
+                },
+                "png": {
+                    "size": 366208491,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/stone_wall_04/stone_wall_04_nor_gl_8k.png",
+                    "md5": "0023cacc1aa7f49981f2811582373bf5"
+                },
+                "exr": {
+                    "size": 139600180,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/stone_wall_04/stone_wall_04_nor_gl_8k.exr",
+                    "md5": "e5d7a3bae9c24fabb738b744dae5a603"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 18694792,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/stone_wall_04/stone_wall_04_nor_gl_4k.jpg",
+                    "md5": "806fd4f44c6fb13f0ae113c01024c8f5"
+                },
+                "png": {
+                    "size": 93169650,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/stone_wall_04/stone_wall_04_nor_gl_4k.png",
+                    "md5": "27af8b5ba0a7dd33e7e99de3205bb0c3"
+                },
+                "exr": {
+                    "size": 37341317,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/stone_wall_04/stone_wall_04_nor_gl_4k.exr",
+                    "md5": "afe3b131d4f833ad01dbde72f23b882d"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 4900694,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/stone_wall_04/stone_wall_04_nor_gl_2k.jpg",
+                    "md5": "1b97e2e76f49bb8e6e1a9e4f394faa14"
+                },
+                "png": {
+                    "size": 23556421,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/stone_wall_04/stone_wall_04_nor_gl_2k.png",
+                    "md5": "46bfa32130c8439b45d259531a968a36"
+                },
+                "exr": {
+                    "size": 9777521,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/stone_wall_04/stone_wall_04_nor_gl_2k.exr",
+                    "md5": "d0efcff026da0c614ef8f98cb39b06c6"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1220355,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_wall_04/stone_wall_04_nor_gl_1k.jpg",
+                    "md5": "b1153b5648efe22657b6656a7358fde2"
+                },
+                "png": {
+                    "size": 5907227,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/stone_wall_04/stone_wall_04_nor_gl_1k.png",
+                    "md5": "7b8e7fe08fa2593e98b5cd355abfca0e"
+                },
+                "exr": {
+                    "size": 2477273,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/stone_wall_04/stone_wall_04_nor_gl_1k.exr",
+                    "md5": "d2dfe545081f570a475a286f64392d26"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/stone_wall_04_diff_8k.jpg": {
+                            "size": 56640586,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/stone_wall_04/stone_wall_04_diff_8k.jpg",
+                            "md5": "abb3d29cdb25197a08d9419e841c5248"
+                        },
+                        "textures/stone_wall_04_disp_8k.png": {
+                            "size": 84871625,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/stone_wall_04/stone_wall_04_disp_8k.png",
+                            "md5": "3ade80ad43075751322003e3177d45ec"
+                        },
+                        "textures/stone_wall_04_nor_gl_8k.exr": {
+                            "size": 139600180,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/stone_wall_04/stone_wall_04_nor_gl_8k.exr",
+                            "md5": "e5d7a3bae9c24fabb738b744dae5a603"
+                        },
+                        "textures/stone_wall_04_rough_8k.exr": {
+                            "size": 20561101,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/stone_wall_04/stone_wall_04_rough_8k.exr",
+                            "md5": "6e6df721addf542429b554cd0e43ee2a"
+                        }
+                    },
+                    "size": 226159,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/8k/stone_wall_04/stone_wall_04_8k.blend",
+                    "md5": "9765b040258a9383473a96e6e11219a3"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/stone_wall_04_rough_4k.exr": {
+                            "size": 6293877,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/stone_wall_04/stone_wall_04_rough_4k.exr",
+                            "md5": "44a6416f2ff8e580913b6e17aaaedbbf"
+                        },
+                        "textures/stone_wall_04_diff_4k.jpg": {
+                            "size": 15702496,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/stone_wall_04/stone_wall_04_diff_4k.jpg",
+                            "md5": "92c800b6f4a9ee7efd62ec100a59edc7"
+                        },
+                        "textures/stone_wall_04_disp_4k.png": {
+                            "size": 23968366,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/stone_wall_04/stone_wall_04_disp_4k.png",
+                            "md5": "d6d9b1a58d8b4ea3e21d10a981f2bb2f"
+                        },
+                        "textures/stone_wall_04_nor_gl_4k.exr": {
+                            "size": 37341317,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/stone_wall_04/stone_wall_04_nor_gl_4k.exr",
+                            "md5": "afe3b131d4f833ad01dbde72f23b882d"
+                        }
+                    },
+                    "size": 225356,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/4k/stone_wall_04/stone_wall_04_4k.blend",
+                    "md5": "a3b68faa77767b58f561a61af8b5beba"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/stone_wall_04_diff_2k.jpg": {
+                            "size": 3957414,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/stone_wall_04/stone_wall_04_diff_2k.jpg",
+                            "md5": "d51ffc29d4779a0b17560312431fda0c"
+                        },
+                        "textures/stone_wall_04_nor_gl_2k.exr": {
+                            "size": 9777521,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/stone_wall_04/stone_wall_04_nor_gl_2k.exr",
+                            "md5": "d0efcff026da0c614ef8f98cb39b06c6"
+                        },
+                        "textures/stone_wall_04_rough_2k.exr": {
+                            "size": 1687733,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/stone_wall_04/stone_wall_04_rough_2k.exr",
+                            "md5": "3e9ff4ad9bcdd23f259ffe794551c9aa"
+                        },
+                        "textures/stone_wall_04_disp_2k.png": {
+                            "size": 6366694,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/stone_wall_04/stone_wall_04_disp_2k.png",
+                            "md5": "a8da07e0c580388bed52e6fbe4dc7568"
+                        }
+                    },
+                    "size": 226132,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/2k/stone_wall_04/stone_wall_04_2k.blend",
+                    "md5": "58213556d4785a510f718bd8d13ef1f9"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/stone_wall_04_rough_1k.exr": {
+                            "size": 417329,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/stone_wall_04/stone_wall_04_rough_1k.exr",
+                            "md5": "84e5cf10da20aae133e9456afb1fcdf3"
+                        },
+                        "textures/stone_wall_04_nor_gl_1k.exr": {
+                            "size": 2477273,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/stone_wall_04/stone_wall_04_nor_gl_1k.exr",
+                            "md5": "d2dfe545081f570a475a286f64392d26"
+                        },
+                        "textures/stone_wall_04_disp_1k.png": {
+                            "size": 1671571,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/stone_wall_04/stone_wall_04_disp_1k.png",
+                            "md5": "3a69a20c72e3d6e14448df0d9ac8a325"
+                        },
+                        "textures/stone_wall_04_diff_1k.jpg": {
+                            "size": 944234,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_wall_04/stone_wall_04_diff_1k.jpg",
+                            "md5": "0cc56635b6f6b1298f49fd97d4e0653d"
+                        }
+                    },
+                    "size": 225529,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/1k/stone_wall_04/stone_wall_04_1k.blend",
+                    "md5": "e0468bfeedc314c12963c398605538dd"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "textures/stone_wall_04_arm_8k.jpg": {
+                            "size": 40355262,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/stone_wall_04/stone_wall_04_arm_8k.jpg",
+                            "md5": "781666ca8deb7bd8875557d5e27f9733"
+                        },
+                        "textures/stone_wall_04_diff_8k.jpg": {
+                            "size": 56640586,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/stone_wall_04/stone_wall_04_diff_8k.jpg",
+                            "md5": "abb3d29cdb25197a08d9419e841c5248"
+                        },
+                        "textures/stone_wall_04_nor_gl_8k.jpg": {
+                            "size": 69094969,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/stone_wall_04/stone_wall_04_nor_gl_8k.jpg",
+                            "md5": "f36e8d84d34d811c08ab0d65bae396d2"
+                        },
+                        "stone_wall_04.bin": {
+                            "size": 2369780,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/stone_wall_04/stone_wall_04.bin",
+                            "md5": "c30a6ac42d05b9dade68800965ce795a"
+                        }
+                    },
+                    "size": 2789,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/stone_wall_04/stone_wall_04_8k.gltf",
+                    "md5": "8e739c96792e5e1d10ba1493ff1c0036"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/stone_wall_04_diff_4k.jpg": {
+                            "size": 15702496,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/stone_wall_04/stone_wall_04_diff_4k.jpg",
+                            "md5": "92c800b6f4a9ee7efd62ec100a59edc7"
+                        },
+                        "textures/stone_wall_04_arm_4k.jpg": {
+                            "size": 10558138,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/stone_wall_04/stone_wall_04_arm_4k.jpg",
+                            "md5": "3f8da508bc6c9749e8bee440d7774193"
+                        },
+                        "stone_wall_04.bin": {
+                            "size": 2369780,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/stone_wall_04/stone_wall_04.bin",
+                            "md5": "c30a6ac42d05b9dade68800965ce795a"
+                        },
+                        "textures/stone_wall_04_nor_gl_4k.jpg": {
+                            "size": 18694792,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/stone_wall_04/stone_wall_04_nor_gl_4k.jpg",
+                            "md5": "806fd4f44c6fb13f0ae113c01024c8f5"
+                        }
+                    },
+                    "size": 2789,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/4k/stone_wall_04/stone_wall_04_4k.gltf",
+                    "md5": "35c9fe7a8455daa1ff5fed95659852c1"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/stone_wall_04_diff_2k.jpg": {
+                            "size": 3957414,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/stone_wall_04/stone_wall_04_diff_2k.jpg",
+                            "md5": "d51ffc29d4779a0b17560312431fda0c"
+                        },
+                        "textures/stone_wall_04_arm_2k.jpg": {
+                            "size": 2812773,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/stone_wall_04/stone_wall_04_arm_2k.jpg",
+                            "md5": "420fd2251c3e816d8cc00d69d2dc99e8"
+                        },
+                        "textures/stone_wall_04_nor_gl_2k.jpg": {
+                            "size": 4900694,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/stone_wall_04/stone_wall_04_nor_gl_2k.jpg",
+                            "md5": "1b97e2e76f49bb8e6e1a9e4f394faa14"
+                        },
+                        "stone_wall_04.bin": {
+                            "size": 2369780,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/stone_wall_04/stone_wall_04.bin",
+                            "md5": "c30a6ac42d05b9dade68800965ce795a"
+                        }
+                    },
+                    "size": 2789,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/2k/stone_wall_04/stone_wall_04_2k.gltf",
+                    "md5": "183252e806c8970abf0860379e69b7a2"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/stone_wall_04_nor_gl_1k.jpg": {
+                            "size": 1220355,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_wall_04/stone_wall_04_nor_gl_1k.jpg",
+                            "md5": "b1153b5648efe22657b6656a7358fde2"
+                        },
+                        "textures/stone_wall_04_arm_1k.jpg": {
+                            "size": 727574,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_wall_04/stone_wall_04_arm_1k.jpg",
+                            "md5": "67181fdea619b006463bc9b1196efe2d"
+                        },
+                        "stone_wall_04.bin": {
+                            "size": 2369780,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/stone_wall_04/stone_wall_04.bin",
+                            "md5": "c30a6ac42d05b9dade68800965ce795a"
+                        },
+                        "textures/stone_wall_04_diff_1k.jpg": {
+                            "size": 944234,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_wall_04/stone_wall_04_diff_1k.jpg",
+                            "md5": "0cc56635b6f6b1298f49fd97d4e0653d"
+                        }
+                    },
+                    "size": 2789,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/1k/stone_wall_04/stone_wall_04_1k.gltf",
+                    "md5": "c3070c9fa76cbec02ca2ac9c207e23c3"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 40355262,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/stone_wall_04/stone_wall_04_arm_8k.jpg",
+                    "md5": "781666ca8deb7bd8875557d5e27f9733"
+                },
+                "png": {
+                    "size": 175203424,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/stone_wall_04/stone_wall_04_arm_8k.png",
+                    "md5": "9c4d01e1c88476b7ba5d7dac3ac9abcd"
+                },
+                "exr": {
+                    "size": 70506403,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/stone_wall_04/stone_wall_04_arm_8k.exr",
+                    "md5": "ffc3bdb6eb6dc76ff0091612903344a4"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 10558138,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/stone_wall_04/stone_wall_04_arm_4k.jpg",
+                    "md5": "3f8da508bc6c9749e8bee440d7774193"
+                },
+                "png": {
+                    "size": 48695304,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/stone_wall_04/stone_wall_04_arm_4k.png",
+                    "md5": "c2de27e9afad84346a1101932f40cac5"
+                },
+                "exr": {
+                    "size": 18728298,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/stone_wall_04/stone_wall_04_arm_4k.exr",
+                    "md5": "a92b19ef5368a1e1c08751b2db7f3889"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2812773,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/stone_wall_04/stone_wall_04_arm_2k.jpg",
+                    "md5": "420fd2251c3e816d8cc00d69d2dc99e8"
+                },
+                "png": {
+                    "size": 14301321,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/stone_wall_04/stone_wall_04_arm_2k.png",
+                    "md5": "afe904570356ee642943593a46d42b24"
+                },
+                "exr": {
+                    "size": 5204916,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/stone_wall_04/stone_wall_04_arm_2k.exr",
+                    "md5": "a891b2f341d8fcf3735b533bccc989dd"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 727574,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_wall_04/stone_wall_04_arm_1k.jpg",
+                    "md5": "67181fdea619b006463bc9b1196efe2d"
+                },
+                "png": {
+                    "size": 3912422,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/stone_wall_04/stone_wall_04_arm_1k.png",
+                    "md5": "0de2c01943902ddc0ea4e9ba63dd7df2"
+                },
+                "exr": {
+                    "size": 1383568,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/stone_wall_04/stone_wall_04_arm_1k.exr",
+                    "md5": "67ba81e7890e901521682d744b9ecd92"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 41081100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/stone_wall_04/stone_wall_04_ao_8k.jpg",
+                    "md5": "eca8eb36097d9ce074f2eaa459408fb7"
+                },
+                "png": {
+                    "size": 38996449,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/stone_wall_04/stone_wall_04_ao_8k.png",
+                    "md5": "b74096a0c6f05959f6d130b81bbacb73"
+                },
+                "exr": {
+                    "size": 40653455,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/stone_wall_04/stone_wall_04_ao_8k.exr",
+                    "md5": "df35bb3705deb9726e87abd7cf2df789"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 10165381,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/stone_wall_04/stone_wall_04_ao_4k.jpg",
+                    "md5": "e65b703c224a4471c509312baed34874"
+                },
+                "png": {
+                    "size": 13116412,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/stone_wall_04/stone_wall_04_ao_4k.png",
+                    "md5": "0f32d4464f66906a0d1b2a387e1a9f81"
+                },
+                "exr": {
+                    "size": 10203842,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/stone_wall_04/stone_wall_04_ao_4k.exr",
+                    "md5": "1c40753cfe9ed82395f1eafe7d64dd90"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2756539,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/stone_wall_04/stone_wall_04_ao_2k.jpg",
+                    "md5": "4a6f66d1f226b78665c3bd446ca37d1d"
+                },
+                "png": {
+                    "size": 5091487,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/stone_wall_04/stone_wall_04_ao_2k.png",
+                    "md5": "0587d6e640d7f338669a69d80dd65eb4"
+                },
+                "exr": {
+                    "size": 2768225,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/stone_wall_04/stone_wall_04_ao_2k.exr",
+                    "md5": "23d8f13967dc6e8d43113eee8daf3393"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 744270,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_wall_04/stone_wall_04_ao_1k.jpg",
+                    "md5": "b5d5677ecd3ac4edcff713f0f5e703a2"
+                },
+                "png": {
+                    "size": 1580243,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/stone_wall_04/stone_wall_04_ao_1k.png",
+                    "md5": "9dafbeb477b922c2ef004832886b23ca"
+                },
+                "exr": {
+                    "size": 769777,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/stone_wall_04/stone_wall_04_ao_1k.exr",
+                    "md5": "a29574f4429e8d39961e5c5f02e2deca"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 9370493,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/stone_wall_04/stone_wall_04_disp_8k.jpg",
+                    "md5": "04defb7c3d82ae31bb1f6bce7a5cf211"
+                },
+                "png": {
+                    "size": 84871625,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/stone_wall_04/stone_wall_04_disp_8k.png",
+                    "md5": "3ade80ad43075751322003e3177d45ec"
+                },
+                "exr": {
+                    "size": 7860957,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/stone_wall_04/stone_wall_04_disp_8k.exr",
+                    "md5": "2fc53b7b08304a96b63de269039084a6"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3214694,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/stone_wall_04/stone_wall_04_disp_4k.jpg",
+                    "md5": "29ed49ed2e25574a9937c22761e837df"
+                },
+                "png": {
+                    "size": 23968366,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/stone_wall_04/stone_wall_04_disp_4k.png",
+                    "md5": "d6d9b1a58d8b4ea3e21d10a981f2bb2f"
+                },
+                "exr": {
+                    "size": 2982132,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/stone_wall_04/stone_wall_04_disp_4k.exr",
+                    "md5": "3dcb1dc3d4366d93dc73e73cac462d8d"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1073934,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/stone_wall_04/stone_wall_04_disp_2k.jpg",
+                    "md5": "b46f9fd4bf1b1dc1bef4a5604955051b"
+                },
+                "png": {
+                    "size": 6366694,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/stone_wall_04/stone_wall_04_disp_2k.png",
+                    "md5": "a8da07e0c580388bed52e6fbe4dc7568"
+                },
+                "exr": {
+                    "size": 1092776,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/stone_wall_04/stone_wall_04_disp_2k.exr",
+                    "md5": "fc1cc5909b24ae5f8b2d6377b50562e3"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 351180,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_wall_04/stone_wall_04_disp_1k.jpg",
+                    "md5": "4d0979c948feb750284e895ee9e4bd7b"
+                },
+                "png": {
+                    "size": 1671571,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/stone_wall_04/stone_wall_04_disp_1k.png",
+                    "md5": "3a69a20c72e3d6e14448df0d9ac8a325"
+                },
+                "exr": {
+                    "size": 382935,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/stone_wall_04/stone_wall_04_disp_1k.exr",
+                    "md5": "da6c3763eafb36c4fd67ea651d84d629"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 23756645,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/stone_wall_04/stone_wall_04_rough_8k.jpg",
+                    "md5": "ba4de01d3df73c3e895c62c549ea9bee"
+                },
+                "png": {
+                    "size": 108998195,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/stone_wall_04/stone_wall_04_rough_8k.png",
+                    "md5": "9ff6049e064ea529d67c5eca2af326fc"
+                },
+                "exr": {
+                    "size": 20561101,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/stone_wall_04/stone_wall_04_rough_8k.exr",
+                    "md5": "6e6df721addf542429b554cd0e43ee2a"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 7019718,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/stone_wall_04/stone_wall_04_rough_4k.jpg",
+                    "md5": "b13f416d65c60f263ac09d2b5f9d10f6"
+                },
+                "png": {
+                    "size": 27562666,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/stone_wall_04/stone_wall_04_rough_4k.png",
+                    "md5": "f9cfb7060dac9e440da924c6512fcd20"
+                },
+                "exr": {
+                    "size": 6293877,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/stone_wall_04/stone_wall_04_rough_4k.exr",
+                    "md5": "44a6416f2ff8e580913b6e17aaaedbbf"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1804915,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/stone_wall_04/stone_wall_04_rough_2k.jpg",
+                    "md5": "d7553a475025e0c7e94b3860d74184fa"
+                },
+                "png": {
+                    "size": 6946191,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/stone_wall_04/stone_wall_04_rough_2k.png",
+                    "md5": "42b72b46c08119f42b9b61720eb68382"
+                },
+                "exr": {
+                    "size": 1687733,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/stone_wall_04/stone_wall_04_rough_2k.exr",
+                    "md5": "3e9ff4ad9bcdd23f259ffe794551c9aa"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 434007,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_wall_04/stone_wall_04_rough_1k.jpg",
+                    "md5": "e2ad477f4301aed5268426732ae2c4c6"
+                },
+                "png": {
+                    "size": 1726334,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/stone_wall_04/stone_wall_04_rough_1k.png",
+                    "md5": "cb18a28ff430671a4573563996ef4aae"
+                },
+                "exr": {
+                    "size": 417329,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/stone_wall_04/stone_wall_04_rough_1k.exr",
+                    "md5": "84e5cf10da20aae133e9456afb1fcdf3"
+                }
+            }
+        }
+    }
+}

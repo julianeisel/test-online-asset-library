@@ -1,0 +1,126 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "school",
+        "stage",
+        "hall",
+        "wood",
+        "wooden floor",
+        "curtain"
+    ],
+    "name": "School Hall",
+    "categories": [
+        "indoor",
+        "natural light",
+        "artificial light",
+        "urban",
+        "medium contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1677515400,
+    "coords": [
+        -25.849599207438967,
+        28.16632809793181
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "date_published": 1679875200,
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "d755b248d8d4f20694397d81e282dee9dee5f73f",
+    "download_count": 11039,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/school_hall.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 45369236,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/school_hall.jpg",
+            "md5": "29ace7fba02f34485dead53854aa0789"
+        },
+        "colorchart": {
+            "size": 209455257,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/school_hall.zip",
+            "md5": "8da67f5366d63efb7f7d09d63ba6b189"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/school_hall_8k.hdr",
+                    "size": 101604535,
+                    "md5": "1cd1a9c009b549b99cd484c4cfbd0795"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/school_hall_8k.exr",
+                    "size": 334800079,
+                    "md5": "cdf104bc76a98d6603c3c95c1dc867d2"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/school_hall_16k.hdr",
+                    "size": 383488153,
+                    "md5": "511daa0b358840cc74409e10a7e40867"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/school_hall_16k.exr",
+                    "size": 1281215232,
+                    "md5": "10f44f1d8ea37aeb04ae820250515277"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/school_hall_4k.hdr",
+                    "size": 26026945,
+                    "md5": "aa26139e09ebc81137abb429bc31a39c"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/school_hall_4k.exr",
+                    "size": 86021032,
+                    "md5": "be19fd05ba4227a85ef35193456d635a"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/school_hall_24k.hdr",
+                    "size": 846193648,
+                    "md5": "2d9ce1aa7996c9aa07ce21646d0b9792"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/school_hall_24k.exr",
+                    "size": 2896296604,
+                    "md5": "24db04569e7a2da1aad3564bdce66239"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/school_hall_2k.hdr",
+                    "size": 6640427,
+                    "md5": "fc8a677ba3285866c53da27d893dd2f8"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/school_hall_2k.exr",
+                    "size": 22431196,
+                    "md5": "93e98621f4616c1030a6a673eeb0f5ce"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/school_hall_1k.hdr",
+                    "size": 1693261,
+                    "md5": "9f34c5cb1438b5c2017a5acbefdefcb3"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/school_hall_1k.exr",
+                    "size": 6008643,
+                    "md5": "ca5b41e011cc730e6995b3cf4d6567f1"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,901 @@
+{
+    "type": 1,
+    "tags": [
+        "regular",
+        "tiles",
+        "square",
+        "uneven",
+        "pattern"
+    ],
+    "date_published": 1547974521,
+    "name": "Square Floor Patern 01",
+    "categories": [
+        "floor",
+        "man made",
+        "outdoor",
+        "clean",
+        "road"
+    ],
+    "authors": {
+        "Rob Tuytel": "All"
+    },
+    "dimensions": [
+        3000,
+        3000
+    ],
+    "files_hash": "36a0c404030f7fc6a312b81fe856e0f55af19dac",
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "download_count": 36423,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/square_floor_patern_01.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 27981847,
+                    "md5": "af144494966091df323929770f920da5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/square_floor_patern_01/square_floor_patern_01_diff_8k.jpg"
+                },
+                "png": {
+                    "size": 111092666,
+                    "md5": "05585861991a1819018333dbf8607067",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/square_floor_patern_01/square_floor_patern_01_diff_8k.png"
+                },
+                "exr": {
+                    "size": 69185966,
+                    "md5": "b68b4f494ffe08a33b0586012c28effc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/square_floor_patern_01/square_floor_patern_01_diff_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 9854661,
+                    "md5": "b1f79163f8708d0be4d4b1231fdaf618",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/square_floor_patern_01/square_floor_patern_01_diff_4k.jpg"
+                },
+                "png": {
+                    "size": 34819286,
+                    "md5": "94c3062547a83b7b65711a627ddef97f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/square_floor_patern_01/square_floor_patern_01_diff_4k.png"
+                },
+                "exr": {
+                    "size": 24448694,
+                    "md5": "71f378acb34727430566464f3e6808a5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/square_floor_patern_01/square_floor_patern_01_diff_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2782001,
+                    "md5": "969bddb1c309a39da4b44a059296c237",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/square_floor_patern_01/square_floor_patern_01_diff_2k.jpg"
+                },
+                "png": {
+                    "size": 9337709,
+                    "md5": "26ff48eb742940e8ecfd8d79696d86ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/square_floor_patern_01/square_floor_patern_01_diff_2k.png"
+                },
+                "exr": {
+                    "size": 7061135,
+                    "md5": "a0e2a01497a0b2db55e44c58bda94bd5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/square_floor_patern_01/square_floor_patern_01_diff_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 666200,
+                    "md5": "f095cbd8d1d0a25a1fd6a0a127d4a419",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_floor_patern_01/square_floor_patern_01_diff_1k.jpg"
+                },
+                "png": {
+                    "size": 2225956,
+                    "md5": "d0992595be563e45ac862dbf96cb56cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/square_floor_patern_01/square_floor_patern_01_diff_1k.png"
+                },
+                "exr": {
+                    "size": 1702016,
+                    "md5": "6c0222c674df678e12fe39318110c18b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/square_floor_patern_01/square_floor_patern_01_diff_1k.exr"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 28043466,
+                    "md5": "5bde2f9691861ea2b61c5fcdbca8c9fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/square_floor_patern_01/square_floor_patern_01_nor_dx_8k.jpg"
+                },
+                "png": {
+                    "size": 83191161,
+                    "md5": "bc3ef5fa241d66d609f8aef47f1a65cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/square_floor_patern_01/square_floor_patern_01_nor_dx_8k.png"
+                },
+                "exr": {
+                    "size": 85649305,
+                    "md5": "e46b449c0d059cf3b47b76f2c12b9b7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/square_floor_patern_01/square_floor_patern_01_nor_dx_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 9060044,
+                    "md5": "632a9514f25bbc9f4a5454f16b46ef25",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/square_floor_patern_01/square_floor_patern_01_nor_dx_4k.jpg"
+                },
+                "png": {
+                    "size": 24453213,
+                    "md5": "c5394ed2d4462ab360db61334805c156",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/square_floor_patern_01/square_floor_patern_01_nor_dx_4k.png"
+                },
+                "exr": {
+                    "size": 26021924,
+                    "md5": "26c236766aa0133a7b4b37a696e7a1d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/square_floor_patern_01/square_floor_patern_01_nor_dx_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2483223,
+                    "md5": "b4196d3ed15482a9cf96a8fa2a1c4177",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/square_floor_patern_01/square_floor_patern_01_nor_dx_2k.jpg"
+                },
+                "png": {
+                    "size": 6564478,
+                    "md5": "60383cf172bad7e8d7159f1d9d9cbaaa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/square_floor_patern_01/square_floor_patern_01_nor_dx_2k.png"
+                },
+                "exr": {
+                    "size": 7181183,
+                    "md5": "5b21dfcd4be30c7723dfa7e833249431",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/square_floor_patern_01/square_floor_patern_01_nor_dx_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 574207,
+                    "md5": "de374f233bb44adec118601f711f2987",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_floor_patern_01/square_floor_patern_01_nor_dx_1k.jpg"
+                },
+                "png": {
+                    "size": 1652224,
+                    "md5": "9ca1f7521a7f8824ef8613eda81d3045",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/square_floor_patern_01/square_floor_patern_01_nor_dx_1k.png"
+                },
+                "exr": {
+                    "size": 1797709,
+                    "md5": "8388485ffa45be79f0a6f4711b32ce8c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/square_floor_patern_01/square_floor_patern_01_nor_dx_1k.exr"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 29839893,
+                    "md5": "bbfa78d674d7455ad4ba35e5ad255d73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/square_floor_patern_01/square_floor_patern_01_nor_gl_8k.jpg"
+                },
+                "png": {
+                    "size": 83344376,
+                    "md5": "b0634bb222c8b9ac12ba603aea41ae38",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/square_floor_patern_01/square_floor_patern_01_nor_gl_8k.png"
+                },
+                "exr": {
+                    "size": 79556201,
+                    "md5": "ac4eb19b27f3195889c0dfa488e0a25e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/square_floor_patern_01/square_floor_patern_01_nor_gl_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 9298237,
+                    "md5": "01df04af82a866ae16e9e964a165c678",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/square_floor_patern_01/square_floor_patern_01_nor_gl_4k.jpg"
+                },
+                "png": {
+                    "size": 24454905,
+                    "md5": "4c9af78fcd66ee10e56c8061be082849",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/square_floor_patern_01/square_floor_patern_01_nor_gl_4k.png"
+                },
+                "exr": {
+                    "size": 24546136,
+                    "md5": "0a5874e42de7b5dfdb982275bfe860fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/square_floor_patern_01/square_floor_patern_01_nor_gl_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2495384,
+                    "md5": "284cff8fb1ae6c4d967ae736d6a8e692",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/square_floor_patern_01/square_floor_patern_01_nor_gl_2k.jpg"
+                },
+                "png": {
+                    "size": 6564848,
+                    "md5": "27d40c25f1887479fb343fd4a06fe188",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/square_floor_patern_01/square_floor_patern_01_nor_gl_2k.png"
+                },
+                "exr": {
+                    "size": 6851423,
+                    "md5": "faa4159262cde1b636ff352d1ae2fcad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/square_floor_patern_01/square_floor_patern_01_nor_gl_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 579294,
+                    "md5": "68a6082ef8bc301a8b9c3ca8e9f72dce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_floor_patern_01/square_floor_patern_01_nor_gl_1k.jpg"
+                },
+                "png": {
+                    "size": 1652099,
+                    "md5": "4f3acd0089614aae6b140aa508a8f28f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/square_floor_patern_01/square_floor_patern_01_nor_gl_1k.png"
+                },
+                "exr": {
+                    "size": 1719415,
+                    "md5": "f11b36172f4c7953fc8fdb24774e4fdb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/square_floor_patern_01/square_floor_patern_01_nor_gl_1k.exr"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "size": 278077,
+                    "md5": "48c9e07ef80a90dd28cfead40a4eca9b",
+                    "include": {
+                        "textures/square_floor_patern_01_rough_8k.jpg": {
+                            "size": 19700129,
+                            "md5": "f07da2aec7936eb983a7ab43c6522c44",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/square_floor_patern_01/square_floor_patern_01_rough_8k.jpg"
+                        },
+                        "textures/square_floor_patern_01_diff_8k.jpg": {
+                            "size": 27981847,
+                            "md5": "af144494966091df323929770f920da5",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/square_floor_patern_01/square_floor_patern_01_diff_8k.jpg"
+                        },
+                        "textures/square_floor_patern_01_disp_8k.png": {
+                            "size": 40986695,
+                            "md5": "b4a88889f14121edf366a881d7459439",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/square_floor_patern_01/square_floor_patern_01_disp_8k.png"
+                        },
+                        "textures/square_floor_patern_01_nor_gl_8k.exr": {
+                            "size": 79556201,
+                            "md5": "ac4eb19b27f3195889c0dfa488e0a25e",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/square_floor_patern_01/square_floor_patern_01_nor_gl_8k.exr"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/8k/square_floor_patern_01/square_floor_patern_01_8k.blend"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "size": 277775,
+                    "md5": "62bc625177a18da788d2aee788ed91e0",
+                    "include": {
+                        "textures/square_floor_patern_01_rough_4k.jpg": {
+                            "size": 6397465,
+                            "md5": "83bca1493f10bd8ebe855a3ddd73b66e",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/square_floor_patern_01/square_floor_patern_01_rough_4k.jpg"
+                        },
+                        "textures/square_floor_patern_01_nor_gl_4k.exr": {
+                            "size": 24546136,
+                            "md5": "0a5874e42de7b5dfdb982275bfe860fb",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/square_floor_patern_01/square_floor_patern_01_nor_gl_4k.exr"
+                        },
+                        "textures/square_floor_patern_01_diff_4k.jpg": {
+                            "size": 9854661,
+                            "md5": "b1f79163f8708d0be4d4b1231fdaf618",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/square_floor_patern_01/square_floor_patern_01_diff_4k.jpg"
+                        },
+                        "textures/square_floor_patern_01_disp_4k.png": {
+                            "size": 27405008,
+                            "md5": "b60557d6875ac4ccc3259a8e799a7fe1",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/square_floor_patern_01/square_floor_patern_01_disp_4k.png"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/4k/square_floor_patern_01/square_floor_patern_01_4k.blend"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "size": 277802,
+                    "md5": "f0b500830e56e33e13e78db69913dd3b",
+                    "include": {
+                        "textures/square_floor_patern_01_diff_2k.jpg": {
+                            "size": 2782001,
+                            "md5": "969bddb1c309a39da4b44a059296c237",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/square_floor_patern_01/square_floor_patern_01_diff_2k.jpg"
+                        },
+                        "textures/square_floor_patern_01_nor_gl_2k.exr": {
+                            "size": 6851423,
+                            "md5": "faa4159262cde1b636ff352d1ae2fcad",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/square_floor_patern_01/square_floor_patern_01_nor_gl_2k.exr"
+                        },
+                        "textures/square_floor_patern_01_disp_2k.png": {
+                            "size": 7253265,
+                            "md5": "7ea9b4547846e5782a05251ed2fa751d",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/square_floor_patern_01/square_floor_patern_01_disp_2k.png"
+                        },
+                        "textures/square_floor_patern_01_rough_2k.jpg": {
+                            "size": 1718769,
+                            "md5": "c7cd0f040fe47a21cc7f5b098f173a7c",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/square_floor_patern_01/square_floor_patern_01_rough_2k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/2k/square_floor_patern_01/square_floor_patern_01_2k.blend"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "size": 277946,
+                    "md5": "e3ce59265d9469a022f45098227139f2",
+                    "include": {
+                        "textures/square_floor_patern_01_rough_1k.jpg": {
+                            "size": 394237,
+                            "md5": "64cfc951d92e1974e4719b8163e49371",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_floor_patern_01/square_floor_patern_01_rough_1k.jpg"
+                        },
+                        "textures/square_floor_patern_01_nor_gl_1k.exr": {
+                            "size": 1719415,
+                            "md5": "f11b36172f4c7953fc8fdb24774e4fdb",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/square_floor_patern_01/square_floor_patern_01_nor_gl_1k.exr"
+                        },
+                        "textures/square_floor_patern_01_diff_1k.jpg": {
+                            "size": 666200,
+                            "md5": "f095cbd8d1d0a25a1fd6a0a127d4a419",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_floor_patern_01/square_floor_patern_01_diff_1k.jpg"
+                        },
+                        "textures/square_floor_patern_01_disp_1k.png": {
+                            "size": 1896209,
+                            "md5": "f19f54e21e52fd1adcffdca9eb50ccd2",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/square_floor_patern_01/square_floor_patern_01_disp_1k.png"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/1k/square_floor_patern_01/square_floor_patern_01_1k.blend"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "size": 3622,
+                    "md5": "97c7e03e49349bfce8e198bc2fed3df4",
+                    "include": {
+                        "textures/square_floor_patern_01_rough_8k.jpg": {
+                            "size": 19700129,
+                            "md5": "f07da2aec7936eb983a7ab43c6522c44",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/square_floor_patern_01/square_floor_patern_01_rough_8k.jpg"
+                        },
+                        "textures/square_floor_patern_01_diff_8k.jpg": {
+                            "size": 27981847,
+                            "md5": "af144494966091df323929770f920da5",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/square_floor_patern_01/square_floor_patern_01_diff_8k.jpg"
+                        },
+                        "square_floor_patern_01.bin": {
+                            "size": 2367700,
+                            "md5": "e2c8a2e58f89b5b8c2a4f2c34d2ad4a6",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/square_floor_patern_01/square_floor_patern_01.bin"
+                        },
+                        "textures/square_floor_patern_01_nor_gl_8k.jpg": {
+                            "size": 29839893,
+                            "md5": "bbfa78d674d7455ad4ba35e5ad255d73",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/square_floor_patern_01/square_floor_patern_01_nor_gl_8k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/square_floor_patern_01/square_floor_patern_01_8k.gltf"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "size": 3622,
+                    "md5": "6764835bde705101cda25026b1272361",
+                    "include": {
+                        "textures/square_floor_patern_01_rough_4k.jpg": {
+                            "size": 6397465,
+                            "md5": "83bca1493f10bd8ebe855a3ddd73b66e",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/square_floor_patern_01/square_floor_patern_01_rough_4k.jpg"
+                        },
+                        "textures/square_floor_patern_01_diff_4k.jpg": {
+                            "size": 9854661,
+                            "md5": "b1f79163f8708d0be4d4b1231fdaf618",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/square_floor_patern_01/square_floor_patern_01_diff_4k.jpg"
+                        },
+                        "textures/square_floor_patern_01_nor_gl_4k.jpg": {
+                            "size": 9298237,
+                            "md5": "01df04af82a866ae16e9e964a165c678",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/square_floor_patern_01/square_floor_patern_01_nor_gl_4k.jpg"
+                        },
+                        "square_floor_patern_01.bin": {
+                            "size": 2367700,
+                            "md5": "e2c8a2e58f89b5b8c2a4f2c34d2ad4a6",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/square_floor_patern_01/square_floor_patern_01.bin"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/4k/square_floor_patern_01/square_floor_patern_01_4k.gltf"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "size": 3622,
+                    "md5": "79b15be7fcfb54cf0733948a0cc01c8b",
+                    "include": {
+                        "textures/square_floor_patern_01_diff_2k.jpg": {
+                            "size": 2782001,
+                            "md5": "969bddb1c309a39da4b44a059296c237",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/square_floor_patern_01/square_floor_patern_01_diff_2k.jpg"
+                        },
+                        "textures/square_floor_patern_01_nor_gl_2k.jpg": {
+                            "size": 2495384,
+                            "md5": "284cff8fb1ae6c4d967ae736d6a8e692",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/square_floor_patern_01/square_floor_patern_01_nor_gl_2k.jpg"
+                        },
+                        "textures/square_floor_patern_01_rough_2k.jpg": {
+                            "size": 1718769,
+                            "md5": "c7cd0f040fe47a21cc7f5b098f173a7c",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/square_floor_patern_01/square_floor_patern_01_rough_2k.jpg"
+                        },
+                        "square_floor_patern_01.bin": {
+                            "size": 2367700,
+                            "md5": "e2c8a2e58f89b5b8c2a4f2c34d2ad4a6",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/square_floor_patern_01/square_floor_patern_01.bin"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/2k/square_floor_patern_01/square_floor_patern_01_2k.gltf"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "size": 3622,
+                    "md5": "ba457c35e8329f7ad9f0518bf95f3fef",
+                    "include": {
+                        "textures/square_floor_patern_01_rough_1k.jpg": {
+                            "size": 394237,
+                            "md5": "64cfc951d92e1974e4719b8163e49371",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_floor_patern_01/square_floor_patern_01_rough_1k.jpg"
+                        },
+                        "textures/square_floor_patern_01_nor_gl_1k.jpg": {
+                            "size": 579294,
+                            "md5": "68a6082ef8bc301a8b9c3ca8e9f72dce",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_floor_patern_01/square_floor_patern_01_nor_gl_1k.jpg"
+                        },
+                        "textures/square_floor_patern_01_diff_1k.jpg": {
+                            "size": 666200,
+                            "md5": "f095cbd8d1d0a25a1fd6a0a127d4a419",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_floor_patern_01/square_floor_patern_01_diff_1k.jpg"
+                        },
+                        "square_floor_patern_01.bin": {
+                            "size": 2367700,
+                            "md5": "e2c8a2e58f89b5b8c2a4f2c34d2ad4a6",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/square_floor_patern_01/square_floor_patern_01.bin"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/1k/square_floor_patern_01/square_floor_patern_01_1k.gltf"
+                }
+            }
+        },
+        "Bump": {
+            "8k": {
+                "jpg": {
+                    "size": 32258841,
+                    "md5": "df8b7b197cce1aa9be991ac98ded4f94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/square_floor_patern_01/square_floor_patern_01_bump_8k.jpg"
+                },
+                "png": {
+                    "size": 47006716,
+                    "md5": "1638a6ffb0029192fc0225ff6f53cb18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/square_floor_patern_01/square_floor_patern_01_bump_8k.png"
+                },
+                "exr": {
+                    "size": 84671187,
+                    "md5": "097874ccbc0c13fbcdec5f0e1982b7ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/square_floor_patern_01/square_floor_patern_01_bump_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 10328181,
+                    "md5": "73554d71849245e4e7b70ecbd30d527e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/square_floor_patern_01/square_floor_patern_01_bump_4k.jpg"
+                },
+                "png": {
+                    "size": 16018373,
+                    "md5": "df05ff0361b849415b61dc13f2473519",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/square_floor_patern_01/square_floor_patern_01_bump_4k.png"
+                },
+                "exr": {
+                    "size": 23183494,
+                    "md5": "d238485df311e4438924b038a18a9c12",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/square_floor_patern_01/square_floor_patern_01_bump_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2784865,
+                    "md5": "fe12fd1630954b7b9b92e323833fc32e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/square_floor_patern_01/square_floor_patern_01_bump_2k.jpg"
+                },
+                "png": {
+                    "size": 3938277,
+                    "md5": "b7c089565f7d27c32b54d27a126a9cb6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/square_floor_patern_01/square_floor_patern_01_bump_2k.png"
+                },
+                "exr": {
+                    "size": 5846850,
+                    "md5": "38f792b7263f55af2b2bbd5eef717555",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/square_floor_patern_01/square_floor_patern_01_bump_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 648002,
+                    "md5": "014cb18a21cc19c86dd62fd5f3bdf1ee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_floor_patern_01/square_floor_patern_01_bump_1k.jpg"
+                },
+                "png": {
+                    "size": 960632,
+                    "md5": "33f4b221acefb9d9adcba26c11f1760c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/square_floor_patern_01/square_floor_patern_01_bump_1k.png"
+                },
+                "exr": {
+                    "size": 1404424,
+                    "md5": "28cc342c1fbb11bf88190ad00ddddc36",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/square_floor_patern_01/square_floor_patern_01_bump_1k.exr"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 12334193,
+                    "md5": "6f6b42ed0809d566bb35dbe30548e8ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/square_floor_patern_01/square_floor_patern_01_arm_8k.jpg"
+                },
+                "png": {
+                    "size": 74928640,
+                    "md5": "d38b5d87e95fc5239b6b304634eeabee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/square_floor_patern_01/square_floor_patern_01_arm_8k.png"
+                },
+                "exr": {
+                    "size": 79861735,
+                    "md5": "39fd16eec75bcedfdff428f6731b2f50",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/square_floor_patern_01/square_floor_patern_01_arm_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3438480,
+                    "md5": "2e6dba5a4d8768f2ed3fd573c23e6749",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/square_floor_patern_01/square_floor_patern_01_arm_4k.jpg"
+                },
+                "png": {
+                    "size": 22391445,
+                    "md5": "918fb364b880692c1d26abd297097f9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/square_floor_patern_01/square_floor_patern_01_arm_4k.png"
+                },
+                "exr": {
+                    "size": 24685796,
+                    "md5": "e87213d7907f85fa551bceb478be599a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/square_floor_patern_01/square_floor_patern_01_arm_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 807749,
+                    "md5": "8f80886d5f7520c4ed2eced86709e1b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/square_floor_patern_01/square_floor_patern_01_arm_2k.jpg"
+                },
+                "png": {
+                    "size": 5455663,
+                    "md5": "35203bfc2322dd9077b3a67a89cc2d55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/square_floor_patern_01/square_floor_patern_01_arm_2k.png"
+                },
+                "exr": {
+                    "size": 6382065,
+                    "md5": "04d5d37d3d3a76c768f8239414193b75",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/square_floor_patern_01/square_floor_patern_01_arm_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 173531,
+                    "md5": "34d38b42eebe80c488ad7585ab49a052",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_floor_patern_01/square_floor_patern_01_arm_1k.jpg"
+                },
+                "png": {
+                    "size": 1284020,
+                    "md5": "204808478f880a49548317f01c9d478b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/square_floor_patern_01/square_floor_patern_01_arm_1k.png"
+                },
+                "exr": {
+                    "size": 1490106,
+                    "md5": "7ecbac36e1398186795607bcdd0e35b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/square_floor_patern_01/square_floor_patern_01_arm_1k.exr"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 19290770,
+                    "md5": "a3a2ce28309b9c5e767766253b0cdcf4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/square_floor_patern_01/square_floor_patern_01_ao_8k.jpg"
+                },
+                "png": {
+                    "size": 54373274,
+                    "md5": "40b380c7148794ffc961821363d6d3e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/square_floor_patern_01/square_floor_patern_01_ao_8k.png"
+                },
+                "exr": {
+                    "size": 32914582,
+                    "md5": "4bee77c49c9f3937319391bec3cc12ee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/square_floor_patern_01/square_floor_patern_01_ao_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4620907,
+                    "md5": "0acbac363f82a3c23276f71a8cee95d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/square_floor_patern_01/square_floor_patern_01_ao_4k.jpg"
+                },
+                "png": {
+                    "size": 13379560,
+                    "md5": "88efcbdb558f127173f5b97a2a2aade1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/square_floor_patern_01/square_floor_patern_01_ao_4k.png"
+                },
+                "exr": {
+                    "size": 8548996,
+                    "md5": "39ffe840065778950b53ccfdb0eab8a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/square_floor_patern_01/square_floor_patern_01_ao_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 929511,
+                    "md5": "d5cc75d6607ec0f40f0810430f92a86d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/square_floor_patern_01/square_floor_patern_01_ao_2k.jpg"
+                },
+                "png": {
+                    "size": 2963405,
+                    "md5": "4044d17dee9a605a9d994d2da75576d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/square_floor_patern_01/square_floor_patern_01_ao_2k.png"
+                },
+                "exr": {
+                    "size": 1861818,
+                    "md5": "a98d70115c2cff6fab6c6e3aae9963e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/square_floor_patern_01/square_floor_patern_01_ao_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 209587,
+                    "md5": "a8de33d4d84c8316cdab613aa28c4fdb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_floor_patern_01/square_floor_patern_01_ao_1k.jpg"
+                },
+                "png": {
+                    "size": 696794,
+                    "md5": "d1941fe6e882addde3d4cac55b47d69b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/square_floor_patern_01/square_floor_patern_01_ao_1k.png"
+                },
+                "exr": {
+                    "size": 436278,
+                    "md5": "7af06647789cd6dd66c3807315480784",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/square_floor_patern_01/square_floor_patern_01_ao_1k.exr"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 4471947,
+                    "md5": "39bf42f16c215ed44bf4c5fc887dbc16",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/square_floor_patern_01/square_floor_patern_01_disp_8k.jpg"
+                },
+                "png": {
+                    "size": 40986695,
+                    "md5": "b4a88889f14121edf366a881d7459439",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/square_floor_patern_01/square_floor_patern_01_disp_8k.png"
+                },
+                "exr": {
+                    "size": 8931135,
+                    "md5": "7e1c9ad5f4e75475140aafe1e238cffa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/square_floor_patern_01/square_floor_patern_01_disp_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1490137,
+                    "md5": "50a76b991d10225840c5fe6693c7ed99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/square_floor_patern_01/square_floor_patern_01_disp_4k.jpg"
+                },
+                "png": {
+                    "size": 27405008,
+                    "md5": "b60557d6875ac4ccc3259a8e799a7fe1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/square_floor_patern_01/square_floor_patern_01_disp_4k.png"
+                },
+                "exr": {
+                    "size": 2980594,
+                    "md5": "8afc71ba33e31644e392452fe544f20f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/square_floor_patern_01/square_floor_patern_01_disp_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 505723,
+                    "md5": "062f19b67f0e236d4bf6c4f1525ed9f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/square_floor_patern_01/square_floor_patern_01_disp_2k.jpg"
+                },
+                "png": {
+                    "size": 7253265,
+                    "md5": "7ea9b4547846e5782a05251ed2fa751d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/square_floor_patern_01/square_floor_patern_01_disp_2k.png"
+                },
+                "exr": {
+                    "size": 1033179,
+                    "md5": "136f02cc8ccaa54a8dbd916b5abb2c7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/square_floor_patern_01/square_floor_patern_01_disp_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 158077,
+                    "md5": "95e0915d8c53b3b441b6a03cf995d220",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_floor_patern_01/square_floor_patern_01_disp_1k.jpg"
+                },
+                "png": {
+                    "size": 1896209,
+                    "md5": "f19f54e21e52fd1adcffdca9eb50ccd2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/square_floor_patern_01/square_floor_patern_01_disp_1k.png"
+                },
+                "exr": {
+                    "size": 348175,
+                    "md5": "f3a7f02e5545a7a607124d8d1f19f1cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/square_floor_patern_01/square_floor_patern_01_disp_1k.exr"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 19700129,
+                    "md5": "f07da2aec7936eb983a7ab43c6522c44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/square_floor_patern_01/square_floor_patern_01_rough_8k.jpg"
+                },
+                "png": {
+                    "size": 28150848,
+                    "md5": "181dcde4726d6024456e6a961b8b8a03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/square_floor_patern_01/square_floor_patern_01_rough_8k.png"
+                },
+                "exr": {
+                    "size": 43079279,
+                    "md5": "eb60dc9d494c9bd5fcf287576b66f095",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/square_floor_patern_01/square_floor_patern_01_rough_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 6397465,
+                    "md5": "83bca1493f10bd8ebe855a3ddd73b66e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/square_floor_patern_01/square_floor_patern_01_rough_4k.jpg"
+                },
+                "png": {
+                    "size": 9356480,
+                    "md5": "07b747f3599a788b46723173aefc2a57",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/square_floor_patern_01/square_floor_patern_01_rough_4k.png"
+                },
+                "exr": {
+                    "size": 13642591,
+                    "md5": "2f0c94a0857a12963b1b6386f3f2a869",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/square_floor_patern_01/square_floor_patern_01_rough_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1718769,
+                    "md5": "c7cd0f040fe47a21cc7f5b098f173a7c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/square_floor_patern_01/square_floor_patern_01_rough_2k.jpg"
+                },
+                "png": {
+                    "size": 2571738,
+                    "md5": "07436735823010bc6d12e285141f7a7d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/square_floor_patern_01/square_floor_patern_01_rough_2k.png"
+                },
+                "exr": {
+                    "size": 3661129,
+                    "md5": "8962a2538c0b50d6b355ae73241cc824",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/square_floor_patern_01/square_floor_patern_01_rough_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 394237,
+                    "md5": "64cfc951d92e1974e4719b8163e49371",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_floor_patern_01/square_floor_patern_01_rough_1k.jpg"
+                },
+                "png": {
+                    "size": 653716,
+                    "md5": "993ce8feed6b1139a6beb7d983da24f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/square_floor_patern_01/square_floor_patern_01_rough_1k.png"
+                },
+                "exr": {
+                    "size": 884008,
+                    "md5": "1fcf340b42e8d9d31edf3fde45fd9993",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/square_floor_patern_01/square_floor_patern_01_rough_1k.exr"
+                }
+            }
+        },
+        "spec": {
+            "8k": {
+                "jpg": {
+                    "size": 14834418,
+                    "md5": "16420e6973ee490cbe409b9267b12dca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/square_floor_patern_01/square_floor_patern_01_spec_8k.jpg"
+                },
+                "png": {
+                    "size": 25959780,
+                    "md5": "25d28c5947080034fea2610a683ebb34",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/square_floor_patern_01/square_floor_patern_01_spec_8k.png"
+                },
+                "exr": {
+                    "size": 53689456,
+                    "md5": "a5cd6d48588794c6ceeb4a63c8ab9dc9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/square_floor_patern_01/square_floor_patern_01_spec_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4840570,
+                    "md5": "044f7e79f4e220b47ba054a384fe092d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/square_floor_patern_01/square_floor_patern_01_spec_4k.jpg"
+                },
+                "png": {
+                    "size": 8350782,
+                    "md5": "d0f67a2e502aaa5a2f6195432bc7feab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/square_floor_patern_01/square_floor_patern_01_spec_4k.png"
+                },
+                "exr": {
+                    "size": 16258630,
+                    "md5": "a01fdbda503d758f5d48abefa6ac577a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/square_floor_patern_01/square_floor_patern_01_spec_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1268211,
+                    "md5": "28750163387971bd8b89dd3f917867ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/square_floor_patern_01/square_floor_patern_01_spec_2k.jpg"
+                },
+                "png": {
+                    "size": 2220626,
+                    "md5": "ce5d6a7997a5f67ba23cef7bcdc55e50",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/square_floor_patern_01/square_floor_patern_01_spec_2k.png"
+                },
+                "exr": {
+                    "size": 4384658,
+                    "md5": "f548a97460ea50266f2d988119fb09e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/square_floor_patern_01/square_floor_patern_01_spec_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 283501,
+                    "md5": "2d9575bffef97bb5764005160437923b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/square_floor_patern_01/square_floor_patern_01_spec_1k.jpg"
+                },
+                "png": {
+                    "size": 548062,
+                    "md5": "f970e0015e6fc85ad9bbb5027a389997",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/square_floor_patern_01/square_floor_patern_01_spec_1k.png"
+                },
+                "exr": {
+                    "size": 1083799,
+                    "md5": "1b5bb840b4c5936645e834933ceb453d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/square_floor_patern_01/square_floor_patern_01_spec_1k.exr"
+                }
+            }
+        }
+    }
+}

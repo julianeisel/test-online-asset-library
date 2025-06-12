@@ -1,0 +1,119 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "bed",
+        "table",
+        "hospital",
+        "lamp",
+        "medical",
+        "operation"
+    ],
+    "date_published": 1558389600,
+    "name": "Surgery",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1551373560,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        {
+            "url": "http://alienghostship.com/",
+            "name": "Rick Kay"
+        },
+        "20953239"
+    ],
+    "max_resolution": [
+        17000,
+        8500
+    ],
+    "files_hash": "05067db790ac21bceae8f1e18617720d4f162f95",
+    "download_count": 32542,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/surgery.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 1425544,
+            "md5": "ed3e4c57d00a7a0794f57106cf6e727e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/surgery.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/surgery_8k.hdr",
+                    "size": 94044556,
+                    "md5": "469933856fd14b143cb236f585a92377"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/surgery_8k.exr",
+                    "size": 58051382,
+                    "md5": "5152e430e7a230d7ae6b5fc9f39ce6b1"
+                }
+            },
+            "17k": {
+                "hdr": {
+                    "size": 365844110,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/surgery_17k.hdr",
+                    "md5": "45ce304568e972d12bbc45f643028240"
+                },
+                "exr": {
+                    "size": 245490922,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/surgery_17k.exr",
+                    "md5": "28d1a7c8d2cb82fa5bd79a04d7770201"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/surgery_16k.hdr",
+                    "size": 342420688,
+                    "md5": "e77866234dc472ff654631728be445e7"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/surgery_16k.exr",
+                    "size": 235617418,
+                    "md5": "9d6b21678cc06ea5e7b30d5a6900da73"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/surgery_4k.hdr",
+                    "size": 23390011,
+                    "md5": "096cfb9a862fd2d6a064c61ee8b2688b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/surgery_4k.exr",
+                    "size": 13935696,
+                    "md5": "43052e1e125e647429f50d0afd301177"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/surgery_2k.hdr",
+                    "size": 5662692,
+                    "md5": "4783a9e5c27eee5618752dfaa23bf0e6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/surgery_2k.exr",
+                    "size": 3605429,
+                    "md5": "54c6cc2bcf81d5bd82bdea06799d8d63"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/surgery_1k.hdr",
+                    "size": 1412776,
+                    "md5": "5c882608d3acd416842eb13df13941d1"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/surgery_1k.exr",
+                    "size": 1001496,
+                    "md5": "5abb793c7042529bcbc7d7d1a7a1cd79"
+                }
+            }
+        }
+    }
+}

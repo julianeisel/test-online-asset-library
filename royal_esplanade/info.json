@@ -1,0 +1,104 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "whitebalance": 3700,
+    "tags": [
+        "mall",
+        "cruise",
+        "screen",
+        "balcony",
+        "stair",
+        "tile"
+    ],
+    "date_published": 1529013600,
+    "name": "Royal Esplanade",
+    "categories": [
+        "indoor",
+        "urban",
+        "high contrast",
+        "artificial light"
+    ],
+    "date_taken": 1524890820,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "7947474"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "f54517ed7912eecb4e59eec6e9b302f5200e3323",
+    "download_count": 104214,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/royal_esplanade.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4956102,
+            "md5": "f6a793c3acbf7e6368c936f45e474bd0",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/royal_esplanade.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/royal_esplanade_8k.hdr",
+                    "size": 96435714,
+                    "md5": "f4a96b179056f7bd22f8b212a3ab96bb"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/royal_esplanade_8k.exr",
+                    "size": 81311353,
+                    "md5": "e1c7a4b68773bb8322a367291908d83c"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/royal_esplanade_16k.hdr",
+                    "size": 348425421,
+                    "md5": "df4589164483cd51659c350d1dfe6249"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/royal_esplanade_16k.exr",
+                    "size": 287070688,
+                    "md5": "e8082e402e1031f8e1e0a42dab89156c"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/royal_esplanade_4k.hdr",
+                    "size": 25175328,
+                    "md5": "100a90bb4a1cdc84a7f3845e18e40d61"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/royal_esplanade_4k.exr",
+                    "size": 22077402,
+                    "md5": "4ed7eed359f1698be07f605ae7d8ebee"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/royal_esplanade_2k.hdr",
+                    "size": 6487325,
+                    "md5": "fc9d5bfc0b17c120f5988180e360f35a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/royal_esplanade_2k.exr",
+                    "size": 5964190,
+                    "md5": "5bd6d78447452b7a5227a4f66f1c160d"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/royal_esplanade_1k.hdr",
+                    "size": 1676014,
+                    "md5": "c5e5b76deac047d88c72bcf692b64b48"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/royal_esplanade_1k.exr",
+                    "size": 1617635,
+                    "md5": "d0aa2ba76c1d9842da8dbf2d615799b2"
+                }
+            }
+        }
+    }
+}

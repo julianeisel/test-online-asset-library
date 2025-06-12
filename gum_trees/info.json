@@ -1,0 +1,126 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "autumn",
+        "trees",
+        "forest",
+        "leaves",
+        "log",
+        "earth"
+    ],
+    "name": "Gum Trees",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "clear",
+        "low contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1688890620,
+    "coords": [
+        -28.581735654753004,
+        28.069083871110955
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "files_hash": "a3f5f93e8ebf7f768863ff40afbcc5c652f2fff8",
+    "date_published": 1693958400,
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "download_count": 4831,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gum_trees.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 56674908,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/gum_trees.jpg",
+            "md5": "e361d22dd01f0d085761282214dd897e"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 110200079,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/gum_trees_8k.hdr",
+                    "md5": "225a0a6a44ba917ae8b2180233c746f6"
+                },
+                "exr": {
+                    "size": 387736208,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/gum_trees_8k.exr",
+                    "md5": "b037783c02be610e2e7c970d2a5d586e"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 415457567,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/gum_trees_16k.hdr",
+                    "md5": "9b719bf5728957ed1e57e82e6d6d933f"
+                },
+                "exr": {
+                    "size": 1529223768,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/gum_trees_16k.exr",
+                    "md5": "8d1a8a166c247131b48b666e2077ef2b"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28761719,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/gum_trees_4k.hdr",
+                    "md5": "66c32b354709b54ec961c681935d4915"
+                },
+                "exr": {
+                    "size": 97602001,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/gum_trees_4k.exr",
+                    "md5": "432eb30b40b22d4493a20a70b77df7aa"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7345311,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/gum_trees_2k.hdr",
+                    "md5": "8f5e34c7ad5cc48853789bacc90ad868"
+                },
+                "exr": {
+                    "size": 24504205,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/gum_trees_2k.exr",
+                    "md5": "3de48fbc6f57e4477db3d5fac89793c5"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1839711,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/gum_trees_1k.hdr",
+                    "md5": "17661336c49f29522de82316ee89d810"
+                },
+                "exr": {
+                    "size": 6146351,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/gum_trees_1k.exr",
+                    "md5": "4fd39ec523c099266b1c93d90670b286"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 637007038,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/gum_trees_20k.hdr",
+                    "md5": "5b994180649ae56ce04d647986437aae"
+                },
+                "exr": {
+                    "size": 2370935915,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/gum_trees_20k.exr",
+                    "md5": "4b009e39a37f26552543899ec3348c3c"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 208781324,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/gum_trees.zip",
+            "md5": "7cd08c5b13ee5ab02389e6582a02b351"
+        }
+    }
+}

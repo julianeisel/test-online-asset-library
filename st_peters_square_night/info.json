@@ -1,0 +1,130 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "europe",
+        "architecture",
+        "italy",
+        "cobblestone",
+        "street",
+        "pillar",
+        "lamp",
+        "square",
+        "city",
+        "rome"
+    ],
+    "name": "St. Peters Square Night",
+    "categories": [
+        "outdoor",
+        "artificial light",
+        "urban",
+        "high contrast",
+        "partly cloudy",
+        "night"
+    ],
+    "coords": [
+        41.90199,
+        12.457
+    ],
+    "date_taken": 1635710700,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1646870400,
+    "sponsors": [
+        "3267566"
+    ],
+    "max_resolution": [
+        20084,
+        10042
+    ],
+    "files_hash": "a16917b0fa67b20895305b08603bd586098d6e79",
+    "download_count": 68480,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/st_peters_square_night.png?width=256&height=256",
+    "files": {
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/st_peters_square_night.zip",
+            "size": 217615954,
+            "md5": "0f457fcbc8f39f9bea600277b6a80521"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/st_peters_square_night.jpg",
+            "size": 57986448,
+            "md5": "86478d0e699c4f8a593b9175505ab5d1"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/st_peters_square_night_8k.hdr",
+                    "size": 108258497,
+                    "md5": "b4becdafd7fcd4ff680bde5290a6431f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/st_peters_square_night_8k.exr",
+                    "size": 387026644,
+                    "md5": "20becd196c7fe379cb11cc17ed327ff6"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/st_peters_square_night_16k.hdr",
+                    "size": 427374621,
+                    "md5": "8376053e2b8cdfc85650c50b67dd369f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/st_peters_square_night_16k.exr",
+                    "size": 1460133803,
+                    "md5": "40c51b296e559b53a3b07658e1e59344"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/st_peters_square_night_4k.hdr",
+                    "size": 27291971,
+                    "md5": "2bfe00e55c06b38bc8e9ac27d61ad3b1"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/st_peters_square_night_4k.exr",
+                    "size": 97086009,
+                    "md5": "3b96e13e95e6e34daca00b9ffa2a3d95"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/st_peters_square_night_2k.hdr",
+                    "size": 6853286,
+                    "md5": "d689356fc43e2738d562cfea83d63d25"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/st_peters_square_night_2k.exr",
+                    "size": 24332729,
+                    "md5": "c19a9e06efbc75a62f3d768dc69459f8"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/st_peters_square_night_1k.hdr",
+                    "size": 1716531,
+                    "md5": "b7ec721540ebef397fd827ae112fd6d2"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/st_peters_square_night_1k.exr",
+                    "size": 6102857,
+                    "md5": "ff9006d565558f0b50a267144b1b8875"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/st_peters_square_night_20k.hdr",
+                    "size": 638595761,
+                    "md5": "196079e9721281afffebab94d6c96df1"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/st_peters_square_night_20k.exr",
+                    "size": 2075779926,
+                    "md5": "a2ed1f7bb25da28712d3f27b1fcb0459"
+                }
+            }
+        }
+    }
+}

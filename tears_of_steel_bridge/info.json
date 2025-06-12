@@ -1,0 +1,115 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "sun",
+        "tree",
+        "canal",
+        "europe",
+        "amsterdam",
+        "brick",
+        "street",
+        "autumn"
+    ],
+    "date_published": 1522879200,
+    "name": "Tears of Steel Bridge",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        52.361782,
+        4.896059
+    ],
+    "date_taken": 1477909620,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3267566",
+        {
+            "url": "http://alienghostship.com/",
+            "name": "Rick Kay"
+        }
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "02dda3a443ab93f0e15c3862b05655f0ac7b98f0",
+    "download_count": 127370,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/tears_of_steel_bridge.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6471708,
+            "md5": "1352d7c85948daf54d90f19b777676fc",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/tears_of_steel_bridge.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/tears_of_steel_bridge_8k.hdr",
+                    "size": 94059264,
+                    "md5": "c6fdc3e4f46a45264eb87e603587b936"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/tears_of_steel_bridge_8k.exr",
+                    "size": 83660586,
+                    "md5": "19a2d906035a5a0d513f8e64060ee86f"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/tears_of_steel_bridge_16k.hdr",
+                    "size": 345367658,
+                    "md5": "c77a86758c8f2a7d190ca0e709ddb053"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/tears_of_steel_bridge_16k.exr",
+                    "size": 305868442,
+                    "md5": "597a0a1c165e7f2178ff11726d1b4a1b"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/tears_of_steel_bridge_4k.hdr",
+                    "size": 24308572,
+                    "md5": "e57f1677339f29814619eecd0bfa6b45"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/tears_of_steel_bridge_4k.exr",
+                    "size": 22053117,
+                    "md5": "b84728a706e214c9d5dd0df42b06c1e4"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/tears_of_steel_bridge_2k.hdr",
+                    "size": 6177303,
+                    "md5": "0689e2f164e68510e2d9000171e2f5e4"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/tears_of_steel_bridge_2k.exr",
+                    "size": 5744574,
+                    "md5": "a3a73dd525cdb19c85780c272f954870"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/tears_of_steel_bridge_1k.hdr",
+                    "size": 1579004,
+                    "md5": "f89d31448278cea478d0e88eff788658"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/tears_of_steel_bridge_1k.exr",
+                    "size": 1501246,
+                    "md5": "6ca5850e1adcc534017fb75bfdb2231a"
+                }
+            }
+        }
+    }
+}

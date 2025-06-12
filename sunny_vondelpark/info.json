@@ -1,0 +1,113 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "tags": [
+        "tree",
+        "grass",
+        "sun",
+        "leaves",
+        "autumn",
+        "path",
+        "sunrise"
+    ],
+    "date_published": 1506981600,
+    "name": "Sunny Vondelpark",
+    "categories": [
+        "outdoor",
+        "nature",
+        "partly cloudy",
+        "sunrise-sunset",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        52.356555,
+        4.857156
+    ],
+    "date_taken": 1478078400,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "http://mdjustin.com/",
+            "name": "Justin Dolan"
+        }
+    ],
+    "files_hash": "eb02ec6124543ce9867c057976bf5046e03c5ae1",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 157477,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sunny_vondelpark.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 12266341,
+            "md5": "aec376034bda2240021b5457ae0374c2",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/sunny_vondelpark.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 111490543,
+                    "md5": "670e9144de6b3c43f53e81ba9737ee39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/sunny_vondelpark_8k.hdr"
+                },
+                "exr": {
+                    "size": 117987824,
+                    "md5": "7932ed42f052b63124cbb41c2d2e0977",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/sunny_vondelpark_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 415288481,
+                    "md5": "89bc01c8add44fdbd62a04030f3354cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/sunny_vondelpark_16k.hdr"
+                },
+                "exr": {
+                    "size": 429281166,
+                    "md5": "fe6526d78a56c349096f0395f7f4e416",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/sunny_vondelpark_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29318417,
+                    "md5": "909bde2166870a801e09f2c071ac79f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/sunny_vondelpark_4k.hdr"
+                },
+                "exr": {
+                    "size": 31474049,
+                    "md5": "d46c6a6091964627c248cab3d659a52e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/sunny_vondelpark_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7594760,
+                    "md5": "7d4acd3b8d2afb64aece9497c2e4c46e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/sunny_vondelpark_2k.hdr"
+                },
+                "exr": {
+                    "size": 8205149,
+                    "md5": "ec0d894b8a9fee6fe3feeb011f63cab1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/sunny_vondelpark_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1945475,
+                    "md5": "2e4a8e913d3b2768f1a34f32d716d0dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/sunny_vondelpark_1k.hdr"
+                },
+                "exr": {
+                    "size": 2105400,
+                    "md5": "26609ebf5a88ab7a7191afafce851c11",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/sunny_vondelpark_1k.exr"
+                }
+            }
+        }
+    }
+}

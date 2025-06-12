@@ -1,0 +1,113 @@
+{
+    "evs_cap": 20,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "sun",
+        "china",
+        "building",
+        "architecture",
+        "square"
+    ],
+    "date_published": 1549580400,
+    "name": "Zhengyang Gate",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1523862660,
+    "coords": [
+        39.900977,
+        116.397888
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "10bf5dde652815f6f1dc2ee2eaf83e5408c41ef2",
+    "sponsors": [
+        {
+            "url": "https://www.idin-jewellery.co.uk/",
+            "name": "Idin Jewellery"
+        },
+        "4714267"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 21520,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zhengyang_gate.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4395351,
+            "md5": "b48b774191d64def69e2244dab88ed69",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/zhengyang_gate.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98034903,
+                    "md5": "1a35d9d00c1d67eb78d94b301379e1dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/zhengyang_gate_8k.hdr"
+                },
+                "exr": {
+                    "size": 76023739,
+                    "md5": "89ae7132ab5aa5d252dde6492a747eb3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/zhengyang_gate_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 370623031,
+                    "md5": "1521f18e040be367a7f12c9e0d3f277a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/zhengyang_gate_16k.hdr"
+                },
+                "exr": {
+                    "size": 281146487,
+                    "md5": "a1ddacc7439c9d0e1a27f7fc8e045513",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/zhengyang_gate_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24585089,
+                    "md5": "b6757b983e209349b22ec2e520331677",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/zhengyang_gate_4k.hdr"
+                },
+                "exr": {
+                    "size": 18989264,
+                    "md5": "d617a07a35af631188a5ae47fd1f8643",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/zhengyang_gate_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5981930,
+                    "md5": "f75589e7079f0141bc514a20e046ae56",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/zhengyang_gate_2k.hdr"
+                },
+                "exr": {
+                    "size": 4657531,
+                    "md5": "da0e35f2f16580225a4b2a1f74819bca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/zhengyang_gate_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1457437,
+                    "md5": "10d767ba9e597df13e817ac619641049",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/zhengyang_gate_1k.hdr"
+                },
+                "exr": {
+                    "size": 1173874,
+                    "md5": "085ce8fd63db930449bf46428115ba9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/zhengyang_gate_1k.exr"
+                }
+            }
+        }
+    }
+}

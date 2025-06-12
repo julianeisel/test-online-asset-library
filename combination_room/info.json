@@ -1,0 +1,105 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "tags": [
+        "couch",
+        "victorian",
+        "curtain",
+        "lamp",
+        "painting",
+        "window"
+    ],
+    "date_published": 1562882400,
+    "name": "Combination Room",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1555598700,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "8571269",
+        "42579608"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "27502bab113e66f5aad064a02862a8f8d71a851a",
+    "download_count": 19890,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/combination_room.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5285998,
+            "md5": "2b279b4ca8ffe85a4851c35d81c8aa7d",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/combination_room.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/combination_room_8k.hdr",
+                    "size": 99141544,
+                    "md5": "262844622702fa2fb22508a00d132188"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/combination_room_8k.exr",
+                    "size": 84881319,
+                    "md5": "26a4a6ca9beed702906ac5c560299315"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/combination_room_16k.hdr",
+                    "size": 367308895,
+                    "md5": "e91132226166e939accf4f1bddf1b1d8"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/combination_room_16k.exr",
+                    "size": 305508046,
+                    "md5": "330a96e0c0e1ae09f383347413da09af"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/combination_room_4k.hdr",
+                    "size": 25637643,
+                    "md5": "24ce56b76d47eebb48bb3a8b74aa3088"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/combination_room_4k.exr",
+                    "size": 22391249,
+                    "md5": "81f58f5320603c1c12d08a6a56570b00"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/combination_room_2k.hdr",
+                    "size": 6532595,
+                    "md5": "1f43bc52010775159f5c4270c68596b9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/combination_room_2k.exr",
+                    "size": 5842190,
+                    "md5": "8d988390a5e985217ac025bd2b020bcc"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/combination_room_1k.hdr",
+                    "size": 1661444,
+                    "md5": "490f50c323b9329e5aa4a2ea32dc23aa"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/combination_room_1k.exr",
+                    "size": 1539639,
+                    "md5": "d8d05c94c9bfa069e5e93bf8f2abbef5"
+                }
+            }
+        }
+    }
+}

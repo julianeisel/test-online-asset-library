@@ -1,0 +1,113 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "whitebalance": 3800,
+    "tags": [
+        "room",
+        "empty",
+        "office",
+        "door",
+        "curtain",
+        "wooden floor",
+        "led panel",
+        "wallpaper"
+    ],
+    "name": "Small Empty Room 2",
+    "categories": [
+        "indoor",
+        "urban",
+        "artificial light",
+        "medium contrast",
+        "night"
+    ],
+    "date_taken": 1690210800,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "date_published": 1696809600,
+    "sponsors": [
+        "7934315"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "59176e5eaba893cc0300dfd7c82a351dd5e41b4f",
+    "download_count": 12473,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/small_empty_room_2.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 33509360,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/small_empty_room_2.jpg",
+            "md5": "f4bcd651604d983cda2e5050a825b37f"
+        },
+        "colorchart": {
+            "size": 97035408,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/small_empty_room_2.zip",
+            "md5": "837853d09dc3f799560f1ad9e12ef30a"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/small_empty_room_2_8k.hdr",
+                    "size": 95625478,
+                    "md5": "8f8cf2489ec5d73ee3733e8fca3cdaa0"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/small_empty_room_2_8k.exr",
+                    "size": 67407616,
+                    "md5": "c21b662cb4f8b7a6cfedcda67eeebfb4"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/small_empty_room_2_16k.hdr",
+                    "size": 353209269,
+                    "md5": "eda130bb7653b5ed64c97ed6447f26e7"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/small_empty_room_2_16k.exr",
+                    "size": 240871651,
+                    "md5": "fda208e862488b05f175fb723e8e7211"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/small_empty_room_2_4k.hdr",
+                    "size": 24394442,
+                    "md5": "6d0af7e68261eaf5529f97dbc3fd6438"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/small_empty_room_2_4k.exr",
+                    "size": 17436166,
+                    "md5": "1fb50154bd5a059259c29d4087bc6bbb"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/small_empty_room_2_2k.hdr",
+                    "size": 6007733,
+                    "md5": "850441fa1b5b89f35d5b1063348515c6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/small_empty_room_2_2k.exr",
+                    "size": 4465606,
+                    "md5": "71205c0e4846a6bc486b70f9bc522306"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/small_empty_room_2_1k.hdr",
+                    "size": 1477109,
+                    "md5": "6ef5a8c89ec36091cbc1547e5e5c96b7"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/small_empty_room_2_1k.exr",
+                    "size": 1164849,
+                    "md5": "dcd2c38bf9beca67f23a2eede1649e74"
+                }
+            }
+        }
+    }
+}

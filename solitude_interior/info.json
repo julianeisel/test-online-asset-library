@@ -1,0 +1,126 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "name": "Solitude Interior",
+    "categories": [
+        "indoor",
+        "medium contrast",
+        "urban",
+        "natural light",
+        "morning-afternoon"
+    ],
+    "date_taken": 1613128920,
+    "coords": [
+        48.7868840583151,
+        9.084336133826852
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "backplates": true,
+    "date_published": 1660089600,
+    "tags": [
+        "architecture",
+        "europe",
+        "building",
+        "column",
+        "pillar",
+        "arch",
+        "victorian",
+        "backplates"
+    ],
+    "info": "[Tracking files and video backplates](https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/solitude_interior/solitude_interior_tracking_files.zip) | [Tutorial series on how to use these](https://www.youtube.com/watch?v=GPpRaJ5SJdQ)",
+    "files_hash": "be1e3ea844461e2808ec3e4dd38760110af9421a",
+    "max_resolution": [
+        20516,
+        10258
+    ],
+    "download_count": 32286,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/solitude_interior.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 42660878,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/solitude_interior.jpg",
+            "md5": "4091715312057d4e1a0797b7248aa3a7"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100920368,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/solitude_interior_8k.hdr",
+                    "md5": "ee948c4b425f25f39424d261498df309"
+                },
+                "exr": {
+                    "size": 324035186,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/solitude_interior_8k.exr",
+                    "md5": "3d862ce8118f68b6b1356e710e022ee3"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 387036171,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/solitude_interior_16k.hdr",
+                    "md5": "4d18a7eda9e708ed8738850a1442e482"
+                },
+                "exr": {
+                    "size": 1262749049,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/solitude_interior_16k.exr",
+                    "md5": "c4346c15a0894015f43eb952a335c0b3"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25681597,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/solitude_interior_4k.hdr",
+                    "md5": "d5fb55f2f7199273460cbee23171e56a"
+                },
+                "exr": {
+                    "size": 83338691,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/solitude_interior_4k.exr",
+                    "md5": "d62a432fc2cbb55b6cb68ae800a82fd9"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6466178,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/solitude_interior_2k.hdr",
+                    "md5": "e9dcfbd8b3c3d90582e4d0d6fa9c29fa"
+                },
+                "exr": {
+                    "size": 21755274,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/solitude_interior_2k.exr",
+                    "md5": "b16875efb773e890bea8c525930fbe6d"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1627346,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/solitude_interior_1k.hdr",
+                    "md5": "26f92884e2be416f5fd8e6a1e8ad3621"
+                },
+                "exr": {
+                    "size": 5830484,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/solitude_interior_1k.exr",
+                    "md5": "eb7c30aaeb264bd2e9ea2447269777b8"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 594469245,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/solitude_interior_20k.hdr",
+                    "md5": "b79fae3076e7b41f20da6ce6ba02c2b2"
+                },
+                "exr": {
+                    "size": 1963019842,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/solitude_interior_20k.exr",
+                    "md5": "e14dc3351ec4c7b45187a747ba994ac8"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 445275734,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/solitude_interior.zip",
+            "md5": "68a9ac9143abeff0564716a50abadf2f"
+        }
+    }
+}

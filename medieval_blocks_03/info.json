@@ -1,0 +1,901 @@
+{
+    "type": 1,
+    "tags": [
+        "blocks",
+        "large",
+        "old",
+        "rough"
+    ],
+    "date_published": 1546062309,
+    "name": "Medieval Blocks 03",
+    "categories": [
+        "wall",
+        "brick",
+        "man made",
+        "outdoor",
+        "indoor",
+        "clean"
+    ],
+    "authors": {
+        "Rob Tuytel": "All"
+    },
+    "dimensions": [
+        2000,
+        2000
+    ],
+    "files_hash": "0d30c980f4f4a29f6976103b666840f9f1151f39",
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "download_count": 115112,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/medieval_blocks_03.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 32310246,
+                    "md5": "57e81e59475e1156a36840fd85d3a76a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/medieval_blocks_03/medieval_blocks_03_diff_8k.jpg"
+                },
+                "png": {
+                    "size": 114244143,
+                    "md5": "c28a4fe679b702fb62c3f82fce1074a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/medieval_blocks_03/medieval_blocks_03_diff_8k.png"
+                },
+                "exr": {
+                    "size": 82950292,
+                    "md5": "802f169726e065d99720628f13a6fe27",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/medieval_blocks_03/medieval_blocks_03_diff_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 10911893,
+                    "md5": "37e3ab9b1d9d5630e0dbf77fe27de56d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/medieval_blocks_03/medieval_blocks_03_diff_4k.jpg"
+                },
+                "png": {
+                    "size": 35299548,
+                    "md5": "f3effd9114640f5227f8097cc7e12a5c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/medieval_blocks_03/medieval_blocks_03_diff_4k.png"
+                },
+                "exr": {
+                    "size": 27097405,
+                    "md5": "33c04c989ae85c4accf5cb984cfae84a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/medieval_blocks_03/medieval_blocks_03_diff_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3086741,
+                    "md5": "800842d7ba8b63552696ca7d196d37db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_03/medieval_blocks_03_diff_2k.jpg"
+                },
+                "png": {
+                    "size": 9526452,
+                    "md5": "b2796e8fc6e0ce7201803eed73fa8154",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/medieval_blocks_03/medieval_blocks_03_diff_2k.png"
+                },
+                "exr": {
+                    "size": 7781741,
+                    "md5": "894de9415bb44ca51bcea229a00a045d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/medieval_blocks_03/medieval_blocks_03_diff_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 789784,
+                    "md5": "9f2f3da45c680e2d6434fd8b75f7df0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_03/medieval_blocks_03_diff_1k.jpg"
+                },
+                "png": {
+                    "size": 2416104,
+                    "md5": "ff1f3622dece51ba0f2e181d8f0e6e3d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/medieval_blocks_03/medieval_blocks_03_diff_1k.png"
+                },
+                "exr": {
+                    "size": 2003055,
+                    "md5": "949e0c8bd21d4b8063fab26760c1f12a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/medieval_blocks_03/medieval_blocks_03_diff_1k.exr"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 61533538,
+                    "md5": "87000d0b249cc139129f2bfd0dbd384a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/medieval_blocks_03/medieval_blocks_03_nor_dx_8k.jpg"
+                },
+                "png": {
+                    "size": 128356283,
+                    "md5": "24e19301d8ae782db0f571224f0f184b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/medieval_blocks_03/medieval_blocks_03_nor_dx_8k.png"
+                },
+                "exr": {
+                    "size": 139572732,
+                    "md5": "bf3c05fb13a1d9552a91d48d495ccd07",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/medieval_blocks_03/medieval_blocks_03_nor_dx_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 19371150,
+                    "md5": "53009838948c2936729301b941ac6bac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/medieval_blocks_03/medieval_blocks_03_nor_dx_4k.jpg"
+                },
+                "png": {
+                    "size": 35696464,
+                    "md5": "8aba43399a17a28ef599157ddbce69a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/medieval_blocks_03/medieval_blocks_03_nor_dx_4k.png"
+                },
+                "exr": {
+                    "size": 38853524,
+                    "md5": "4f8b1b415bc04a7a73df04ccb5744a53",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/medieval_blocks_03/medieval_blocks_03_nor_dx_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 5533898,
+                    "md5": "60b55e43bd380705b491472ecacd1cb8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_03/medieval_blocks_03_nor_dx_2k.jpg"
+                },
+                "png": {
+                    "size": 9541344,
+                    "md5": "fde353bcf90e4def063ac7ea558a82a5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/medieval_blocks_03/medieval_blocks_03_nor_dx_2k.png"
+                },
+                "exr": {
+                    "size": 10336473,
+                    "md5": "fd9f29bef165584b9e9c691038292a47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/medieval_blocks_03/medieval_blocks_03_nor_dx_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1474304,
+                    "md5": "4ca5102b68b4bdee0e4458ecc73ffd27",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_03/medieval_blocks_03_nor_dx_1k.jpg"
+                },
+                "png": {
+                    "size": 2478390,
+                    "md5": "184ea8defe8a657bd72f5711685fe252",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/medieval_blocks_03/medieval_blocks_03_nor_dx_1k.png"
+                },
+                "exr": {
+                    "size": 2686088,
+                    "md5": "330bc0a6d0e6a7ee470098056aba34e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/medieval_blocks_03/medieval_blocks_03_nor_dx_1k.exr"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 60306971,
+                    "md5": "28ebd8891b3518916b2dfca096faa77b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/medieval_blocks_03/medieval_blocks_03_nor_gl_8k.jpg"
+                },
+                "png": {
+                    "size": 128308435,
+                    "md5": "e7bb3cc420c4a66adb5dd4e2b063e94b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/medieval_blocks_03/medieval_blocks_03_nor_gl_8k.png"
+                },
+                "exr": {
+                    "size": 133128216,
+                    "md5": "5b69d8a222cfe51f4a9aa793bf975ef0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/medieval_blocks_03/medieval_blocks_03_nor_gl_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 18845418,
+                    "md5": "83185088f4feb35b8799e0dd582016c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/medieval_blocks_03/medieval_blocks_03_nor_gl_4k.jpg"
+                },
+                "png": {
+                    "size": 35697773,
+                    "md5": "35cb60dac00452a4e94a32d1430fe2a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/medieval_blocks_03/medieval_blocks_03_nor_gl_4k.png"
+                },
+                "exr": {
+                    "size": 37365916,
+                    "md5": "2ab52863517d0f7b739e203c4aa9b34a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/medieval_blocks_03/medieval_blocks_03_nor_gl_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 5414498,
+                    "md5": "7e302a1678f83bfd619001cf5e884432",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_03/medieval_blocks_03_nor_gl_2k.jpg"
+                },
+                "png": {
+                    "size": 9542921,
+                    "md5": "06f6cd1b58cb6625da0d16b402d3e75b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/medieval_blocks_03/medieval_blocks_03_nor_gl_2k.png"
+                },
+                "exr": {
+                    "size": 9963436,
+                    "md5": "44e8deece54f80c48c82fb0ebef2b45d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/medieval_blocks_03/medieval_blocks_03_nor_gl_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1451849,
+                    "md5": "ea931b7d0165969297693328c2c8a6d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_03/medieval_blocks_03_nor_gl_1k.jpg"
+                },
+                "png": {
+                    "size": 2478697,
+                    "md5": "9e236a6d1505023cc7dea4a0ef867357",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/medieval_blocks_03/medieval_blocks_03_nor_gl_1k.png"
+                },
+                "exr": {
+                    "size": 2582256,
+                    "md5": "b1c86872b7fcc2d10d099275d3362ae7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/medieval_blocks_03/medieval_blocks_03_nor_gl_1k.exr"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "size": 278483,
+                    "md5": "77b3afbaed017141df69f6c5ccbae9e4",
+                    "include": {
+                        "textures/medieval_blocks_03_disp_8k.png": {
+                            "size": 70950661,
+                            "md5": "8d4c0ba3cdacdd251eb852cbfbcbcb74",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/medieval_blocks_03/medieval_blocks_03_disp_8k.png"
+                        },
+                        "textures/medieval_blocks_03_rough_8k.jpg": {
+                            "size": 16796173,
+                            "md5": "36fe719ee5877561d83f7885fd629309",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/medieval_blocks_03/medieval_blocks_03_rough_8k.jpg"
+                        },
+                        "textures/medieval_blocks_03_diff_8k.jpg": {
+                            "size": 32310246,
+                            "md5": "57e81e59475e1156a36840fd85d3a76a",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/medieval_blocks_03/medieval_blocks_03_diff_8k.jpg"
+                        },
+                        "textures/medieval_blocks_03_nor_gl_8k.exr": {
+                            "size": 133128216,
+                            "md5": "5b69d8a222cfe51f4a9aa793bf975ef0",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/medieval_blocks_03/medieval_blocks_03_nor_gl_8k.exr"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/8k/medieval_blocks_03/medieval_blocks_03_8k.blend"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "size": 278517,
+                    "md5": "b613984214ba66b1cd717040d1cd9afa",
+                    "include": {
+                        "textures/medieval_blocks_03_nor_gl_4k.exr": {
+                            "size": 37365916,
+                            "md5": "2ab52863517d0f7b739e203c4aa9b34a",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/medieval_blocks_03/medieval_blocks_03_nor_gl_4k.exr"
+                        },
+                        "textures/medieval_blocks_03_diff_4k.jpg": {
+                            "size": 10911893,
+                            "md5": "37e3ab9b1d9d5630e0dbf77fe27de56d",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/medieval_blocks_03/medieval_blocks_03_diff_4k.jpg"
+                        },
+                        "textures/medieval_blocks_03_rough_4k.jpg": {
+                            "size": 5227291,
+                            "md5": "80e6285270b2131ee9529b848edc01c1",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/medieval_blocks_03/medieval_blocks_03_rough_4k.jpg"
+                        },
+                        "textures/medieval_blocks_03_disp_4k.png": {
+                            "size": 25927557,
+                            "md5": "69e24501cbae102a5e2a87231c07bf85",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/medieval_blocks_03/medieval_blocks_03_disp_4k.png"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/4k/medieval_blocks_03/medieval_blocks_03_4k.blend"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "size": 278478,
+                    "md5": "8be2dfca582cd9e799db1bbe3311a21a",
+                    "include": {
+                        "textures/medieval_blocks_03_diff_2k.jpg": {
+                            "size": 3086741,
+                            "md5": "800842d7ba8b63552696ca7d196d37db",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_03/medieval_blocks_03_diff_2k.jpg"
+                        },
+                        "textures/medieval_blocks_03_disp_2k.png": {
+                            "size": 7098527,
+                            "md5": "820879c62c3b00e429d3941a5d8ae1cb",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/medieval_blocks_03/medieval_blocks_03_disp_2k.png"
+                        },
+                        "textures/medieval_blocks_03_rough_2k.jpg": {
+                            "size": 1434863,
+                            "md5": "a6f30c5072d35a19df9e148b37632f0a",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_03/medieval_blocks_03_rough_2k.jpg"
+                        },
+                        "textures/medieval_blocks_03_nor_gl_2k.exr": {
+                            "size": 9963436,
+                            "md5": "44e8deece54f80c48c82fb0ebef2b45d",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/medieval_blocks_03/medieval_blocks_03_nor_gl_2k.exr"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/2k/medieval_blocks_03/medieval_blocks_03_2k.blend"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "size": 278393,
+                    "md5": "b9528fc6eb0065dfbd5275347f9e7b7a",
+                    "include": {
+                        "textures/medieval_blocks_03_nor_gl_1k.exr": {
+                            "size": 2582256,
+                            "md5": "b1c86872b7fcc2d10d099275d3362ae7",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/medieval_blocks_03/medieval_blocks_03_nor_gl_1k.exr"
+                        },
+                        "textures/medieval_blocks_03_diff_1k.jpg": {
+                            "size": 789784,
+                            "md5": "9f2f3da45c680e2d6434fd8b75f7df0f",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_03/medieval_blocks_03_diff_1k.jpg"
+                        },
+                        "textures/medieval_blocks_03_disp_1k.png": {
+                            "size": 1884431,
+                            "md5": "056e78cbf3a5ff480a6b8486f65dd70a",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/medieval_blocks_03/medieval_blocks_03_disp_1k.png"
+                        },
+                        "textures/medieval_blocks_03_rough_1k.jpg": {
+                            "size": 358920,
+                            "md5": "f6b44c586713aef7f7840f4a624c8b95",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_03/medieval_blocks_03_rough_1k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/1k/medieval_blocks_03/medieval_blocks_03_1k.blend"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "size": 3591,
+                    "md5": "78e9b81753307ace9d8eab9120efb665",
+                    "include": {
+                        "medieval_blocks_03.bin": {
+                            "size": 2369428,
+                            "md5": "3942ad328dea7ce18da9461c55372360",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/medieval_blocks_03/medieval_blocks_03.bin"
+                        },
+                        "textures/medieval_blocks_03_rough_8k.jpg": {
+                            "size": 16796173,
+                            "md5": "36fe719ee5877561d83f7885fd629309",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/medieval_blocks_03/medieval_blocks_03_rough_8k.jpg"
+                        },
+                        "textures/medieval_blocks_03_nor_gl_8k.jpg": {
+                            "size": 60306971,
+                            "md5": "28ebd8891b3518916b2dfca096faa77b",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/medieval_blocks_03/medieval_blocks_03_nor_gl_8k.jpg"
+                        },
+                        "textures/medieval_blocks_03_diff_8k.jpg": {
+                            "size": 32310246,
+                            "md5": "57e81e59475e1156a36840fd85d3a76a",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/medieval_blocks_03/medieval_blocks_03_diff_8k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/medieval_blocks_03/medieval_blocks_03_8k.gltf"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "size": 3591,
+                    "md5": "de262f5db05dd89c96a49fc0b3dd3bae",
+                    "include": {
+                        "textures/medieval_blocks_03_diff_4k.jpg": {
+                            "size": 10911893,
+                            "md5": "37e3ab9b1d9d5630e0dbf77fe27de56d",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/medieval_blocks_03/medieval_blocks_03_diff_4k.jpg"
+                        },
+                        "medieval_blocks_03.bin": {
+                            "size": 2369428,
+                            "md5": "3942ad328dea7ce18da9461c55372360",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/medieval_blocks_03/medieval_blocks_03.bin"
+                        },
+                        "textures/medieval_blocks_03_rough_4k.jpg": {
+                            "size": 5227291,
+                            "md5": "80e6285270b2131ee9529b848edc01c1",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/medieval_blocks_03/medieval_blocks_03_rough_4k.jpg"
+                        },
+                        "textures/medieval_blocks_03_nor_gl_4k.jpg": {
+                            "size": 18845418,
+                            "md5": "83185088f4feb35b8799e0dd582016c9",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/medieval_blocks_03/medieval_blocks_03_nor_gl_4k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/4k/medieval_blocks_03/medieval_blocks_03_4k.gltf"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "size": 3591,
+                    "md5": "5e7ace833e3ff14469237d056e3af8be",
+                    "include": {
+                        "textures/medieval_blocks_03_diff_2k.jpg": {
+                            "size": 3086741,
+                            "md5": "800842d7ba8b63552696ca7d196d37db",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_03/medieval_blocks_03_diff_2k.jpg"
+                        },
+                        "medieval_blocks_03.bin": {
+                            "size": 2369428,
+                            "md5": "3942ad328dea7ce18da9461c55372360",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/medieval_blocks_03/medieval_blocks_03.bin"
+                        },
+                        "textures/medieval_blocks_03_rough_2k.jpg": {
+                            "size": 1434863,
+                            "md5": "a6f30c5072d35a19df9e148b37632f0a",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_03/medieval_blocks_03_rough_2k.jpg"
+                        },
+                        "textures/medieval_blocks_03_nor_gl_2k.jpg": {
+                            "size": 5414498,
+                            "md5": "7e302a1678f83bfd619001cf5e884432",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_03/medieval_blocks_03_nor_gl_2k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/2k/medieval_blocks_03/medieval_blocks_03_2k.gltf"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "size": 3591,
+                    "md5": "3ad702e580fab16ce762f0e497b5799a",
+                    "include": {
+                        "medieval_blocks_03.bin": {
+                            "size": 2369428,
+                            "md5": "3942ad328dea7ce18da9461c55372360",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/medieval_blocks_03/medieval_blocks_03.bin"
+                        },
+                        "textures/medieval_blocks_03_nor_gl_1k.jpg": {
+                            "size": 1451849,
+                            "md5": "ea931b7d0165969297693328c2c8a6d2",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_03/medieval_blocks_03_nor_gl_1k.jpg"
+                        },
+                        "textures/medieval_blocks_03_diff_1k.jpg": {
+                            "size": 789784,
+                            "md5": "9f2f3da45c680e2d6434fd8b75f7df0f",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_03/medieval_blocks_03_diff_1k.jpg"
+                        },
+                        "textures/medieval_blocks_03_rough_1k.jpg": {
+                            "size": 358920,
+                            "md5": "f6b44c586713aef7f7840f4a624c8b95",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_03/medieval_blocks_03_rough_1k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/1k/medieval_blocks_03/medieval_blocks_03_1k.gltf"
+                }
+            }
+        },
+        "Bump": {
+            "8k": {
+                "jpg": {
+                    "size": 30322802,
+                    "md5": "6ab13387ebb0cbb44ab5bdd07ec0a69d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/medieval_blocks_03/medieval_blocks_03_bump_8k.jpg"
+                },
+                "png": {
+                    "size": 44891325,
+                    "md5": "e4450b203e379edaf4b2fa8968c66472",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/medieval_blocks_03/medieval_blocks_03_bump_8k.png"
+                },
+                "exr": {
+                    "size": 83532847,
+                    "md5": "e24b77b69863be0dbdfd4804432a4e1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/medieval_blocks_03/medieval_blocks_03_bump_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 9258223,
+                    "md5": "f4c0557194c6ae9f6a74839a0b222ede",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/medieval_blocks_03/medieval_blocks_03_bump_4k.jpg"
+                },
+                "png": {
+                    "size": 15822461,
+                    "md5": "a5e0a261c47ba61a64106ef21b9cc662",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/medieval_blocks_03/medieval_blocks_03_bump_4k.png"
+                },
+                "exr": {
+                    "size": 22488096,
+                    "md5": "c9447bd49b2926b0fa7ba1a5ef26d301",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/medieval_blocks_03/medieval_blocks_03_bump_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2531368,
+                    "md5": "b1be268e85b2147656ea0f1c0093b380",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_03/medieval_blocks_03_bump_2k.jpg"
+                },
+                "png": {
+                    "size": 3930471,
+                    "md5": "58b0dbe25c334f7eab7215e556bcf493",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/medieval_blocks_03/medieval_blocks_03_bump_2k.png"
+                },
+                "exr": {
+                    "size": 5728872,
+                    "md5": "37d6aa308e4e3c0b76cfa7520949e48c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/medieval_blocks_03/medieval_blocks_03_bump_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 637106,
+                    "md5": "77637fc7be05dc3d945a0f4976f355b4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_03/medieval_blocks_03_bump_1k.jpg"
+                },
+                "png": {
+                    "size": 969714,
+                    "md5": "08de783fc7047b83d684f2e6c00dc087",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/medieval_blocks_03/medieval_blocks_03_bump_1k.png"
+                },
+                "exr": {
+                    "size": 1423859,
+                    "md5": "86220e9f43e2f350519491dcd3a03543",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/medieval_blocks_03/medieval_blocks_03_bump_1k.exr"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 11168882,
+                    "md5": "f57ab5c11f3c48b0da707501706984b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/medieval_blocks_03/medieval_blocks_03_arm_8k.jpg"
+                },
+                "png": {
+                    "size": 90958195,
+                    "md5": "fbeff123efcc14e8e0e18c282e9c7574",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/medieval_blocks_03/medieval_blocks_03_arm_8k.png"
+                },
+                "exr": {
+                    "size": 85314832,
+                    "md5": "772b4c56412b6e566c87f5dc431d0d0e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/medieval_blocks_03/medieval_blocks_03_arm_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3014010,
+                    "md5": "53227b76ab979a28a77c99eb5dd6ecb6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/medieval_blocks_03/medieval_blocks_03_arm_4k.jpg"
+                },
+                "png": {
+                    "size": 24161959,
+                    "md5": "3c5e9c5b7ad574771b42d508750b4f27",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/medieval_blocks_03/medieval_blocks_03_arm_4k.png"
+                },
+                "exr": {
+                    "size": 23590700,
+                    "md5": "01fc8e84fba7ce11504761d3c50245e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/medieval_blocks_03/medieval_blocks_03_arm_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 780047,
+                    "md5": "a8214021b94812e1dc9ff6e3b9ed93f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_03/medieval_blocks_03_arm_2k.jpg"
+                },
+                "png": {
+                    "size": 6270800,
+                    "md5": "02d10f618047eb1ea0769be50145693c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/medieval_blocks_03/medieval_blocks_03_arm_2k.png"
+                },
+                "exr": {
+                    "size": 6276296,
+                    "md5": "a9ab16e413ded13faea0d49b3fd942f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/medieval_blocks_03/medieval_blocks_03_arm_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 198381,
+                    "md5": "74ba32c07f9ce87d223e8f1bc4020628",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_03/medieval_blocks_03_arm_1k.jpg"
+                },
+                "png": {
+                    "size": 1613087,
+                    "md5": "f6944dca0df017b7d977544b3528d530",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/medieval_blocks_03/medieval_blocks_03_arm_1k.png"
+                },
+                "exr": {
+                    "size": 1627124,
+                    "md5": "227014b4776a28e8e4d1d9bd510dd91f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/medieval_blocks_03/medieval_blocks_03_arm_1k.exr"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 29128708,
+                    "md5": "a4d42f13bd33a501d2f37f6435d03284",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/medieval_blocks_03/medieval_blocks_03_ao_8k.jpg"
+                },
+                "png": {
+                    "size": 70896239,
+                    "md5": "041810ebb5b69be2faf8e62e88d1e518",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/medieval_blocks_03/medieval_blocks_03_ao_8k.png"
+                },
+                "exr": {
+                    "size": 45570691,
+                    "md5": "697d81694eef8703b69a21b01dcc84ff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/medieval_blocks_03/medieval_blocks_03_ao_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 7603341,
+                    "md5": "bedf6ae641ee4809c9e27a03a435b508",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/medieval_blocks_03/medieval_blocks_03_ao_4k.jpg"
+                },
+                "png": {
+                    "size": 17421799,
+                    "md5": "a1690dc6300f37507042b6e867d4f4d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/medieval_blocks_03/medieval_blocks_03_ao_4k.png"
+                },
+                "exr": {
+                    "size": 11934947,
+                    "md5": "23cac14e9a8eb9fe0d7267737e93e533",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/medieval_blocks_03/medieval_blocks_03_ao_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2006411,
+                    "md5": "48c06385619c6bd726d2cbcb80cca10b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_03/medieval_blocks_03_ao_2k.jpg"
+                },
+                "png": {
+                    "size": 4494572,
+                    "md5": "c2b3f50768fe2a8f1743311080471dd0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/medieval_blocks_03/medieval_blocks_03_ao_2k.png"
+                },
+                "exr": {
+                    "size": 3140910,
+                    "md5": "a3a3df3f1d8923986c9c3b078d51628e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/medieval_blocks_03/medieval_blocks_03_ao_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 536438,
+                    "md5": "1c729a675ef0356896408024c8559669",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_03/medieval_blocks_03_ao_1k.jpg"
+                },
+                "png": {
+                    "size": 1172921,
+                    "md5": "1fc630f5fed373d8412e62dc998c18e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/medieval_blocks_03/medieval_blocks_03_ao_1k.png"
+                },
+                "exr": {
+                    "size": 843131,
+                    "md5": "00c3b7fb4ddeb39cb3a51ad3e4f59b9b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/medieval_blocks_03/medieval_blocks_03_ao_1k.exr"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 3623282,
+                    "md5": "5cfd4a1be4d9c093725d0638cca0115b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/medieval_blocks_03/medieval_blocks_03_disp_8k.jpg"
+                },
+                "png": {
+                    "size": 70950661,
+                    "md5": "8d4c0ba3cdacdd251eb852cbfbcbcb74",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/medieval_blocks_03/medieval_blocks_03_disp_8k.png"
+                },
+                "exr": {
+                    "size": 5307186,
+                    "md5": "6f437f8037d80592752a2eb71a83c5ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/medieval_blocks_03/medieval_blocks_03_disp_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1261909,
+                    "md5": "f615a032dcc305a5862cbdba20ea651d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/medieval_blocks_03/medieval_blocks_03_disp_4k.jpg"
+                },
+                "png": {
+                    "size": 25927557,
+                    "md5": "69e24501cbae102a5e2a87231c07bf85",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/medieval_blocks_03/medieval_blocks_03_disp_4k.png"
+                },
+                "exr": {
+                    "size": 2075664,
+                    "md5": "fe780db24271eb5399024b96f1012d56",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/medieval_blocks_03/medieval_blocks_03_disp_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 452136,
+                    "md5": "55248dea77483f59f5ebd4db885310d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_03/medieval_blocks_03_disp_2k.jpg"
+                },
+                "png": {
+                    "size": 7098527,
+                    "md5": "820879c62c3b00e429d3941a5d8ae1cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/medieval_blocks_03/medieval_blocks_03_disp_2k.png"
+                },
+                "exr": {
+                    "size": 793299,
+                    "md5": "a648e161b646633d1aa57a4001f4180d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/medieval_blocks_03/medieval_blocks_03_disp_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 156774,
+                    "md5": "04dfd8aa08049c0edfcc556078275607",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_03/medieval_blocks_03_disp_1k.jpg"
+                },
+                "png": {
+                    "size": 1884431,
+                    "md5": "056e78cbf3a5ff480a6b8486f65dd70a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/medieval_blocks_03/medieval_blocks_03_disp_1k.png"
+                },
+                "exr": {
+                    "size": 283931,
+                    "md5": "ba2cb2a8b32950f0d4171dce4d0ca2e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/medieval_blocks_03/medieval_blocks_03_disp_1k.exr"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 16796173,
+                    "md5": "36fe719ee5877561d83f7885fd629309",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/medieval_blocks_03/medieval_blocks_03_rough_8k.jpg"
+                },
+                "png": {
+                    "size": 29915814,
+                    "md5": "e09521cc85946b98d099120653ef061a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/medieval_blocks_03/medieval_blocks_03_rough_8k.png"
+                },
+                "exr": {
+                    "size": 47062489,
+                    "md5": "5023450d71b458a7d04d10424e57dee8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/medieval_blocks_03/medieval_blocks_03_rough_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5227291,
+                    "md5": "80e6285270b2131ee9529b848edc01c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/medieval_blocks_03/medieval_blocks_03_rough_4k.jpg"
+                },
+                "png": {
+                    "size": 10932726,
+                    "md5": "1f997f4aef8b97f595eadd03b29bc1a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/medieval_blocks_03/medieval_blocks_03_rough_4k.png"
+                },
+                "exr": {
+                    "size": 13463787,
+                    "md5": "294cfca2a024ad7c78df589f648b5cc9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/medieval_blocks_03/medieval_blocks_03_rough_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1434863,
+                    "md5": "a6f30c5072d35a19df9e148b37632f0a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_03/medieval_blocks_03_rough_2k.jpg"
+                },
+                "png": {
+                    "size": 2809986,
+                    "md5": "7af036ad8f373fbc25295e586c1e75fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/medieval_blocks_03/medieval_blocks_03_rough_2k.png"
+                },
+                "exr": {
+                    "size": 3485024,
+                    "md5": "8c6bc551890223eff7ed29423dde45a3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/medieval_blocks_03/medieval_blocks_03_rough_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 358920,
+                    "md5": "f6b44c586713aef7f7840f4a624c8b95",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_03/medieval_blocks_03_rough_1k.jpg"
+                },
+                "png": {
+                    "size": 699222,
+                    "md5": "c46565d07fe9c6299bb738bbe4056d8c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/medieval_blocks_03/medieval_blocks_03_rough_1k.png"
+                },
+                "exr": {
+                    "size": 867443,
+                    "md5": "259bce6e65b0469dbf8f5f26e81eac3d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/medieval_blocks_03/medieval_blocks_03_rough_1k.exr"
+                }
+            }
+        },
+        "spec": {
+            "8k": {
+                "jpg": {
+                    "size": 9472374,
+                    "md5": "090f2410cb172d1c442a6794ca407153",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/medieval_blocks_03/medieval_blocks_03_spec_8k.jpg"
+                },
+                "png": {
+                    "size": 16360733,
+                    "md5": "c3aa94538d1392a3173466ea70bb9b94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/medieval_blocks_03/medieval_blocks_03_spec_8k.png"
+                },
+                "exr": {
+                    "size": 34563500,
+                    "md5": "b36ddbcb43e87040964750aeef895489",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/medieval_blocks_03/medieval_blocks_03_spec_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3059888,
+                    "md5": "4e4ced5e9a1655d6f19039b11f24df0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/medieval_blocks_03/medieval_blocks_03_spec_4k.jpg"
+                },
+                "png": {
+                    "size": 5180899,
+                    "md5": "8347a05ddd12768a402dd44021f7f004",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/medieval_blocks_03/medieval_blocks_03_spec_4k.png"
+                },
+                "exr": {
+                    "size": 10543136,
+                    "md5": "ba97be4c47de91fe74ae04837ea143e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/medieval_blocks_03/medieval_blocks_03_spec_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 873697,
+                    "md5": "51f7a22563e2a9c53eb474af078c8fd5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_03/medieval_blocks_03_spec_2k.jpg"
+                },
+                "png": {
+                    "size": 1478607,
+                    "md5": "d5fa6df5efc4c035c133ddca36397548",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/medieval_blocks_03/medieval_blocks_03_spec_2k.png"
+                },
+                "exr": {
+                    "size": 3104143,
+                    "md5": "4a767767da0ea6b79e6f22d8d0cac141",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/medieval_blocks_03/medieval_blocks_03_spec_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 221603,
+                    "md5": "fd221dffb7481798d502e0bed20b0d78",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/medieval_blocks_03/medieval_blocks_03_spec_1k.jpg"
+                },
+                "png": {
+                    "size": 405836,
+                    "md5": "10937e9e6396f5bbd4e112590e6ffbc7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/medieval_blocks_03/medieval_blocks_03_spec_1k.png"
+                },
+                "exr": {
+                    "size": 858343,
+                    "md5": "ec6b5c4f2cb6f33f368401e1c4173019",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/medieval_blocks_03/medieval_blocks_03_spec_1k.exr"
+                }
+            }
+        }
+    }
+}

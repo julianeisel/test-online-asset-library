@@ -1,0 +1,132 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 4176,
+    "tags": [
+        "stars",
+        "milky way",
+        "galaxy",
+        "astronomy",
+        "dark",
+        "rocky",
+        "arid",
+        "desert"
+    ],
+    "social_post_pending": true,
+    "name": "Rogland Clear Night",
+    "date_taken": 1693948920,
+    "coords": [
+        -29.68232655273397,
+        17.949190420193943
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "ade06803bec719e9333da83cfa8df0973ad66bfc",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "skies",
+        "clear",
+        "low contrast",
+        "night",
+        "collection: namaqualand"
+    ],
+    "sponsors": [
+        "82322099"
+    ],
+    "date_published": 1728345600,
+    "download_count": 584,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rogland_clear_night.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 53693389,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rogland_clear_night.jpg",
+            "md5": "5565a41460b4f851fcea727d5dcfc009"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 114842136,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rogland_clear_night_8k.hdr",
+                    "md5": "8624029914e4eb3df44da3dc8ad56e03"
+                },
+                "exr": {
+                    "size": 388882198,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rogland_clear_night_8k.exr",
+                    "md5": "eef2cbee90ca38be87549be88357d61f"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 449368579,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rogland_clear_night_16k.hdr",
+                    "md5": "2a18f5333d8878aec7a3af9be1b3628b"
+                },
+                "exr": {
+                    "size": 1542816332,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rogland_clear_night_16k.exr",
+                    "md5": "346965446a699c2c951cb90b692b1155"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27915523,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rogland_clear_night_4k.hdr",
+                    "md5": "24f1045ef4a6402adc3ab1454a11dd42"
+                },
+                "exr": {
+                    "size": 97115702,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rogland_clear_night_4k.exr",
+                    "md5": "0f16b433eb790eba5d7210bab8e5f43d"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 1017031980,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rogland_clear_night_24k.hdr",
+                    "md5": "a3114efdb230c197fa334d3a7bd7a1c8"
+                },
+                "exr": {
+                    "size": 3450911799,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rogland_clear_night_24k.exr",
+                    "md5": "fc86ae3c8137d4d2dac391f5a282b3f6"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6838156,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rogland_clear_night_2k.hdr",
+                    "md5": "bd652268098521c5fd23e9fd1a4368b0"
+                },
+                "exr": {
+                    "size": 24286590,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rogland_clear_night_2k.exr",
+                    "md5": "48d24a1f21d50703ce9cc9be4698b327"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1694136,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rogland_clear_night_1k.hdr",
+                    "md5": "509bf6a02213f0bf068ebf7fc56d45b1"
+                },
+                "exr": {
+                    "size": 6086322,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rogland_clear_night_1k.exr",
+                    "md5": "71ec654030ec90efc630b06e55609393"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 775744323,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rogland_clear_night.zip",
+            "md5": "288e9e11ba8f608aa57261ee298fc80d"
+        }
+    }
+}

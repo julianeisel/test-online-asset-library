@@ -1,0 +1,128 @@
+{
+    "evs_cap": 12,
+    "tags": [
+        "tree",
+        "brick",
+        "castle",
+        "medieval",
+        "europe",
+        "bench",
+        "dirt",
+        "ruin"
+    ],
+    "date_published": 1622584800,
+    "name": "Zavelstein",
+    "categories": [
+        "outdoor",
+        "urban",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.692215,
+        8.691196
+    ],
+    "date_taken": 1616241180,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "type": 0,
+    "sponsors": [
+        "11167855"
+    ],
+    "files_hash": "f09251ce0fb456c10739458487421c49bf4ce6d5",
+    "max_resolution": [
+        20752,
+        10376
+    ],
+    "download_count": 19714,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zavelstein.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 11992522,
+            "md5": "0e19a19b35a067a4bcbfcedb86458b0f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/zavelstein.jpg"
+        },
+        "colorchart": {
+            "size": 152534648,
+            "md5": "65c14cf85d6e0dc6584ea4573e77064c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/zavelstein.zip"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 112515564,
+                    "md5": "0f5501ec7dcd1c20c82439fe56258eaf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/zavelstein_8k.hdr"
+                },
+                "exr": {
+                    "size": 353357555,
+                    "md5": "e63e9f961083a0513b5ffa4e713eda11",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/zavelstein_8k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28378904,
+                    "md5": "2845b87a810dcaf2c68e95855439eea6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/zavelstein_4k.hdr"
+                },
+                "exr": {
+                    "size": 90225102,
+                    "md5": "4c5cc065f7dfb5b2b6e430060c25c084",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/zavelstein_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7103518,
+                    "md5": "df42e7757c6fbd97b91d3dbc082d0576",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/zavelstein_2k.hdr"
+                },
+                "exr": {
+                    "size": 23346043,
+                    "md5": "1184ae8d8b97f11d06b12bac424615aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/zavelstein_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1772541,
+                    "md5": "f1f075a71790b578e2d670acbb85494a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/zavelstein_1k.hdr"
+                },
+                "exr": {
+                    "size": 6190424,
+                    "md5": "e4e54afbb6354aaaea74e36378c5b0dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/zavelstein_1k.exr"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 696606886,
+                    "md5": "5a29d9ed7bc6d840a3e25e3952cce2aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/zavelstein_20k.hdr"
+                },
+                "exr": {
+                    "size": 1664598828,
+                    "md5": "8ef13fcec914768755aaa8f73ee16b65",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/zavelstein_20k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 439459767,
+                    "md5": "ff31f7c2c67d44d70a16de1af45379d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/zavelstein_16k.hdr"
+                },
+                "exr": {
+                    "size": 1205083603,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/zavelstein_16k.exr",
+                    "md5": "9D9A9021853CDB83F6F1B215E5B72AC4"
+                }
+            }
+        }
+    }
+}

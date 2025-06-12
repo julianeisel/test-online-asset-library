@@ -1,0 +1,111 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "whitebalance": 5001,
+    "tags": [
+        "building",
+        "architecture",
+        "europe",
+        "pillar",
+        "snow",
+        "winter",
+        "lamp"
+    ],
+    "date_published": 1549321200,
+    "name": "Winter Evening",
+    "categories": [
+        "outdoor",
+        "urban",
+        "night",
+        "overcast",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1545939660,
+    "coords": [
+        50.9184928,
+        34.7982578
+    ],
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "10485422"
+    ],
+    "max_resolution": [
+        16500,
+        8250
+    ],
+    "files_hash": "ce41344f8bdc639526a17673cd6ba926925e4715",
+    "download_count": 65677,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/winter_evening.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 2760539,
+            "md5": "ba20fbc78f327f0bf022a14e7f9700a8",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/winter_evening.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/winter_evening_8k.hdr",
+                    "size": 86729332,
+                    "md5": "689316e4550decc564373fcae58242aa"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/winter_evening_8k.exr",
+                    "size": 60609670,
+                    "md5": "56c8292e7052fe68cbf0e601838d234f"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/winter_evening_16k.hdr",
+                    "size": 308730449,
+                    "md5": "eefb2058d04439e3d6edafeb9ba8e28a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/winter_evening_16k.exr",
+                    "size": 221350482,
+                    "md5": "e8c4fa203eb4dfcc99d5ada315714175"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/winter_evening_4k.hdr",
+                    "size": 22809263,
+                    "md5": "86a78a654e2760f13b6b776adf4ac479"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/winter_evening_4k.exr",
+                    "size": 16115863,
+                    "md5": "685f8a103a9aa2efdcc33f10528f8a9a"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/winter_evening_2k.hdr",
+                    "size": 5890947,
+                    "md5": "b6df0ea32a203d7450dfa3d2e8249e87"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/winter_evening_2k.exr",
+                    "size": 4297277,
+                    "md5": "403919c1f4567f94dd6f30e524f97599"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/winter_evening_1k.hdr",
+                    "size": 1507642,
+                    "md5": "1cc3fc8435f186aa25e0f9b7abd315cf"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/winter_evening_1k.exr",
+                    "size": 1139996,
+                    "md5": "8eff34187f2c4a59cd22beec59fcbf1f"
+                }
+            }
+        }
+    }
+}

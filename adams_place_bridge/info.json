@@ -1,0 +1,107 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "building",
+        "architecture",
+        "europe",
+        "bridge",
+        "tunnel",
+        "path"
+    ],
+    "date_published": 1564437600,
+    "name": "Adams Place Bridge",
+    "categories": [
+        "indoor",
+        "urban",
+        "high contrast",
+        "artificial light"
+    ],
+    "coords": [
+        51.505668,
+        -0.019186
+    ],
+    "date_taken": 1558283220,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "16608220"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "da3a5c37a210c3840f5556254134f4d6b188cf82",
+    "download_count": 114546,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/adams_place_bridge.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4478878,
+            "md5": "5a28b7b310565407e90e89839d21fea8",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/adams_place_bridge.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/adams_place_bridge_8k.hdr",
+                    "size": 103021138,
+                    "md5": "3e0a5569edb74fe76dfe4955d46ce976"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/adams_place_bridge_8k.exr",
+                    "size": 85863867,
+                    "md5": "a5f560fc7a3de0bad68c5424a5cc97f5"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 397925697,
+                    "md5": "0530403abc8e9780b0326702d0d88279",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/adams_place_bridge_16k.hdr"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/adams_place_bridge_16k.exr",
+                    "size": 319585994,
+                    "md5": "14e43d0b0faaf88f62c76b2f208bc0a5"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/adams_place_bridge_4k.hdr",
+                    "size": 26201311,
+                    "md5": "d219e208e493afab18664281613ddc7b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/adams_place_bridge_4k.exr",
+                    "size": 22005956,
+                    "md5": "19cfeac7cce3cf0f1a043ce833320288"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/adams_place_bridge_2k.hdr",
+                    "size": 6556038,
+                    "md5": "af1b77d25770ae924330edaeb0741484"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/adams_place_bridge_2k.exr",
+                    "size": 5550167,
+                    "md5": "4d7da706b87a03f1aef9fabfdc26532c"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/adams_place_bridge_1k.hdr",
+                    "size": 1613851,
+                    "md5": "8405de209b3ec65a2167481938e4084a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/adams_place_bridge_1k.exr",
+                    "size": 1396399,
+                    "md5": "bca6978bf54738c5bcff27f07c954964"
+                }
+            }
+        }
+    }
+}

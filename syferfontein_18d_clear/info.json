@@ -1,0 +1,453 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1532988000,
+    "name": "Syferfontein 18d Clear",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -26.3588,
+        27.7549
+    ],
+    "date_taken": 1532268840,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "10004313"
+    ],
+    "backplates": true,
+    "tags": [
+        "sun",
+        "smoke",
+        "hill",
+        "view",
+        "backplates"
+    ],
+    "files_hash": "36d6ea97eacba78910bdccb800e19691450a022e",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 75738,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/syferfontein_18d_clear.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6603069,
+            "md5": "d3fae093a57087883f8dd5445ec28c0b",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/syferfontein_18d_clear.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 91708583,
+                    "md5": "ca0f849da2cd7a266d70fc1cb9b3c26b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/syferfontein_18d_clear_8k.hdr"
+                },
+                "exr": {
+                    "size": 77519965,
+                    "md5": "5d57f9b81b5c088f15320c4af720d4a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/syferfontein_18d_clear_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 326284142,
+                    "md5": "6729e563302491c0e4759ff213b78d3c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/syferfontein_18d_clear_16k.hdr"
+                },
+                "exr": {
+                    "size": 283526315,
+                    "md5": "bfefb875c41151aa50d06ef346d95856",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/syferfontein_18d_clear_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23468748,
+                    "md5": "10419b71090c8202d87ad99ca6df0337",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/syferfontein_18d_clear_4k.hdr"
+                },
+                "exr": {
+                    "size": 20114953,
+                    "md5": "fabe1d2884a55199c0db316ffcd9ad06",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/syferfontein_18d_clear_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5881650,
+                    "md5": "8f75ed0987e563026ec70c11fac10a24",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/syferfontein_18d_clear_2k.hdr"
+                },
+                "exr": {
+                    "size": 5188836,
+                    "md5": "f2815d7e3d8da57134474cda4f4d6883",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/syferfontein_18d_clear_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1503820,
+                    "md5": "04ee237627de40e880f0c351c954a4fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/syferfontein_18d_clear_1k.hdr"
+                },
+                "exr": {
+                    "size": 1359603,
+                    "md5": "b0c6a95f91e35815870d921cf260a04d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/syferfontein_18d_clear_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC09590": {
+                "jpg_pretty": {
+                    "size": 26500992,
+                    "md5": "460c73230700ce2762ea3d3b4ff50ef2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09590.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17262903,
+                    "md5": "a18f0c4778c31ff4be964f0ca8e749b4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09590.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "5f81977880822d82ce6f04b425f40ccc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09590.ARW"
+                }
+            },
+            "DSC09607": {
+                "jpg_pretty": {
+                    "size": 26649733,
+                    "md5": "30176be336db925be68f7a5c2a8fd702",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09607.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18882326,
+                    "md5": "58ecca02f4abf9689bf604258800fde1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09607.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "2c2fcef8773c0a0b278ecca37b892d1d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09607.ARW"
+                }
+            },
+            "DSC09588": {
+                "jpg_pretty": {
+                    "size": 14519354,
+                    "md5": "fa45ee1c2a9936b406b9dfec61ba4854",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09588.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10170330,
+                    "md5": "57a60ab48de3a76ebd7ccc7866a99a21",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09588.jpg"
+                },
+                "raw": {
+                    "size": 36831232,
+                    "md5": "7eebd4af5b8b49579aab1022672c5521",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09588.ARW"
+                }
+            },
+            "DSC09599": {
+                "jpg_pretty": {
+                    "size": 19380885,
+                    "md5": "92b3f121a1ee559f4899b05719cb21ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09599.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14022936,
+                    "md5": "1c85ccde1a4d0b14c5484f1f785720e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09599.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "5f1bef7c25cb3ab64c57593c06139c0c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09599.ARW"
+                }
+            },
+            "DSC09600": {
+                "jpg_pretty": {
+                    "size": 22122502,
+                    "md5": "ccf35fe4750dfbfa9c0c30f9c6b6b8da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09600.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15203829,
+                    "md5": "f9b6ce4de97d6bf9edf60c4e4c2ca9ff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09600.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "899abaad0b75b86c2c4d062d65a77cef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09600.ARW"
+                }
+            },
+            "DSC09602": {
+                "jpg_pretty": {
+                    "size": 21642422,
+                    "md5": "b4e42b9b4626aa2902ea879560a0fddd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09602.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13352125,
+                    "md5": "3ca02aa0311dae066c46d59e077e6b82",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09602.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "fba75894a81b47965a5b5a1cb5cfc8f2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09602.ARW"
+                }
+            },
+            "DSC09603": {
+                "jpg_pretty": {
+                    "size": 25209807,
+                    "md5": "a538fc2750d07d6032b3db60de06507a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09603.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14591819,
+                    "md5": "eb374cc538b31df2f52de98872a5bc3c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09603.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "8f4c6b2d71c9b5311d903ffdb546a905",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09603.ARW"
+                }
+            },
+            "DSC09604": {
+                "jpg_pretty": {
+                    "size": 32032308,
+                    "md5": "e820ba607abc91aadcbf8ee8a3f45d45",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09604.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20245639,
+                    "md5": "01f1011b89ccca5477eb36587dcf1f24",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09604.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "695c4a1f6a0c0743bb9d48ad8eb2fbec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09604.ARW"
+                }
+            },
+            "DSC09605": {
+                "jpg_pretty": {
+                    "size": 28672630,
+                    "md5": "4b17f793414b18bcd36a21b6d12fc1c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09605.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17807911,
+                    "md5": "507529e3fada118112b07a429a6e9c51",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09605.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "d4821c0187156df5a9c23e6e21757fcb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09605.ARW"
+                }
+            },
+            "DSC09580": {
+                "jpg_pretty": {
+                    "size": 25712651,
+                    "md5": "04ccd7e21afe19215d9214f2b8617d80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09580.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15853385,
+                    "md5": "205552c23fdc5e4f594dea16f74e4938",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09580.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "11756fecdd6d249d95e4679c9bc105a7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09580.ARW"
+                }
+            },
+            "DSC09591": {
+                "jpg_pretty": {
+                    "size": 22320110,
+                    "md5": "f70313a9ab1d34e9749a0195596088f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09591.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14480659,
+                    "md5": "38425427b19f620665903cea15448805",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09591.jpg"
+                },
+                "raw": {
+                    "size": 37027840,
+                    "md5": "9af94d23ffd8c9f27f61eec31389f543",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09591.ARW"
+                }
+            },
+            "DSC09592": {
+                "jpg_pretty": {
+                    "size": 16782901,
+                    "md5": "50ccab06a50556e182e3038cbf00ae27",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09592.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11549596,
+                    "md5": "5c237cf0273f2606f61d99c5305c0148",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09592.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "ab3818ec5d24ce8c2b9d88a3d294ac20",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09592.ARW"
+                }
+            },
+            "DSC09582": {
+                "jpg_pretty": {
+                    "size": 26759586,
+                    "md5": "1510ffdf9e96332da60f24e742d062f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09582.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16949626,
+                    "md5": "e543dc8ad19ec4b9948948b5e1c7f503",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09582.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "ab4fd25c8bbd2aebeadccc6907710135",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09582.ARW"
+                }
+            },
+            "DSC09593": {
+                "jpg_pretty": {
+                    "size": 18956274,
+                    "md5": "4427222942a5b1ea16a8ff8c1af7d8e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09593.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12915039,
+                    "md5": "30de0ba1547a14b3c7adcd736386e87a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09593.jpg"
+                },
+                "raw": {
+                    "size": 37027840,
+                    "md5": "f81e2c3f5e71d7ca57fe99d6ef6d7e2e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09593.ARW"
+                }
+            },
+            "DSC09583": {
+                "jpg_pretty": {
+                    "size": 28747230,
+                    "md5": "c1dc92338fd03122c9cb9d1f7df145e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09583.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18841495,
+                    "md5": "b8bbe814b1542d1aaeb6d32df25d9d19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09583.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "0a1f4d9cd49f39b70ee8c86d75c724a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09583.ARW"
+                }
+            },
+            "DSC09596": {
+                "jpg_pretty": {
+                    "size": 19263502,
+                    "md5": "5a89b00c5da6a3cd3745a3511be40db6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09596.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14502619,
+                    "md5": "3a9e9c1a5221740ac385dbc16f1af1d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09596.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "2e6e15713301f4ea1ceb54372859dc59",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09596.ARW"
+                }
+            },
+            "DSC09586": {
+                "jpg_pretty": {
+                    "size": 19204025,
+                    "md5": "cc5854b579c17bf972bd481602a3b0a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09586.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13676154,
+                    "md5": "65fbdb0b8b5e2fb8c6a3023ef396236d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09586.jpg"
+                },
+                "raw": {
+                    "size": 36962304,
+                    "md5": "9d44c0951bbe0b6c4a510e94ba9c11e6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09586.ARW"
+                }
+            },
+            "DSC09597": {
+                "jpg_pretty": {
+                    "size": 19814080,
+                    "md5": "11f88d1a3613fec65e2a6ec443a4cfa9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09597.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14750521,
+                    "md5": "1d392b6228edaadf6a13037003a3d875",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09597.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "fb2bdaa4975714daee3ade3d459e4bfc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09597.ARW"
+                }
+            },
+            "DSC09587": {
+                "jpg_pretty": {
+                    "size": 19434697,
+                    "md5": "c467fe25313b3089c0d38fbbe0315a65",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09587.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13818787,
+                    "md5": "78347af878ee0407d609c3fc3f2fb344",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09587.jpg"
+                },
+                "raw": {
+                    "size": 36962304,
+                    "md5": "af5858854694dca3694af66086e81618",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09587.ARW"
+                }
+            },
+            "DSC09598": {
+                "jpg_pretty": {
+                    "size": 17033483,
+                    "md5": "9e969ad56573d1f72422a901493acc7c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_pretty/DSC09598.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12648994,
+                    "md5": "86071a63b1a4938d7e525c65ce285f12",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/jpg_plain/DSC09598.jpg"
+                },
+                "raw": {
+                    "size": 36995072,
+                    "md5": "607158852fd5da8a4c8fec7ef0e34202",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/syferfontein_18d_clear/raw/DSC09598.ARW"
+                }
+            }
+        }
+    }
+}

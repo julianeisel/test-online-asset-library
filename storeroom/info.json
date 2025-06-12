@@ -1,0 +1,100 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "mess",
+        "junk",
+        "fluorescent"
+    ],
+    "date_published": 1522879200,
+    "name": "Storeroom",
+    "categories": [
+        "indoor",
+        "urban",
+        "high contrast",
+        "artificial light"
+    ],
+    "date_taken": 1449644700,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3237733"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "dc58927d23e4c7ae995944390a92781fc8707097",
+    "download_count": 18530,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/storeroom.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4801117,
+            "md5": "68bd939607eb3396f2c5fd01d8f4f521",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/storeroom.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/storeroom_8k.hdr",
+                    "size": 100098901,
+                    "md5": "ae1efa07c50216a660b9392347e5d627"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/storeroom_8k.exr",
+                    "size": 86773901,
+                    "md5": "f0518b22426f13b2c2fd9245493e1ee3"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/storeroom_16k.hdr",
+                    "size": 349753825,
+                    "md5": "84cef92a218b0935425b6747063e65e8"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/storeroom_16k.exr",
+                    "size": 286942223,
+                    "md5": "0f12693e42a34aefc0de8f8e4a4aa8e7"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/storeroom_4k.hdr",
+                    "size": 25883637,
+                    "md5": "e738021c7a75800d282663156984f8d8"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/storeroom_4k.exr",
+                    "size": 23185192,
+                    "md5": "f71f79f9c744630d72335d97bed197fc"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/storeroom_2k.hdr",
+                    "size": 6603693,
+                    "md5": "94887e4603a9400bad32ed977b28a201"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/storeroom_2k.exr",
+                    "size": 6103699,
+                    "md5": "49e131d0fe9fdd3d4da965d6541f59ef"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/storeroom_1k.hdr",
+                    "size": 1678971,
+                    "md5": "1ac5b08e4f9ba62db893b20bd3ab0e4b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/storeroom_1k.exr",
+                    "size": 1604271,
+                    "md5": "a915d1964ee43ad62ca43edb62445b1e"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "tile",
+        "fluorescent",
+        "stair",
+        "map",
+        "tunnel",
+        "station",
+        "escalator"
+    ],
+    "date_published": 1508968800,
+    "name": "Subway Entrance",
+    "categories": [
+        "indoor",
+        "urban",
+        "midday",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1479043320,
+    "coords": [
+        51.225926,
+        6.779277
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "18031080"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "b100efd9b87558cbe738b692fd925caf89bf487b",
+    "download_count": 41089,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/subway_entrance.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 7001286,
+            "md5": "fb5fcd690fbe123a37d0332577effbed",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/subway_entrance.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/subway_entrance_8k.hdr",
+                    "size": 106527947,
+                    "md5": "ace9d2bd34312920cf2aefc68597b866"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/subway_entrance_8k.exr",
+                    "size": 100279487,
+                    "md5": "ffdf50762797940c6ce59627f58bab48"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/subway_entrance_16k.hdr",
+                    "size": 403405024,
+                    "md5": "a13885dce078524f73e21de8ceaf04c0"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/subway_entrance_16k.exr",
+                    "size": 366339074,
+                    "md5": "2e5496fc06873c150f6241d46f862757"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/subway_entrance_4k.hdr",
+                    "size": 27334676,
+                    "md5": "44c6e481b7e4814a58eeb21eae4dd197"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/subway_entrance_4k.exr",
+                    "size": 26038477,
+                    "md5": "2938dc5a185413818b06a3527bb95b3b"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/subway_entrance_2k.hdr",
+                    "size": 6874135,
+                    "md5": "a34e1ea178553aa3447f1ae7fb9db598"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/subway_entrance_2k.exr",
+                    "size": 6498338,
+                    "md5": "6d05d7ad3291d39f53dbf604808182e3"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/subway_entrance_1k.hdr",
+                    "size": 1708791,
+                    "md5": "da63842baa46e7234f39669751df853c"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/subway_entrance_1k.exr",
+                    "size": 1620483,
+                    "md5": "0c66e1435d048056d3c8e2c98db54e8e"
+                }
+            }
+        }
+    }
+}

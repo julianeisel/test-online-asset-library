@@ -1,0 +1,104 @@
+{
+    "evs_cap": 8,
+    "prepaid": true,
+    "type": 0,
+    "whitebalance": 5050,
+    "tags": [
+        "machine",
+        "industrial",
+        "workshop",
+        "laboratory"
+    ],
+    "date_published": 1554760800,
+    "name": "Vintage Measuring Lab",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1535981280,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "files_hash": "ae5a6f490377d3b6d21a37ed67bf9b504b3ac5e7",
+    "max_resolution": [
+        17000,
+        8500
+    ],
+    "download_count": 25146,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/vintage_measuring_lab.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 3900891,
+            "md5": "11a0c345ff0e51b97cb66a805e46f45e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/vintage_measuring_lab.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102834304,
+                    "md5": "fa5691837cd7d4098549b399921a16e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/vintage_measuring_lab_8k.hdr"
+                },
+                "exr": {
+                    "size": 82201871,
+                    "md5": "dfbe87d577d3a6528ccb7019ceb96a81",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/vintage_measuring_lab_8k.exr"
+                }
+            },
+            "17k": {
+                "hdr": {
+                    "size": 428385439,
+                    "md5": "c9782f207b0208c533e53c9ce6c6acd9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/vintage_measuring_lab_17k.hdr"
+                },
+                "exr": {
+                    "size": 342360865,
+                    "md5": "c362da34c3c818d64ffaae5e54895913",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/vintage_measuring_lab_17k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25823388,
+                    "md5": "1ffcc83bf68fe3829cf9acf53141c2de",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/vintage_measuring_lab_4k.hdr"
+                },
+                "exr": {
+                    "size": 20421965,
+                    "md5": "5139a63bb4e60dd2e6efb0f21fe4eaa9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/vintage_measuring_lab_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6465492,
+                    "md5": "0e50df8fe70d0c744c2214f3856804a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/vintage_measuring_lab_2k.hdr"
+                },
+                "exr": {
+                    "size": 5262099,
+                    "md5": "51fbd302f60a2564932a9fa9d2efd69e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/vintage_measuring_lab_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1632977,
+                    "md5": "f33b46693c0bb1e9c0d3db92b514c9b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/vintage_measuring_lab_1k.hdr"
+                },
+                "exr": {
+                    "size": 1409611,
+                    "md5": "31a59315348b458f7cee48fd167463bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/vintage_measuring_lab_1k.exr"
+                }
+            }
+        }
+    }
+}

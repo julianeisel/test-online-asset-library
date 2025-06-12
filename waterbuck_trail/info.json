@@ -1,0 +1,110 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "rock",
+        "tree",
+        "mountain",
+        "hill",
+        "valley"
+    ],
+    "date_published": 1506981900,
+    "name": "Waterbuck Trail",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1479559200,
+    "coords": [
+        -24.857558,
+        30.679505
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "b71432d94f492ba3387f8b12fa97c35a41ed6e06",
+    "sponsors": [
+        "3267566",
+        "7934315"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 65215,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/waterbuck_trail.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5540001,
+            "md5": "c33312b91c301d3ba9a452d1a81ec268",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/waterbuck_trail.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 93727700,
+                    "md5": "6080abab4fa6f6895f1fdf547526a441",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/waterbuck_trail_8k.hdr"
+                },
+                "exr": {
+                    "size": 77013589,
+                    "md5": "01820e5dd0b430779d774157925985a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/waterbuck_trail_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 344840801,
+                    "md5": "56ae1e99950a70cd63c2e36db6b2a0ea",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/waterbuck_trail_16k.hdr"
+                },
+                "exr": {
+                    "size": 285270135,
+                    "md5": "b6471efa3e227e09d138d9e8175670e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/waterbuck_trail_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23871799,
+                    "md5": "c0fb70f34e2c463406be5d595aa17f2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/waterbuck_trail_4k.hdr"
+                },
+                "exr": {
+                    "size": 19931615,
+                    "md5": "8b896f635aed06c0be1a8e4be9fc8e35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/waterbuck_trail_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5960415,
+                    "md5": "0dca326aac87f0ba432d70a9e3971c49",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/waterbuck_trail_2k.hdr"
+                },
+                "exr": {
+                    "size": 5127009,
+                    "md5": "107323dd2893d09c9e5df612e68b7122",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/waterbuck_trail_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1510719,
+                    "md5": "6e118398aabd2a32bad999ac0b9ce34b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/waterbuck_trail_1k.hdr"
+                },
+                "exr": {
+                    "size": 1336716,
+                    "md5": "e741f8a306281a2a464bc453bde3a1d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/waterbuck_trail_1k.exr"
+                }
+            }
+        }
+    }
+}

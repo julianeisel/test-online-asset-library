@@ -1,0 +1,111 @@
+{
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 5600,
+    "tags": [
+        "dry grass",
+        "yellow",
+        "long grass",
+        "tree",
+        "sun",
+        "nest",
+        "park"
+    ],
+    "name": "Dry Meadow",
+    "categories": [
+        "high contrast",
+        "outdoor",
+        "partly cloudy",
+        "natural light",
+        "nature",
+        "morning-afternoon"
+    ],
+    "date_taken": 1700918160,
+    "authors": {
+        "Greg Zaal": "Processing",
+        "Sergej Majboroda": "Photography"
+    },
+    "info": null,
+    "files_hash": "30cd0672d72ce09eb3f9309d338af812a23f386a",
+    "date_published": 1708041600,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 8012,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dry_meadow.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 51471785,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dry_meadow.jpg",
+            "md5": "1d2dbac1fabc87ab632c4128681437d7"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105943986,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dry_meadow_8k.hdr",
+                    "md5": "4605778613f806bc855340daa5a8b220"
+                },
+                "exr": {
+                    "size": 386706397,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dry_meadow_8k.exr",
+                    "md5": "97ae27c525065a02255d287aeb7338b8"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 397420512,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dry_meadow_16k.hdr",
+                    "md5": "87f36f18d6ec046e98c407b50618f165"
+                },
+                "exr": {
+                    "size": 1516970019,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dry_meadow_16k.exr",
+                    "md5": "8ff521490e901e2c60c103229bff3244"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27059642,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dry_meadow_4k.hdr",
+                    "md5": "564469d60d3dc2a1410d40b9cc1d1877"
+                },
+                "exr": {
+                    "size": 97201932,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dry_meadow_4k.exr",
+                    "md5": "4fbbe6422f1d2714d8f8155118e3e893"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6749592,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dry_meadow_2k.hdr",
+                    "md5": "82aae4d5a9f63363ff132bb03f41d858"
+                },
+                "exr": {
+                    "size": 24353151,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dry_meadow_2k.exr",
+                    "md5": "966bc8cdaf66dc796e780df1a586ca49"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1672378,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dry_meadow_1k.hdr",
+                    "md5": "671c45ad8f17c598d3c6560c10e9aa0f"
+                },
+                "exr": {
+                    "size": 6109815,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dry_meadow_1k.exr",
+                    "md5": "94fb238024ef0d568e5a8f73e37e00a0"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 375155487,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/dry_meadow.zip",
+            "md5": "b9149cedb1cef3a98c4c5869a3b95d72"
+        }
+    }
+}

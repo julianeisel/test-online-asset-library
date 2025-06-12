@@ -1,0 +1,535 @@
+{
+    "evs_cap": 17,
+    "type": 0,
+    "whitebalance": 11000,
+    "date_published": 1596640785,
+    "name": "Small Rural Road 02",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1591460700,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "backplates": true,
+    "tags": [
+        "road",
+        "tree",
+        "farm",
+        "straight",
+        "backplates"
+    ],
+    "files_hash": "ffda138abd8f4cce1865466e7dc0a35bfcc3ac45",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 40700,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/small_rural_road_02.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4390018,
+            "md5": "2077ce265572a1e803f68a5be41491d4",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/small_rural_road_02.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98455460,
+                    "md5": "4943dfcd1130d341cf47d07ac8dcf108",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/small_rural_road_02_8k.hdr"
+                },
+                "exr": {
+                    "size": 78616246,
+                    "md5": "d4475b91eb1bd13de88f92a6ed6c9d98",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/small_rural_road_02_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 357720562,
+                    "md5": "53b1f7399447d26c2b401968f54caa7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/small_rural_road_02_16k.hdr"
+                },
+                "exr": {
+                    "size": 278637380,
+                    "md5": "d2dffa3ff2fc581e2a2dadbdb51621bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/small_rural_road_02_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25175794,
+                    "md5": "124f13511fcff3272cf1e6085d4108c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/small_rural_road_02_4k.hdr"
+                },
+                "exr": {
+                    "size": 20383266,
+                    "md5": "fa0f7bcafab9488efff2b7e791da291c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/small_rural_road_02_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6210332,
+                    "md5": "461d487f7e43b0024c7d9db5319f3d7b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/small_rural_road_02_2k.hdr"
+                },
+                "exr": {
+                    "size": 5164039,
+                    "md5": "c6a56d09ea328230b45a8c0a00b9b059",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/small_rural_road_02_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1537481,
+                    "md5": "1cc2f42e2848f86f51ba2be334586142",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/small_rural_road_02_1k.hdr"
+                },
+                "exr": {
+                    "size": 1314606,
+                    "md5": "8b47ea4d406ba3b9908a1feb9c4187da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/small_rural_road_02_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 70772740,
+            "md5": "a9bfa683fb05d5a7e293e220e7c89fd4",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/small_rural_road_02.zip"
+        },
+        "backplates": {
+            "DSC_0205": {
+                "jpg_pretty": {
+                    "size": 14499838,
+                    "md5": "7df066560d9fdf49d883db6667323c52",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0205.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13009816,
+                    "md5": "adf7593f7860376c6ece5c1f9ad04690",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0205.jpg"
+                },
+                "raw": {
+                    "size": 20018977,
+                    "md5": "9bc80679537cf7e37a8c1136f1b71c1e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0205.NEF"
+                }
+            },
+            "DSC_0225": {
+                "jpg_pretty": {
+                    "size": 13858299,
+                    "md5": "1186b69ec4f84765219198b5637c061e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0225.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10564147,
+                    "md5": "06682fa063f93b8268007466a9e97deb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0225.jpg"
+                },
+                "raw": {
+                    "size": 19090071,
+                    "md5": "e5ee3e0b469168ed6ad97a34f07a76d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0225.NEF"
+                }
+            },
+            "DSC_0165": {
+                "jpg_pretty": {
+                    "size": 13205709,
+                    "md5": "30fb9724479a8788b02073fa9efa9cb6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0165.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9520624,
+                    "md5": "ef91028801c3fba4ba43cc63e2223576",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0165.jpg"
+                },
+                "raw": {
+                    "size": 18676884,
+                    "md5": "62870a599542eb02114ad942ba43570e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0165.NEF"
+                }
+            },
+            "DSC_0220": {
+                "jpg_pretty": {
+                    "size": 12862097,
+                    "md5": "ab56689bd2814a583f7a5c2491c0d08d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0220.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9554048,
+                    "md5": "237b871c80e6c2094251da73735ce784",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0220.jpg"
+                },
+                "raw": {
+                    "size": 18489961,
+                    "md5": "218e6c646e882ca0a20cc80824615930",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0220.NEF"
+                }
+            },
+            "DSC_0185": {
+                "jpg_pretty": {
+                    "size": 12301514,
+                    "md5": "43b2c51969f0f6c81e668c746a06fd2d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0185.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8925253,
+                    "md5": "12d8a92867bac5ccf51b0632c50237d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0185.jpg"
+                },
+                "raw": {
+                    "size": 18114085,
+                    "md5": "6c5a0c57762b58ead1f17d63a3a7e2f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0185.NEF"
+                }
+            },
+            "DSC_0240": {
+                "jpg_pretty": {
+                    "size": 12625695,
+                    "md5": "39bdc31cbd6880de65d7e090ce4f3660",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0240.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10079712,
+                    "md5": "ebf5d66db70fb777df7fd01f7f96fa56",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0240.jpg"
+                },
+                "raw": {
+                    "size": 18579681,
+                    "md5": "7e682217a460d07193b19ae18323071a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0240.NEF"
+                }
+            },
+            "DSC_0140": {
+                "jpg_pretty": {
+                    "size": 13533523,
+                    "md5": "2ed5bfb6dd5de8256f8228338846abe2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0140.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9783988,
+                    "md5": "dc51c766fd26a7a3c78b18e3195e1804",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0140.jpg"
+                },
+                "raw": {
+                    "size": 18963272,
+                    "md5": "2ca388d18bd26417a306f820fb5ebb1f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0140.NEF"
+                }
+            },
+            "DSC_0125": {
+                "jpg_pretty": {
+                    "size": 12215515,
+                    "md5": "043d6be1993009c8df784fa0631631fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0125.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8111730,
+                    "md5": "404abb127dc3ea2660eb22df1da35064",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0125.jpg"
+                },
+                "raw": {
+                    "size": 17448202,
+                    "md5": "9406cd3b84656de92e3ab1eebf70a581",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0125.NEF"
+                }
+            },
+            "DSC_0245": {
+                "jpg_pretty": {
+                    "size": 12403189,
+                    "md5": "771260fd05015b5423f9a5670c4dc463",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0245.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11336221,
+                    "md5": "721c88ef4207361289364a75068cd0d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0245.jpg"
+                },
+                "raw": {
+                    "size": 19342557,
+                    "md5": "6afc522dc567ee4644a99363de29fc97",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0245.NEF"
+                }
+            },
+            "DSC_0145": {
+                "jpg_pretty": {
+                    "size": 13750512,
+                    "md5": "35611bbcb524ed0da2702acdc009404f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0145.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11167450,
+                    "md5": "a0a8264fde61fe922b620bae88ea358a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0145.jpg"
+                },
+                "raw": {
+                    "size": 19653169,
+                    "md5": "caeec9b81b471adcec44cdcfa4477bac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0145.NEF"
+                }
+            },
+            "DSC_0200": {
+                "jpg_pretty": {
+                    "size": 14884435,
+                    "md5": "18bf76e1b70959adb09ca4df8b1a8962",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0200.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13233576,
+                    "md5": "d5518fe7a8476e3f09b5c55dd4ce97b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0200.jpg"
+                },
+                "raw": {
+                    "size": 20127848,
+                    "md5": "a3e44d97b77fd3d4459b84a36a34ce02",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0200.NEF"
+                }
+            },
+            "DSC_0160": {
+                "jpg_pretty": {
+                    "size": 12150167,
+                    "md5": "d3c80547c42ab20023b6e5c0e3112f19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0160.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9364698,
+                    "md5": "96a5df84897133ed50af5fbbac4e00b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0160.jpg"
+                },
+                "raw": {
+                    "size": 18583671,
+                    "md5": "68e40a3c7262ba292b6f28457197d558",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0160.NEF"
+                }
+            },
+            "DSC_0180": {
+                "jpg_pretty": {
+                    "size": 15207629,
+                    "md5": "3577ce88f3d780de87c4a886ac6ba337",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0180.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10549022,
+                    "md5": "110de2dd85a1edf0f04b941a95ce972c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0180.jpg"
+                },
+                "raw": {
+                    "size": 19174304,
+                    "md5": "e39e9f10bb160506fcdbfcb1ac192c1f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0180.NEF"
+                }
+            },
+            "DSC_0215": {
+                "jpg_pretty": {
+                    "size": 13287860,
+                    "md5": "9f7cf2cfbfe04ab1321ff4210681ff04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0215.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9772405,
+                    "md5": "f2f2db73eb9d8a24b7a3b0562d49ebbd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0215.jpg"
+                },
+                "raw": {
+                    "size": 18537154,
+                    "md5": "f7d3ddbb2ff7196217c54b991f0c0fe6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0215.NEF"
+                }
+            },
+            "DSC_0175": {
+                "jpg_pretty": {
+                    "size": 14418767,
+                    "md5": "b2aa3850309a339d4b7a3a097d83465b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0175.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10327127,
+                    "md5": "f1d69ef217d5fe4786e511cbc62e4752",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0175.jpg"
+                },
+                "raw": {
+                    "size": 19046484,
+                    "md5": "012b327fb67fcb268c26ac2d63e9d4a3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0175.NEF"
+                }
+            },
+            "DSC_0230": {
+                "jpg_pretty": {
+                    "size": 13438434,
+                    "md5": "f3734991ed69ec10b4aa89c8edb0f6dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0230.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10053388,
+                    "md5": "8bc243b73ed0f0fcd9e653223d920c46",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0230.jpg"
+                },
+                "raw": {
+                    "size": 18306451,
+                    "md5": "d1f8345bd3a565aee1bd40cf0c83dd70",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0230.NEF"
+                }
+            },
+            "DSC_0130": {
+                "jpg_pretty": {
+                    "size": 13631629,
+                    "md5": "dc995539e7ff9c66f5b84e576f8f1892",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0130.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8852718,
+                    "md5": "68e7f585960fcff58e9e007be1f005db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0130.jpg"
+                },
+                "raw": {
+                    "size": 18173543,
+                    "md5": "a361136b006b86215e409555ac32b1e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0130.NEF"
+                }
+            },
+            "DSC_0195": {
+                "jpg_pretty": {
+                    "size": 12617464,
+                    "md5": "afc86877a6a117b1d55bb6bc6bfd4578",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0195.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8669328,
+                    "md5": "b0213031dd4b4e7559f9dcc1e719ebaa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0195.jpg"
+                },
+                "raw": {
+                    "size": 17852502,
+                    "md5": "567f01eefe1f4e6d10ba8fbed5daf4f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0195.NEF"
+                }
+            },
+            "DSC_0250": {
+                "jpg_pretty": {
+                    "size": 13400441,
+                    "md5": "09ffc56c687e10789233c1e70f2f3128",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0250.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10937180,
+                    "md5": "c42d75bb1600bc70a1af4479e553f4ee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0250.jpg"
+                },
+                "raw": {
+                    "size": 19559652,
+                    "md5": "e9f11b7fdb9cfb18a0ba2df2d745ddf2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0250.NEF"
+                }
+            },
+            "DSC_0235": {
+                "jpg_pretty": {
+                    "size": 13366525,
+                    "md5": "e991627281a0e92f28087c7f8b357ba2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0235.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10359020,
+                    "md5": "b2ac46cb1689aac4dbdf30c539a404a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0235.jpg"
+                },
+                "raw": {
+                    "size": 18832664,
+                    "md5": "f9c9932829db2460a44be0848880defd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0235.NEF"
+                }
+            },
+            "DSC_0135": {
+                "jpg_pretty": {
+                    "size": 13655944,
+                    "md5": "9e2cbab50f6d1dfbe52220b94af7b845",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0135.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8729713,
+                    "md5": "85d32ef7fc255aee7feaa8568d5cfb6e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0135.jpg"
+                },
+                "raw": {
+                    "size": 17916525,
+                    "md5": "0d95c2906bd0c71f4c37e8ab7c27549c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0135.NEF"
+                }
+            },
+            "DSC_0210": {
+                "jpg_pretty": {
+                    "size": 14334462,
+                    "md5": "ca6867816942d852d264f4ee1a5f0d4e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0210.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11125482,
+                    "md5": "790c7eb5b58e4d4e7836c5457867fb79",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0210.jpg"
+                },
+                "raw": {
+                    "size": 19406831,
+                    "md5": "5df42afd71ba46c27050ea8dbfef68cf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0210.NEF"
+                }
+            },
+            "DSC_0190": {
+                "jpg_pretty": {
+                    "size": 13291989,
+                    "md5": "301d9c7198926a259201007f8c8eeba4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0190.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10360887,
+                    "md5": "9cc9a5c363c8f444361606204ea44087",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0190.jpg"
+                },
+                "raw": {
+                    "size": 19065442,
+                    "md5": "d86d60b6c599b507621aa3d69f6693ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0190.NEF"
+                }
+            },
+            "DSC_0150": {
+                "jpg_pretty": {
+                    "size": 14119801,
+                    "md5": "dbeb54022b406987077d3d663ea05ce8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0150.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10109812,
+                    "md5": "2f859b7fb5e0120185b87555901565eb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0150.jpg"
+                },
+                "raw": {
+                    "size": 18989776,
+                    "md5": "c3c80acbaab5fa2b92c098f4a5ad5e44",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0150.NEF"
+                }
+            },
+            "DSC_0170": {
+                "jpg_pretty": {
+                    "size": 12935465,
+                    "md5": "ce8e217e6a365ffffbd386d7a360e412",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_pretty/DSC_0170.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9091853,
+                    "md5": "6c83b3c15ee6de937628939673eff6e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/jpg_plain/DSC_0170.jpg"
+                },
+                "raw": {
+                    "size": 18503730,
+                    "md5": "8583b2d8d6b9fefb2f444d34e3ceaefc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/small_rural_road_02/raw/DSC_0170.NEF"
+                }
+            }
+        }
+    }
+}

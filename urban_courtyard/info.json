@@ -1,0 +1,483 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "date_published": 1522879200,
+    "name": "Urban Courtyard",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -33.907282,
+        18.422225
+    ],
+    "date_taken": 1464950580,
+    "backplates": true,
+    "tags": [
+        "building",
+        "path",
+        "bank",
+        "statue",
+        "backplates"
+    ],
+    "files_hash": "f3d2291238231810c01eb70f8f3be1d17a02abc7",
+    "authors": {
+        "Greg Zaal": "All",
+        "Rico Cilliers": "Backplates"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 32211,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/urban_courtyard.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5715570,
+            "md5": "2c4ad5020088cbdc781b31806ed471d4",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/urban_courtyard.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97952310,
+                    "md5": "72eacc749147e5f62b84300848fbc998",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/urban_courtyard_8k.hdr"
+                },
+                "exr": {
+                    "size": 83637829,
+                    "md5": "b4e4e0d2401a630f40f883e9955aa17c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/urban_courtyard_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 365434414,
+                    "md5": "e908cbb673e1ec791253f11d49dfdbac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/urban_courtyard_16k.hdr"
+                },
+                "exr": {
+                    "size": 298793205,
+                    "md5": "1a8e39382faafba23d893e2244efc24f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/urban_courtyard_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25269994,
+                    "md5": "0cd1d8e896eff72db67e0962302964fa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/urban_courtyard_4k.hdr"
+                },
+                "exr": {
+                    "size": 22526773,
+                    "md5": "9352357bc50c5f42b28c89602d6d43a7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/urban_courtyard_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6448910,
+                    "md5": "3e74fc2dd2c9aa1676f7629b815763f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/urban_courtyard_2k.hdr"
+                },
+                "exr": {
+                    "size": 5977356,
+                    "md5": "d0a9992a3996a77c24af7490f3edd6ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/urban_courtyard_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1651460,
+                    "md5": "d8ace6762596e06e321d59a7d26d6e70",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/urban_courtyard_1k.hdr"
+                },
+                "exr": {
+                    "size": 1580116,
+                    "md5": "c50d070b769abb25efb7b0b10572fc3f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/urban_courtyard_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0909": {
+                "jpg_pretty": {
+                    "size": 8052324,
+                    "md5": "f854a28964859db50677c54ecfb2e015",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0909.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8135491,
+                    "md5": "04b42101ec403bbf6c3478d47580314d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0909.jpg"
+                },
+                "raw": {
+                    "size": 22455122,
+                    "md5": "c9db5ccb475f26b8741522b7cc7fe5a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0909.dng"
+                }
+            },
+            "IMG_0908": {
+                "jpg_pretty": {
+                    "size": 8001826,
+                    "md5": "2c9266ad930cda6ecf4eab335aa3bf58",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0908.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8147170,
+                    "md5": "4342943f714716e10d66029a8b0dd9c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0908.jpg"
+                },
+                "raw": {
+                    "size": 22589448,
+                    "md5": "dc49eafb6a74e83d5607862d1d610938",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0908.dng"
+                }
+            },
+            "IMG_0919": {
+                "jpg_pretty": {
+                    "size": 9606913,
+                    "md5": "7c740e70235fa2749fb769943bd4a03a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0919.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8831381,
+                    "md5": "dcb018fe204e908a4340f2862f30a714",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0919.jpg"
+                },
+                "raw": {
+                    "size": 25774620,
+                    "md5": "5e06daab3b81b3fcc3b0eac483db8fe7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0919.dng"
+                }
+            },
+            "IMG_0907": {
+                "jpg_pretty": {
+                    "size": 7819373,
+                    "md5": "2d93e810c58942f0174d68b141f0a457",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0907.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8057550,
+                    "md5": "78320d3b3e0be86cd3ab97d0b80ce4de",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0907.jpg"
+                },
+                "raw": {
+                    "size": 22719776,
+                    "md5": "b59f7fda1e35c87bfd76b3ff616b69fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0907.dng"
+                }
+            },
+            "IMG_0918": {
+                "jpg_pretty": {
+                    "size": 11972223,
+                    "md5": "27584831bb66fd54685c75e3bd39e457",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0918.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12412893,
+                    "md5": "52dff020671a6a8c0e400af136380279",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0918.jpg"
+                },
+                "raw": {
+                    "size": 26383446,
+                    "md5": "17e9fdbc2ceee4d4e4a487b0402d9dfc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0918.dng"
+                }
+            },
+            "IMG_0906": {
+                "jpg_pretty": {
+                    "size": 7646848,
+                    "md5": "e99fcc16f31a4c0d01314ef74a22da1e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0906.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7487232,
+                    "md5": "4e15af1ae468f6be820c535cf6937fcd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0906.jpg"
+                },
+                "raw": {
+                    "size": 23348594,
+                    "md5": "5fd3eebbe89c41666f44801fef5e57b1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0906.dng"
+                }
+            },
+            "IMG_0917": {
+                "jpg_pretty": {
+                    "size": 10833937,
+                    "md5": "a1b94929d9379564a2ae2d494339a996",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0917.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11200235,
+                    "md5": "1222b5ae0e972f0eb2a062b628f860c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0917.jpg"
+                },
+                "raw": {
+                    "size": 25701148,
+                    "md5": "ad4d5048bae0739ef2fc31ea23aa8d19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0917.dng"
+                }
+            },
+            "IMG_0905": {
+                "jpg_pretty": {
+                    "size": 7515970,
+                    "md5": "6cd4da5f0be6bd20da192e6a53156af8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0905.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7310156,
+                    "md5": "3ae048f50716d960aec4873aef9bc5fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0905.jpg"
+                },
+                "raw": {
+                    "size": 23476928,
+                    "md5": "61cef8131972d1b8642f2950bf7c91a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0905.dng"
+                }
+            },
+            "IMG_0916": {
+                "jpg_pretty": {
+                    "size": 6751236,
+                    "md5": "ee79b27c6885f8a6231de390c16bdbc5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0916.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6933220,
+                    "md5": "818a7543ecefacb7dba237f110d6bf7b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0916.jpg"
+                },
+                "raw": {
+                    "size": 21886418,
+                    "md5": "3b5822a6d5985cd1fb919a1cf77aad80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0916.dng"
+                }
+            },
+            "IMG_0904": {
+                "jpg_pretty": {
+                    "size": 7610202,
+                    "md5": "eb07eb1d64a1cd2819714026313f0d16",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0904.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7384200,
+                    "md5": "e66ffcf8a6ffa724c352089707ca16cf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0904.jpg"
+                },
+                "raw": {
+                    "size": 23058610,
+                    "md5": "88e337adfcd4dc3b49a5e801afa544fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0904.dng"
+                }
+            },
+            "IMG_0915": {
+                "jpg_pretty": {
+                    "size": 8869517,
+                    "md5": "0238993460bf4d40d127657099a7b6be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0915.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9138172,
+                    "md5": "ec6a38a6d2c8a532a149c3573566c03b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0915.jpg"
+                },
+                "raw": {
+                    "size": 23675072,
+                    "md5": "7a1c22905aa2db8a50ccded4b0e59550",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0915.dng"
+                }
+            },
+            "IMG_0903": {
+                "jpg_pretty": {
+                    "size": 8675790,
+                    "md5": "a6c9f7403d9342c71857fe340b0196b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0903.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9078085,
+                    "md5": "76de17b6ab3f473e2a0888e20cdd088b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0903.jpg"
+                },
+                "raw": {
+                    "size": 22274088,
+                    "md5": "9b010c25020e7e092a7a7d22e174ed18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0903.dng"
+                }
+            },
+            "IMG_0914": {
+                "jpg_pretty": {
+                    "size": 8440547,
+                    "md5": "8e2c7bae3510e9cd683657924c5f3b99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0914.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8774553,
+                    "md5": "c9f6b430b4f7b71965e7fe7152a625f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0914.jpg"
+                },
+                "raw": {
+                    "size": 23619198,
+                    "md5": "72be8360ed5e9b070341dca41ca0641e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0914.dng"
+                }
+            },
+            "IMG_0902": {
+                "jpg_pretty": {
+                    "size": 10625270,
+                    "md5": "bea1c8b80b00c2e32cf759d8d44502e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0902.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11332951,
+                    "md5": "21fd89f1636b71382480b9ea98566388",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0902.jpg"
+                },
+                "raw": {
+                    "size": 24161390,
+                    "md5": "652e700558f0b350e72216cc4c6bc8b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0902.dng"
+                }
+            },
+            "IMG_0913": {
+                "jpg_pretty": {
+                    "size": 8361379,
+                    "md5": "50b1c7e4a1e824b814dcb080b2aab2c3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0913.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7311176,
+                    "md5": "96ec58eb8f1c7534ad166a0c5ba05f1d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0913.jpg"
+                },
+                "raw": {
+                    "size": 19477074,
+                    "md5": "de40854168e95b6480007bf4802be3f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0913.dng"
+                }
+            },
+            "IMG_0900": {
+                "jpg_pretty": {
+                    "size": 7198580,
+                    "md5": "b3583dc13e8443b6a7c0c22e3f683e5c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0900.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8035219,
+                    "md5": "336fc01f264baf10ea1e58d79479829d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0900.jpg"
+                },
+                "raw": {
+                    "size": 22630004,
+                    "md5": "d5203630cc1152d070a2b1e1ca3b65f4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0900.dng"
+                }
+            },
+            "IMG_0911": {
+                "jpg_pretty": {
+                    "size": 8332729,
+                    "md5": "a93982eafbb162c73f41c3e9f4f37d18",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0911.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7317126,
+                    "md5": "4299cc80466052f490fd4fbc1950e6a3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0911.jpg"
+                },
+                "raw": {
+                    "size": 19588830,
+                    "md5": "35d3319f173063276ccdd777a3a870f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0911.dng"
+                }
+            },
+            "IMG_0899": {
+                "jpg_pretty": {
+                    "size": 6727115,
+                    "md5": "388834be568bb7eff6f4f6825866e6ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0899.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6537957,
+                    "md5": "bd93d551b1f77270101d2aaebb020f72",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0899.jpg"
+                },
+                "raw": {
+                    "size": 22949638,
+                    "md5": "c2dd96bbee1594d2f5ca425b923d9720",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0899.dng"
+                }
+            },
+            "IMG_0910": {
+                "jpg_pretty": {
+                    "size": 7629468,
+                    "md5": "89146c2c3aca096e36c673982f84188a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0910.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7693739,
+                    "md5": "debacef3a2dcb95c4c3551175dc53a35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0910.jpg"
+                },
+                "raw": {
+                    "size": 22184598,
+                    "md5": "1c03e4fa51f4579b8a39aa2166b2a4a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0910.dng"
+                }
+            },
+            "IMG_0898": {
+                "jpg_pretty": {
+                    "size": 6776406,
+                    "md5": "43ac1a0c92712348545132c66c63cb69",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0898.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6560692,
+                    "md5": "7fda57b17066aad7c24634f9ea760bd0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0898.jpg"
+                },
+                "raw": {
+                    "size": 22985294,
+                    "md5": "11d3a835e62387bf7265d54fddc3124a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0898.dng"
+                }
+            },
+            "IMG_0897": {
+                "jpg_pretty": {
+                    "size": 7309193,
+                    "md5": "7eb141dc99330485afff8629858341ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0897.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7163910,
+                    "md5": "baff463f312a59241cab64520ffa0442",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0897.jpg"
+                },
+                "raw": {
+                    "size": 24169864,
+                    "md5": "bf7ad02b000f255b0977f9b3b83c386d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0897.dng"
+                }
+            },
+            "IMG_0896": {
+                "jpg_pretty": {
+                    "size": 7300739,
+                    "md5": "b288ab9751525da01de3ddd893d939ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_pretty/IMG_0896.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6898325,
+                    "md5": "d201f6b09c908f046cba6cf6f28662d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/jpg_plain/IMG_0896.jpg"
+                },
+                "raw": {
+                    "size": 25115344,
+                    "md5": "3ed7679a71fdcd4f8b9af92d5e843bfc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/urban_courtyard/raw/IMG_0896.dng"
+                }
+            }
+        }
+    }
+}

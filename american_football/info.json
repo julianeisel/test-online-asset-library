@@ -1,0 +1,668 @@
+{
+    "donated": true,
+    "name": "American Football",
+    "categories": [
+        "props"
+    ],
+    "type": 2,
+    "tags": [
+        "game",
+        "sports",
+        "sport",
+        "toy",
+        "ball",
+        "soccer",
+        "football",
+        "american"
+    ],
+    "authors": {
+        "Riley Queen": "All"
+    },
+    "info": null,
+    "files_hash": "be684f8e1cc74d7e3ca64f70a68ea2b97be27880",
+    "date_published": 1701475200,
+    "max_resolution": [
+        4096,
+        4096
+    ],
+    "polycount": 4480,
+    "texel_density": 5805.492656647427,
+    "dimensions": [
+        453.26216518878937,
+        255.84320724010468,
+        255.84322214126587
+    ],
+    "download_count": 2040,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/american_football.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "4k": {
+                "jpg": {
+                    "size": 9265198,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/american_football/american_football_diff_4k.jpg",
+                    "md5": "9221eb76b2116940ce4db88d04d5a94e"
+                },
+                "png": {
+                    "size": 19291748,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/american_football/american_football_diff_4k.png",
+                    "md5": "b7a27c62eddf8ec912ffec467b3147eb"
+                },
+                "exr": {
+                    "size": 24183197,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/american_football/american_football_diff_4k.exr",
+                    "md5": "625bc75847ada8402f1eab537763e28f"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2388905,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/american_football/american_football_diff_2k.jpg",
+                    "md5": "87f2339ba5fa40a0cdb36c59f918724f"
+                },
+                "png": {
+                    "size": 5187413,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/american_football/american_football_diff_2k.png",
+                    "md5": "19ef2743a7b8b0a52627f65bff639708"
+                },
+                "exr": {
+                    "size": 6160838,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/american_football/american_football_diff_2k.exr",
+                    "md5": "acbaed17684dac4a769c8fa452562abb"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 642831,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/american_football/american_football_diff_1k.jpg",
+                    "md5": "b4346ba2f947cb089fc5fc715db1f969"
+                },
+                "png": {
+                    "size": 1428500,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/american_football/american_football_diff_1k.png",
+                    "md5": "6b0decfb43267f9282faf59530211dec"
+                },
+                "exr": {
+                    "size": 1646184,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/american_football/american_football_diff_1k.exr",
+                    "md5": "0a937973b47c59f2a055157266a2bd37"
+                }
+            }
+        },
+        "nor_dx": {
+            "4k": {
+                "jpg": {
+                    "size": 22446492,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/american_football/american_football_nor_dx_4k.jpg",
+                    "md5": "0b0d90f340114a6e61fc7d234c2c3e93"
+                },
+                "png": {
+                    "size": 32501861,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/american_football/american_football_nor_dx_4k.png",
+                    "md5": "4cf4abb2035b4e2f2cd08a7580ca7e54"
+                },
+                "exr": {
+                    "size": 40489517,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/american_football/american_football_nor_dx_4k.exr",
+                    "md5": "d3e2eb167d034d7639707288f548e964"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 5395968,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/american_football/american_football_nor_dx_2k.jpg",
+                    "md5": "5490c7db86b4407417af92f67519d111"
+                },
+                "png": {
+                    "size": 8612577,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/american_football/american_football_nor_dx_2k.png",
+                    "md5": "9e161ba35121bbd2c2e2a9939b7a62a7"
+                },
+                "exr": {
+                    "size": 10283008,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/american_football/american_football_nor_dx_2k.exr",
+                    "md5": "76ab5dd6e950704ccabf60f33ed89d43"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1278624,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/american_football/american_football_nor_dx_1k.jpg",
+                    "md5": "7f6487adfbb41c834916d156cbe17b65"
+                },
+                "png": {
+                    "size": 2308009,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/american_football/american_football_nor_dx_1k.png",
+                    "md5": "cc9783657b9df06f80c548b8ee3fef6f"
+                },
+                "exr": {
+                    "size": 2583508,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/american_football/american_football_nor_dx_1k.exr",
+                    "md5": "fb0d27c44bc67eb984b0fdb84bd6fd24"
+                }
+            }
+        },
+        "nor_gl": {
+            "4k": {
+                "jpg": {
+                    "size": 21280078,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/american_football/american_football_nor_gl_4k.jpg",
+                    "md5": "e2f77a8fc94bc96572c26f7abff875e1"
+                },
+                "png": {
+                    "size": 32540091,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/american_football/american_football_nor_gl_4k.png",
+                    "md5": "51c144ce3fff308f4efe4188fae2551b"
+                },
+                "exr": {
+                    "size": 40608661,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/american_football/american_football_nor_gl_4k.exr",
+                    "md5": "64946da46870a646b7fbcab5c5e0d77c"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 5262250,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/american_football/american_football_nor_gl_2k.jpg",
+                    "md5": "27ac0fc9e98b412738d3f0b53e9fe98f"
+                },
+                "png": {
+                    "size": 8615024,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/american_football/american_football_nor_gl_2k.png",
+                    "md5": "c7261c0fff216f302859344a7356280d"
+                },
+                "exr": {
+                    "size": 10303925,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/american_football/american_football_nor_gl_2k.exr",
+                    "md5": "1a657c1f884b0241988fc7640fdfc738"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1263758,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/american_football/american_football_nor_gl_1k.jpg",
+                    "md5": "fdeca2e1e2b19e817088f97f30dc2cd0"
+                },
+                "png": {
+                    "size": 2307868,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/american_football/american_football_nor_gl_1k.png",
+                    "md5": "4430df8fc01e5b58ddfca48d612b3f20"
+                },
+                "exr": {
+                    "size": 2586448,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/american_football/american_football_nor_gl_1k.exr",
+                    "md5": "23f4fa76a49ec6736e74c5c7f124d089"
+                }
+            }
+        },
+        "blend": {
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/american_football_nor_gl_4k.exr": {
+                            "size": 40608661,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/american_football/american_football_nor_gl_4k.exr",
+                            "md5": "64946da46870a646b7fbcab5c5e0d77c"
+                        },
+                        "textures/american_football_rough_4k.exr": {
+                            "size": 5696478,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/american_football/american_football_rough_4k.exr",
+                            "md5": "ed277773316cba569262ae24d0882da8"
+                        },
+                        "textures/american_football_diff_4k.jpg": {
+                            "size": 9265198,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/american_football/american_football_diff_4k.jpg",
+                            "md5": "9221eb76b2116940ce4db88d04d5a94e"
+                        }
+                    },
+                    "size": 248858,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/american_football/american_football_4k.blend",
+                    "md5": "848fdff42249de54a739d375c81a728a"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/american_football_diff_2k.jpg": {
+                            "size": 2388905,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/american_football/american_football_diff_2k.jpg",
+                            "md5": "87f2339ba5fa40a0cdb36c59f918724f"
+                        },
+                        "textures/american_football_rough_2k.exr": {
+                            "size": 1701869,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/american_football/american_football_rough_2k.exr",
+                            "md5": "11e700395de65c2819fa5512ebc964d3"
+                        },
+                        "textures/american_football_nor_gl_2k.exr": {
+                            "size": 10303925,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/american_football/american_football_nor_gl_2k.exr",
+                            "md5": "1a657c1f884b0241988fc7640fdfc738"
+                        }
+                    },
+                    "size": 231869,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/american_football/american_football_2k.blend",
+                    "md5": "1861e208468e1dc229bcf85ed5371168"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/american_football_diff_1k.jpg": {
+                            "size": 642831,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/american_football/american_football_diff_1k.jpg",
+                            "md5": "b4346ba2f947cb089fc5fc715db1f969"
+                        },
+                        "textures/american_football_rough_1k.exr": {
+                            "size": 522658,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/american_football/american_football_rough_1k.exr",
+                            "md5": "6e993b98f178030b9fa2c0aea1f493f5"
+                        },
+                        "textures/american_football_nor_gl_1k.exr": {
+                            "size": 2586448,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/american_football/american_football_nor_gl_1k.exr",
+                            "md5": "23f4fa76a49ec6736e74c5c7f124d089"
+                        }
+                    },
+                    "size": 242505,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/american_football/american_football_1k.blend",
+                    "md5": "1e57314421688863b18b47944daec6c8"
+                }
+            }
+        },
+        "gltf": {
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "american_football.bin": {
+                            "size": 140192,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/american_football/american_football.bin",
+                            "md5": "c7ddf25fe8b26f86b8cf239ec258416c"
+                        },
+                        "textures/american_football_nor_gl_4k.jpg": {
+                            "size": 21280078,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/american_football/american_football_nor_gl_4k.jpg",
+                            "md5": "e2f77a8fc94bc96572c26f7abff875e1"
+                        },
+                        "textures/american_football_diff_4k.jpg": {
+                            "size": 9265198,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/american_football/american_football_diff_4k.jpg",
+                            "md5": "9221eb76b2116940ce4db88d04d5a94e"
+                        },
+                        "textures/american_football_arm_4k.jpg": {
+                            "size": 6613398,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/american_football/american_football_arm_4k.jpg",
+                            "md5": "ed2082cfbb8e9ec94fabd52120c23ae8"
+                        }
+                    },
+                    "size": 2816,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/american_football/american_football_4k.gltf",
+                    "md5": "3c1d86b18c4a2cc02b05a8e4018c7859"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/american_football_diff_2k.jpg": {
+                            "size": 2388905,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/american_football/american_football_diff_2k.jpg",
+                            "md5": "87f2339ba5fa40a0cdb36c59f918724f"
+                        },
+                        "textures/american_football_arm_2k.jpg": {
+                            "size": 2043504,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/american_football/american_football_arm_2k.jpg",
+                            "md5": "c640d72b3961ff3f2b7c96fb1f044a9a"
+                        },
+                        "textures/american_football_nor_gl_2k.jpg": {
+                            "size": 5262250,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/american_football/american_football_nor_gl_2k.jpg",
+                            "md5": "27ac0fc9e98b412738d3f0b53e9fe98f"
+                        },
+                        "american_football.bin": {
+                            "size": 140192,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/american_football/american_football.bin",
+                            "md5": "c7ddf25fe8b26f86b8cf239ec258416c"
+                        }
+                    },
+                    "size": 2816,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/american_football/american_football_2k.gltf",
+                    "md5": "2ed9a9f3702fa1e469a2181e1c5fb3ea"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/american_football_arm_1k.jpg": {
+                            "size": 620658,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/american_football/american_football_arm_1k.jpg",
+                            "md5": "9ef5beb8d8832c97cf94507cdf167360"
+                        },
+                        "textures/american_football_diff_1k.jpg": {
+                            "size": 642831,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/american_football/american_football_diff_1k.jpg",
+                            "md5": "b4346ba2f947cb089fc5fc715db1f969"
+                        },
+                        "american_football.bin": {
+                            "size": 140192,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/american_football/american_football.bin",
+                            "md5": "c7ddf25fe8b26f86b8cf239ec258416c"
+                        },
+                        "textures/american_football_nor_gl_1k.jpg": {
+                            "size": 1263758,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/american_football/american_football_nor_gl_1k.jpg",
+                            "md5": "fdeca2e1e2b19e817088f97f30dc2cd0"
+                        }
+                    },
+                    "size": 2816,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/american_football/american_football_1k.gltf",
+                    "md5": "891aa7cf6970c39e49857248fa4f58e5"
+                }
+            }
+        },
+        "usd": {
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/american_football_nor_gl_4k.exr": {
+                            "size": 40608661,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/american_football/american_football_nor_gl_4k.exr",
+                            "md5": "64946da46870a646b7fbcab5c5e0d77c"
+                        },
+                        "textures/american_football_rough_4k.exr": {
+                            "size": 5696478,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/american_football/american_football_rough_4k.exr",
+                            "md5": "ed277773316cba569262ae24d0882da8"
+                        },
+                        "textures/american_football_diff_4k.jpg": {
+                            "size": 9265198,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/american_football/american_football_diff_4k.jpg",
+                            "md5": "9221eb76b2116940ce4db88d04d5a94e"
+                        }
+                    },
+                    "size": 217373,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/american_football/american_football_4k.usdc",
+                    "md5": "3ccf62bf334fbb4f4f8cb9a98113981e"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/american_football_diff_2k.jpg": {
+                            "size": 2388905,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/american_football/american_football_diff_2k.jpg",
+                            "md5": "87f2339ba5fa40a0cdb36c59f918724f"
+                        },
+                        "textures/american_football_rough_2k.exr": {
+                            "size": 1701869,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/american_football/american_football_rough_2k.exr",
+                            "md5": "11e700395de65c2819fa5512ebc964d3"
+                        },
+                        "textures/american_football_nor_gl_2k.exr": {
+                            "size": 10303925,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/american_football/american_football_nor_gl_2k.exr",
+                            "md5": "1a657c1f884b0241988fc7640fdfc738"
+                        }
+                    },
+                    "size": 217373,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/american_football/american_football_2k.usdc",
+                    "md5": "22929460bd644bc9b5a4020524ef98bb"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/american_football_diff_1k.jpg": {
+                            "size": 642831,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/american_football/american_football_diff_1k.jpg",
+                            "md5": "b4346ba2f947cb089fc5fc715db1f969"
+                        },
+                        "textures/american_football_rough_1k.exr": {
+                            "size": 522658,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/american_football/american_football_rough_1k.exr",
+                            "md5": "6e993b98f178030b9fa2c0aea1f493f5"
+                        },
+                        "textures/american_football_nor_gl_1k.exr": {
+                            "size": 2586448,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/american_football/american_football_nor_gl_1k.exr",
+                            "md5": "23f4fa76a49ec6736e74c5c7f124d089"
+                        }
+                    },
+                    "size": 217373,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/american_football/american_football_1k.usdc",
+                    "md5": "d6b20cf5b0dabb25fbca8222dd6b9673"
+                }
+            }
+        },
+        "arm": {
+            "4k": {
+                "jpg": {
+                    "size": 6613398,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/american_football/american_football_arm_4k.jpg",
+                    "md5": "ed2082cfbb8e9ec94fabd52120c23ae8"
+                },
+                "png": {
+                    "size": 23201001,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/american_football/american_football_arm_4k.png",
+                    "md5": "c0e42b6c51dd7c8e1372aab5f538f617"
+                },
+                "exr": {
+                    "size": 12264582,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/american_football/american_football_arm_4k.exr",
+                    "md5": "e7d2b558938a84539793e615d17b83f9"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2043504,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/american_football/american_football_arm_2k.jpg",
+                    "md5": "c640d72b3961ff3f2b7c96fb1f044a9a"
+                },
+                "png": {
+                    "size": 8661393,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/american_football/american_football_arm_2k.png",
+                    "md5": "01c2f400a46a75c3ec5c2ad19afb22ab"
+                },
+                "exr": {
+                    "size": 4072905,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/american_football/american_football_arm_2k.exr",
+                    "md5": "7b1e23c173d892efc3bad8410345f7b8"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 620658,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/american_football/american_football_arm_1k.jpg",
+                    "md5": "9ef5beb8d8832c97cf94507cdf167360"
+                },
+                "png": {
+                    "size": 2787005,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/american_football/american_football_arm_1k.png",
+                    "md5": "83682de7ae54bd4fffca4ddddf67742c"
+                },
+                "exr": {
+                    "size": 1329946,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/american_football/american_football_arm_1k.exr",
+                    "md5": "729afaad17d1fa5811706c0e9652cf59"
+                }
+            }
+        },
+        "fbx": {
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/american_football_nor_gl_4k.exr": {
+                            "size": 40608661,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/american_football/american_football_nor_gl_4k.exr",
+                            "md5": "64946da46870a646b7fbcab5c5e0d77c"
+                        },
+                        "textures/american_football_rough_4k.exr": {
+                            "size": 5696478,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/american_football/american_football_rough_4k.exr",
+                            "md5": "ed277773316cba569262ae24d0882da8"
+                        },
+                        "textures/american_football_diff_4k.jpg": {
+                            "size": 9265198,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/american_football/american_football_diff_4k.jpg",
+                            "md5": "9221eb76b2116940ce4db88d04d5a94e"
+                        }
+                    },
+                    "size": 166220,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/american_football/american_football_4k.fbx",
+                    "md5": "5107a653ffd8b21bd820539c0e3917a6"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/american_football_diff_2k.jpg": {
+                            "size": 2388905,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/american_football/american_football_diff_2k.jpg",
+                            "md5": "87f2339ba5fa40a0cdb36c59f918724f"
+                        },
+                        "textures/american_football_rough_2k.exr": {
+                            "size": 1701869,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/american_football/american_football_rough_2k.exr",
+                            "md5": "11e700395de65c2819fa5512ebc964d3"
+                        },
+                        "textures/american_football_nor_gl_2k.exr": {
+                            "size": 10303925,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/american_football/american_football_nor_gl_2k.exr",
+                            "md5": "1a657c1f884b0241988fc7640fdfc738"
+                        }
+                    },
+                    "size": 166220,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/american_football/american_football_2k.fbx",
+                    "md5": "ca69eac516d0fcabf3c5cd9d80bdcdc8"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/american_football_diff_1k.jpg": {
+                            "size": 642831,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/american_football/american_football_diff_1k.jpg",
+                            "md5": "b4346ba2f947cb089fc5fc715db1f969"
+                        },
+                        "textures/american_football_rough_1k.exr": {
+                            "size": 522658,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/american_football/american_football_rough_1k.exr",
+                            "md5": "6e993b98f178030b9fa2c0aea1f493f5"
+                        },
+                        "textures/american_football_nor_gl_1k.exr": {
+                            "size": 2586448,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/american_football/american_football_nor_gl_1k.exr",
+                            "md5": "23f4fa76a49ec6736e74c5c7f124d089"
+                        }
+                    },
+                    "size": 166220,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/american_football/american_football_1k.fbx",
+                    "md5": "2ad50f5e4c8024f737ba4e0a1daa6e73"
+                }
+            }
+        },
+        "AO": {
+            "4k": {
+                "jpg": {
+                    "size": 2272536,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/american_football/american_football_ao_4k.jpg",
+                    "md5": "b8fdf337f065f40a3ed9d94384afc274"
+                },
+                "png": {
+                    "size": 11747181,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/american_football/american_football_ao_4k.png",
+                    "md5": "367f14d498ff039785f4f0580f0a510d"
+                },
+                "exr": {
+                    "size": 7505529,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/american_football/american_football_ao_4k.exr",
+                    "md5": "a8a79b0c97d60ebbb9e47c93b0166d36"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 705838,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/american_football/american_football_ao_2k.jpg",
+                    "md5": "923d59b86a616e4d22d8567c8a3bdb49"
+                },
+                "png": {
+                    "size": 3071720,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/american_football/american_football_ao_2k.png",
+                    "md5": "edddc5f761ddc3908970a45df09477d0"
+                },
+                "exr": {
+                    "size": 2069430,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/american_football/american_football_ao_2k.exr",
+                    "md5": "3d10787c856d3036db86b85c08052017"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 251475,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/american_football/american_football_ao_1k.jpg",
+                    "md5": "7559657248398ac6bef5391b68f44601"
+                },
+                "png": {
+                    "size": 917213,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/american_football/american_football_ao_1k.png",
+                    "md5": "35782a6668956179650b77628e15bc01"
+                },
+                "exr": {
+                    "size": 602115,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/american_football/american_football_ao_1k.exr",
+                    "md5": "7175e1479397a18506b54ebcddacc936"
+                }
+            }
+        },
+        "Rough": {
+            "4k": {
+                "jpg": {
+                    "size": 5367669,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/american_football/american_football_rough_4k.jpg",
+                    "md5": "69722c2330b6d497fe28b132e2f00b11"
+                },
+                "png": {
+                    "size": 7516035,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/american_football/american_football_rough_4k.png",
+                    "md5": "23823155c7a8c0fc025fef44f8d6804c"
+                },
+                "exr": {
+                    "size": 5696478,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/american_football/american_football_rough_4k.exr",
+                    "md5": "ed277773316cba569262ae24d0882da8"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1586843,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/american_football/american_football_rough_2k.jpg",
+                    "md5": "8af07c40af2cfc7156f85364f0f46f03"
+                },
+                "png": {
+                    "size": 2367888,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/american_football/american_football_rough_2k.png",
+                    "md5": "59b36b2c3171575dfdb8a5f93f5b0081"
+                },
+                "exr": {
+                    "size": 1701869,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/american_football/american_football_rough_2k.exr",
+                    "md5": "11e700395de65c2819fa5512ebc964d3"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 465851,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/american_football/american_football_rough_1k.jpg",
+                    "md5": "c5f3ea95503e2a5edfe91401caa6ca79"
+                },
+                "png": {
+                    "size": 700738,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/american_football/american_football_rough_1k.png",
+                    "md5": "91cb3dec3bb359105970cde35cf22b4e"
+                },
+                "exr": {
+                    "size": 522658,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/american_football/american_football_rough_1k.exr",
+                    "md5": "6e993b98f178030b9fa2c0aea1f493f5"
+                }
+            }
+        }
+    }
+}

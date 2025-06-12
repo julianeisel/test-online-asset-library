@@ -1,0 +1,105 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "house",
+        "tree",
+        "car",
+        "solar",
+        "balcony"
+    ],
+    "date_published": 1506981600,
+    "name": "Balcony",
+    "categories": [
+        "outdoor",
+        "nature",
+        "urban",
+        "partly cloudy",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1425053460,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3237733"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "cfc3286f17772af2048a090796054bcd05f2021d",
+    "download_count": 24198,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/balcony.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4345839,
+            "md5": "24deacd4adb768031e2815c68f6c594e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/balcony.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/balcony_8k.hdr",
+                    "size": 103655228,
+                    "md5": "66f1a1da12b0c70ecb6d0de79523c678"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/balcony_8k.exr",
+                    "size": 90954723,
+                    "md5": "312144096f707c6649bc04c0a3d7ccd1"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/balcony_16k.hdr",
+                    "size": 389862773,
+                    "md5": "4d4b1ce226346c647c7554fc2bb63157"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/balcony_16k.exr",
+                    "size": 324059472,
+                    "md5": "174a615256b2472cc6e747e90fc37184"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/balcony_4k.hdr",
+                    "size": 26785709,
+                    "md5": "2283bc2c1d3a3c756bbeaf4f2c3fa796"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/balcony_4k.exr",
+                    "size": 24141931,
+                    "md5": "12d1029e74c9761a3e7e774994b0d292"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/balcony_2k.hdr",
+                    "size": 6822780,
+                    "md5": "008acfb944940d2e4add44d3fbd94a36"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/balcony_2k.exr",
+                    "size": 6268224,
+                    "md5": "26b575dbdc76e56d0e36787e4a379f02"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/balcony_1k.hdr",
+                    "size": 1732039,
+                    "md5": "e9119fcef39aceb157e636c522f75427"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/balcony_1k.exr",
+                    "size": 1638632,
+                    "md5": "d1fee1cf5b99a656c966018f6385b990"
+                }
+            }
+        }
+    }
+}

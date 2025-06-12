@@ -1,0 +1,665 @@
+{
+    "type": 2,
+    "tags": [
+        "wood",
+        "wooden",
+        "woodwork",
+        "statue",
+        "carved",
+        "animal"
+    ],
+    "name": "Carved Wooden Elephant",
+    "categories": [
+        "props",
+        "decorative"
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "date_published": 1643760000,
+    "files_hash": "60734d5a6f3fcb8aeb225065071dfa2579880101",
+    "max_resolution": [
+        4096,
+        4096
+    ],
+    "polycount": 2752,
+    "texel_density": 21898.57912349412,
+    "dimensions": [
+        109.18296501040459,
+        57.556506246328354,
+        96.15053108427674
+    ],
+    "download_count": 15361,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/carved_wooden_elephant.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "4k": {
+                "jpg": {
+                    "size": 7472801,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_elephant/carved_wooden_elephant_diff_4k.jpg",
+                    "md5": "a532b01cb1eb6289526813e8cef9c1a6"
+                },
+                "png": {
+                    "size": 46380589,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/carved_wooden_elephant/carved_wooden_elephant_diff_4k.png",
+                    "md5": "ec577c6c4cd09afb9cc3d889a3200872"
+                },
+                "exr": {
+                    "size": 18415716,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_elephant/carved_wooden_elephant_diff_4k.exr",
+                    "md5": "dbe29cf792de4268b83bacee6b318bab"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2099162,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_elephant/carved_wooden_elephant_diff_2k.jpg",
+                    "md5": "d5931017788fe1af22855928bd6c271b"
+                },
+                "png": {
+                    "size": 15240496,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/carved_wooden_elephant/carved_wooden_elephant_diff_2k.png",
+                    "md5": "fa7e07af21592663347b22f04c10cd6a"
+                },
+                "exr": {
+                    "size": 4611861,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_elephant/carved_wooden_elephant_diff_2k.exr",
+                    "md5": "ce57b9a1f5de393c6cd5f68693384d28"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 578022,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_elephant/carved_wooden_elephant_diff_1k.jpg",
+                    "md5": "40a5db4e497b0bd9df48800c5ff89376"
+                },
+                "png": {
+                    "size": 4340078,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/carved_wooden_elephant/carved_wooden_elephant_diff_1k.png",
+                    "md5": "4d5d0f1a864ac2c3cdbefa3928edb897"
+                },
+                "exr": {
+                    "size": 1268074,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_elephant/carved_wooden_elephant_diff_1k.exr",
+                    "md5": "28a1faa87beb26afb8cb05f9d5d1cc7a"
+                }
+            }
+        },
+        "nor_dx": {
+            "4k": {
+                "jpg": {
+                    "size": 5209988,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_elephant/carved_wooden_elephant_nor_dx_4k.jpg",
+                    "md5": "1eec07214610ba74b88f51703178e664"
+                },
+                "png": {
+                    "size": 41905562,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/carved_wooden_elephant/carved_wooden_elephant_nor_dx_4k.png",
+                    "md5": "b673ca4c54292c2e7f3defa8e525255e"
+                },
+                "exr": {
+                    "size": 9451555,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_elephant/carved_wooden_elephant_nor_dx_4k.exr",
+                    "md5": "1ef6b83a4003cfc7d885029595c6f9c9"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1725845,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_elephant/carved_wooden_elephant_nor_dx_2k.jpg",
+                    "md5": "dcfaaa6194cc582f24c32198245bced2"
+                },
+                "png": {
+                    "size": 13914706,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/carved_wooden_elephant/carved_wooden_elephant_nor_dx_2k.png",
+                    "md5": "c19f0b9f866cf3bef5dcd7dd7be443ee"
+                },
+                "exr": {
+                    "size": 3238646,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_elephant/carved_wooden_elephant_nor_dx_2k.exr",
+                    "md5": "394d78ce8d03b28340b8720d46e0db36"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 570540,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_elephant/carved_wooden_elephant_nor_dx_1k.jpg",
+                    "md5": "9fd3b18030acf9025c3412e1d773bc22"
+                },
+                "png": {
+                    "size": 4145496,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/carved_wooden_elephant/carved_wooden_elephant_nor_dx_1k.png",
+                    "md5": "76356287d1de644683f67d669f82de8a"
+                },
+                "exr": {
+                    "size": 1170283,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_elephant/carved_wooden_elephant_nor_dx_1k.exr",
+                    "md5": "d6d3296582343df43126def7143f76e6"
+                }
+            }
+        },
+        "nor_gl": {
+            "4k": {
+                "jpg": {
+                    "size": 5191674,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_4k.jpg",
+                    "md5": "e1172fbc78325b5702184ff65ee6bf61"
+                },
+                "png": {
+                    "size": 41896404,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_4k.png",
+                    "md5": "63f51bfebf994c0a9dbcf1532bdaa359"
+                },
+                "exr": {
+                    "size": 9406935,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_4k.exr",
+                    "md5": "11feeec769c70cf79f081c6385a2d625"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1715314,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_2k.jpg",
+                    "md5": "c04821d23bc88f99fa3db58a150bdc94"
+                },
+                "png": {
+                    "size": 13912817,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_2k.png",
+                    "md5": "5c066916fcd620191828aff66db5044f"
+                },
+                "exr": {
+                    "size": 3227447,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_2k.exr",
+                    "md5": "56e4949110fc1df7226695726aff2696"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 564625,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_1k.jpg",
+                    "md5": "5e512920c44490d06f5f0116b9dcaa6d"
+                },
+                "png": {
+                    "size": 4143900,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_1k.png",
+                    "md5": "3ca14de0e36dfc7517d9b85a214c7f90"
+                },
+                "exr": {
+                    "size": 1166277,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_1k.exr",
+                    "md5": "b152c92671b759363ece88a6f8ef9c10"
+                }
+            }
+        },
+        "blend": {
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/carved_wooden_elephant_rough_4k.exr": {
+                            "size": 10688638,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_elephant/carved_wooden_elephant_rough_4k.exr",
+                            "md5": "479724f4c150bb8e6315be56e55bab67"
+                        },
+                        "textures/carved_wooden_elephant_nor_gl_4k.exr": {
+                            "size": 9406935,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_4k.exr",
+                            "md5": "11feeec769c70cf79f081c6385a2d625"
+                        },
+                        "textures/carved_wooden_elephant_diff_4k.jpg": {
+                            "size": 7472801,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_elephant/carved_wooden_elephant_diff_4k.jpg",
+                            "md5": "a532b01cb1eb6289526813e8cef9c1a6"
+                        }
+                    },
+                    "size": 213656,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/carved_wooden_elephant/carved_wooden_elephant_4k.blend",
+                    "md5": "a180c451009181a1bc26da64875c0a6f"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/carved_wooden_elephant_diff_2k.jpg": {
+                            "size": 2099162,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_elephant/carved_wooden_elephant_diff_2k.jpg",
+                            "md5": "d5931017788fe1af22855928bd6c271b"
+                        },
+                        "textures/carved_wooden_elephant_nor_gl_2k.exr": {
+                            "size": 3227447,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_2k.exr",
+                            "md5": "56e4949110fc1df7226695726aff2696"
+                        },
+                        "textures/carved_wooden_elephant_rough_2k.exr": {
+                            "size": 3625870,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_elephant/carved_wooden_elephant_rough_2k.exr",
+                            "md5": "18464acaf7511c40703de8a367e3e278"
+                        }
+                    },
+                    "size": 213566,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/carved_wooden_elephant/carved_wooden_elephant_2k.blend",
+                    "md5": "a7e26e06934642cc1759d33396ba31bf"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/carved_wooden_elephant_rough_1k.exr": {
+                            "size": 1065536,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_elephant/carved_wooden_elephant_rough_1k.exr",
+                            "md5": "b9d588b1510dcfc657302a43f3bdccd3"
+                        },
+                        "textures/carved_wooden_elephant_diff_1k.jpg": {
+                            "size": 578022,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_elephant/carved_wooden_elephant_diff_1k.jpg",
+                            "md5": "40a5db4e497b0bd9df48800c5ff89376"
+                        },
+                        "textures/carved_wooden_elephant_nor_gl_1k.exr": {
+                            "size": 1166277,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_1k.exr",
+                            "md5": "b152c92671b759363ece88a6f8ef9c10"
+                        }
+                    },
+                    "size": 213635,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/carved_wooden_elephant/carved_wooden_elephant_1k.blend",
+                    "md5": "b920f2a463dbc6e964466fcb02a99ed1"
+                }
+            }
+        },
+        "gltf": {
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/carved_wooden_elephant_nor_gl_4k.jpg": {
+                            "size": 5191674,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_4k.jpg",
+                            "md5": "e1172fbc78325b5702184ff65ee6bf61"
+                        },
+                        "textures/carved_wooden_elephant_diff_4k.jpg": {
+                            "size": 7472801,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_elephant/carved_wooden_elephant_diff_4k.jpg",
+                            "md5": "a532b01cb1eb6289526813e8cef9c1a6"
+                        },
+                        "textures/carved_wooden_elephant_rough_4k.jpg": {
+                            "size": 8418662,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_elephant/carved_wooden_elephant_rough_4k.jpg",
+                            "md5": "14491dffa4faf4da0a46662ecd7006de"
+                        },
+                        "carved_wooden_elephant.bin": {
+                            "size": 69760,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/carved_wooden_elephant/carved_wooden_elephant.bin",
+                            "md5": "5cd91fb8045cc4bbfa0248b8d2f96b5d"
+                        }
+                    },
+                    "size": 2791,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/carved_wooden_elephant/carved_wooden_elephant_4k.gltf",
+                    "md5": "3733dbe106275f9d6e49f867a72e7857"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/carved_wooden_elephant_diff_2k.jpg": {
+                            "size": 2099162,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_elephant/carved_wooden_elephant_diff_2k.jpg",
+                            "md5": "d5931017788fe1af22855928bd6c271b"
+                        },
+                        "textures/carved_wooden_elephant_nor_gl_2k.jpg": {
+                            "size": 1715314,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_2k.jpg",
+                            "md5": "c04821d23bc88f99fa3db58a150bdc94"
+                        },
+                        "textures/carved_wooden_elephant_rough_2k.jpg": {
+                            "size": 2328739,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_elephant/carved_wooden_elephant_rough_2k.jpg",
+                            "md5": "56be5675a22097443e5f09840a7b5477"
+                        },
+                        "carved_wooden_elephant.bin": {
+                            "size": 69760,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/carved_wooden_elephant/carved_wooden_elephant.bin",
+                            "md5": "5cd91fb8045cc4bbfa0248b8d2f96b5d"
+                        }
+                    },
+                    "size": 2791,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/carved_wooden_elephant/carved_wooden_elephant_2k.gltf",
+                    "md5": "947ad7808db84eea0a0bd411f9aedc7d"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/carved_wooden_elephant_nor_gl_1k.jpg": {
+                            "size": 564625,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_1k.jpg",
+                            "md5": "5e512920c44490d06f5f0116b9dcaa6d"
+                        },
+                        "textures/carved_wooden_elephant_rough_1k.jpg": {
+                            "size": 648726,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_elephant/carved_wooden_elephant_rough_1k.jpg",
+                            "md5": "711a67787c1e0a1bd6fde82ac8c71aa6"
+                        },
+                        "textures/carved_wooden_elephant_diff_1k.jpg": {
+                            "size": 578022,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_elephant/carved_wooden_elephant_diff_1k.jpg",
+                            "md5": "40a5db4e497b0bd9df48800c5ff89376"
+                        },
+                        "carved_wooden_elephant.bin": {
+                            "size": 69760,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/carved_wooden_elephant/carved_wooden_elephant.bin",
+                            "md5": "5cd91fb8045cc4bbfa0248b8d2f96b5d"
+                        }
+                    },
+                    "size": 2791,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/carved_wooden_elephant/carved_wooden_elephant_1k.gltf",
+                    "md5": "7111471b835ce5ca81e7e54cfb4599d5"
+                }
+            }
+        },
+        "usd": {
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/carved_wooden_elephant_rough_4k.exr": {
+                            "size": 10688638,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_elephant/carved_wooden_elephant_rough_4k.exr",
+                            "md5": "479724f4c150bb8e6315be56e55bab67"
+                        },
+                        "textures/carved_wooden_elephant_nor_gl_4k.exr": {
+                            "size": 9406935,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_4k.exr",
+                            "md5": "11feeec769c70cf79f081c6385a2d625"
+                        },
+                        "textures/carved_wooden_elephant_diff_4k.jpg": {
+                            "size": 7472801,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_elephant/carved_wooden_elephant_diff_4k.jpg",
+                            "md5": "a532b01cb1eb6289526813e8cef9c1a6"
+                        }
+                    },
+                    "size": 195955,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/carved_wooden_elephant/carved_wooden_elephant_4k.usdc",
+                    "md5": "17329bea57293ffab10b8625523d9925"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/carved_wooden_elephant_diff_2k.jpg": {
+                            "size": 2099162,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_elephant/carved_wooden_elephant_diff_2k.jpg",
+                            "md5": "d5931017788fe1af22855928bd6c271b"
+                        },
+                        "textures/carved_wooden_elephant_nor_gl_2k.exr": {
+                            "size": 3227447,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_2k.exr",
+                            "md5": "56e4949110fc1df7226695726aff2696"
+                        },
+                        "textures/carved_wooden_elephant_rough_2k.exr": {
+                            "size": 3625870,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_elephant/carved_wooden_elephant_rough_2k.exr",
+                            "md5": "18464acaf7511c40703de8a367e3e278"
+                        }
+                    },
+                    "size": 195955,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/carved_wooden_elephant/carved_wooden_elephant_2k.usdc",
+                    "md5": "5dc30103d4800ebca670db0dab20ff8c"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/carved_wooden_elephant_rough_1k.exr": {
+                            "size": 1065536,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_elephant/carved_wooden_elephant_rough_1k.exr",
+                            "md5": "b9d588b1510dcfc657302a43f3bdccd3"
+                        },
+                        "textures/carved_wooden_elephant_diff_1k.jpg": {
+                            "size": 578022,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_elephant/carved_wooden_elephant_diff_1k.jpg",
+                            "md5": "40a5db4e497b0bd9df48800c5ff89376"
+                        },
+                        "textures/carved_wooden_elephant_nor_gl_1k.exr": {
+                            "size": 1166277,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_1k.exr",
+                            "md5": "b152c92671b759363ece88a6f8ef9c10"
+                        }
+                    },
+                    "size": 195955,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/carved_wooden_elephant/carved_wooden_elephant_1k.usdc",
+                    "md5": "f638d36cc1bfe3e8d1d459fe21d7da3d"
+                }
+            }
+        },
+        "fbx": {
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/carved_wooden_elephant_rough_4k.exr": {
+                            "size": 10688638,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_elephant/carved_wooden_elephant_rough_4k.exr",
+                            "md5": "479724f4c150bb8e6315be56e55bab67"
+                        },
+                        "textures/carved_wooden_elephant_diff_4k.jpg": {
+                            "size": 7472801,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_elephant/carved_wooden_elephant_diff_4k.jpg",
+                            "md5": "a532b01cb1eb6289526813e8cef9c1a6"
+                        },
+                        "textures/carved_wooden_elephant_nor_gl_4k.exr": {
+                            "size": 9406935,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_4k.exr",
+                            "md5": "11feeec769c70cf79f081c6385a2d625"
+                        }
+                    },
+                    "size": 127196,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/carved_wooden_elephant/carved_wooden_elephant_4k.fbx",
+                    "md5": "032637c5c2ef96ce3c251636855782fb"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/carved_wooden_elephant_diff_2k.jpg": {
+                            "size": 2099162,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_elephant/carved_wooden_elephant_diff_2k.jpg",
+                            "md5": "d5931017788fe1af22855928bd6c271b"
+                        },
+                        "textures/carved_wooden_elephant_nor_gl_2k.exr": {
+                            "size": 3227447,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_2k.exr",
+                            "md5": "56e4949110fc1df7226695726aff2696"
+                        },
+                        "textures/carved_wooden_elephant_rough_2k.exr": {
+                            "size": 3625870,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_elephant/carved_wooden_elephant_rough_2k.exr",
+                            "md5": "18464acaf7511c40703de8a367e3e278"
+                        }
+                    },
+                    "size": 127196,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/carved_wooden_elephant/carved_wooden_elephant_2k.fbx",
+                    "md5": "25e286960e1ad50a81fbec63466efc4f"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/carved_wooden_elephant_rough_1k.exr": {
+                            "size": 1065536,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_elephant/carved_wooden_elephant_rough_1k.exr",
+                            "md5": "b9d588b1510dcfc657302a43f3bdccd3"
+                        },
+                        "textures/carved_wooden_elephant_diff_1k.jpg": {
+                            "size": 578022,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_elephant/carved_wooden_elephant_diff_1k.jpg",
+                            "md5": "40a5db4e497b0bd9df48800c5ff89376"
+                        },
+                        "textures/carved_wooden_elephant_nor_gl_1k.exr": {
+                            "size": 1166277,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_elephant/carved_wooden_elephant_nor_gl_1k.exr",
+                            "md5": "b152c92671b759363ece88a6f8ef9c10"
+                        }
+                    },
+                    "size": 127196,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/carved_wooden_elephant/carved_wooden_elephant_1k.fbx",
+                    "md5": "b32fd2740e60a5d13541de3290ec3e65"
+                }
+            }
+        },
+        "arm": {
+            "4k": {
+                "jpg": {
+                    "size": 10260575,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_elephant/carved_wooden_elephant_arm_4k.jpg",
+                    "md5": "265e51740d655f468b2207981b1360ef"
+                },
+                "png": {
+                    "size": 37700508,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/carved_wooden_elephant/carved_wooden_elephant_arm_4k.png",
+                    "md5": "32a7237ec54029b519d32fb78dea6c82"
+                },
+                "exr": {
+                    "size": 19893073,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_elephant/carved_wooden_elephant_arm_4k.exr",
+                    "md5": "ecd0cbe0ec88664acb6248d251fcb419"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2892157,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_elephant/carved_wooden_elephant_arm_2k.jpg",
+                    "md5": "6a0294f5a674bdeb8e2ea3c26fa600cf"
+                },
+                "png": {
+                    "size": 10986052,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/carved_wooden_elephant/carved_wooden_elephant_arm_2k.png",
+                    "md5": "44e4e01e4015a219a931d705f0c8930b"
+                },
+                "exr": {
+                    "size": 5673596,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_elephant/carved_wooden_elephant_arm_2k.exr",
+                    "md5": "4e53932df8244537cf2ae2d852c86cbe"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 809689,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_elephant/carved_wooden_elephant_arm_1k.jpg",
+                    "md5": "d571714db513fcebbd77eb9cc2bf863c"
+                },
+                "png": {
+                    "size": 3244433,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/carved_wooden_elephant/carved_wooden_elephant_arm_1k.png",
+                    "md5": "5a89699717db22e8bea9fe2fd14679e2"
+                },
+                "exr": {
+                    "size": 1664769,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_elephant/carved_wooden_elephant_arm_1k.exr",
+                    "md5": "d2861d11eeec973c11f40fff5a8ad862"
+                }
+            }
+        },
+        "Rough": {
+            "4k": {
+                "jpg": {
+                    "size": 8418662,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_elephant/carved_wooden_elephant_rough_4k.jpg",
+                    "md5": "14491dffa4faf4da0a46662ecd7006de"
+                },
+                "png": {
+                    "size": 10737059,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/carved_wooden_elephant/carved_wooden_elephant_rough_4k.png",
+                    "md5": "ea1d768542306a37aa67d8ae463ec513"
+                },
+                "exr": {
+                    "size": 10688638,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_elephant/carved_wooden_elephant_rough_4k.exr",
+                    "md5": "479724f4c150bb8e6315be56e55bab67"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2328739,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_elephant/carved_wooden_elephant_rough_2k.jpg",
+                    "md5": "56be5675a22097443e5f09840a7b5477"
+                },
+                "png": {
+                    "size": 5102613,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/carved_wooden_elephant/carved_wooden_elephant_rough_2k.png",
+                    "md5": "8aa8b82849d3e7e907f98854d7971f1e"
+                },
+                "exr": {
+                    "size": 3625870,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_elephant/carved_wooden_elephant_rough_2k.exr",
+                    "md5": "18464acaf7511c40703de8a367e3e278"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 648726,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_elephant/carved_wooden_elephant_rough_1k.jpg",
+                    "md5": "711a67787c1e0a1bd6fde82ac8c71aa6"
+                },
+                "png": {
+                    "size": 1559859,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/carved_wooden_elephant/carved_wooden_elephant_rough_1k.png",
+                    "md5": "766e7c7db86ad43d1d4c94cbf7a38866"
+                },
+                "exr": {
+                    "size": 1065536,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_elephant/carved_wooden_elephant_rough_1k.exr",
+                    "md5": "b9d588b1510dcfc657302a43f3bdccd3"
+                }
+            }
+        },
+        "AO": {
+            "4k": {
+                "jpg": {
+                    "size": 4749747,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/carved_wooden_elephant/carved_wooden_elephant_ao_4k.jpg",
+                    "md5": "5c86e77fede8b45df5af7c09eda992a6"
+                },
+                "png": {
+                    "size": 16157119,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/carved_wooden_elephant/carved_wooden_elephant_ao_4k.png",
+                    "md5": "4e898f02381bcaececc4f7c5ec9e03b4"
+                },
+                "exr": {
+                    "size": 9117319,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/carved_wooden_elephant/carved_wooden_elephant_ao_4k.exr",
+                    "md5": "f91bee1146fe7f3f9a0e2858f0813e32"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1138516,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/carved_wooden_elephant/carved_wooden_elephant_ao_2k.jpg",
+                    "md5": "fc92de5be2fcac6a8793f9312455777f"
+                },
+                "png": {
+                    "size": 4342765,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/carved_wooden_elephant/carved_wooden_elephant_ao_2k.png",
+                    "md5": "876710493d99787959f2798e47993d15"
+                },
+                "exr": {
+                    "size": 2377314,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/carved_wooden_elephant/carved_wooden_elephant_ao_2k.exr",
+                    "md5": "22288122ce952bab697523f8767e0b09"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 323196,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/carved_wooden_elephant/carved_wooden_elephant_ao_1k.jpg",
+                    "md5": "451f4e4204253c6e3d59d0d398b56c21"
+                },
+                "png": {
+                    "size": 1170662,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/carved_wooden_elephant/carved_wooden_elephant_ao_1k.png",
+                    "md5": "ff21027bd84eda748f443c6705c6d6d2"
+                },
+                "exr": {
+                    "size": 679015,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/carved_wooden_elephant/carved_wooden_elephant_ao_1k.exr",
+                    "md5": "60446b1b40d2a903b7cd74ee6cc3cce0"
+                }
+            }
+        }
+    }
+}

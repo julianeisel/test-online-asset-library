@@ -1,0 +1,124 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5313,
+    "tags": [
+        "sun",
+        "road",
+        "asphalt",
+        "street",
+        "straight",
+        "ocean",
+        "mountain",
+        "stairs",
+        "barrier",
+        "coastal",
+        "cape town"
+    ],
+    "name": "Victoria Sunset",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "partly cloudy",
+        "medium contrast",
+        "sunrise-sunset"
+    ],
+    "date_taken": 1581621300,
+    "coords": [
+        -33.97782391239371,
+        18.367055268959657
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "6476034915fc717a2f8edaa244f6ed0c04fb534e",
+    "date_published": 1716508800,
+    "download_count": 39007,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/victoria_sunset.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 51323193,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/victoria_sunset.jpg",
+            "md5": "3284cdad00a950778cc0249e6c3a93f7"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105187518,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/victoria_sunset_8k.hdr",
+                    "md5": "7808bcd669c32bb688fbdc9258c3598f"
+                },
+                "exr": {
+                    "size": 334689567,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/victoria_sunset_8k.exr",
+                    "md5": "de01bc8c1633dec2cc815bcf9aebf075"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 394042203,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/victoria_sunset_16k.hdr",
+                    "md5": "5cb40ce638feafeb23ab42e843fbeb9c"
+                },
+                "exr": {
+                    "size": 1276520276,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/victoria_sunset_16k.exr",
+                    "md5": "421d2ae3da0abb4bcd263d710793e2a7"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26675448,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/victoria_sunset_4k.hdr",
+                    "md5": "b1f6a0d5b8eb0ff50ff057e7025ba890"
+                },
+                "exr": {
+                    "size": 85787973,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/victoria_sunset_4k.exr",
+                    "md5": "90a33f5e40432e53eca48bf3f27bb93e"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 862159924,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/victoria_sunset_24k.hdr",
+                    "md5": "0c0b8e0909a08e7bb387cb7d5de1a893"
+                },
+                "exr": {
+                    "size": 2885790350,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/victoria_sunset_24k.exr",
+                    "md5": "c4369c91ba75f308f87df310904f90cf"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6698120,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/victoria_sunset_2k.hdr",
+                    "md5": "93fb129b74009213fac7a77e20f06748"
+                },
+                "exr": {
+                    "size": 22327121,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/victoria_sunset_2k.exr",
+                    "md5": "4fa58bb9023e2e3fc0f41d46d7905b0c"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1679570,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/victoria_sunset_1k.hdr",
+                    "md5": "88575148f6c39a44c7e05b391c390cde"
+                },
+                "exr": {
+                    "size": 5961989,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/victoria_sunset_1k.exr",
+                    "md5": "c659eb53cd757cd688b5f16293536cbe"
+                }
+            }
+        }
+    }
+}

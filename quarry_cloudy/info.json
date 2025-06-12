@@ -1,0 +1,130 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "rocky",
+        "lake",
+        "dam",
+        "quarry",
+        "storm",
+        "weather",
+        "gloomy",
+        "dark"
+    ],
+    "name": "Quarry Cloudy",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "skies",
+        "partly cloudy",
+        "low contrast",
+        "morning-afternoon",
+        "midday"
+    ],
+    "date_taken": 1703427000,
+    "coords": [
+        -25.603006,
+        29.920699
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "files_hash": "ac480443a39bb082cf823c665ba7251061f41cfc",
+    "date_published": 1708646400,
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "download_count": 59428,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/quarry_cloudy.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 36461784,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/quarry_cloudy.jpg",
+            "md5": "85f4f6ee8fc175df997d7519007401ba"
+        },
+        "colorchart": {
+            "size": 199743973,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/quarry_cloudy.zip",
+            "md5": "ddd24eb9cada0e17d9dd66b962012c81"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98529747,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/quarry_cloudy_8k.hdr",
+                    "md5": "898f210ecc270bcc1436e7711509ab2b"
+                },
+                "exr": {
+                    "size": 383679030,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/quarry_cloudy_8k.exr",
+                    "md5": "de7277fd2a08cf2da23f66749a68bfd1"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 371828293,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/quarry_cloudy_16k.hdr",
+                    "md5": "27f9a3c75a870d4cacc7e6cb1dc75e03"
+                },
+                "exr": {
+                    "size": 1516986559,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/quarry_cloudy_16k.exr",
+                    "md5": "31444caa9fe4c2b15d9caa8e3ec2509a"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25533784,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/quarry_cloudy_4k.hdr",
+                    "md5": "78978eaf264dfb55842dd8d63dc45b5f"
+                },
+                "exr": {
+                    "size": 96411052,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/quarry_cloudy_4k.exr",
+                    "md5": "760a9130c9edfab9cdf8552642787f64"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1646294,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/quarry_cloudy_1k.hdr",
+                    "md5": "140dbd19122b93935afbdeaaea7180ce"
+                },
+                "exr": {
+                    "size": 6100218,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/quarry_cloudy_1k.exr",
+                    "md5": "e6641f53724a2014b5569394e3725747"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 569517067,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/quarry_cloudy_20k.hdr",
+                    "md5": "e337b9e9067cdf9853a5a348a5d2f8bb"
+                },
+                "exr": {
+                    "size": 2340822822,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/quarry_cloudy_20k.exr",
+                    "md5": "eb2d35bf944351573b6d9e9550778439"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6501307,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/quarry_cloudy_2k.hdr",
+                    "md5": "74900ffaeeab54dcb8c37135e3d36c27"
+                },
+                "exr": {
+                    "size": 24251412,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/quarry_cloudy_2k.exr",
+                    "md5": "68B12AB51B3F49779EE9C50031BB80B6"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tree",
+        "grass",
+        "forest"
+    ],
+    "date_published": 1522879200,
+    "name": "Shady Patch",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -26.15474,
+        27.968283
+    ],
+    "date_taken": 1451397240,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "f9988423e0d57b6c134a4b39a9333a98cc850661",
+    "sponsors": [
+        {
+            "url": "http://mdjustin.com/",
+            "name": "Justin Dolan"
+        },
+        "7934315"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 53679,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/shady_patch.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 11977350,
+            "md5": "d55d1b5241fdc86999ffa13a8431e998",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/shady_patch.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 115966008,
+                    "md5": "1e2c3c49e5a5966c82b6d3f95fab948b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/shady_patch_8k.hdr"
+                },
+                "exr": {
+                    "size": 124258232,
+                    "md5": "01dd41ac6bc711264a12cd6135acfe48",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/shady_patch_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 436386138,
+                    "md5": "e3a8ae2ebb9d3fac442ea3e0b85feb42",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/shady_patch_16k.hdr"
+                },
+                "exr": {
+                    "size": 450259995,
+                    "md5": "1b08464db8c80f0693edf600c09f5ccc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/shady_patch_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29902306,
+                    "md5": "fe0f04dd94a8712b3e81d6e44764daa5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/shady_patch_4k.hdr"
+                },
+                "exr": {
+                    "size": 31973978,
+                    "md5": "2c68609f2adb2d6d16abc0dbf8e7bfa0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/shady_patch_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7627216,
+                    "md5": "a52297cde2c43c3c1b1702fbe5ef6206",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/shady_patch_2k.hdr"
+                },
+                "exr": {
+                    "size": 8166928,
+                    "md5": "fcd155579280674f6d75c0470a570e08",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/shady_patch_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1925864,
+                    "md5": "cbd58662113f950db2d4240d47a03d3d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/shady_patch_1k.hdr"
+                },
+                "exr": {
+                    "size": 2059283,
+                    "md5": "e3281bb2cac39b6693dc3f21dfa751d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/shady_patch_1k.exr"
+                }
+            }
+        }
+    }
+}

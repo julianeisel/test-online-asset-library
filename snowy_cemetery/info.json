@@ -1,0 +1,122 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "snow",
+        "cemetary",
+        "grave",
+        "tree",
+        "park",
+        "city"
+    ],
+    "name": "Snowy Cemetery",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "high contrast",
+        "clear",
+        "natural light"
+    ],
+    "date_taken": 1613125440,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1630368000,
+    "sponsors": [
+        "42579608"
+    ],
+    "files_hash": "c5453bf4e972808d60686b69b50b94921adfcb2b",
+    "max_resolution": [
+        19472,
+        9736
+    ],
+    "download_count": 32946,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snowy_cemetery.png?width=256&height=256",
+    "files": {
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/snowy_cemetery_19k.hdr",
+                    "size": 545004227,
+                    "md5": "09f01c4a7f447fd579a7bcff3bc36c0d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/snowy_cemetery_19k.exr",
+                    "size": 1332202408,
+                    "md5": "24d14e7b8a278d12cb1a4606753a56c0"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/snowy_cemetery_16k.hdr",
+                    "size": 391275262,
+                    "md5": "9baee59abd2a44cf8b29a97f112f31ac"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/snowy_cemetery_16k.exr",
+                    "size": 1093973608,
+                    "md5": "24eff904e5638a735f10aa2da936ad0d"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/snowy_cemetery_8k.hdr",
+                    "size": 102411301,
+                    "md5": "aa818a3e95edad8bc1def38d01b089f5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/snowy_cemetery_8k.exr",
+                    "size": 332104625,
+                    "md5": "77c08e436b339d3f518a42414dc6590a"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/snowy_cemetery_4k.hdr",
+                    "size": 26193581,
+                    "md5": "4dbd5b9529808a259a37a0535c468f25"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/snowy_cemetery_4k.exr",
+                    "size": 86339758,
+                    "md5": "0f4ce277c21bd8c288304f83ed9a5167"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/snowy_cemetery_2k.hdr",
+                    "size": 6602071,
+                    "md5": "eab630a1ef263f5851f5c635e22f1ac6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/snowy_cemetery_2k.exr",
+                    "size": 22565557,
+                    "md5": "9d276c4cea11b6fb2dbf37df97eff078"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/snowy_cemetery_1k.hdr",
+                    "size": 1659480,
+                    "md5": "1c7bc769643d2e349dbc4349d3c2da30"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/snowy_cemetery_1k.exr",
+                    "size": 6042795,
+                    "md5": "8dd23372a38f9226ad1873451341b930"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/snowy_cemetery.zip",
+            "size": 39481277,
+            "md5": "6e16b0729382a3d71860414c056a08d5"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/snowy_cemetery.jpg",
+            "size": 47903010,
+            "md5": "c38dce04edf874bb0c05c9e33a33763d"
+        }
+    }
+}

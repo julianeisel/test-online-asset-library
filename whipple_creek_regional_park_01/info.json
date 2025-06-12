@@ -1,0 +1,111 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "tree",
+        "park",
+        "path",
+        "forest"
+    ],
+    "date_published": 1537480800,
+    "name": "Whipple Creek Regional Park 01",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        45.737558,
+        -122.692399
+    ],
+    "date_taken": 1533108240,
+    "authors": {
+        "Philip Modin": "All"
+    },
+    "sponsors": [
+        {
+            "url": "http://mdjustin.com/",
+            "name": "Justin Dolan"
+        }
+    ],
+    "files_hash": "82ffd1cbba3b6f01f624509c4dd3166b2970a981",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 23179,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/whipple_creek_regional_park_01.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 10160332,
+            "md5": "7d27101506a9fddb739d6a3f79b6641e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/whipple_creek_regional_park_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 112833291,
+                    "md5": "fd26692b74e16f6e42968554ee98f08e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/whipple_creek_regional_park_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 110845198,
+                    "md5": "c2dde26481bc40d4089baa0e0072e2f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/whipple_creek_regional_park_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 434840826,
+                    "md5": "bd5fd794046252e296904c3cc0a5d67b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/whipple_creek_regional_park_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 421093649,
+                    "md5": "a2e7342d1e02a73b9bea69d4b75f03e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/whipple_creek_regional_park_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28725383,
+                    "md5": "bcec1d81214fc0f6b1e2b532291b6913",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/whipple_creek_regional_park_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 28144182,
+                    "md5": "2196be6a13987e19b664ae4e090bad14",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/whipple_creek_regional_park_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7240181,
+                    "md5": "438e83baabdafbcd47f73713f86ad778",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/whipple_creek_regional_park_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 7035846,
+                    "md5": "acd0f700c59b34fe68cbef5d4adc1b80",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/whipple_creek_regional_park_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1809355,
+                    "md5": "8641d28d7b390c6ff8a9e211323f3eee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/whipple_creek_regional_park_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1753766,
+                    "md5": "a758fd1f2c787a5514f1bf2ee697cb74",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/whipple_creek_regional_park_01_1k.exr"
+                }
+            }
+        }
+    }
+}

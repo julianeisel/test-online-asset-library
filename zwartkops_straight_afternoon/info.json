@@ -1,0 +1,812 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "sun",
+        "road",
+        "track",
+        "asphalt",
+        "race",
+        "straight",
+        "barrier",
+        "circuit",
+        "backplates"
+    ],
+    "name": "Zwartkops Straight Afternoon",
+    "categories": [
+        "outdoor",
+        "urban",
+        "skies",
+        "natural light",
+        "clear",
+        "high contrast",
+        "midday"
+    ],
+    "backplates": true,
+    "date_taken": 1713702180,
+    "coords": [
+        -25.810044808817782,
+        28.110051739066126
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "files_hash": "85b33eefa618eb71f1bf111ad5d17d17925ec6e0",
+    "date_published": 1726012800,
+    "download_count": 9815,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zwartkops_straight_afternoon.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 41255612,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/zwartkops_straight_afternoon.jpg",
+            "md5": "255679347b54987e3ba6324767488ee3"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97524395,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/zwartkops_straight_afternoon_8k.hdr",
+                    "md5": "c21f6f6bf477857458e5aa288a0c2264"
+                },
+                "exr": {
+                    "size": 383262276,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/zwartkops_straight_afternoon_8k.exr",
+                    "md5": "41e09f7809ea95b2f0ecf8a68f683454"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 364890571,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/zwartkops_straight_afternoon_16k.hdr",
+                    "md5": "6c0743e777eba78c851c902a03e2aa3f"
+                },
+                "exr": {
+                    "size": 1520528503,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/zwartkops_straight_afternoon_16k.exr",
+                    "md5": "97ec5fe163ddedc6a296f4573fa96aa1"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25160634,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/zwartkops_straight_afternoon_4k.hdr",
+                    "md5": "741662598120dcca8b4aadbb5e0f039a"
+                },
+                "exr": {
+                    "size": 96101814,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/zwartkops_straight_afternoon_4k.exr",
+                    "md5": "57c13b8ca003a0d7e297cd48fae35b90"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6262351,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/zwartkops_straight_afternoon_2k.hdr",
+                    "md5": "dd62961d7c38e165f398f4ec024e2e09"
+                },
+                "exr": {
+                    "size": 24129431,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/zwartkops_straight_afternoon_2k.exr",
+                    "md5": "535fc910ebd3a87fa8002bb4719dd90f"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1526108,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/zwartkops_straight_afternoon_1k.hdr",
+                    "md5": "7c03d83a21bc655a9720e02850492e4f"
+                },
+                "exr": {
+                    "size": 6056124,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/zwartkops_straight_afternoon_1k.exr",
+                    "md5": "c7beef1be7fdf652b87bae5b559436a2"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 555845936,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/zwartkops_straight_afternoon_20k.hdr",
+                    "md5": "16c5f1cf1c1263bc39be25818e856fd7"
+                },
+                "exr": {
+                    "size": 2354866101,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/zwartkops_straight_afternoon_20k.exr",
+                    "md5": "3d1d2b19f9da69e2a3a3cfa5a1cedbf1"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 198431578,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/zwartkops_straight_afternoon.zip",
+            "md5": "076a9fa19a814f960e03c14d0c4b13d6"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "size": 15673650,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/10.JPG",
+                    "md5": "95bdcf15f7ff776052a6bc2537abf35a"
+                },
+                "jpg_plain": {
+                    "size": 18589715,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/10.jpg",
+                    "md5": "4c94dc9e56ba0cb92eb7280e8363496c"
+                },
+                "raw": {
+                    "size": 84599296,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/10.RAF",
+                    "md5": "b57102755994f7b673bfc9265a3e95ba"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "size": 15776375,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/11.JPG",
+                    "md5": "af90143da1b12b88f288bc0b63fab9e4"
+                },
+                "jpg_plain": {
+                    "size": 18648688,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/11.jpg",
+                    "md5": "fad67408301ac843ad32646ed01f89ab"
+                },
+                "raw": {
+                    "size": 84642304,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/11.RAF",
+                    "md5": "4b4e5f240ab40332bb4bb860bc3f7b98"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "size": 22619011,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/12.JPG",
+                    "md5": "338a31bdcc732749348b4bbbfaa0ef8b"
+                },
+                "jpg_plain": {
+                    "size": 27274257,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/12.jpg",
+                    "md5": "0c0b0f54176aa3f166e38e7e1b479a08"
+                },
+                "raw": {
+                    "size": 87424000,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/12.RAF",
+                    "md5": "673bfefad9d0a718f6939d4164effb48"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "size": 22908555,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/13.JPG",
+                    "md5": "979bf9a9353b6251ddc68cba44502eff"
+                },
+                "jpg_plain": {
+                    "size": 28147465,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/13.jpg",
+                    "md5": "5946b6a84ad14d529d83109b43d5f2f3"
+                },
+                "raw": {
+                    "size": 87495168,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/13.RAF",
+                    "md5": "01b8cbb135f6c7fd3dc5cb8e8a26ddb3"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "size": 21363642,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/14.JPG",
+                    "md5": "ca198d6013688b8704a60be6ffc138f2"
+                },
+                "jpg_plain": {
+                    "size": 24600508,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/14.jpg",
+                    "md5": "60da15c8fb8cf203d35bb0273a8fd023"
+                },
+                "raw": {
+                    "size": 86965248,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/14.RAF",
+                    "md5": "32c206c736b5f39b9b25e1279823258b"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "size": 19942667,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/15.JPG",
+                    "md5": "24a950818a20dc3ed0c562ac190ac60c"
+                },
+                "jpg_plain": {
+                    "size": 24447538,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/15.jpg",
+                    "md5": "47e2faaaa5047811b0dffc9527d54bd4"
+                },
+                "raw": {
+                    "size": 86369792,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/15.RAF",
+                    "md5": "9d8be7f93c0c8aebc50f61146c38aea9"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "size": 22949876,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/16.JPG",
+                    "md5": "df719f3e254655082a3f5102d88160bb"
+                },
+                "jpg_plain": {
+                    "size": 27108614,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/16.jpg",
+                    "md5": "1897a9ce638c4416b6c82bcb5433ee56"
+                },
+                "raw": {
+                    "size": 87495168,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/16.RAF",
+                    "md5": "7502f7bf015633a91c9f1421862a7352"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "size": 22589953,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/17.JPG",
+                    "md5": "dc2bbcdd67f9e72953f6b512c8004974"
+                },
+                "jpg_plain": {
+                    "size": 32145232,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/17.jpg",
+                    "md5": "08cba2730f2a0a365afc0beef3868840"
+                },
+                "raw": {
+                    "size": 87288832,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/17.RAF",
+                    "md5": "1f588b1b0ef1279f6e88c81ec27e14ed"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "size": 24351280,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/18.JPG",
+                    "md5": "b8c9adc298135cd1ff289c6aee0bcdf1"
+                },
+                "jpg_plain": {
+                    "size": 24699998,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/18.jpg",
+                    "md5": "dec669a27789b6577f25ddf8384e6d2a"
+                },
+                "raw": {
+                    "size": 87483904,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/18.RAF",
+                    "md5": "d2202acff4e2d2cd3440c6f0939d5134"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "size": 22698160,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/19.JPG",
+                    "md5": "e2eb686dab4f07723b8c11a893b46afd"
+                },
+                "jpg_plain": {
+                    "size": 29245006,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/19.jpg",
+                    "md5": "757dd5ea6b6197973aeaf6687cce693f"
+                },
+                "raw": {
+                    "size": 87331840,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/19.RAF",
+                    "md5": "a999271118ca1de9e151373025d62b08"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "size": 21921784,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/20.JPG",
+                    "md5": "ede6eeacc11714e31e2bca2ff2f6e0fd"
+                },
+                "jpg_plain": {
+                    "size": 23595378,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/20.jpg",
+                    "md5": "5d49f1ac7f28facc15555beaf0fa77ba"
+                },
+                "raw": {
+                    "size": 87160320,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/20.RAF",
+                    "md5": "904a69e8a1772338a292e049925039c6"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "size": 20756828,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/21.JPG",
+                    "md5": "3e4a6a6d0009af4e3b1f1b34c31a6637"
+                },
+                "jpg_plain": {
+                    "size": 23813909,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/21.jpg",
+                    "md5": "b2b1c7b2bf53cd89f8564d20073a3f20"
+                },
+                "raw": {
+                    "size": 86723072,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/21.RAF",
+                    "md5": "44a207b9299316c9eb7002eee1b4c069"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "size": 23185388,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/22.JPG",
+                    "md5": "c8f0d40bfe4b01fa9e4390c9789eb2f9"
+                },
+                "jpg_plain": {
+                    "size": 23375113,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/22.jpg",
+                    "md5": "f53194721c9c240352ed43d1f7f8be97"
+                },
+                "raw": {
+                    "size": 87652352,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/22.RAF",
+                    "md5": "9e0cd2d67053ebdb6ac2938976e80063"
+                }
+            },
+            "23": {
+                "jpg_pretty": {
+                    "size": 21673587,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/23.JPG",
+                    "md5": "eaae87e4346e592c022f579cdcc9caea"
+                },
+                "jpg_plain": {
+                    "size": 24816005,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/23.jpg",
+                    "md5": "5ca44bbca5f151604112f0bef0b27eb9"
+                },
+                "raw": {
+                    "size": 87097344,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/23.RAF",
+                    "md5": "5002fad2742ae9d196e9ef65e43c2b4b"
+                }
+            },
+            "24": {
+                "jpg_pretty": {
+                    "size": 22350715,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/24.JPG",
+                    "md5": "5eedbe52860f9ddcc48f4a73e732c55c"
+                },
+                "jpg_plain": {
+                    "size": 26470988,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/24.jpg",
+                    "md5": "8f9a278cddd036101f868d010104f438"
+                },
+                "raw": {
+                    "size": 87369728,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/24.RAF",
+                    "md5": "d2609dd0245919a6be325ef30e781710"
+                }
+            },
+            "25": {
+                "jpg_pretty": {
+                    "size": 18587280,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/25.JPG",
+                    "md5": "f035181f4c730010a65efeb7c0d34032"
+                },
+                "jpg_plain": {
+                    "size": 22274158,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/25.jpg",
+                    "md5": "774899ae9b3a731cfe60049e269aaa90"
+                },
+                "raw": {
+                    "size": 85891584,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/25.RAF",
+                    "md5": "98c710751b87023582e8e1ec80b21776"
+                }
+            },
+            "26": {
+                "jpg_pretty": {
+                    "size": 20230429,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/26.JPG",
+                    "md5": "7707c1b67b936cd14a12a1e8527628cc"
+                },
+                "jpg_plain": {
+                    "size": 23192920,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/26.jpg",
+                    "md5": "879ac2e8aa9189d55c443572d1ef3b8d"
+                },
+                "raw": {
+                    "size": 86448128,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/26.RAF",
+                    "md5": "483b6e7fbd30bb237e2d747dca11a160"
+                }
+            },
+            "27": {
+                "jpg_pretty": {
+                    "size": 18545270,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/27.JPG",
+                    "md5": "888bbc49c8f5b75530062e88f772f820"
+                },
+                "jpg_plain": {
+                    "size": 20726109,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/27.jpg",
+                    "md5": "765afd282cfb3222e046f3a1185b25dd"
+                },
+                "raw": {
+                    "size": 85781504,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/27.RAF",
+                    "md5": "f2b6135ee8eeb82836a54638d337bc51"
+                }
+            },
+            "28": {
+                "jpg_pretty": {
+                    "size": 20596006,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/28.JPG",
+                    "md5": "4b41000296d60ebcaa0ef11a73c92af5"
+                },
+                "jpg_plain": {
+                    "size": 23513290,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/28.jpg",
+                    "md5": "d481f2e6403025bf02b97d2d7709e2a1"
+                },
+                "raw": {
+                    "size": 86587392,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/28.RAF",
+                    "md5": "d0d2b21a4f975c75d48e8934888609dd"
+                }
+            },
+            "29": {
+                "jpg_pretty": {
+                    "size": 18150013,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/29.JPG",
+                    "md5": "c3f5b6e6f3e964176e2152980ab38d78"
+                },
+                "jpg_plain": {
+                    "size": 21029050,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/29.jpg",
+                    "md5": "e3e447497944e6c25b8e02f4f4a8559d"
+                },
+                "raw": {
+                    "size": 85613056,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/29.RAF",
+                    "md5": "2c01bbe8b5a47808d414cd05082f4001"
+                }
+            },
+            "30": {
+                "jpg_pretty": {
+                    "size": 19017162,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/30.JPG",
+                    "md5": "e8696dd5927667aaa71325b1f240328e"
+                },
+                "jpg_plain": {
+                    "size": 22141868,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/30.jpg",
+                    "md5": "bb4305e77ff10d31b9358c8829b1f38d"
+                },
+                "raw": {
+                    "size": 85992960,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/30.RAF",
+                    "md5": "76be1b8478505cf90c24d46b3ca4705a"
+                }
+            },
+            "31": {
+                "jpg_pretty": {
+                    "size": 20034045,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/31.JPG",
+                    "md5": "553f847b7abcbf46d85749ddd2da179c"
+                },
+                "jpg_plain": {
+                    "size": 20679172,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/31.jpg",
+                    "md5": "5655e635ca467b688bef3e138142f8ae"
+                },
+                "raw": {
+                    "size": 86267904,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/31.RAF",
+                    "md5": "988c7c66cbb733e71cf9343c0aa5ba27"
+                }
+            },
+            "32": {
+                "jpg_pretty": {
+                    "size": 18186255,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/32.JPG",
+                    "md5": "b78180ba261783e222df7e28397a53f7"
+                },
+                "jpg_plain": {
+                    "size": 21371868,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/32.jpg",
+                    "md5": "65fbc497ddfda8cedf3c803638024ecb"
+                },
+                "raw": {
+                    "size": 85705728,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/32.RAF",
+                    "md5": "6305f63fae89363d3cfb717dd468922c"
+                }
+            },
+            "33": {
+                "jpg_pretty": {
+                    "size": 21041983,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/33.JPG",
+                    "md5": "779edda1c9c84cd4c0001365ea1f655b"
+                },
+                "jpg_plain": {
+                    "size": 25868103,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/33.jpg",
+                    "md5": "acfbaf802c173a69fd60431fe80044d5"
+                },
+                "raw": {
+                    "size": 86791680,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/33.RAF",
+                    "md5": "f40cf4dfccb2e2f7e4caeec3f749e0ef"
+                }
+            },
+            "34": {
+                "jpg_pretty": {
+                    "size": 20656847,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/34.JPG",
+                    "md5": "eb90e0fd31a288bba3a989b653d90a23"
+                },
+                "jpg_plain": {
+                    "size": 25303922,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/34.jpg",
+                    "md5": "99975633d1e4ed81dbb9959a94664642"
+                },
+                "raw": {
+                    "size": 86628352,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/34.RAF",
+                    "md5": "ff8711b7d85b3269538f6d33c26b5707"
+                }
+            },
+            "35": {
+                "jpg_pretty": {
+                    "size": 26198675,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/35.JPG",
+                    "md5": "06ae7096cdf5f5df976bc2b3138d5ab6"
+                },
+                "jpg_plain": {
+                    "size": 31803420,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/35.jpg",
+                    "md5": "6cb91757c3e6f5f45ac487e432361a29"
+                },
+                "raw": {
+                    "size": 87354880,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/35.RAF",
+                    "md5": "40a9eb74bbc2a9604007438b56342b3c"
+                }
+            },
+            "36": {
+                "jpg_pretty": {
+                    "size": 20343914,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/36.JPG",
+                    "md5": "7d9506208e2f53a40fe2202a81f8109c"
+                },
+                "jpg_plain": {
+                    "size": 24981992,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/36.jpg",
+                    "md5": "2ea18187b996b53c6a84bb404e50441a"
+                },
+                "raw": {
+                    "size": 86534144,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/36.RAF",
+                    "md5": "dd5c991a3621a3138b8905793325cd06"
+                }
+            },
+            "37": {
+                "jpg_pretty": {
+                    "size": 24353450,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/37.JPG",
+                    "md5": "d1a7ec36f5e8472417a4bd30bab764e0"
+                },
+                "jpg_plain": {
+                    "size": 29014067,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/37.jpg",
+                    "md5": "5f025518f3374ac6efbcf9abf2fad237"
+                },
+                "raw": {
+                    "size": 87508992,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/37.RAF",
+                    "md5": "ffbf819ed79da09dad05c5a20b368649"
+                }
+            },
+            "38": {
+                "jpg_pretty": {
+                    "size": 20774030,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/38.JPG",
+                    "md5": "97778d5dd19119142807f25e008ab33b"
+                },
+                "jpg_plain": {
+                    "size": 26989767,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/38.jpg",
+                    "md5": "edb170472abdeafec2e5dd18f6880346"
+                },
+                "raw": {
+                    "size": 86673408,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/38.RAF",
+                    "md5": "ca2a8f0e5b3ba88501771f956628e277"
+                }
+            },
+            "39": {
+                "jpg_pretty": {
+                    "size": 21636353,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/39.JPG",
+                    "md5": "7290be4d26bc8659f0aaea260d60c919"
+                },
+                "jpg_plain": {
+                    "size": 26656007,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/39.jpg",
+                    "md5": "50b1a8e7218e71e7f2ea88504a356afd"
+                },
+                "raw": {
+                    "size": 87206400,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/39.RAF",
+                    "md5": "bcbdf8b2b3326d78a3111e8d3b0aaf9f"
+                }
+            },
+            "40": {
+                "jpg_pretty": {
+                    "size": 20151034,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/40.JPG",
+                    "md5": "71f69bde4a9917b60093a12c0751f95a"
+                },
+                "jpg_plain": {
+                    "size": 23576726,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/40.jpg",
+                    "md5": "83657cef70125b2c6d6d105acc83646e"
+                },
+                "raw": {
+                    "size": 86537216,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/40.RAF",
+                    "md5": "52d95c2fab8f8e9ce848e74ed4a9551f"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "size": 29063793,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/01.jpg",
+                    "md5": "0e74fdd550344ce2c3f6dc765a8be4a9"
+                },
+                "jpg_plain": {
+                    "size": 9067955,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/01.JPG",
+                    "md5": "cdebf3d19ff85dcfe0247e97b2446e5d"
+                },
+                "raw": {
+                    "size": 35576915,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/01.CR2",
+                    "md5": "c5906c6b699186bf784977bae9e6d024"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "size": 24533100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/02.jpg",
+                    "md5": "044636da70b3516cc38247cccbb0e438"
+                },
+                "jpg_plain": {
+                    "size": 6473447,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/02.JPG",
+                    "md5": "9e1c41fd64921605953c2065a21e6e21"
+                },
+                "raw": {
+                    "size": 31824465,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/02.CR2",
+                    "md5": "d2733e694de63edaa56ec0cab7998631"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "size": 28528670,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/03.jpg",
+                    "md5": "d665005e8dabe73824eed24a364788bd"
+                },
+                "jpg_plain": {
+                    "size": 8684540,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/03.JPG",
+                    "md5": "ca0e6b427a72765da96eb9807bd01363"
+                },
+                "raw": {
+                    "size": 34808256,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/03.CR2",
+                    "md5": "bf55085305e5dcdeb4742eb7c6bf12c1"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "size": 26737452,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/04.jpg",
+                    "md5": "eda5b5d93565f33875c8c53f76cf594d"
+                },
+                "jpg_plain": {
+                    "size": 6585270,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/04.JPG",
+                    "md5": "d0f65efff075936b0c53b850b79f44f3"
+                },
+                "raw": {
+                    "size": 31911044,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/04.CR2",
+                    "md5": "d6f8519b6402d15db8e82978669ffa19"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "size": 24606693,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/05.jpg",
+                    "md5": "99b8538f7ca3afe9991871b73cc69e2d"
+                },
+                "jpg_plain": {
+                    "size": 6881141,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/05.JPG",
+                    "md5": "c0027940a3b60f923bb3b183bcde2439"
+                },
+                "raw": {
+                    "size": 32523383,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/05.CR2",
+                    "md5": "224d0deff18470fe38a72fe21b737856"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "size": 26680938,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/06.jpg",
+                    "md5": "bf9e79e9f1270d3615c127ee6d94e50c"
+                },
+                "jpg_plain": {
+                    "size": 7166001,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/06.JPG",
+                    "md5": "6647f68a5ccf4d634e7148eb2725a35a"
+                },
+                "raw": {
+                    "size": 32622836,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/06.CR2",
+                    "md5": "41ea9f087c397da8ffd74107f39538db"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "size": 27274277,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/07.jpg",
+                    "md5": "4cfb0d9d4b1e09eb7975204eed272693"
+                },
+                "jpg_plain": {
+                    "size": 7260731,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/07.JPG",
+                    "md5": "871c6d62569ce3fd3542f4f63300b6f7"
+                },
+                "raw": {
+                    "size": 32993300,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/07.CR2",
+                    "md5": "29b2e7fe41f0c770ba66c631bb07471a"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "size": 25302193,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/08.jpg",
+                    "md5": "58ab9ae7f20b8736c1ef1b4a96941da9"
+                },
+                "jpg_plain": {
+                    "size": 7379629,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/08.JPG",
+                    "md5": "2d3fb953db7c8be571b1577b8ce98440"
+                },
+                "raw": {
+                    "size": 33978835,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/08.CR2",
+                    "md5": "86915d2bdddd6fd662b93f923e85589c"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "size": 21083301,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_pretty/09.JPG",
+                    "md5": "51214750b33ba32f38ce1e14e4da8ddb"
+                },
+                "jpg_plain": {
+                    "size": 25091989,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/jpg_plain/09.jpg",
+                    "md5": "88b028747b43f4aac6537c0d463735fa"
+                },
+                "raw": {
+                    "size": 86716416,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_afternoon/raw/09.RAF",
+                    "md5": "92dd23385a7ea5023ee0d4ed795d2078"
+                }
+            }
+        }
+    }
+}

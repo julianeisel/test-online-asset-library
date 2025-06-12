@@ -1,0 +1,123 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5313,
+    "tags": [
+        "tree",
+        "grass",
+        "farm"
+    ],
+    "name": "Winter Orchard",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "partly cloudy",
+        "sunrise-sunset",
+        "low contrast"
+    ],
+    "coords": [
+        -26.435502,
+        27.735231
+    ],
+    "date_taken": 1658511120,
+    "info": null,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "date_published": 1663286400,
+    "files_hash": "5399c2cd432345ce4e33949c73425ad0a58f69fa",
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "download_count": 14372,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/winter_orchard.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 45320510,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/winter_orchard.jpg",
+            "md5": "9c432cd56e9bfa8bdefd54bcf5438a23"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101580940,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/winter_orchard_8k.hdr",
+                    "md5": "b539809ab0b34d6ab03b2d9f44c5b249"
+                },
+                "exr": {
+                    "size": 385199547,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/winter_orchard_8k.exr",
+                    "md5": "d69b3e400fd1dd6001ee0eadd891bd45"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 373748062,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/winter_orchard_16k.hdr",
+                    "md5": "e9097691dc090d5a357be9f0525ee9e6"
+                },
+                "exr": {
+                    "size": 1518557493,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/winter_orchard_16k.exr",
+                    "md5": "18bb6b1ef658e318706574d0c64100cb"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25879735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/winter_orchard_4k.hdr",
+                    "md5": "5e668c036dce433d9be0d731be861177"
+                },
+                "exr": {
+                    "size": 96817247,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/winter_orchard_4k.exr",
+                    "md5": "a14aa74144c523be2fd1c2d5a2fa9eaf"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6369072,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/winter_orchard_2k.hdr",
+                    "md5": "6e2c12d834af8e0db5916565d69f0b83"
+                },
+                "exr": {
+                    "size": 24263111,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/winter_orchard_2k.exr",
+                    "md5": "74207fb9d159862391f5ebca64859703"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 814220973,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/winter_orchard_24k.hdr",
+                    "md5": "e7a4a1745b42635397d49a203383dd7c"
+                },
+                "exr": {
+                    "size": 3372871406,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/winter_orchard_24k.exr",
+                    "md5": "ee755d517b7e3b7b019234584ce988bc"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1546608,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/winter_orchard_1k.hdr",
+                    "md5": "dd9b097577d3b294c342fae9ffbc4cad"
+                },
+                "exr": {
+                    "size": 6079459,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/winter_orchard_1k.exr",
+                    "md5": "4d10cece8ab5921ae9b66256d3a1148a"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 208206266,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/winter_orchard.zip",
+            "md5": "91460ecc4502950513228dbf0e5cc71a"
+        }
+    }
+}

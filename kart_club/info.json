@@ -1,0 +1,557 @@
+{
+    "evs_cap": 17,
+    "type": 0,
+    "whitebalance": 5200,
+    "tags": [
+        "track",
+        "race",
+        "tire",
+        "warehouse",
+        "graffiti",
+        "pillar",
+        "window",
+        "concrete",
+        "gocart",
+        "backplates"
+    ],
+    "name": "Kart Club",
+    "categories": [
+        "indoor",
+        "urban",
+        "natural light",
+        "high contrast",
+        "midday"
+    ],
+    "backplates": true,
+    "date_taken": 1693419300,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "files_hash": "055d0f7e325dd1d8feb2f54cf61e7427af83c6e2",
+    "date_published": 1700006400,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 10267,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/kart_club.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 43433412,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/kart_club.jpg",
+            "md5": "83e47606e22e0abc3efeab70b569af83"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102656419,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/kart_club_8k.hdr",
+                    "md5": "c508a7cc99b3083e78baa538d02e8502"
+                },
+                "exr": {
+                    "size": 92861909,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/kart_club_8k.exr",
+                    "md5": "7a50f3758fd7696f6a231f80e2831e56"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 384712961,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/kart_club_16k.hdr",
+                    "md5": "1f6209a42d6cfd2434dccdd4ffb159be"
+                },
+                "exr": {
+                    "size": 327521947,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/kart_club_16k.exr",
+                    "md5": "3659deb40a02487314ba4faa26ba3c7c"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26562789,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/kart_club_4k.hdr",
+                    "md5": "9a3be2321a0ee895d86af228877aaf6f"
+                },
+                "exr": {
+                    "size": 24981605,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/kart_club_4k.exr",
+                    "md5": "51f1e6cd87c7ddd2dea42a3436b802ae"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6799465,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kart_club_2k.hdr",
+                    "md5": "f875779a8d6b0c25f424c5e526a33dec"
+                },
+                "exr": {
+                    "size": 6600067,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/kart_club_2k.exr",
+                    "md5": "8c8ef859cc1eb13ea43dc126dcadc089"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1732363,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/kart_club_1k.hdr",
+                    "md5": "7c28f0eac369cda20740a4f53993ca3d"
+                },
+                "exr": {
+                    "size": 1729834,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/kart_club_1k.exr",
+                    "md5": "e152a9b82806d18089046d3d2fcc89b8"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 95080252,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/kart_club.zip",
+            "md5": "cb461fe25a018a3f21a69b0bc0fae8ef"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "size": 8194293,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/10.jpg",
+                    "md5": "279fdf3756145027bb586b96041afa53"
+                },
+                "jpg_plain": {
+                    "size": 4896129,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/10.jpg",
+                    "md5": "34ee85004773bebac3c477c5c3653b6c"
+                },
+                "raw": {
+                    "size": 28132183,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/10.NEF",
+                    "md5": "47fa508d1dd823b310529a1cb050bc7d"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "size": 7029589,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/11.jpg",
+                    "md5": "e8a7da83250869b5831127cc1eeaf740"
+                },
+                "jpg_plain": {
+                    "size": 5266802,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/11.jpg",
+                    "md5": "31f793568e2da31773a00192d6b493c5"
+                },
+                "raw": {
+                    "size": 28699167,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/11.NEF",
+                    "md5": "3e8ae24058136e2ecafc6d7ab33397be"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "size": 7989251,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/12.jpg",
+                    "md5": "09e5027548c9cfd35f66ae4f154dbe43"
+                },
+                "jpg_plain": {
+                    "size": 5977185,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/12.jpg",
+                    "md5": "3046cdf0f3abf1066821bc56c9c5109f"
+                },
+                "raw": {
+                    "size": 29566942,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/12.NEF",
+                    "md5": "6c626b8cef613ebbd43cda7e92ae022f"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "size": 7688603,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/13.jpg",
+                    "md5": "ff3bfcb48d7669752821db9bc0ac63c8"
+                },
+                "jpg_plain": {
+                    "size": 6055674,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/13.jpg",
+                    "md5": "692c8c802d79bab2a4a1e55b7987373c"
+                },
+                "raw": {
+                    "size": 29089661,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/13.NEF",
+                    "md5": "da3ab61b870940bc6033c15eb924b8aa"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "size": 7489558,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/14.jpg",
+                    "md5": "beb25d81e3a7e0ed142df267cac3b4b0"
+                },
+                "jpg_plain": {
+                    "size": 5846972,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/14.jpg",
+                    "md5": "55370bfedf91c63a33da9b720c42f9ea"
+                },
+                "raw": {
+                    "size": 30420716,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/14.NEF",
+                    "md5": "c0620d7a3e497644072751a6eead8d97"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "size": 7509830,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/15.jpg",
+                    "md5": "47b629a0c693304c4f1e272bb7082706"
+                },
+                "jpg_plain": {
+                    "size": 5421601,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/15.jpg",
+                    "md5": "3ee583612ca5f9ea69f2c83355b3bdd9"
+                },
+                "raw": {
+                    "size": 27884407,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/15.NEF",
+                    "md5": "4d0674beed3e779389afec7c8f903482"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "size": 8145759,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/16.jpg",
+                    "md5": "ab02cfb89f8de4550561b3090996dfaf"
+                },
+                "jpg_plain": {
+                    "size": 5164443,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/16.jpg",
+                    "md5": "3df54f116e833819788be9e1238f8b8e"
+                },
+                "raw": {
+                    "size": 27625005,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/16.NEF",
+                    "md5": "476cc2ff2d3f1ab601502b1a8894d2f3"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "size": 8804942,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/17.jpg",
+                    "md5": "ed52f92d2c529542b8b7ae8f126d92af"
+                },
+                "jpg_plain": {
+                    "size": 5548393,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/17.jpg",
+                    "md5": "633a1f51993f4faaa26ca4b45aeb08d2"
+                },
+                "raw": {
+                    "size": 27923912,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/17.NEF",
+                    "md5": "aead9d421b11923d1ccb9deff502e6e7"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "size": 8373844,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/18.jpg",
+                    "md5": "85a341748e2dccb07d128a894497ca28"
+                },
+                "jpg_plain": {
+                    "size": 4962054,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/18.jpg",
+                    "md5": "acdc5963a64fe8382e843386570dc20f"
+                },
+                "raw": {
+                    "size": 26932704,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/18.NEF",
+                    "md5": "5ceec4ccbdb543122725a0bdcba03350"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "size": 8529525,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/19.jpg",
+                    "md5": "0fe688a7f42b4c3f913d30160a7239a8"
+                },
+                "jpg_plain": {
+                    "size": 4315518,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/19.jpg",
+                    "md5": "955ba5e7016a968da507fcc19dffc75a"
+                },
+                "raw": {
+                    "size": 25210131,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/19.NEF",
+                    "md5": "5a388a7d855ea23699dd64773f15877a"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "size": 8235738,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/20.jpg",
+                    "md5": "f2990fb8b0ee6096f82a45c3738d230f"
+                },
+                "jpg_plain": {
+                    "size": 4848883,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/20.jpg",
+                    "md5": "c3aeb24e5f7a3ef5da4a3507e9c988ee"
+                },
+                "raw": {
+                    "size": 26165198,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/20.NEF",
+                    "md5": "e11fdc0631866ad4c0ca62b1594b9ae9"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "size": 7516063,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/21.jpg",
+                    "md5": "263c3313d62bd0ee7cae413d629947d8"
+                },
+                "jpg_plain": {
+                    "size": 6572588,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/21.jpg",
+                    "md5": "fe5b2bf7cdc6baa70d2f96131c542bd7"
+                },
+                "raw": {
+                    "size": 30685334,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/21.NEF",
+                    "md5": "fc471e36fb8c41b5f540f6149654f102"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "size": 8125450,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/22.jpg",
+                    "md5": "9050c26c6b5d102ec62917f463a433f7"
+                },
+                "jpg_plain": {
+                    "size": 6555524,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/22.jpg",
+                    "md5": "3f641065497fcc9cfe37d021c1ff0feb"
+                },
+                "raw": {
+                    "size": 30008248,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/22.NEF",
+                    "md5": "225e67f5abd5c4c2b580554b97801c29"
+                }
+            },
+            "23": {
+                "jpg_pretty": {
+                    "size": 9133792,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/23.jpg",
+                    "md5": "ec2261a2e5911c49489163c0c7daec52"
+                },
+                "jpg_plain": {
+                    "size": 5729927,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/23.jpg",
+                    "md5": "d58e0388a7be49077b9c7c83c56e82e8"
+                },
+                "raw": {
+                    "size": 27350860,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/23.NEF",
+                    "md5": "07c59ecc3b6c24398d40401276906625"
+                }
+            },
+            "24": {
+                "jpg_pretty": {
+                    "size": 9595882,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/24.jpg",
+                    "md5": "0e998f102717038b8acdd656a5a4a51a"
+                },
+                "jpg_plain": {
+                    "size": 6110427,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/24.jpg",
+                    "md5": "c3fe584ee76b7d982dec9f89aec634c4"
+                },
+                "raw": {
+                    "size": 27927173,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/24.NEF",
+                    "md5": "31fcaa091aaa822ace76f4a425a809aa"
+                }
+            },
+            "25": {
+                "jpg_pretty": {
+                    "size": 7985820,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/25.jpg",
+                    "md5": "7739197b0a8065b2e704778a1f33bdd9"
+                },
+                "jpg_plain": {
+                    "size": 5140689,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/25.jpg",
+                    "md5": "04dc57998e754b75c2bdba0b65cf5a83"
+                },
+                "raw": {
+                    "size": 28183280,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/25.NEF",
+                    "md5": "1d1f96600d48b27ef41036025a9b0ed6"
+                }
+            },
+            "26": {
+                "jpg_pretty": {
+                    "size": 8363707,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/26.jpg",
+                    "md5": "7f5b11cdd7bf3e251b2ecdd332bad2f1"
+                },
+                "jpg_plain": {
+                    "size": 4700609,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/26.jpg",
+                    "md5": "019564fc7087b49636c6518e063da2b0"
+                },
+                "raw": {
+                    "size": 26636809,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/26.NEF",
+                    "md5": "4dc31ff34d8c59fe09531e53f0a5e3fd"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "size": 10562101,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/01.jpg",
+                    "md5": "2c22f861466ffe8e30fabc3f65e4ff5a"
+                },
+                "jpg_plain": {
+                    "size": 6965523,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/01.jpg",
+                    "md5": "d9b744bb90939f0e2f3fb57dadd66357"
+                },
+                "raw": {
+                    "size": 29273886,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/01.NEF",
+                    "md5": "a144c4d3037ea3954d28ad1c000bccef"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "size": 10538804,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/02.jpg",
+                    "md5": "2b1b95539f9974d6478556c8ba24f485"
+                },
+                "jpg_plain": {
+                    "size": 6558439,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/02.jpg",
+                    "md5": "17bbd22aeb0f18757a38f38feedf3c8c"
+                },
+                "raw": {
+                    "size": 29165106,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/02.NEF",
+                    "md5": "0fc6f47a6dbc934a347793fcd2006eef"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "size": 9587061,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/03.jpg",
+                    "md5": "3922f7277ca14d67523d1eac2dfe3bc4"
+                },
+                "jpg_plain": {
+                    "size": 6469219,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/03.jpg",
+                    "md5": "9df70936372b1427c6bfb419595343e6"
+                },
+                "raw": {
+                    "size": 29083403,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/03.NEF",
+                    "md5": "0bdc946bdd7c55f78c34b3408c0e28a1"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "size": 9764548,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/04.jpg",
+                    "md5": "85b83d038ec6f67ae960dad9b49dfbc1"
+                },
+                "jpg_plain": {
+                    "size": 6490585,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/04.jpg",
+                    "md5": "35d9880fed46e28326d2f98874b83c11"
+                },
+                "raw": {
+                    "size": 29176939,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/04.NEF",
+                    "md5": "e8424895d5b27676723585835434b036"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "size": 8764173,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/05.jpg",
+                    "md5": "297ae819e50c27817448a33214e4ff70"
+                },
+                "jpg_plain": {
+                    "size": 6099678,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/05.jpg",
+                    "md5": "611da66bdb5a4ae66f18ccb3ccdebb99"
+                },
+                "raw": {
+                    "size": 28833330,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/05.NEF",
+                    "md5": "1649317b21a28faa6bae661dfe3faad3"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "size": 8041781,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/06.jpg",
+                    "md5": "eeaa74f17f5bb48e84d3e542c8371586"
+                },
+                "jpg_plain": {
+                    "size": 5618350,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/06.jpg",
+                    "md5": "139008a88c7b75909f2dde9261b0eae7"
+                },
+                "raw": {
+                    "size": 28957768,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/06.NEF",
+                    "md5": "33f71052c7949a03fdb8147163c4e35c"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "size": 5995804,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/07.jpg",
+                    "md5": "86c93b7b658a1fae2200d3c128590d4d"
+                },
+                "jpg_plain": {
+                    "size": 4999721,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/07.jpg",
+                    "md5": "e8e4fa5ba6abcc67f58b9fa469dd52f1"
+                },
+                "raw": {
+                    "size": 28417817,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/07.NEF",
+                    "md5": "de0998a2768896e711a14c7e2443f479"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "size": 7779421,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/08.jpg",
+                    "md5": "9056b51ad08e341ffd8418d2a6dfa212"
+                },
+                "jpg_plain": {
+                    "size": 5513609,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/08.jpg",
+                    "md5": "26546a1b16ce1d9047d942193257866c"
+                },
+                "raw": {
+                    "size": 28791392,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/08.NEF",
+                    "md5": "4e305bc5dff7fdf49daf079d8843888e"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "size": 8013949,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_pretty/09.jpg",
+                    "md5": "0bf218f35a8e4d66cfe4b47de8166ee1"
+                },
+                "jpg_plain": {
+                    "size": 5787111,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/jpg_plain/09.jpg",
+                    "md5": "c4281939bd2493e67512b07011f51ce6"
+                },
+                "raw": {
+                    "size": 30443621,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/kart_club/raw/09.NEF",
+                    "md5": "a1ee074d8c536e3f687012cd0517c3fc"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,1932 @@
+{
+    "date_published": 1686268800,
+    "name": "Fir Sapling Medium",
+    "type": 2,
+    "authors": {
+        "Rob Tuytel": "photography",
+        "Rico Cilliers": "modeling"
+    },
+    "info": null,
+    "version_required": {
+        "blend": "3.5"
+    },
+    "categories": [
+        "plants",
+        "nature",
+        "trees",
+        "collection: pine_forest"
+    ],
+    "geonodes": true,
+    "tags": [
+        "fir",
+        "sapling",
+        "medium",
+        "needles",
+        "woodland",
+        "branches",
+        "environment",
+        "coniferous",
+        "tree",
+        "plants",
+        "foliage",
+        "geometry nodes"
+    ],
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "polycount": 1549026,
+    "texel_density": 5834.737170774938,
+    "files_hash": "1fc0345d92ba13dcad418977d3c1b9f5153f67eb",
+    "dimensions": [
+        11474.427223205566,
+        2250.380463898182,
+        1413.8165414333344
+    ],
+    "download_count": 21608,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/fir_sapling_medium.png?width=256&height=256",
+    "files": {
+        "twigs_ao": {
+            "8k": {
+                "jpg": {
+                    "size": 1437066,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_twigs_ao_8k.jpg",
+                    "md5": "4ae28f556360a1bba42472fb0a13bb92"
+                },
+                "png": {
+                    "size": 581331,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_ao_8k.png",
+                    "md5": "c658c18f152f01cf134eacee99b7e3e3"
+                },
+                "exr": {
+                    "size": 716455,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/fir_sapling_medium/fir_sapling_medium_twigs_ao_8k.exr",
+                    "md5": "3aaa98d277cca8dcbe5bb01d289ae6be"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 462049,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_twigs_ao_4k.jpg",
+                    "md5": "0b4f04bb4c4f86a99b2ed798a9898a22"
+                },
+                "png": {
+                    "size": 383201,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_ao_4k.png",
+                    "md5": "277e1af8f04c120abf68b46b6bf87a3e"
+                },
+                "exr": {
+                    "size": 380288,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/fir_sapling_medium/fir_sapling_medium_twigs_ao_4k.exr",
+                    "md5": "29365b23df70c051927303f4b21170e0"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 154016,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_twigs_ao_2k.jpg",
+                    "md5": "ec55d04928724930bee78c79cd6c5322"
+                },
+                "png": {
+                    "size": 227027,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_ao_2k.png",
+                    "md5": "82e82415be00454f67e7b8928ae48b39"
+                },
+                "exr": {
+                    "size": 220413,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/fir_sapling_medium/fir_sapling_medium_twigs_ao_2k.exr",
+                    "md5": "e55eff72bb185c0be3c29b4cdc7abdef"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 52689,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_twigs_ao_1k.jpg",
+                    "md5": "bd200bec2dfdfcdf86d9dee308846d7f"
+                },
+                "png": {
+                    "size": 111522,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_ao_1k.png",
+                    "md5": "014bf19d9235b588f68960311bbc515f"
+                },
+                "exr": {
+                    "size": 99198,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/fir_sapling_medium/fir_sapling_medium_twigs_ao_1k.exr",
+                    "md5": "4c4ff9986e18ed721e385971067044c5"
+                }
+            }
+        },
+        "branches_nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 34084575,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_8k.jpg",
+                    "md5": "f9059bb35641102c91e34767934998e0"
+                },
+                "png": {
+                    "size": 327317640,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_8k.png",
+                    "md5": "f8b4a16922f30c4290032ec825b635f2"
+                },
+                "exr": {
+                    "size": 59662626,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_8k.exr",
+                    "md5": "6fe919919cc8015448244d03ce2ae6d6"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 12003406,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_4k.jpg",
+                    "md5": "0808cb1e2d4149f7f8bed5691589c74c"
+                },
+                "png": {
+                    "size": 85406477,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_4k.png",
+                    "md5": "8b6380e61fa5434d7d01e99a101d2dc1"
+                },
+                "exr": {
+                    "size": 22245977,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_4k.exr",
+                    "md5": "9bca80114eec33df5e38e0cee35897ff"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3920997,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_2k.jpg",
+                    "md5": "5fa93c73d145cacdb258a29e3860a1ae"
+                },
+                "png": {
+                    "size": 22422527,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_2k.png",
+                    "md5": "4a249448a15a27f2cc2645287dc65bf7"
+                },
+                "exr": {
+                    "size": 7831210,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_2k.exr",
+                    "md5": "5b093b0af89f920053a32f9130b3f344"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1137533,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_1k.jpg",
+                    "md5": "978d32ec721696e45b38a72411c4edf4"
+                },
+                "png": {
+                    "size": 5778805,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_1k.png",
+                    "md5": "2210cba4d4f7474a3e195c81f3b47093"
+                },
+                "exr": {
+                    "size": 2316003,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_1k.exr",
+                    "md5": "736e7d7b9b11031468720104f99a131f"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/fir_sapling_medium_branches_rough_8k.png": {
+                            "size": 89671439,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_rough_8k.png",
+                            "md5": "23c59b4603836e5f82fff9586c535fe1"
+                        },
+                        "textures/fir_sapling_medium_twigs_alpha_8k.png": {
+                            "size": 857095,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_8k.png",
+                            "md5": "7991316933b4c0811c0468d827273cd4"
+                        },
+                        "textures/fir_sapling_medium_branches_diff_8k.png": {
+                            "size": 321673697,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_diff_8k.png",
+                            "md5": "b2116b13f677cb81f24f9adc483de779"
+                        },
+                        "textures/fir_sapling_medium_branches_disp_8k.png": {
+                            "size": 68545845,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_disp_8k.png",
+                            "md5": "77fde1c712d5b88aa5b6d22a07a65738"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_8k.png": {
+                            "size": 15162702,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_diff_8k.png",
+                            "md5": "447c5998ca29459c0e094fda192a3891"
+                        },
+                        "textures/fir_sapling_medium_twigs_rough_8k.png": {
+                            "size": 3341157,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_rough_8k.png",
+                            "md5": "8834d55adfc22d28844e9eb518c2a895"
+                        },
+                        "textures/fir_sapling_medium_twigs_mask_8k.png": {
+                            "size": 3185906,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_mask_8k.png",
+                            "md5": "a9f0f5fc5ae790aa369c2ac671e458b9"
+                        },
+                        "textures/fir_sapling_medium_branches_nor_gl_8k.png": {
+                            "size": 327317640,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_8k.png",
+                            "md5": "f8b4a16922f30c4290032ec825b635f2"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_8k.png": {
+                            "size": 31585574,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_8k.png",
+                            "md5": "992a1ea630562bc248e2c5b9fdc5d9c6"
+                        }
+                    },
+                    "size": 303600,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/fir_sapling_medium/fir_sapling_medium_8k.blend",
+                    "md5": "7b2b85a2f65271711a200baa7b5f34e5"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/fir_sapling_medium_branches_diff_4k.png": {
+                            "size": 84656318,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_diff_4k.png",
+                            "md5": "1cbc50d5d275000aa3780ce27a7a1d0f"
+                        },
+                        "textures/fir_sapling_medium_branches_disp_4k.png": {
+                            "size": 20359423,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_disp_4k.png",
+                            "md5": "0902ab55b900e1789ed5eafc3595d9dc"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_4k.png": {
+                            "size": 8133666,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_diff_4k.png",
+                            "md5": "87a2c0d83ac168efa7e0e7db48a39905"
+                        },
+                        "textures/fir_sapling_medium_twigs_mask_4k.png": {
+                            "size": 957532,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_mask_4k.png",
+                            "md5": "87f642e43d8a9b91f7b3c49981d687f4"
+                        },
+                        "textures/fir_sapling_medium_twigs_rough_4k.png": {
+                            "size": 2467306,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_rough_4k.png",
+                            "md5": "8428066644e9efac3cd97e2fece042c9"
+                        },
+                        "textures/fir_sapling_medium_branches_rough_4k.png": {
+                            "size": 26676574,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_rough_4k.png",
+                            "md5": "19e672409154c2e47e280a4f9b28d231"
+                        },
+                        "textures/fir_sapling_medium_twigs_alpha_4k.png": {
+                            "size": 539518,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_4k.png",
+                            "md5": "c6899b33828584cd71865292ba2edec9"
+                        },
+                        "textures/fir_sapling_medium_branches_nor_gl_4k.png": {
+                            "size": 85406477,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_4k.png",
+                            "md5": "8b6380e61fa5434d7d01e99a101d2dc1"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_4k.png": {
+                            "size": 10481551,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_4k.png",
+                            "md5": "b142f070bc929f87411fd0f75b61e49f"
+                        }
+                    },
+                    "size": 303584,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/fir_sapling_medium/fir_sapling_medium_4k.blend",
+                    "md5": "7c96ff6a78ec45ca079cb84863c63523"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/fir_sapling_medium_twigs_alpha_2k.png": {
+                            "size": 267736,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_2k.png",
+                            "md5": "77bd7efc0f95b1b629b091ff63a85eb4"
+                        },
+                        "textures/fir_sapling_medium_branches_diff_2k.png": {
+                            "size": 22203773,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_diff_2k.png",
+                            "md5": "0a8464460b3df69009f9d5d8b1cb5093"
+                        },
+                        "textures/fir_sapling_medium_branches_rough_2k.png": {
+                            "size": 6980724,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_rough_2k.png",
+                            "md5": "0201b06fa2bbfa6676c4de2d69eb185f"
+                        },
+                        "textures/fir_sapling_medium_branches_nor_gl_2k.png": {
+                            "size": 22422527,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_2k.png",
+                            "md5": "4a249448a15a27f2cc2645287dc65bf7"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_2k.png": {
+                            "size": 4463628,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_2k.png",
+                            "md5": "384627d328832e281ea406827d636e08"
+                        },
+                        "textures/fir_sapling_medium_twigs_mask_2k.png": {
+                            "size": 324894,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_mask_2k.png",
+                            "md5": "f88fb0d665c1918e75280b330ff6a467"
+                        },
+                        "textures/fir_sapling_medium_twigs_rough_2k.png": {
+                            "size": 1274173,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_rough_2k.png",
+                            "md5": "89f7474c0f674c6d40a1967951a96023"
+                        },
+                        "textures/fir_sapling_medium_branches_disp_2k.png": {
+                            "size": 5850817,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_disp_2k.png",
+                            "md5": "2d07fc2e8c1bd5475f63c24c3d82d420"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_2k.png": {
+                            "size": 3875380,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_diff_2k.png",
+                            "md5": "3d0179018d0cfc97cfc43794b3567d0b"
+                        }
+                    },
+                    "size": 303771,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/fir_sapling_medium/fir_sapling_medium_2k.blend",
+                    "md5": "6f78b188a8537a109941b2f6f0f7445d"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/fir_sapling_medium_twigs_rough_1k.png": {
+                            "size": 431278,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_rough_1k.png",
+                            "md5": "72b5ac71e0936d5f0cd15fe0436192b7"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_1k.png": {
+                            "size": 1549712,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_1k.png",
+                            "md5": "d235cdf7c081c65fc95e12a7deb4aa9e"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_1k.png": {
+                            "size": 1400710,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_diff_1k.png",
+                            "md5": "5dae8cc2426c6f4c436e92a226fcaf7c"
+                        },
+                        "textures/fir_sapling_medium_branches_diff_1k.png": {
+                            "size": 5652976,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_diff_1k.png",
+                            "md5": "3a0fa82c548618135f9d64af79a3fcd1"
+                        },
+                        "textures/fir_sapling_medium_twigs_alpha_1k.png": {
+                            "size": 107577,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_1k.png",
+                            "md5": "8eeee2d1aa745456c4329e01d6a56ba1"
+                        },
+                        "textures/fir_sapling_medium_branches_nor_gl_1k.png": {
+                            "size": 5778805,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_1k.png",
+                            "md5": "2210cba4d4f7474a3e195c81f3b47093"
+                        },
+                        "textures/fir_sapling_medium_branches_rough_1k.png": {
+                            "size": 1778413,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_rough_1k.png",
+                            "md5": "cf3118cd7ab3e3993f7a8e60d01903a5"
+                        },
+                        "textures/fir_sapling_medium_twigs_mask_1k.png": {
+                            "size": 113735,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_mask_1k.png",
+                            "md5": "a3493bbd0bd5ce7ec4f22f9c621588e9"
+                        },
+                        "textures/fir_sapling_medium_branches_disp_1k.png": {
+                            "size": 1561378,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_disp_1k.png",
+                            "md5": "ca8b268477c8e08e0b7d8ef89495e991"
+                        }
+                    },
+                    "size": 303990,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/fir_sapling_medium/fir_sapling_medium_1k.blend",
+                    "md5": "8e10ece44f0679ad760b760116c7ebfc"
+                }
+            }
+        },
+        "branches_arm": {
+            "8k": {
+                "jpg": {
+                    "size": 26960605,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_branches_arm_8k.jpg",
+                    "md5": "d6fcd1bfb9c1888fa27d349053a4eb34"
+                },
+                "png": {
+                    "size": 213604070,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_arm_8k.png",
+                    "md5": "b7f68bec79a4b1fcdff41c33fb8dd788"
+                },
+                "exr": {
+                    "size": 38161101,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/fir_sapling_medium/fir_sapling_medium_branches_arm_8k.exr",
+                    "md5": "579877431c9b9982ba92b68ced9c2a7e"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 8874243,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_branches_arm_4k.jpg",
+                    "md5": "ae18ca9d7467fb94f452365088fa0f40"
+                },
+                "png": {
+                    "size": 64023634,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_arm_4k.png",
+                    "md5": "4ec9b7272dd74a1578bb1f81b09de687"
+                },
+                "exr": {
+                    "size": 13690840,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/fir_sapling_medium/fir_sapling_medium_branches_arm_4k.exr",
+                    "md5": "2c96bc88fd5b4b50c0ba1465997be8ad"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2798227,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_branches_arm_2k.jpg",
+                    "md5": "070d4a8a6e48ff85e05cd3014266043b"
+                },
+                "png": {
+                    "size": 16863660,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_arm_2k.png",
+                    "md5": "27cf0877c62e40e4289862055c2b3fba"
+                },
+                "exr": {
+                    "size": 4882430,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/fir_sapling_medium/fir_sapling_medium_branches_arm_2k.exr",
+                    "md5": "091b0277547a523cde16028f8a1e0644"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 793567,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_branches_arm_1k.jpg",
+                    "md5": "d7628f18489b75ec981c84288cca268b"
+                },
+                "png": {
+                    "size": 4326843,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_arm_1k.png",
+                    "md5": "7087463ebcee7ca14e4bbdc75023a6da"
+                },
+                "exr": {
+                    "size": 1494672,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/fir_sapling_medium/fir_sapling_medium_branches_arm_1k.exr",
+                    "md5": "39ed72cedd6c32a52957b00163cc6fba"
+                }
+            }
+        },
+        "twigs_mask": {
+            "8k": {
+                "jpg": {
+                    "size": 1474545,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_twigs_mask_8k.jpg",
+                    "md5": "b805e59bf570531bd626103dec53bc2f"
+                },
+                "png": {
+                    "size": 3185906,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_mask_8k.png",
+                    "md5": "a9f0f5fc5ae790aa369c2ac671e458b9"
+                },
+                "exr": {
+                    "size": 956275,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/fir_sapling_medium/fir_sapling_medium_twigs_mask_8k.exr",
+                    "md5": "2935bd7df3ba98de43f17b475a2626f2"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 449868,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_twigs_mask_4k.jpg",
+                    "md5": "adbe6007ed870876ebb0c40e5b9b2222"
+                },
+                "png": {
+                    "size": 957532,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_mask_4k.png",
+                    "md5": "87f642e43d8a9b91f7b3c49981d687f4"
+                },
+                "exr": {
+                    "size": 428677,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/fir_sapling_medium/fir_sapling_medium_twigs_mask_4k.exr",
+                    "md5": "9cfdd2fd70669b8d1f4f909622a042f6"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 138763,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_twigs_mask_2k.jpg",
+                    "md5": "d9b6afe72ec3aa5012dac1107358b2a9"
+                },
+                "png": {
+                    "size": 324894,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_mask_2k.png",
+                    "md5": "f88fb0d665c1918e75280b330ff6a467"
+                },
+                "exr": {
+                    "size": 173861,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/fir_sapling_medium/fir_sapling_medium_twigs_mask_2k.exr",
+                    "md5": "cc0fd13d53253c77d1dfd57a9347a40a"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 46131,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_twigs_mask_1k.jpg",
+                    "md5": "41edc3e356c6e43ad7ccd745df313623"
+                },
+                "png": {
+                    "size": 113735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_mask_1k.png",
+                    "md5": "a3493bbd0bd5ce7ec4f22f9c621588e9"
+                },
+                "exr": {
+                    "size": 71382,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/fir_sapling_medium/fir_sapling_medium_twigs_mask_1k.exr",
+                    "md5": "a854213fbf95cf9043a941edf13963b8"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "textures/fir_sapling_medium_branches_diff_8k.jpg": {
+                            "size": 25355576,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_branches_diff_8k.jpg",
+                            "md5": "b1b89c1345015e27e89e3594113041dd"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_8k.jpg": {
+                            "size": 6030951,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_twigs_diff_8k.jpg",
+                            "md5": "4cbd906b90abdee71fa15a2925ed3e77"
+                        },
+                        "textures/fir_sapling_medium_branches_nor_gl_8k.jpg": {
+                            "size": 34084575,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_8k.jpg",
+                            "md5": "f9059bb35641102c91e34767934998e0"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_8k.jpg": {
+                            "size": 15404237,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_8k.jpg",
+                            "md5": "7902381dc84d96f0ddc223b79fb1084f"
+                        },
+                        "textures/fir_sapling_medium_branches_arm_8k.jpg": {
+                            "size": 26960605,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_branches_arm_8k.jpg",
+                            "md5": "d6fcd1bfb9c1888fa27d349053a4eb34"
+                        },
+                        "textures/fir_sapling_medium_twigs_arm_8k.jpg": {
+                            "size": 7324665,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_twigs_arm_8k.jpg",
+                            "md5": "c15238bc3fcef495a2d262aa05dcb720"
+                        },
+                        "fir_sapling_medium.bin": {
+                            "size": 74176224,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/fir_sapling_medium/fir_sapling_medium.bin",
+                            "md5": "69e6ed06550f65d52852001725abbc23"
+                        }
+                    },
+                    "size": 9458,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/fir_sapling_medium/fir_sapling_medium_8k.gltf",
+                    "md5": "7e26e5945390d68f259d6cd240f4f9e4"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/fir_sapling_medium_branches_arm_4k.jpg": {
+                            "size": 8874243,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_branches_arm_4k.jpg",
+                            "md5": "ae18ca9d7467fb94f452365088fa0f40"
+                        },
+                        "textures/fir_sapling_medium_branches_nor_gl_4k.jpg": {
+                            "size": 12003406,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_4k.jpg",
+                            "md5": "0808cb1e2d4149f7f8bed5691589c74c"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_4k.jpg": {
+                            "size": 5191152,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_4k.jpg",
+                            "md5": "449e0a5f59f99c45f4978c9b60efab7c"
+                        },
+                        "textures/fir_sapling_medium_branches_diff_4k.jpg": {
+                            "size": 8557824,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_branches_diff_4k.jpg",
+                            "md5": "ccfa94859ab735798f01cac95c80ac4e"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_4k.jpg": {
+                            "size": 2134437,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_twigs_diff_4k.jpg",
+                            "md5": "5ebcb4e3bc815d34860b0f2dbb60f3bd"
+                        },
+                        "textures/fir_sapling_medium_twigs_arm_4k.jpg": {
+                            "size": 2621137,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_twigs_arm_4k.jpg",
+                            "md5": "e9f22401a0c05473b10a2851fbcc4582"
+                        },
+                        "fir_sapling_medium.bin": {
+                            "size": 74176224,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/fir_sapling_medium/fir_sapling_medium.bin",
+                            "md5": "69e6ed06550f65d52852001725abbc23"
+                        }
+                    },
+                    "size": 9458,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/fir_sapling_medium/fir_sapling_medium_4k.gltf",
+                    "md5": "7f7773b164260b936f91a951810d4ed5"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/fir_sapling_medium_branches_arm_2k.jpg": {
+                            "size": 2798227,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_branches_arm_2k.jpg",
+                            "md5": "070d4a8a6e48ff85e05cd3014266043b"
+                        },
+                        "textures/fir_sapling_medium_twigs_arm_2k.jpg": {
+                            "size": 921388,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_twigs_arm_2k.jpg",
+                            "md5": "5cbceaaec83cc07d7281bf6ec50e5b74"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_2k.jpg": {
+                            "size": 751778,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_twigs_diff_2k.jpg",
+                            "md5": "539e72b1ffe9bbccd9dd233167e9e458"
+                        },
+                        "textures/fir_sapling_medium_branches_diff_2k.jpg": {
+                            "size": 2839282,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_branches_diff_2k.jpg",
+                            "md5": "e9375177560503904ece137474cfde0b"
+                        },
+                        "textures/fir_sapling_medium_branches_nor_gl_2k.jpg": {
+                            "size": 3920997,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_2k.jpg",
+                            "md5": "5fa93c73d145cacdb258a29e3860a1ae"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_2k.jpg": {
+                            "size": 1641187,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_2k.jpg",
+                            "md5": "8f07301ae39fc6b490a7e9e97d23d5d8"
+                        },
+                        "fir_sapling_medium.bin": {
+                            "size": 74176224,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/fir_sapling_medium/fir_sapling_medium.bin",
+                            "md5": "69e6ed06550f65d52852001725abbc23"
+                        }
+                    },
+                    "size": 9458,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/fir_sapling_medium/fir_sapling_medium_2k.gltf",
+                    "md5": "9cc72781a8e4075bd43e7681b711b456"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/fir_sapling_medium_branches_nor_gl_1k.jpg": {
+                            "size": 1137533,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_1k.jpg",
+                            "md5": "978d32ec721696e45b38a72411c4edf4"
+                        },
+                        "textures/fir_sapling_medium_branches_arm_1k.jpg": {
+                            "size": 793567,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_branches_arm_1k.jpg",
+                            "md5": "d7628f18489b75ec981c84288cca268b"
+                        },
+                        "textures/fir_sapling_medium_twigs_arm_1k.jpg": {
+                            "size": 300249,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_twigs_arm_1k.jpg",
+                            "md5": "8656248c0a3cedde6db4a7a3f9050563"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_1k.jpg": {
+                            "size": 474651,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_1k.jpg",
+                            "md5": "dc04a78e84b4161cdf3b2a42fb2429a8"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_1k.jpg": {
+                            "size": 252612,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_twigs_diff_1k.jpg",
+                            "md5": "c1d278e1b649a00f5b30f701eb85c5d2"
+                        },
+                        "textures/fir_sapling_medium_branches_diff_1k.jpg": {
+                            "size": 776567,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_branches_diff_1k.jpg",
+                            "md5": "93265c0d9fbd3cf17deabdb68aa8b5e9"
+                        },
+                        "fir_sapling_medium.bin": {
+                            "size": 74176224,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/fir_sapling_medium/fir_sapling_medium.bin",
+                            "md5": "69e6ed06550f65d52852001725abbc23"
+                        }
+                    },
+                    "size": 9458,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/fir_sapling_medium/fir_sapling_medium_1k.gltf",
+                    "md5": "8f77acd0760422603f2785d504fe2b74"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/fir_sapling_medium_branches_rough_8k.png": {
+                            "size": 89671439,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_rough_8k.png",
+                            "md5": "23c59b4603836e5f82fff9586c535fe1"
+                        },
+                        "textures/fir_sapling_medium_twigs_alpha_8k.png": {
+                            "size": 857095,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_8k.png",
+                            "md5": "7991316933b4c0811c0468d827273cd4"
+                        },
+                        "textures/fir_sapling_medium_branches_diff_8k.png": {
+                            "size": 321673697,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_diff_8k.png",
+                            "md5": "b2116b13f677cb81f24f9adc483de779"
+                        },
+                        "textures/fir_sapling_medium_branches_disp_8k.png": {
+                            "size": 68545845,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_disp_8k.png",
+                            "md5": "77fde1c712d5b88aa5b6d22a07a65738"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_8k.png": {
+                            "size": 15162702,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_diff_8k.png",
+                            "md5": "447c5998ca29459c0e094fda192a3891"
+                        },
+                        "textures/fir_sapling_medium_twigs_rough_8k.png": {
+                            "size": 3341157,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_rough_8k.png",
+                            "md5": "8834d55adfc22d28844e9eb518c2a895"
+                        },
+                        "textures/fir_sapling_medium_twigs_mask_8k.png": {
+                            "size": 3185906,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_mask_8k.png",
+                            "md5": "a9f0f5fc5ae790aa369c2ac671e458b9"
+                        },
+                        "textures/fir_sapling_medium_branches_nor_gl_8k.png": {
+                            "size": 327317640,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_8k.png",
+                            "md5": "f8b4a16922f30c4290032ec825b635f2"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_8k.png": {
+                            "size": 31585574,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_8k.png",
+                            "md5": "992a1ea630562bc248e2c5b9fdc5d9c6"
+                        }
+                    },
+                    "size": 4454,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/fir_sapling_medium/fir_sapling_medium_8k.usdc",
+                    "md5": "b32a7bf22e3b56507b767b2519cad3ff"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/fir_sapling_medium_branches_diff_4k.png": {
+                            "size": 84656318,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_diff_4k.png",
+                            "md5": "1cbc50d5d275000aa3780ce27a7a1d0f"
+                        },
+                        "textures/fir_sapling_medium_branches_disp_4k.png": {
+                            "size": 20359423,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_disp_4k.png",
+                            "md5": "0902ab55b900e1789ed5eafc3595d9dc"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_4k.png": {
+                            "size": 8133666,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_diff_4k.png",
+                            "md5": "87a2c0d83ac168efa7e0e7db48a39905"
+                        },
+                        "textures/fir_sapling_medium_twigs_mask_4k.png": {
+                            "size": 957532,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_mask_4k.png",
+                            "md5": "87f642e43d8a9b91f7b3c49981d687f4"
+                        },
+                        "textures/fir_sapling_medium_twigs_rough_4k.png": {
+                            "size": 2467306,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_rough_4k.png",
+                            "md5": "8428066644e9efac3cd97e2fece042c9"
+                        },
+                        "textures/fir_sapling_medium_branches_rough_4k.png": {
+                            "size": 26676574,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_rough_4k.png",
+                            "md5": "19e672409154c2e47e280a4f9b28d231"
+                        },
+                        "textures/fir_sapling_medium_twigs_alpha_4k.png": {
+                            "size": 539518,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_4k.png",
+                            "md5": "c6899b33828584cd71865292ba2edec9"
+                        },
+                        "textures/fir_sapling_medium_branches_nor_gl_4k.png": {
+                            "size": 85406477,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_4k.png",
+                            "md5": "8b6380e61fa5434d7d01e99a101d2dc1"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_4k.png": {
+                            "size": 10481551,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_4k.png",
+                            "md5": "b142f070bc929f87411fd0f75b61e49f"
+                        }
+                    },
+                    "size": 4454,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/fir_sapling_medium/fir_sapling_medium_4k.usdc",
+                    "md5": "b7568e79e83a88ae9cdf759c4bf0e420"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/fir_sapling_medium_twigs_alpha_2k.png": {
+                            "size": 267736,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_2k.png",
+                            "md5": "77bd7efc0f95b1b629b091ff63a85eb4"
+                        },
+                        "textures/fir_sapling_medium_branches_diff_2k.png": {
+                            "size": 22203773,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_diff_2k.png",
+                            "md5": "0a8464460b3df69009f9d5d8b1cb5093"
+                        },
+                        "textures/fir_sapling_medium_branches_rough_2k.png": {
+                            "size": 6980724,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_rough_2k.png",
+                            "md5": "0201b06fa2bbfa6676c4de2d69eb185f"
+                        },
+                        "textures/fir_sapling_medium_branches_nor_gl_2k.png": {
+                            "size": 22422527,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_2k.png",
+                            "md5": "4a249448a15a27f2cc2645287dc65bf7"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_2k.png": {
+                            "size": 4463628,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_2k.png",
+                            "md5": "384627d328832e281ea406827d636e08"
+                        },
+                        "textures/fir_sapling_medium_twigs_mask_2k.png": {
+                            "size": 324894,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_mask_2k.png",
+                            "md5": "f88fb0d665c1918e75280b330ff6a467"
+                        },
+                        "textures/fir_sapling_medium_twigs_rough_2k.png": {
+                            "size": 1274173,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_rough_2k.png",
+                            "md5": "89f7474c0f674c6d40a1967951a96023"
+                        },
+                        "textures/fir_sapling_medium_branches_disp_2k.png": {
+                            "size": 5850817,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_disp_2k.png",
+                            "md5": "2d07fc2e8c1bd5475f63c24c3d82d420"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_2k.png": {
+                            "size": 3875380,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_diff_2k.png",
+                            "md5": "3d0179018d0cfc97cfc43794b3567d0b"
+                        }
+                    },
+                    "size": 4454,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/fir_sapling_medium/fir_sapling_medium_2k.usdc",
+                    "md5": "0b0b79c0c346e716e0fcd0440d475127"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/fir_sapling_medium_twigs_rough_1k.png": {
+                            "size": 431278,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_rough_1k.png",
+                            "md5": "72b5ac71e0936d5f0cd15fe0436192b7"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_1k.png": {
+                            "size": 1549712,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_1k.png",
+                            "md5": "d235cdf7c081c65fc95e12a7deb4aa9e"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_1k.png": {
+                            "size": 1400710,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_diff_1k.png",
+                            "md5": "5dae8cc2426c6f4c436e92a226fcaf7c"
+                        },
+                        "textures/fir_sapling_medium_branches_diff_1k.png": {
+                            "size": 5652976,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_diff_1k.png",
+                            "md5": "3a0fa82c548618135f9d64af79a3fcd1"
+                        },
+                        "textures/fir_sapling_medium_twigs_alpha_1k.png": {
+                            "size": 107577,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_1k.png",
+                            "md5": "8eeee2d1aa745456c4329e01d6a56ba1"
+                        },
+                        "textures/fir_sapling_medium_branches_nor_gl_1k.png": {
+                            "size": 5778805,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_1k.png",
+                            "md5": "2210cba4d4f7474a3e195c81f3b47093"
+                        },
+                        "textures/fir_sapling_medium_branches_rough_1k.png": {
+                            "size": 1778413,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_rough_1k.png",
+                            "md5": "cf3118cd7ab3e3993f7a8e60d01903a5"
+                        },
+                        "textures/fir_sapling_medium_twigs_mask_1k.png": {
+                            "size": 113735,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_mask_1k.png",
+                            "md5": "a3493bbd0bd5ce7ec4f22f9c621588e9"
+                        },
+                        "textures/fir_sapling_medium_branches_disp_1k.png": {
+                            "size": 1561378,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_disp_1k.png",
+                            "md5": "ca8b268477c8e08e0b7d8ef89495e991"
+                        }
+                    },
+                    "size": 4454,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/fir_sapling_medium/fir_sapling_medium_1k.usdc",
+                    "md5": "9fe5913dd8364190352f9920238eed32"
+                }
+            }
+        },
+        "branches_rough": {
+            "8k": {
+                "jpg": {
+                    "size": 15713236,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_branches_rough_8k.jpg",
+                    "md5": "8908d08b07b4b51860667c2aaf1256a7"
+                },
+                "png": {
+                    "size": 89671439,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_rough_8k.png",
+                    "md5": "23c59b4603836e5f82fff9586c535fe1"
+                },
+                "exr": {
+                    "size": 43994334,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/fir_sapling_medium/fir_sapling_medium_branches_rough_8k.exr",
+                    "md5": "320a71ce53d354fc8047f8252785431d"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5286437,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_branches_rough_4k.jpg",
+                    "md5": "7e9ef8f9d1a854595ceba3bf4a1e2374"
+                },
+                "png": {
+                    "size": 26676574,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_rough_4k.png",
+                    "md5": "19e672409154c2e47e280a4f9b28d231"
+                },
+                "exr": {
+                    "size": 13168460,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/fir_sapling_medium/fir_sapling_medium_branches_rough_4k.exr",
+                    "md5": "16e5659eca86ff7cb307097526bb9849"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1809731,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_branches_rough_2k.jpg",
+                    "md5": "69dae55127741a07e9fbbcfbb159bc90"
+                },
+                "png": {
+                    "size": 6980724,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_rough_2k.png",
+                    "md5": "0201b06fa2bbfa6676c4de2d69eb185f"
+                },
+                "exr": {
+                    "size": 3633782,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/fir_sapling_medium/fir_sapling_medium_branches_rough_2k.exr",
+                    "md5": "e96cfc3d5fbe62e777c36efa6f781163"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 506828,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_branches_rough_1k.jpg",
+                    "md5": "1c095254a3b7545cce9282badc9b27d0"
+                },
+                "png": {
+                    "size": 1778413,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_rough_1k.png",
+                    "md5": "cf3118cd7ab3e3993f7a8e60d01903a5"
+                },
+                "exr": {
+                    "size": 937558,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/fir_sapling_medium/fir_sapling_medium_branches_rough_1k.exr",
+                    "md5": "3108d748ba384aa78e0c16469918fca1"
+                }
+            }
+        },
+        "twigs_diff": {
+            "8k": {
+                "jpg": {
+                    "size": 6030951,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_twigs_diff_8k.jpg",
+                    "md5": "4cbd906b90abdee71fa15a2925ed3e77"
+                },
+                "png": {
+                    "size": 15162702,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_diff_8k.png",
+                    "md5": "447c5998ca29459c0e094fda192a3891"
+                },
+                "exr": {
+                    "size": 10378888,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/fir_sapling_medium/fir_sapling_medium_twigs_diff_8k.exr",
+                    "md5": "50d20c83033e5be0b5feb0d2650689fa"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2134437,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_twigs_diff_4k.jpg",
+                    "md5": "5ebcb4e3bc815d34860b0f2dbb60f3bd"
+                },
+                "png": {
+                    "size": 8133666,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_diff_4k.png",
+                    "md5": "87a2c0d83ac168efa7e0e7db48a39905"
+                },
+                "exr": {
+                    "size": 3711616,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/fir_sapling_medium/fir_sapling_medium_twigs_diff_4k.exr",
+                    "md5": "00deeffe25a94a68cd587c834bd773b5"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 751778,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_twigs_diff_2k.jpg",
+                    "md5": "539e72b1ffe9bbccd9dd233167e9e458"
+                },
+                "png": {
+                    "size": 3875380,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_diff_2k.png",
+                    "md5": "3d0179018d0cfc97cfc43794b3567d0b"
+                },
+                "exr": {
+                    "size": 1356807,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/fir_sapling_medium/fir_sapling_medium_twigs_diff_2k.exr",
+                    "md5": "5ac8e8a0e9be20c397ed202a33914860"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 252612,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_twigs_diff_1k.jpg",
+                    "md5": "c1d278e1b649a00f5b30f701eb85c5d2"
+                },
+                "png": {
+                    "size": 1400710,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_diff_1k.png",
+                    "md5": "5dae8cc2426c6f4c436e92a226fcaf7c"
+                },
+                "exr": {
+                    "size": 476904,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/fir_sapling_medium/fir_sapling_medium_twigs_diff_1k.exr",
+                    "md5": "7c9043fd2caf201b29ff988adc3af04a"
+                }
+            }
+        },
+        "branches_ao": {
+            "8k": {
+                "jpg": {
+                    "size": 25723357,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_branches_ao_8k.jpg",
+                    "md5": "dfb0b7eb3fc70d0452a8ea22441906df"
+                },
+                "png": {
+                    "size": 99516486,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_ao_8k.png",
+                    "md5": "fb0b9212a56b08c5c941ab8e1c0ff847"
+                },
+                "exr": {
+                    "size": 60297462,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/fir_sapling_medium/fir_sapling_medium_branches_ao_8k.exr",
+                    "md5": "7b9bcdb812b6827568216a4cb8a6ffb6"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 8299820,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_branches_ao_4k.jpg",
+                    "md5": "d6bc62df8223a7adc0214a7302511432"
+                },
+                "png": {
+                    "size": 28486848,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_ao_4k.png",
+                    "md5": "26671509704ac5ccd007f4151520e433"
+                },
+                "exr": {
+                    "size": 17328465,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/fir_sapling_medium/fir_sapling_medium_branches_ao_4k.exr",
+                    "md5": "e222e124e9a118f3281000bc2c2b121a"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2621660,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_branches_ao_2k.jpg",
+                    "md5": "2d0fe3e453ebc0beb7e2aa2ecc4702f9"
+                },
+                "png": {
+                    "size": 7428259,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_ao_2k.png",
+                    "md5": "a473f5204c5cb78ed3a6f064b254901f"
+                },
+                "exr": {
+                    "size": 4706151,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/fir_sapling_medium/fir_sapling_medium_branches_ao_2k.exr",
+                    "md5": "18df04c60ef3131bb8143b1e882f47bb"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 769792,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_branches_ao_1k.jpg",
+                    "md5": "ef371963661558b8bf2887f8cb50c5e3"
+                },
+                "png": {
+                    "size": 1905503,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_ao_1k.png",
+                    "md5": "30cb821579ca0f868f25179787b2da11"
+                },
+                "exr": {
+                    "size": 1251805,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/fir_sapling_medium/fir_sapling_medium_branches_ao_1k.exr",
+                    "md5": "d6685c855f47d8e28a96cc6b740472ff"
+                }
+            }
+        },
+        "twigs_arm": {
+            "8k": {
+                "jpg": {
+                    "size": 7324665,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_twigs_arm_8k.jpg",
+                    "md5": "c15238bc3fcef495a2d262aa05dcb720"
+                },
+                "png": {
+                    "size": 3885901,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_arm_8k.png",
+                    "md5": "cf45278305c6f64765f1256077a48691"
+                },
+                "exr": {
+                    "size": 11623072,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/fir_sapling_medium/fir_sapling_medium_twigs_arm_8k.exr",
+                    "md5": "a4890cbf9d01d62b408e185ff6007b28"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2621137,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_twigs_arm_4k.jpg",
+                    "md5": "e9f22401a0c05473b10a2851fbcc4582"
+                },
+                "png": {
+                    "size": 1840336,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_arm_4k.png",
+                    "md5": "7c27d9607159def597d4e027ad1fdab9"
+                },
+                "exr": {
+                    "size": 4379234,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/fir_sapling_medium/fir_sapling_medium_twigs_arm_4k.exr",
+                    "md5": "120db3903eb2713b0c88816ef8804af3"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 921388,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_twigs_arm_2k.jpg",
+                    "md5": "5cbceaaec83cc07d7281bf6ec50e5b74"
+                },
+                "png": {
+                    "size": 767926,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_arm_2k.png",
+                    "md5": "0c1a384768a0d01c014911b330c1a5ca"
+                },
+                "exr": {
+                    "size": 1668193,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/fir_sapling_medium/fir_sapling_medium_twigs_arm_2k.exr",
+                    "md5": "e2af0a9be6d1ead8ad789b5ba79a0ebe"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 300249,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_twigs_arm_1k.jpg",
+                    "md5": "8656248c0a3cedde6db4a7a3f9050563"
+                },
+                "png": {
+                    "size": 256500,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_arm_1k.png",
+                    "md5": "2b2f750322977708e22fbb6f2732cc2d"
+                },
+                "exr": {
+                    "size": 594100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/fir_sapling_medium/fir_sapling_medium_twigs_arm_1k.exr",
+                    "md5": "62352dd917d5a57ea125556049ef26a3"
+                }
+            }
+        },
+        "branches_nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 33926325,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_branches_nor_dx_8k.jpg",
+                    "md5": "a674307db45071ac18d9b26ba8534af9"
+                },
+                "png": {
+                    "size": 316410482,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_nor_dx_8k.png",
+                    "md5": "68f46b2ff786ce55ac9f09efb515fb37"
+                },
+                "exr": {
+                    "size": 59706048,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/fir_sapling_medium/fir_sapling_medium_branches_nor_dx_8k.exr",
+                    "md5": "6442f378aaa9a1efdea37fc1ffd79cfe"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 11941191,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_branches_nor_dx_4k.jpg",
+                    "md5": "736e79d403af0b193a6f805b4eb0659a"
+                },
+                "png": {
+                    "size": 85405527,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_nor_dx_4k.png",
+                    "md5": "3acb27435f1fba7047186d66c3bb9ff4"
+                },
+                "exr": {
+                    "size": 22252555,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/fir_sapling_medium/fir_sapling_medium_branches_nor_dx_4k.exr",
+                    "md5": "23176459efcb6424d71fbab47c18ac02"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3897630,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_branches_nor_dx_2k.jpg",
+                    "md5": "efa7a88c8a0fdd36e43422ca2f7e04bf"
+                },
+                "png": {
+                    "size": 22422607,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_nor_dx_2k.png",
+                    "md5": "b840029fcffa7ae7f6c427ad1c038226"
+                },
+                "exr": {
+                    "size": 7826277,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/fir_sapling_medium/fir_sapling_medium_branches_nor_dx_2k.exr",
+                    "md5": "25c40613121bdc93d25de36a71adcf4d"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1130471,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_branches_nor_dx_1k.jpg",
+                    "md5": "657eb273343b5fe080c7a9240bfb24dc"
+                },
+                "png": {
+                    "size": 5778911,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_nor_dx_1k.png",
+                    "md5": "2745b8df54dcecba88fb033e3a7d629b"
+                },
+                "exr": {
+                    "size": 2314954,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/fir_sapling_medium/fir_sapling_medium_branches_nor_dx_1k.exr",
+                    "md5": "048b3217b42e0e22ac0313159e0f2273"
+                }
+            }
+        },
+        "twigs_alpha": {
+            "8k": {
+                "jpg": {
+                    "size": 2063854,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_8k.jpg",
+                    "md5": "e73b7c5fd9d50c19a32f8e693c800aea"
+                },
+                "png": {
+                    "size": 857095,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_8k.png",
+                    "md5": "7991316933b4c0811c0468d827273cd4"
+                },
+                "exr": {
+                    "size": 1154909,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_8k.exr",
+                    "md5": "b4cb003797ec7ecdfab9e225317c9999"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 707529,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_4k.jpg",
+                    "md5": "52ff36088c2e34a8672b7af389c77d90"
+                },
+                "png": {
+                    "size": 539518,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_4k.png",
+                    "md5": "c6899b33828584cd71865292ba2edec9"
+                },
+                "exr": {
+                    "size": 562166,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_4k.exr",
+                    "md5": "0d553387545babf55f2509a1b28f9886"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 252580,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_2k.jpg",
+                    "md5": "b34e6a9262c414469031a4688d135c5a"
+                },
+                "png": {
+                    "size": 267736,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_2k.png",
+                    "md5": "77bd7efc0f95b1b629b091ff63a85eb4"
+                },
+                "exr": {
+                    "size": 307661,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_2k.exr",
+                    "md5": "936f0802cae3acf95c235f422df97fcc"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 92972,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_1k.jpg",
+                    "md5": "4637e6d9a53ab6883bfe2ab75c0e614a"
+                },
+                "png": {
+                    "size": 107577,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_1k.png",
+                    "md5": "8eeee2d1aa745456c4329e01d6a56ba1"
+                },
+                "exr": {
+                    "size": 141656,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_1k.exr",
+                    "md5": "b5ceab5d93ae30ec11507ea19174a384"
+                }
+            }
+        },
+        "twigs_nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 15404237,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_8k.jpg",
+                    "md5": "7902381dc84d96f0ddc223b79fb1084f"
+                },
+                "png": {
+                    "size": 31585574,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_8k.png",
+                    "md5": "992a1ea630562bc248e2c5b9fdc5d9c6"
+                },
+                "exr": {
+                    "size": 27505461,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_8k.exr",
+                    "md5": "7fddaa68d1b87f2daa9812c90389ab86"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5191152,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_4k.jpg",
+                    "md5": "449e0a5f59f99c45f4978c9b60efab7c"
+                },
+                "png": {
+                    "size": 10481551,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_4k.png",
+                    "md5": "b142f070bc929f87411fd0f75b61e49f"
+                },
+                "exr": {
+                    "size": 9985387,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_4k.exr",
+                    "md5": "afdc7abcb9e5d5e10c841dc8db7db03f"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1641187,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_2k.jpg",
+                    "md5": "8f07301ae39fc6b490a7e9e97d23d5d8"
+                },
+                "png": {
+                    "size": 4463628,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_2k.png",
+                    "md5": "384627d328832e281ea406827d636e08"
+                },
+                "exr": {
+                    "size": 3385617,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_2k.exr",
+                    "md5": "5902199138213a9a7b264ef0760c9453"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 474651,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_1k.jpg",
+                    "md5": "dc04a78e84b4161cdf3b2a42fb2429a8"
+                },
+                "png": {
+                    "size": 1549712,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_1k.png",
+                    "md5": "d235cdf7c081c65fc95e12a7deb4aa9e"
+                },
+                "exr": {
+                    "size": 1038506,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_1k.exr",
+                    "md5": "e417abf2d1949b32e6aec1bb676c5172"
+                }
+            }
+        },
+        "branches_disp": {
+            "8k": {
+                "jpg": {
+                    "size": 5799166,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_branches_disp_8k.jpg",
+                    "md5": "56f02743eaa8a9bde2bbeef863a1b35b"
+                },
+                "png": {
+                    "size": 68545845,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_disp_8k.png",
+                    "md5": "77fde1c712d5b88aa5b6d22a07a65738"
+                },
+                "exr": {
+                    "size": 26666331,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/fir_sapling_medium/fir_sapling_medium_branches_disp_8k.exr",
+                    "md5": "0979e636e27fdecbaa710a882d6d7052"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2111451,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_branches_disp_4k.jpg",
+                    "md5": "1e7127b36d9e3df37fc4eb3212bd47d5"
+                },
+                "png": {
+                    "size": 20359423,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_disp_4k.png",
+                    "md5": "0902ab55b900e1789ed5eafc3595d9dc"
+                },
+                "exr": {
+                    "size": 9557226,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/fir_sapling_medium/fir_sapling_medium_branches_disp_4k.exr",
+                    "md5": "53c09ad252644b979729ec0538fe8db7"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 718492,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_branches_disp_2k.jpg",
+                    "md5": "fd58476a723bda54ca2d284665e49d36"
+                },
+                "png": {
+                    "size": 5850817,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_disp_2k.png",
+                    "md5": "2d07fc2e8c1bd5475f63c24c3d82d420"
+                },
+                "exr": {
+                    "size": 3324892,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/fir_sapling_medium/fir_sapling_medium_branches_disp_2k.exr",
+                    "md5": "c66b92b714ff18e799987edc26a88fda"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 239103,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_branches_disp_1k.jpg",
+                    "md5": "e3fcf0e0ede2a26a3955e6ad79e4829c"
+                },
+                "png": {
+                    "size": 1561378,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_disp_1k.png",
+                    "md5": "ca8b268477c8e08e0b7d8ef89495e991"
+                },
+                "exr": {
+                    "size": 1031483,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/fir_sapling_medium/fir_sapling_medium_branches_disp_1k.exr",
+                    "md5": "eb9e2ac46e4e734c46160134de7d8ee4"
+                }
+            }
+        },
+        "branches_diff": {
+            "8k": {
+                "jpg": {
+                    "size": 25355576,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_branches_diff_8k.jpg",
+                    "md5": "b1b89c1345015e27e89e3594113041dd"
+                },
+                "png": {
+                    "size": 321673697,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_diff_8k.png",
+                    "md5": "b2116b13f677cb81f24f9adc483de779"
+                },
+                "exr": {
+                    "size": 39314959,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/fir_sapling_medium/fir_sapling_medium_branches_diff_8k.exr",
+                    "md5": "04a0f258c2cbe84f1e7fd962783059db"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 8557824,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_branches_diff_4k.jpg",
+                    "md5": "ccfa94859ab735798f01cac95c80ac4e"
+                },
+                "png": {
+                    "size": 84656318,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_diff_4k.png",
+                    "md5": "1cbc50d5d275000aa3780ce27a7a1d0f"
+                },
+                "exr": {
+                    "size": 13369357,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/fir_sapling_medium/fir_sapling_medium_branches_diff_4k.exr",
+                    "md5": "6aa9cff80e18f307ecc0d04e5de1f311"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2839282,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_branches_diff_2k.jpg",
+                    "md5": "e9375177560503904ece137474cfde0b"
+                },
+                "png": {
+                    "size": 22203773,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_diff_2k.png",
+                    "md5": "0a8464460b3df69009f9d5d8b1cb5093"
+                },
+                "exr": {
+                    "size": 4378043,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/fir_sapling_medium/fir_sapling_medium_branches_diff_2k.exr",
+                    "md5": "6becdf42891db1cb4f23d2a6f99e6adc"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 776567,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_branches_diff_1k.jpg",
+                    "md5": "93265c0d9fbd3cf17deabdb68aa8b5e9"
+                },
+                "png": {
+                    "size": 5652976,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_diff_1k.png",
+                    "md5": "3a0fa82c548618135f9d64af79a3fcd1"
+                },
+                "exr": {
+                    "size": 1242444,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/fir_sapling_medium/fir_sapling_medium_branches_diff_1k.exr",
+                    "md5": "eb0beddf3aa4dd01331206a8d6c8b632"
+                }
+            }
+        },
+        "twigs_nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 16012755,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_twigs_nor_dx_8k.jpg",
+                    "md5": "b14f4c645578e2ed2f5b178132ae13ff"
+                },
+                "png": {
+                    "size": 31586052,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_nor_dx_8k.png",
+                    "md5": "c3c4a603471b7cb55b65640bd711ae92"
+                },
+                "exr": {
+                    "size": 27652407,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/fir_sapling_medium/fir_sapling_medium_twigs_nor_dx_8k.exr",
+                    "md5": "a401840a2519cc4073a99aac8f97a68b"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5399764,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_twigs_nor_dx_4k.jpg",
+                    "md5": "6ee0882bcb5de1c81776bd8d29f0072e"
+                },
+                "png": {
+                    "size": 10482291,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_nor_dx_4k.png",
+                    "md5": "97078ed243b260d53b3fd466efb1429f"
+                },
+                "exr": {
+                    "size": 10035582,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/fir_sapling_medium/fir_sapling_medium_twigs_nor_dx_4k.exr",
+                    "md5": "dae279d9f9d78521dfb3a7c5fed0fe5a"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1718945,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_twigs_nor_dx_2k.jpg",
+                    "md5": "b859b959475b2c7f3bf2be7a28701610"
+                },
+                "png": {
+                    "size": 4464902,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_nor_dx_2k.png",
+                    "md5": "2f28af94b3b60361ba90629e69ceaa1a"
+                },
+                "exr": {
+                    "size": 3387657,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/fir_sapling_medium/fir_sapling_medium_twigs_nor_dx_2k.exr",
+                    "md5": "43f533d707c1676abbdced11caa55bd7"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 500130,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_twigs_nor_dx_1k.jpg",
+                    "md5": "d1d047c81180d1af426ea56c7ef916ab"
+                },
+                "png": {
+                    "size": 1549171,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_nor_dx_1k.png",
+                    "md5": "4493ca2ac0672b8143d480c501b9a216"
+                },
+                "exr": {
+                    "size": 1039278,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/fir_sapling_medium/fir_sapling_medium_twigs_nor_dx_1k.exr",
+                    "md5": "648863b49bc1843ede2709f1ba84fefd"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/fir_sapling_medium_branches_rough_8k.png": {
+                            "size": 89671439,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_rough_8k.png",
+                            "md5": "23c59b4603836e5f82fff9586c535fe1"
+                        },
+                        "textures/fir_sapling_medium_twigs_alpha_8k.png": {
+                            "size": 857095,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_8k.png",
+                            "md5": "7991316933b4c0811c0468d827273cd4"
+                        },
+                        "textures/fir_sapling_medium_branches_diff_8k.png": {
+                            "size": 321673697,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_diff_8k.png",
+                            "md5": "b2116b13f677cb81f24f9adc483de779"
+                        },
+                        "textures/fir_sapling_medium_branches_disp_8k.png": {
+                            "size": 68545845,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_disp_8k.png",
+                            "md5": "77fde1c712d5b88aa5b6d22a07a65738"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_8k.png": {
+                            "size": 15162702,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_diff_8k.png",
+                            "md5": "447c5998ca29459c0e094fda192a3891"
+                        },
+                        "textures/fir_sapling_medium_twigs_rough_8k.png": {
+                            "size": 3341157,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_rough_8k.png",
+                            "md5": "8834d55adfc22d28844e9eb518c2a895"
+                        },
+                        "textures/fir_sapling_medium_twigs_mask_8k.png": {
+                            "size": 3185906,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_mask_8k.png",
+                            "md5": "a9f0f5fc5ae790aa369c2ac671e458b9"
+                        },
+                        "textures/fir_sapling_medium_branches_nor_gl_8k.png": {
+                            "size": 327317640,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_8k.png",
+                            "md5": "f8b4a16922f30c4290032ec825b635f2"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_8k.png": {
+                            "size": 31585574,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_8k.png",
+                            "md5": "992a1ea630562bc248e2c5b9fdc5d9c6"
+                        }
+                    },
+                    "size": 52912908,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/fir_sapling_medium/fir_sapling_medium_8k.fbx",
+                    "md5": "2369cdf014243af01b71aeaaa6e4781a"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/fir_sapling_medium_branches_diff_4k.png": {
+                            "size": 84656318,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_diff_4k.png",
+                            "md5": "1cbc50d5d275000aa3780ce27a7a1d0f"
+                        },
+                        "textures/fir_sapling_medium_branches_disp_4k.png": {
+                            "size": 20359423,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_disp_4k.png",
+                            "md5": "0902ab55b900e1789ed5eafc3595d9dc"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_4k.png": {
+                            "size": 8133666,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_diff_4k.png",
+                            "md5": "87a2c0d83ac168efa7e0e7db48a39905"
+                        },
+                        "textures/fir_sapling_medium_twigs_mask_4k.png": {
+                            "size": 957532,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_mask_4k.png",
+                            "md5": "87f642e43d8a9b91f7b3c49981d687f4"
+                        },
+                        "textures/fir_sapling_medium_twigs_rough_4k.png": {
+                            "size": 2467306,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_rough_4k.png",
+                            "md5": "8428066644e9efac3cd97e2fece042c9"
+                        },
+                        "textures/fir_sapling_medium_branches_rough_4k.png": {
+                            "size": 26676574,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_rough_4k.png",
+                            "md5": "19e672409154c2e47e280a4f9b28d231"
+                        },
+                        "textures/fir_sapling_medium_twigs_alpha_4k.png": {
+                            "size": 539518,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_4k.png",
+                            "md5": "c6899b33828584cd71865292ba2edec9"
+                        },
+                        "textures/fir_sapling_medium_branches_nor_gl_4k.png": {
+                            "size": 85406477,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_4k.png",
+                            "md5": "8b6380e61fa5434d7d01e99a101d2dc1"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_4k.png": {
+                            "size": 10481551,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_4k.png",
+                            "md5": "b142f070bc929f87411fd0f75b61e49f"
+                        }
+                    },
+                    "size": 52912908,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/fir_sapling_medium/fir_sapling_medium_4k.fbx",
+                    "md5": "58ad5feb31c2ac5ec055e705bd24c873"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/fir_sapling_medium_twigs_alpha_2k.png": {
+                            "size": 267736,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_2k.png",
+                            "md5": "77bd7efc0f95b1b629b091ff63a85eb4"
+                        },
+                        "textures/fir_sapling_medium_branches_diff_2k.png": {
+                            "size": 22203773,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_diff_2k.png",
+                            "md5": "0a8464460b3df69009f9d5d8b1cb5093"
+                        },
+                        "textures/fir_sapling_medium_branches_rough_2k.png": {
+                            "size": 6980724,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_rough_2k.png",
+                            "md5": "0201b06fa2bbfa6676c4de2d69eb185f"
+                        },
+                        "textures/fir_sapling_medium_branches_nor_gl_2k.png": {
+                            "size": 22422527,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_2k.png",
+                            "md5": "4a249448a15a27f2cc2645287dc65bf7"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_2k.png": {
+                            "size": 4463628,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_2k.png",
+                            "md5": "384627d328832e281ea406827d636e08"
+                        },
+                        "textures/fir_sapling_medium_twigs_mask_2k.png": {
+                            "size": 324894,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_mask_2k.png",
+                            "md5": "f88fb0d665c1918e75280b330ff6a467"
+                        },
+                        "textures/fir_sapling_medium_twigs_rough_2k.png": {
+                            "size": 1274173,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_rough_2k.png",
+                            "md5": "89f7474c0f674c6d40a1967951a96023"
+                        },
+                        "textures/fir_sapling_medium_branches_disp_2k.png": {
+                            "size": 5850817,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_branches_disp_2k.png",
+                            "md5": "2d07fc2e8c1bd5475f63c24c3d82d420"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_2k.png": {
+                            "size": 3875380,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_diff_2k.png",
+                            "md5": "3d0179018d0cfc97cfc43794b3567d0b"
+                        }
+                    },
+                    "size": 52912908,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/fir_sapling_medium/fir_sapling_medium_2k.fbx",
+                    "md5": "6b7a423c987d9d6d9020ef4da55f5827"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/fir_sapling_medium_twigs_rough_1k.png": {
+                            "size": 431278,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_rough_1k.png",
+                            "md5": "72b5ac71e0936d5f0cd15fe0436192b7"
+                        },
+                        "textures/fir_sapling_medium_twigs_nor_gl_1k.png": {
+                            "size": 1549712,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_1k.png",
+                            "md5": "d235cdf7c081c65fc95e12a7deb4aa9e"
+                        },
+                        "textures/fir_sapling_medium_twigs_diff_1k.png": {
+                            "size": 1400710,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_diff_1k.png",
+                            "md5": "5dae8cc2426c6f4c436e92a226fcaf7c"
+                        },
+                        "textures/fir_sapling_medium_branches_diff_1k.png": {
+                            "size": 5652976,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_diff_1k.png",
+                            "md5": "3a0fa82c548618135f9d64af79a3fcd1"
+                        },
+                        "textures/fir_sapling_medium_twigs_alpha_1k.png": {
+                            "size": 107577,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_alpha_1k.png",
+                            "md5": "8eeee2d1aa745456c4329e01d6a56ba1"
+                        },
+                        "textures/fir_sapling_medium_branches_nor_gl_1k.png": {
+                            "size": 5778805,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_1k.png",
+                            "md5": "2210cba4d4f7474a3e195c81f3b47093"
+                        },
+                        "textures/fir_sapling_medium_branches_rough_1k.png": {
+                            "size": 1778413,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_rough_1k.png",
+                            "md5": "cf3118cd7ab3e3993f7a8e60d01903a5"
+                        },
+                        "textures/fir_sapling_medium_twigs_mask_1k.png": {
+                            "size": 113735,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_mask_1k.png",
+                            "md5": "a3493bbd0bd5ce7ec4f22f9c621588e9"
+                        },
+                        "textures/fir_sapling_medium_branches_disp_1k.png": {
+                            "size": 1561378,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_branches_disp_1k.png",
+                            "md5": "ca8b268477c8e08e0b7d8ef89495e991"
+                        }
+                    },
+                    "size": 52912908,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/fir_sapling_medium/fir_sapling_medium_1k.fbx",
+                    "md5": "6acc0a6e7318f14310a30521a08aa5a7"
+                }
+            }
+        },
+        "twigs_rough": {
+            "8k": {
+                "jpg": {
+                    "size": 6216315,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/fir_sapling_medium/fir_sapling_medium_twigs_rough_8k.jpg",
+                    "md5": "6d8c0df7785106066397527db561a4c2"
+                },
+                "png": {
+                    "size": 3341157,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/fir_sapling_medium/fir_sapling_medium_twigs_rough_8k.png",
+                    "md5": "8834d55adfc22d28844e9eb518c2a895"
+                },
+                "exr": {
+                    "size": 3538187,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/fir_sapling_medium/fir_sapling_medium_twigs_rough_8k.exr",
+                    "md5": "30ec49215eed1cd98e56ab3e14588982"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2162729,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/fir_sapling_medium/fir_sapling_medium_twigs_rough_4k.jpg",
+                    "md5": "70134e0629b559f2e910ae50a725db6a"
+                },
+                "png": {
+                    "size": 2467306,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/fir_sapling_medium/fir_sapling_medium_twigs_rough_4k.png",
+                    "md5": "8428066644e9efac3cd97e2fece042c9"
+                },
+                "exr": {
+                    "size": 1876002,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/fir_sapling_medium/fir_sapling_medium_twigs_rough_4k.exr",
+                    "md5": "2bc2645c97a57b8a42bf0a76e697ec13"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 761718,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/fir_sapling_medium/fir_sapling_medium_twigs_rough_2k.jpg",
+                    "md5": "55e1dc2bf8150f116f914aa2621313ea"
+                },
+                "png": {
+                    "size": 1274173,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/fir_sapling_medium/fir_sapling_medium_twigs_rough_2k.png",
+                    "md5": "89f7474c0f674c6d40a1967951a96023"
+                },
+                "exr": {
+                    "size": 890082,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/fir_sapling_medium/fir_sapling_medium_twigs_rough_2k.exr",
+                    "md5": "d50c619fe54c2e18a62f9f9a42b75769"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 247283,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_twigs_rough_1k.jpg",
+                    "md5": "e9b884ca1217b1b21e0206800b3b53f2"
+                },
+                "png": {
+                    "size": 431278,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/fir_sapling_medium/fir_sapling_medium_twigs_rough_1k.png",
+                    "md5": "72b5ac71e0936d5f0cd15fe0436192b7"
+                },
+                "exr": {
+                    "size": 332852,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/fir_sapling_medium/fir_sapling_medium_twigs_rough_1k.exr",
+                    "md5": "ae25be88b8360eeceef6498eb50ca79f"
+                }
+            }
+        }
+    }
+}

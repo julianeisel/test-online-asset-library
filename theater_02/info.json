@@ -1,0 +1,100 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "theater",
+        "theatre",
+        "seat",
+        "orchestra",
+        "stage",
+        "curtain"
+    ],
+    "date_published": 1552345200,
+    "name": "Theater 02",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1548867900,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "files_hash": "0aac7283c144d4d10e15586ad1fe106d14360348",
+    "max_resolution": [
+        17000,
+        8500
+    ],
+    "download_count": 13579,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/theater_02.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5287787,
+            "md5": "615410f59765896c7a0e473f742dd36a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/theater_02.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102363003,
+                    "md5": "99a70b14cde59b658feb5857f1ae0cae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/theater_02_8k.hdr"
+                },
+                "exr": {
+                    "size": 90623211,
+                    "md5": "5ef874b7375e4901cad830dde8073c54",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/theater_02_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 418613094,
+                    "md5": "1a398d19ffb81bff6936d2d132c12c45",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/theater_02_16k.hdr"
+                },
+                "exr": {
+                    "size": 380292706,
+                    "md5": "2a6ae5a1d8166da15464d7a9ac4dbb55",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/theater_02_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25922145,
+                    "md5": "6728945fdf21c133af36dc6d28e054ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/theater_02_4k.hdr"
+                },
+                "exr": {
+                    "size": 22385506,
+                    "md5": "5cffd1d5b091cf9d1b9456717aeb3113",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/theater_02_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6551244,
+                    "md5": "c09081034e9e5de7928b0581e6c61cc2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/theater_02_2k.hdr"
+                },
+                "exr": {
+                    "size": 5707254,
+                    "md5": "f81cf1526820a86df1d565f6c0d48f4a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/theater_02_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1664859,
+                    "md5": "369dd8920503d7e964227dc85e86c52a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/theater_02_1k.hdr"
+                },
+                "exr": {
+                    "size": 1501277,
+                    "md5": "361efeba84d28c50ecfa950f63eef3aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/theater_02_1k.exr"
+                }
+            }
+        }
+    }
+}

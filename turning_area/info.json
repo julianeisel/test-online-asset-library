@@ -1,0 +1,120 @@
+{
+    "donated": true,
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 6500,
+    "tags": [
+        "dirt road",
+        "path",
+        "tree",
+        "sun",
+        "park"
+    ],
+    "name": "Turning Area",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1630773540,
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "date_published": 1635120000,
+    "files_hash": "529782853c0c91a253c288931bb536899c90c38b",
+    "max_resolution": [
+        21750,
+        10875
+    ],
+    "download_count": 43586,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/turning_area.png?width=256&height=256",
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/turning_area_16k.hdr",
+                    "size": 393764280,
+                    "md5": "55d2fb652fe2b8f6c7d5ddf5ca36fe4c"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/turning_area_16k.exr",
+                    "size": 1319000273,
+                    "md5": "98e95b27e85afa0d4af61878cf4ca67f"
+                }
+            },
+            "21k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/turning_area_21k.hdr",
+                    "size": 674881351,
+                    "md5": "2a86f2b602962d46f26e3b6ecdbb9240"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/turning_area_21k.exr",
+                    "size": 2298437394,
+                    "md5": "fcb67576e60e0ae4eb6c8d1dc719292e"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/turning_area_8k.hdr",
+                    "size": 103469686,
+                    "md5": "1192bd77a159f2d98a39145634a5a37b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/turning_area_8k.exr",
+                    "size": 338380963,
+                    "md5": "691f1197066aee8f16c56162c6d17d2a"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/turning_area_4k.hdr",
+                    "size": 26158469,
+                    "md5": "5fbf54bfe70a161151776b3fdca33a23"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/turning_area_4k.exr",
+                    "size": 86701931,
+                    "md5": "aec15de165e8c4df6ac2d53d6bc5214b"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/turning_area_2k.hdr",
+                    "size": 6414512,
+                    "md5": "defe1a987de24f4cc65ccef7495bb53f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/turning_area_2k.exr",
+                    "size": 22484866,
+                    "md5": "6d2935a8282c9c8b8b374ba232f2c824"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/turning_area_1k.hdr",
+                    "size": 1588314,
+                    "md5": "882ebb7c8f388ac6bd682b83da3939e0"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/turning_area_1k.exr",
+                    "size": 5989196,
+                    "md5": "27d22bd74eb83b38e3bc73ed833939ed"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/turning_area.zip",
+            "size": 41982568,
+            "md5": "ddd90bc0bc3216b305b3f1824d809208"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/turning_area.jpg",
+            "size": 52571751,
+            "md5": "f065423b15dfc592693f0e58d3a16169"
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "ramp",
+        "pipe",
+        "building",
+        "europe"
+    ],
+    "date_published": 1511996400,
+    "name": "Skate Park",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1477998060,
+    "coords": [
+        52.358148,
+        4.883885
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "345a5caf5a00b9abaaaaa0027b63f66758be3d6e",
+    "download_count": 20917,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/skate_park.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 3515911,
+            "md5": "445fd1037d569e065faee3ec1ce89840",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/skate_park.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/skate_park_8k.hdr",
+                    "size": 92634867,
+                    "md5": "2be9781259937e9726cff8a67c3b942e"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/skate_park_8k.exr",
+                    "size": 63710665,
+                    "md5": "dd1863aeb4bb318ca437112af78a2595"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/skate_park_16k.hdr",
+                    "size": 341235931,
+                    "md5": "fbab0d6c92067481fbc4841d176043f5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/skate_park_16k.exr",
+                    "size": 228568050,
+                    "md5": "9533866a1ab06b0279424f0ba480e603"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/skate_park_4k.hdr",
+                    "size": 23848160,
+                    "md5": "f14715b5d0174002cf6c02b826925599"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/skate_park_4k.exr",
+                    "size": 17073541,
+                    "md5": "173c43076f1400dc983cb862d0321843"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/skate_park_2k.hdr",
+                    "size": 6054894,
+                    "md5": "3cf5715fcaa73a92d26b01354155bc91"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/skate_park_2k.exr",
+                    "size": 4553304,
+                    "md5": "5f6767bef0bd1bffd464f2d644606c97"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/skate_park_1k.hdr",
+                    "size": 1555162,
+                    "md5": "797d76cc34bbfdcd3d1ef5f46c84ca04"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/skate_park_1k.exr",
+                    "size": 1226937,
+                    "md5": "18219d277de2454dd9bb942a2eca52bb"
+                }
+            }
+        }
+    }
+}

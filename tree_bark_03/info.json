@@ -1,0 +1,829 @@
+{
+    "type": 1,
+    "tags": [
+        "bark",
+        "moss",
+        "rough",
+        "old"
+    ],
+    "date_published": 1553565430,
+    "name": "Tree Bark 03",
+    "categories": [
+        "wood",
+        "natural",
+        "outdoor",
+        "bark"
+    ],
+    "authors": {
+        "Rob Tuytel": "All"
+    },
+    "dimensions": [
+        1000,
+        1000
+    ],
+    "files_hash": "e31dcfa8c83473c1966a3200b6a6be987fa2a237",
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "download_count": 56502,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/tree_bark_03.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 23180016,
+                    "md5": "c6843bc2c4d132e791ec6985737ef3a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/tree_bark_03/tree_bark_03_diff_8k.jpg"
+                },
+                "png": {
+                    "size": 354995179,
+                    "md5": "9d8731f0737b7642e7e990d5cd70f4e5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/tree_bark_03/tree_bark_03_diff_8k.png"
+                },
+                "exr": {
+                    "size": 55147094,
+                    "md5": "7d8f1463119fd24fdfb2e7043762e3cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/tree_bark_03/tree_bark_03_diff_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 7820874,
+                    "md5": "e393519b288023daa51997c65b4872c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/tree_bark_03/tree_bark_03_diff_4k.jpg"
+                },
+                "png": {
+                    "size": 98940582,
+                    "md5": "16f996a386b89633955cd121033eb513",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/tree_bark_03/tree_bark_03_diff_4k.png"
+                },
+                "exr": {
+                    "size": 18584073,
+                    "md5": "c28e4ee4a200829b5d314adb92147dfc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/tree_bark_03/tree_bark_03_diff_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2436314,
+                    "md5": "efac95675e5b847d446b7f9f625eda7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/tree_bark_03/tree_bark_03_diff_2k.jpg"
+                },
+                "png": {
+                    "size": 25735923,
+                    "md5": "94c9931eb94bc416bf61e59b49825f2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/tree_bark_03/tree_bark_03_diff_2k.png"
+                },
+                "exr": {
+                    "size": 6022569,
+                    "md5": "5d76f63a4b678008305dbf9bcbab6f22",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/tree_bark_03/tree_bark_03_diff_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 671460,
+                    "md5": "37c01f8ff6e017c4a19407de0e4641df",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/tree_bark_03/tree_bark_03_diff_1k.jpg"
+                },
+                "png": {
+                    "size": 6520359,
+                    "md5": "cf7c3029a5c0c2bfac27e4c6fe423880",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/tree_bark_03/tree_bark_03_diff_1k.png"
+                },
+                "exr": {
+                    "size": 1698689,
+                    "md5": "39ef4c53754c74305673512b24b01448",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/tree_bark_03/tree_bark_03_diff_1k.exr"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 60617776,
+                    "md5": "1c69ba91cafd5813a02e051559976078",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/tree_bark_03/tree_bark_03_nor_dx_8k.jpg"
+                },
+                "png": {
+                    "size": 398629409,
+                    "md5": "03b5827a7ce4884b710b131848a71db1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/tree_bark_03/tree_bark_03_nor_dx_8k.png"
+                },
+                "exr": {
+                    "size": 134997206,
+                    "md5": "dcf4795df3fee3bfe4f6b4dc75c06312",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/tree_bark_03/tree_bark_03_nor_dx_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 15013742,
+                    "md5": "4958bebbd077e2706ef4b09118806d1c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/tree_bark_03/tree_bark_03_nor_dx_4k.jpg"
+                },
+                "png": {
+                    "size": 101814190,
+                    "md5": "aa2caa2dac2c991c7860dfb0d7c250d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/tree_bark_03/tree_bark_03_nor_dx_4k.png"
+                },
+                "exr": {
+                    "size": 33572018,
+                    "md5": "171e41dd34f2a5d56e9716825ca44dec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/tree_bark_03/tree_bark_03_nor_dx_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 4071969,
+                    "md5": "4acaf0f8e0ae24c09565984f0c0e6715",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/tree_bark_03/tree_bark_03_nor_dx_2k.jpg"
+                },
+                "png": {
+                    "size": 25804085,
+                    "md5": "f005fcf02384bb139540bab88c437f69",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/tree_bark_03/tree_bark_03_nor_dx_2k.png"
+                },
+                "exr": {
+                    "size": 8831886,
+                    "md5": "036eed243f93151c69b3d47a3e3e570d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/tree_bark_03/tree_bark_03_nor_dx_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1118177,
+                    "md5": "3d84b0cf43a3e564ed8319266f1abd86",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/tree_bark_03/tree_bark_03_nor_dx_1k.jpg"
+                },
+                "png": {
+                    "size": 6526863,
+                    "md5": "435dd9c06265d6a7ed6f9d3fce32b6f9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/tree_bark_03/tree_bark_03_nor_dx_1k.png"
+                },
+                "exr": {
+                    "size": 2347982,
+                    "md5": "597046a9d3b126dbd4ec6d43c7d95ad9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/tree_bark_03/tree_bark_03_nor_dx_1k.exr"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 60247748,
+                    "md5": "ed84fcc026f719acfd368718c8215132",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/tree_bark_03/tree_bark_03_nor_gl_8k.jpg"
+                },
+                "png": {
+                    "size": 398458940,
+                    "md5": "76f0fe5b54be5c986427acc38d535009",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/tree_bark_03/tree_bark_03_nor_gl_8k.png"
+                },
+                "exr": {
+                    "size": 135987579,
+                    "md5": "0c63a9e410337a8de7489c1ad08191f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/tree_bark_03/tree_bark_03_nor_gl_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 14910583,
+                    "md5": "26e786ecf1d19f6faaea66d763f25afc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/tree_bark_03/tree_bark_03_nor_gl_4k.jpg"
+                },
+                "png": {
+                    "size": 101814250,
+                    "md5": "a752a6d0823ac6b13a132ba5b406a520",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/tree_bark_03/tree_bark_03_nor_gl_4k.png"
+                },
+                "exr": {
+                    "size": 33791509,
+                    "md5": "1e00432b692daa48c520f8668d8a0d93",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/tree_bark_03/tree_bark_03_nor_gl_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 4021395,
+                    "md5": "723f11eb0c2d5d0b245d5e412bac292a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/tree_bark_03/tree_bark_03_nor_gl_2k.jpg"
+                },
+                "png": {
+                    "size": 25803894,
+                    "md5": "7532cb929ec9b544d6805ad76a35a31c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/tree_bark_03/tree_bark_03_nor_gl_2k.png"
+                },
+                "exr": {
+                    "size": 8885896,
+                    "md5": "d53e7440f3527dc69e84ef2d9970b907",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/tree_bark_03/tree_bark_03_nor_gl_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1099266,
+                    "md5": "5293e085bfbb32979a572343083b674e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/tree_bark_03/tree_bark_03_nor_gl_1k.jpg"
+                },
+                "png": {
+                    "size": 6526678,
+                    "md5": "3eff2bfadc016c59b52f2f029d2c1ce5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/tree_bark_03/tree_bark_03_nor_gl_1k.png"
+                },
+                "exr": {
+                    "size": 2359839,
+                    "md5": "4aadbc960ff4c5b55db549fe4cb0e333",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/tree_bark_03/tree_bark_03_nor_gl_1k.exr"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "size": 277629,
+                    "md5": "0bb0a3d2703113adf65a66ed605eb44c",
+                    "include": {
+                        "textures/tree_bark_03_rough_8k.jpg": {
+                            "size": 20931254,
+                            "md5": "29786f3baeaab41980a73dcb66b72be5",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/tree_bark_03/tree_bark_03_rough_8k.jpg"
+                        },
+                        "textures/tree_bark_03_nor_gl_8k.exr": {
+                            "size": 135987579,
+                            "md5": "0c63a9e410337a8de7489c1ad08191f7",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/tree_bark_03/tree_bark_03_nor_gl_8k.exr"
+                        },
+                        "textures/tree_bark_03_disp_8k.png": {
+                            "size": 71762331,
+                            "md5": "1ed41fc8c061f0627dcccd236657390c",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/tree_bark_03/tree_bark_03_disp_8k.png"
+                        },
+                        "textures/tree_bark_03_diff_8k.jpg": {
+                            "size": 23180016,
+                            "md5": "c6843bc2c4d132e791ec6985737ef3a0",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/tree_bark_03/tree_bark_03_diff_8k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/8k/tree_bark_03/tree_bark_03_8k.blend"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "size": 277915,
+                    "md5": "35d2fdb6e9cb08ed8999da35d71841da",
+                    "include": {
+                        "textures/tree_bark_03_disp_4k.png": {
+                            "size": 27062181,
+                            "md5": "b853aa1ac28c16927a129095ba711614",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/tree_bark_03/tree_bark_03_disp_4k.png"
+                        },
+                        "textures/tree_bark_03_nor_gl_4k.exr": {
+                            "size": 33791509,
+                            "md5": "1e00432b692daa48c520f8668d8a0d93",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/tree_bark_03/tree_bark_03_nor_gl_4k.exr"
+                        },
+                        "textures/tree_bark_03_rough_4k.jpg": {
+                            "size": 2587554,
+                            "md5": "e1b9269dcdaf0b88ed60e7251e889d94",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/tree_bark_03/tree_bark_03_rough_4k.jpg"
+                        },
+                        "textures/tree_bark_03_diff_4k.jpg": {
+                            "size": 7820874,
+                            "md5": "e393519b288023daa51997c65b4872c7",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/tree_bark_03/tree_bark_03_diff_4k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/4k/tree_bark_03/tree_bark_03_4k.blend"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "size": 277702,
+                    "md5": "7de221e41cea98c8883dfe7305ad26e0",
+                    "include": {
+                        "textures/tree_bark_03_rough_2k.jpg": {
+                            "size": 725573,
+                            "md5": "c2f94a2f40e4f85fe635ca46c98ed645",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/tree_bark_03/tree_bark_03_rough_2k.jpg"
+                        },
+                        "textures/tree_bark_03_disp_2k.png": {
+                            "size": 7306753,
+                            "md5": "aa1feee7946d9f282f68b65c30e6c331",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/tree_bark_03/tree_bark_03_disp_2k.png"
+                        },
+                        "textures/tree_bark_03_diff_2k.jpg": {
+                            "size": 2436314,
+                            "md5": "efac95675e5b847d446b7f9f625eda7f",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/tree_bark_03/tree_bark_03_diff_2k.jpg"
+                        },
+                        "textures/tree_bark_03_nor_gl_2k.exr": {
+                            "size": 8885896,
+                            "md5": "d53e7440f3527dc69e84ef2d9970b907",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/tree_bark_03/tree_bark_03_nor_gl_2k.exr"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/2k/tree_bark_03/tree_bark_03_2k.blend"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "size": 277546,
+                    "md5": "b357b5e362fecda75b57130c63214783",
+                    "include": {
+                        "textures/tree_bark_03_nor_gl_1k.exr": {
+                            "size": 2359839,
+                            "md5": "4aadbc960ff4c5b55db549fe4cb0e333",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/tree_bark_03/tree_bark_03_nor_gl_1k.exr"
+                        },
+                        "textures/tree_bark_03_disp_1k.png": {
+                            "size": 1939691,
+                            "md5": "c8dd92fca4e29be473945d2585df19fe",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/tree_bark_03/tree_bark_03_disp_1k.png"
+                        },
+                        "textures/tree_bark_03_diff_1k.jpg": {
+                            "size": 671460,
+                            "md5": "37c01f8ff6e017c4a19407de0e4641df",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/tree_bark_03/tree_bark_03_diff_1k.jpg"
+                        },
+                        "textures/tree_bark_03_rough_1k.jpg": {
+                            "size": 178971,
+                            "md5": "cf4f6267f872a8cc4c8190638364249c",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/tree_bark_03/tree_bark_03_rough_1k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/1k/tree_bark_03/tree_bark_03_1k.blend"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "size": 3543,
+                    "md5": "a564b243da46a210c29814dce144dbd7",
+                    "include": {
+                        "tree_bark_03.bin": {
+                            "size": 2368052,
+                            "md5": "751299745d2f25dece0055892b176aab",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/tree_bark_03/tree_bark_03.bin"
+                        },
+                        "textures/tree_bark_03_rough_8k.jpg": {
+                            "size": 20931254,
+                            "md5": "29786f3baeaab41980a73dcb66b72be5",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/tree_bark_03/tree_bark_03_rough_8k.jpg"
+                        },
+                        "textures/tree_bark_03_nor_gl_8k.jpg": {
+                            "size": 60247748,
+                            "md5": "ed84fcc026f719acfd368718c8215132",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/tree_bark_03/tree_bark_03_nor_gl_8k.jpg"
+                        },
+                        "textures/tree_bark_03_diff_8k.jpg": {
+                            "size": 23180016,
+                            "md5": "c6843bc2c4d132e791ec6985737ef3a0",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/tree_bark_03/tree_bark_03_diff_8k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/tree_bark_03/tree_bark_03_8k.gltf"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "size": 3543,
+                    "md5": "74bbca8a67f20c27c7d57c1a2968454e",
+                    "include": {
+                        "textures/tree_bark_03_nor_gl_4k.jpg": {
+                            "size": 14910583,
+                            "md5": "26e786ecf1d19f6faaea66d763f25afc",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/tree_bark_03/tree_bark_03_nor_gl_4k.jpg"
+                        },
+                        "tree_bark_03.bin": {
+                            "size": 2368052,
+                            "md5": "751299745d2f25dece0055892b176aab",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/tree_bark_03/tree_bark_03.bin"
+                        },
+                        "textures/tree_bark_03_rough_4k.jpg": {
+                            "size": 2587554,
+                            "md5": "e1b9269dcdaf0b88ed60e7251e889d94",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/tree_bark_03/tree_bark_03_rough_4k.jpg"
+                        },
+                        "textures/tree_bark_03_diff_4k.jpg": {
+                            "size": 7820874,
+                            "md5": "e393519b288023daa51997c65b4872c7",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/tree_bark_03/tree_bark_03_diff_4k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/4k/tree_bark_03/tree_bark_03_4k.gltf"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "size": 3543,
+                    "md5": "d53ff89f54e3854d0d0d0d6af1eb947a",
+                    "include": {
+                        "textures/tree_bark_03_rough_2k.jpg": {
+                            "size": 725573,
+                            "md5": "c2f94a2f40e4f85fe635ca46c98ed645",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/tree_bark_03/tree_bark_03_rough_2k.jpg"
+                        },
+                        "tree_bark_03.bin": {
+                            "size": 2368052,
+                            "md5": "751299745d2f25dece0055892b176aab",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/tree_bark_03/tree_bark_03.bin"
+                        },
+                        "textures/tree_bark_03_nor_gl_2k.jpg": {
+                            "size": 4021395,
+                            "md5": "723f11eb0c2d5d0b245d5e412bac292a",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/tree_bark_03/tree_bark_03_nor_gl_2k.jpg"
+                        },
+                        "textures/tree_bark_03_diff_2k.jpg": {
+                            "size": 2436314,
+                            "md5": "efac95675e5b847d446b7f9f625eda7f",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/tree_bark_03/tree_bark_03_diff_2k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/2k/tree_bark_03/tree_bark_03_2k.gltf"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "size": 3543,
+                    "md5": "78351da1086b8ac08589e86c09b9f3b8",
+                    "include": {
+                        "textures/tree_bark_03_nor_gl_1k.jpg": {
+                            "size": 1099266,
+                            "md5": "5293e085bfbb32979a572343083b674e",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/tree_bark_03/tree_bark_03_nor_gl_1k.jpg"
+                        },
+                        "tree_bark_03.bin": {
+                            "size": 2368052,
+                            "md5": "751299745d2f25dece0055892b176aab",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/tree_bark_03/tree_bark_03.bin"
+                        },
+                        "textures/tree_bark_03_diff_1k.jpg": {
+                            "size": 671460,
+                            "md5": "37c01f8ff6e017c4a19407de0e4641df",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/tree_bark_03/tree_bark_03_diff_1k.jpg"
+                        },
+                        "textures/tree_bark_03_rough_1k.jpg": {
+                            "size": 178971,
+                            "md5": "cf4f6267f872a8cc4c8190638364249c",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/tree_bark_03/tree_bark_03_rough_1k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/1k/tree_bark_03/tree_bark_03_1k.gltf"
+                }
+            }
+        },
+        "rough_ao": {
+            "8k": {
+                "jpg": {
+                    "size": 51474053,
+                    "md5": "c2cb551527b4a1bb6929865417b1bd05",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/tree_bark_03/tree_bark_03_rough_ao_8k.jpg"
+                },
+                "png": {
+                    "size": 322620829,
+                    "md5": "c666e3959c9bfa39f7d156fb4dd6208b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/tree_bark_03/tree_bark_03_rough_ao_8k.png"
+                },
+                "exr": {
+                    "size": 127271767,
+                    "md5": "034429ae74113f30b2f758aac8a49a86",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/tree_bark_03/tree_bark_03_rough_ao_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 12198038,
+                    "md5": "9921f564a680c9f6d1ef9f5c6be378ec",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/tree_bark_03/tree_bark_03_rough_ao_4k.jpg"
+                },
+                "png": {
+                    "size": 83209588,
+                    "md5": "6c1bc6fb6bd502e57fcc893766d39052",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/tree_bark_03/tree_bark_03_rough_ao_4k.png"
+                },
+                "exr": {
+                    "size": 31985189,
+                    "md5": "104a329ff6d7506e4bae13cdb0d76e4a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/tree_bark_03/tree_bark_03_rough_ao_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3305287,
+                    "md5": "67503d1b40e534a1e3e2a191d21937b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/tree_bark_03/tree_bark_03_rough_ao_2k.jpg"
+                },
+                "png": {
+                    "size": 20963457,
+                    "md5": "10a954d1c12421b15cf38f49d6b54ef7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/tree_bark_03/tree_bark_03_rough_ao_2k.png"
+                },
+                "exr": {
+                    "size": 8320863,
+                    "md5": "9f365e638bfa8e729905d4a039e17013",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/tree_bark_03/tree_bark_03_rough_ao_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 945453,
+                    "md5": "ee88e7b4489e497746f76f35d088a40f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/tree_bark_03/tree_bark_03_rough_ao_1k.jpg"
+                },
+                "png": {
+                    "size": 5328604,
+                    "md5": "36f1d549fb9b2ddeced5a1a43d7cfc4e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/tree_bark_03/tree_bark_03_rough_ao_1k.png"
+                },
+                "exr": {
+                    "size": 2251086,
+                    "md5": "2d4863b498538d9122ceb5b17b487134",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/tree_bark_03/tree_bark_03_rough_ao_1k.exr"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 12154128,
+                    "md5": "a79a7853e09b61ff46f0b4e1fd06f12c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/tree_bark_03/tree_bark_03_arm_8k.jpg"
+                },
+                "png": {
+                    "size": 286838237,
+                    "md5": "dc70a3961a107fcc415b482960a3f6d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/tree_bark_03/tree_bark_03_arm_8k.png"
+                },
+                "exr": {
+                    "size": 112824587,
+                    "md5": "62a5420d7e6bdbe99f5ae82caf5b55a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/tree_bark_03/tree_bark_03_arm_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2575111,
+                    "md5": "50003de0af2f6335575f138172a0d685",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/tree_bark_03/tree_bark_03_arm_4k.jpg"
+                },
+                "png": {
+                    "size": 68089098,
+                    "md5": "9acdabedf27f88931a02f22fcadf86fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/tree_bark_03/tree_bark_03_arm_4k.png"
+                },
+                "exr": {
+                    "size": 25149966,
+                    "md5": "2a332c1de785d62dd1a7ca029c6c3698",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/tree_bark_03/tree_bark_03_arm_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 716718,
+                    "md5": "173822f719f9d0b70409bfedcb847342",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/tree_bark_03/tree_bark_03_arm_2k.jpg"
+                },
+                "png": {
+                    "size": 17143344,
+                    "md5": "7636b6a8ec9b44665e469df53c40e9ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/tree_bark_03/tree_bark_03_arm_2k.png"
+                },
+                "exr": {
+                    "size": 6294599,
+                    "md5": "bce8df196f47b9c0211804ea8d69bab7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/tree_bark_03/tree_bark_03_arm_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 206477,
+                    "md5": "9621ff7a416104ba4ebe5bcc436c18d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/tree_bark_03/tree_bark_03_arm_1k.jpg"
+                },
+                "png": {
+                    "size": 4345262,
+                    "md5": "034d63e573a3e5e938ac5fbdba323a11",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/tree_bark_03/tree_bark_03_arm_1k.png"
+                },
+                "exr": {
+                    "size": 1719327,
+                    "md5": "bc88f108710f6bf0e31dd09bc40f7810",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/tree_bark_03/tree_bark_03_arm_1k.exr"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 32543857,
+                    "md5": "ac36a6e6aea4c269b5abd7a45a9a3dfc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/tree_bark_03/tree_bark_03_ao_8k.jpg"
+                },
+                "png": {
+                    "size": 320688015,
+                    "md5": "eacc6615d3a35881d8071cab1d5fcf81",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/tree_bark_03/tree_bark_03_ao_8k.png"
+                },
+                "exr": {
+                    "size": 52225405,
+                    "md5": "44eca37aaa5d5e73708eacb35e615b47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/tree_bark_03/tree_bark_03_ao_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 6974603,
+                    "md5": "b7c0328a2052b2da3f6419d9f467ccb7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/tree_bark_03/tree_bark_03_ao_4k.jpg"
+                },
+                "png": {
+                    "size": 36532620,
+                    "md5": "75f518bca8a74c2cb53f38fb31ba1d86",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/tree_bark_03/tree_bark_03_ao_4k.png"
+                },
+                "exr": {
+                    "size": 13213474,
+                    "md5": "44f69c11b86a1a1d848cfa2bde8e7a91",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/tree_bark_03/tree_bark_03_ao_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1752870,
+                    "md5": "6f46500ff92794745f3f88ee461c01ff",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/tree_bark_03/tree_bark_03_ao_2k.jpg"
+                },
+                "png": {
+                    "size": 9151973,
+                    "md5": "36770ba80aab5adf8091786821ee0db2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/tree_bark_03/tree_bark_03_ao_2k.png"
+                },
+                "exr": {
+                    "size": 3411101,
+                    "md5": "78514df070b10f0c64917a572bc8c5d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/tree_bark_03/tree_bark_03_ao_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 479413,
+                    "md5": "48b58830716a7d668e1741f90f92039f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/tree_bark_03/tree_bark_03_ao_1k.jpg"
+                },
+                "png": {
+                    "size": 2322378,
+                    "md5": "b7c9bf028a692bf35cc2712c8767b4d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/tree_bark_03/tree_bark_03_ao_1k.png"
+                },
+                "exr": {
+                    "size": 935791,
+                    "md5": "f386f02739de7ae30907071c206f7a7c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/tree_bark_03/tree_bark_03_ao_1k.exr"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 4280150,
+                    "md5": "7bf440f55389ab028a586bf5fbcdf07a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/tree_bark_03/tree_bark_03_disp_8k.jpg"
+                },
+                "png": {
+                    "size": 71762331,
+                    "md5": "1ed41fc8c061f0627dcccd236657390c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/tree_bark_03/tree_bark_03_disp_8k.png"
+                },
+                "exr": {
+                    "size": 7520919,
+                    "md5": "01b96bcca5f4e10ec5a6d94b33dc531b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/tree_bark_03/tree_bark_03_disp_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1500100,
+                    "md5": "fd8e3e79cc175809cd7c9c024b67dc69",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/tree_bark_03/tree_bark_03_disp_4k.jpg"
+                },
+                "png": {
+                    "size": 27062181,
+                    "md5": "b853aa1ac28c16927a129095ba711614",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/tree_bark_03/tree_bark_03_disp_4k.png"
+                },
+                "exr": {
+                    "size": 2812792,
+                    "md5": "0d3ef6ada3cb39b2e0175a2abf34b2d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/tree_bark_03/tree_bark_03_disp_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 543374,
+                    "md5": "f89fe729831432fd8d322b498b70fe8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/tree_bark_03/tree_bark_03_disp_2k.jpg"
+                },
+                "png": {
+                    "size": 7306753,
+                    "md5": "aa1feee7946d9f282f68b65c30e6c331",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/tree_bark_03/tree_bark_03_disp_2k.png"
+                },
+                "exr": {
+                    "size": 1059172,
+                    "md5": "f06c4d7f0b767e47876c79d5ca8caec7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/tree_bark_03/tree_bark_03_disp_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 194125,
+                    "md5": "9184313ef0944ed584a1f94857b5b589",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/tree_bark_03/tree_bark_03_disp_1k.jpg"
+                },
+                "png": {
+                    "size": 1939691,
+                    "md5": "c8dd92fca4e29be473945d2585df19fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/tree_bark_03/tree_bark_03_disp_1k.png"
+                },
+                "exr": {
+                    "size": 390336,
+                    "md5": "88dc30e4756b35f0c49130c0f85026f3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/tree_bark_03/tree_bark_03_disp_1k.exr"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 20931254,
+                    "md5": "29786f3baeaab41980a73dcb66b72be5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/tree_bark_03/tree_bark_03_rough_8k.jpg"
+                },
+                "png": {
+                    "size": 93921500,
+                    "md5": "995a5925817135b81cd040124cf72454",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/tree_bark_03/tree_bark_03_rough_8k.png"
+                },
+                "exr": {
+                    "size": 65089938,
+                    "md5": "8fc6d385a6235947bfb4c492be21bbc9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/tree_bark_03/tree_bark_03_rough_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2587554,
+                    "md5": "e1b9269dcdaf0b88ed60e7251e889d94",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/tree_bark_03/tree_bark_03_rough_4k.jpg"
+                },
+                "png": {
+                    "size": 26815394,
+                    "md5": "7390cb8b44b39cefb68892c4db7ca8a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/tree_bark_03/tree_bark_03_rough_4k.png"
+                },
+                "exr": {
+                    "size": 13224633,
+                    "md5": "51fe3cad2520599585d23d6afcbe66af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/tree_bark_03/tree_bark_03_rough_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 725573,
+                    "md5": "c2f94a2f40e4f85fe635ca46c98ed645",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/tree_bark_03/tree_bark_03_rough_2k.jpg"
+                },
+                "png": {
+                    "size": 6842577,
+                    "md5": "44fbdca2b11cc6aeab004dc61522fdf0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/tree_bark_03/tree_bark_03_rough_2k.png"
+                },
+                "exr": {
+                    "size": 3400877,
+                    "md5": "2c070d239d6c97d185e4f890b7fca4bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/tree_bark_03/tree_bark_03_rough_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 178971,
+                    "md5": "cf4f6267f872a8cc4c8190638364249c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/tree_bark_03/tree_bark_03_rough_1k.jpg"
+                },
+                "png": {
+                    "size": 1716897,
+                    "md5": "85e172fb3022d25d3fa47874e5808a35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/tree_bark_03/tree_bark_03_rough_1k.png"
+                },
+                "exr": {
+                    "size": 863030,
+                    "md5": "24ebd1639bea31ed7c10ce4c74d0eec1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/tree_bark_03/tree_bark_03_rough_1k.exr"
+                }
+            }
+        }
+    }
+}

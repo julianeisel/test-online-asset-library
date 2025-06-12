@@ -1,0 +1,109 @@
+{
+    "donated": true,
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "bench",
+        "couch",
+        "lobby",
+        "modern",
+        "museum",
+        "stairs",
+        "wooden floor"
+    ],
+    "date_published": 1599775200,
+    "name": "St. Fagans Interior",
+    "categories": [
+        "indoor",
+        "urban",
+        "low contrast",
+        "artificial light"
+    ],
+    "coords": [
+        51.487,
+        -3.273111
+    ],
+    "date_taken": 1598709600,
+    "authors": {
+        "Morgan Evans": "All"
+    },
+    "sponsors": [
+        "18031080"
+    ],
+    "files_hash": "a4f36157903ddfc9310182099607a711d97f1850",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 40309,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/st_fagans_interior.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 3326664,
+            "md5": "8601a344d2ca8429cd641f9df65bd24c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/st_fagans_interior.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 93231214,
+                    "md5": "7d56c7dc3147daed250100480832c4c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/st_fagans_interior_8k.hdr"
+                },
+                "exr": {
+                    "size": 66452768,
+                    "md5": "ebdcbedb3cd774da1e47bcecf849f227",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/st_fagans_interior_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 336255300,
+                    "md5": "7cfb27621f12d6f73de58a106ea7ed91",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/st_fagans_interior_16k.hdr"
+                },
+                "exr": {
+                    "size": 228674980,
+                    "md5": "19ffe9d9e3fb050a2719678a0791d38e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/st_fagans_interior_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24206466,
+                    "md5": "22fc2c900f88b03067ec5b8dc64029db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/st_fagans_interior_4k.hdr"
+                },
+                "exr": {
+                    "size": 17525412,
+                    "md5": "6a3c21fa1e1e46bfc83aafeb79bb4fc5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/st_fagans_interior_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6124146,
+                    "md5": "b7f34884fb7a3c88308243b2831a8065",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/st_fagans_interior_2k.hdr"
+                },
+                "exr": {
+                    "size": 4452760,
+                    "md5": "abe1c38d80c5b5d6b58acb4114ad72ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/st_fagans_interior_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1524050,
+                    "md5": "937ea0620f22d026a14710f2e1343498",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/st_fagans_interior_1k.hdr"
+                },
+                "exr": {
+                    "size": 1135517,
+                    "md5": "3696bcea404f29e0ece4a83f305c5e8a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/st_fagans_interior_1k.exr"
+                }
+            }
+        }
+    }
+}

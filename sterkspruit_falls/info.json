@@ -1,0 +1,104 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "balcony",
+        "waterfall",
+        "mountain",
+        "hill"
+    ],
+    "date_published": 1522879200,
+    "name": "Sterkspruit Falls",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -29.04654,
+        29.40439
+    ],
+    "date_taken": 1460559840,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "12a4f4cf9b091c7d3305474c471efa452391a3f3",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 13730,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sterkspruit_falls.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5680332,
+            "md5": "2ddd884e9c3829e42fd968f93fc31f75",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/sterkspruit_falls.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105685451,
+                    "md5": "8482b1caf186104cc3b938e930fa3ccd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/sterkspruit_falls_8k.hdr"
+                },
+                "exr": {
+                    "size": 93069578,
+                    "md5": "44da05de01506ad3981eb18532d667d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/sterkspruit_falls_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 406354203,
+                    "md5": "9ee092e5ab63e47ef3834745fb90db9d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/sterkspruit_falls_16k.hdr"
+                },
+                "exr": {
+                    "size": 347694206,
+                    "md5": "eb2d817c367c7cf655366c150f607d6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/sterkspruit_falls_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26844347,
+                    "md5": "a8e9fc7504acfbd78b1cca283767f415",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/sterkspruit_falls_4k.hdr"
+                },
+                "exr": {
+                    "size": 23831195,
+                    "md5": "aaf25680f6545076520af363ebc887d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/sterkspruit_falls_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6717585,
+                    "md5": "f1088b3782a82abb5ece552e339c5905",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/sterkspruit_falls_2k.hdr"
+                },
+                "exr": {
+                    "size": 6087892,
+                    "md5": "60bfd54e08040ef604b3b96a39117696",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/sterkspruit_falls_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1667967,
+                    "md5": "99b85fa1f864abcd150b52d17a6df555",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/sterkspruit_falls_1k.hdr"
+                },
+                "exr": {
+                    "size": 1575378,
+                    "md5": "ad342f086333f723bfd67e663f2acb3a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/sterkspruit_falls_1k.exr"
+                }
+            }
+        }
+    }
+}

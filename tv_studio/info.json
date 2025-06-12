@@ -1,0 +1,103 @@
+{
+    "evs_cap": 14,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "camera",
+        "studio",
+        "set",
+        "news",
+        "show"
+    ],
+    "date_published": 1552950000,
+    "name": "TV Studio",
+    "categories": [
+        "indoor",
+        "urban",
+        "high contrast",
+        "artificial light"
+    ],
+    "date_taken": 1548078240,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "files_hash": "f473d7f1895bc7bdb6e8159cddce6d992e851922",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 32329,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/tv_studio.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5534846,
+            "md5": "e2cdf165314b13460c482d3208ead97f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/tv_studio.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101162863,
+                    "md5": "3453933e39b0e473768aa515e322358a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/tv_studio_8k.hdr"
+                },
+                "exr": {
+                    "size": 88796472,
+                    "md5": "b6d2ea6391208613e7586f089284468a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/tv_studio_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 374828336,
+                    "md5": "3047091aa48f7bdcf70b3edbe3fcfa2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/tv_studio_16k.hdr"
+                },
+                "exr": {
+                    "size": 311840107,
+                    "md5": "8f0d3a5db97831ad9dcd6db398f3c15e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/tv_studio_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26162882,
+                    "md5": "3892998f1be5962177cea76417960f64",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/tv_studio_4k.hdr"
+                },
+                "exr": {
+                    "size": 23751537,
+                    "md5": "b8bb12588f8dedce190af5944e5149bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/tv_studio_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6695437,
+                    "md5": "48b035c7ac9d3b0ca361eed37da8b2be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/tv_studio_2k.hdr"
+                },
+                "exr": {
+                    "size": 6241111,
+                    "md5": "ed678215b7d2a2a2d855604920653d8d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/tv_studio_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1710289,
+                    "md5": "88a1d999abe50a392dca1dcc05d2125c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/tv_studio_1k.hdr"
+                },
+                "exr": {
+                    "size": 1638131,
+                    "md5": "11d76edbac3b6ce3c0ea16eb10992104",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/tv_studio_1k.exr"
+                }
+            }
+        }
+    }
+}

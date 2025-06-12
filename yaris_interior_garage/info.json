@@ -1,0 +1,100 @@
+{
+    "evs_cap": 16,
+    "type": 0,
+    "tags": [
+        "car",
+        "driver",
+        "seat",
+        "garage"
+    ],
+    "date_published": 1535061600,
+    "name": "Yaris Interior Garage",
+    "categories": [
+        "indoor",
+        "urban",
+        "midday",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "date_taken": 1534764060,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "f854c6cce96bbdb2433524a3cb75a26407d8166c",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 19506,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/yaris_interior_garage.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5535649,
+            "md5": "1acc9aab90ca5e1cb2a93cc34aa4c131",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/yaris_interior_garage.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105349441,
+                    "md5": "5ecbd2fe7827b1f9bea5b7d9c2e820d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/yaris_interior_garage_8k.hdr"
+                },
+                "exr": {
+                    "size": 96076758,
+                    "md5": "1fdd2615a4f9d3ebd875a0c4474a09de",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/yaris_interior_garage_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 404876943,
+                    "md5": "0ef375dfbe1fbb6f85d70cc0c54581d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/yaris_interior_garage_16k.hdr"
+                },
+                "exr": {
+                    "size": 362517689,
+                    "md5": "9faf1f69ee407ed2ad6c44ab6cc054dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/yaris_interior_garage_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26699242,
+                    "md5": "90b47ca3419812e05141f900803ac597",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/yaris_interior_garage_4k.hdr"
+                },
+                "exr": {
+                    "size": 24224571,
+                    "md5": "3e0fc949cb059dbdd1d19f926cacc2f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/yaris_interior_garage_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6669838,
+                    "md5": "d06744a1c8eb1f1746dadc558a390547",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/yaris_interior_garage_2k.hdr"
+                },
+                "exr": {
+                    "size": 5951558,
+                    "md5": "439078bef3c7b9162f74b788711428d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/yaris_interior_garage_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1678019,
+                    "md5": "ab973bd236631c643c7fa36998089dfe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/yaris_interior_garage_1k.hdr"
+                },
+                "exr": {
+                    "size": 1509277,
+                    "md5": "c5a2b9297d723610d0f569e201349959",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/yaris_interior_garage_1k.exr"
+                }
+            }
+        }
+    }
+}

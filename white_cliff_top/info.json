@@ -1,0 +1,743 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "date_published": 1522879200,
+    "name": "White Cliff Top",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1464595020,
+    "coords": [
+        -34.357184,
+        18.476279
+    ],
+    "sponsors": [
+        "3567764"
+    ],
+    "backplates": true,
+    "tags": [
+        "rock",
+        "ocean",
+        "sun",
+        "view",
+        "cliff",
+        "backplates"
+    ],
+    "files_hash": "372b9a61396f661d1b3c40c4b3d94dc3b1518264",
+    "authors": {
+        "Greg Zaal": "All",
+        "Rico Cilliers": "Backplates"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 61196,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/white_cliff_top.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4344715,
+            "md5": "ec81efbb0bf2bd54eea8ce1f1dcd3ec6",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/white_cliff_top.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 94027863,
+                    "md5": "e5d659a616b6d8c73ce1a7a34de5d8b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/white_cliff_top_8k.hdr"
+                },
+                "exr": {
+                    "size": 71891578,
+                    "md5": "79afb9a542ed8d2d5d7d365542c8e436",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/white_cliff_top_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 339467012,
+                    "md5": "e61356047516e54cde624c807b2305b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/white_cliff_top_16k.hdr"
+                },
+                "exr": {
+                    "size": 253126475,
+                    "md5": "fe5ccd9ae3223d269a856027223dd4b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/white_cliff_top_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24390121,
+                    "md5": "7b27112b8f6e791140cf22cad89cdb25",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/white_cliff_top_4k.hdr"
+                },
+                "exr": {
+                    "size": 19304992,
+                    "md5": "d3fba232f2b29b2f52a4252e8d9c62d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/white_cliff_top_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6267149,
+                    "md5": "ededea05bdde7f0f1928c606bdd8fa83",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/white_cliff_top_2k.hdr"
+                },
+                "exr": {
+                    "size": 5179612,
+                    "md5": "d3e6bb326ad1f4a32e885b6c6ab9430a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/white_cliff_top_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1613609,
+                    "md5": "d1989c7cd4b4d596e07cca6c27590588",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/white_cliff_top_1k.hdr"
+                },
+                "exr": {
+                    "size": 1397183,
+                    "md5": "f10d380c15f4d4f767b98499aaa3be75",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/white_cliff_top_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0329": {
+                "jpg_pretty": {
+                    "size": 8104288,
+                    "md5": "cb9204dc8541d9aaeb7d9b53ec4878c7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0329.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7731621,
+                    "md5": "de50acec20fc518d9b1e89b966db3d20",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0329.jpg"
+                },
+                "raw": {
+                    "size": 22410000,
+                    "md5": "bc467ac001c67d10e9a7f62d7b0a8cc6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0329.dng"
+                }
+            },
+            "IMG_0328": {
+                "jpg_pretty": {
+                    "size": 6994008,
+                    "md5": "b4290d8639a75e7c6f8b182cc392b88f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0328.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7851285,
+                    "md5": "58773b9f545c3f36a6aff25d675d58f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0328.jpg"
+                },
+                "raw": {
+                    "size": 22305750,
+                    "md5": "c3b3446bb34979a06a5878fcf647aecc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0328.dng"
+                }
+            },
+            "IMG_0327": {
+                "jpg_pretty": {
+                    "size": 8056095,
+                    "md5": "56cb2856906e5b418925d047646aa15a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0327.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8177783,
+                    "md5": "edfdde29c8b2e5fd3b23d58e06e3889d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0327.jpg"
+                },
+                "raw": {
+                    "size": 21654642,
+                    "md5": "bce73912c877d72cb10eeb511d77dec8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0327.dng"
+                }
+            },
+            "IMG_0326": {
+                "jpg_pretty": {
+                    "size": 6644837,
+                    "md5": "8f9fd8c90cbb28e00c89b51a79edce0e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0326.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7779277,
+                    "md5": "1f2303c95e126a39d16f2cccf0a33cd7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0326.jpg"
+                },
+                "raw": {
+                    "size": 21684796,
+                    "md5": "dfa49b0d2dfbfefc857b9814c19ecc26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0326.dng"
+                }
+            },
+            "IMG_0348": {
+                "jpg_pretty": {
+                    "size": 8072468,
+                    "md5": "c17be0c00986948100445ab2f7882289",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0348.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7618694,
+                    "md5": "44317274df001b82d769eb71850827a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0348.jpg"
+                },
+                "raw": {
+                    "size": 23004934,
+                    "md5": "72aa4281aaea369767dbde20ed6655d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0348.dng"
+                }
+            },
+            "IMG_0325": {
+                "jpg_pretty": {
+                    "size": 4810653,
+                    "md5": "eaad9b6fa7ae2a7cf5de9c2901f98f50",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0325.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5385472,
+                    "md5": "6f1c1c55f87e22ce49352587829ba342",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0325.jpg"
+                },
+                "raw": {
+                    "size": 18842060,
+                    "md5": "e38fbcf6a43a74af76483de25e3b765b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0325.dng"
+                }
+            },
+            "IMG_0347": {
+                "jpg_pretty": {
+                    "size": 6173874,
+                    "md5": "0352fd79a7ed535777aa010263b638ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0347.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6866947,
+                    "md5": "35e8d50fdf6fb904438c78d778c68b59",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0347.jpg"
+                },
+                "raw": {
+                    "size": 23332552,
+                    "md5": "49dd4628ecb71970d17fb30a223b97de",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0347.dng"
+                }
+            },
+            "IMG_0346": {
+                "jpg_pretty": {
+                    "size": 7168902,
+                    "md5": "8c8b4476779f15c1744af3e622b40261",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0346.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6651635,
+                    "md5": "406e202200ed47cfb6515707c67d75d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0346.jpg"
+                },
+                "raw": {
+                    "size": 23134392,
+                    "md5": "958f09528b69197924d4dca1087af756",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0346.dng"
+                }
+            },
+            "IMG_0323": {
+                "jpg_pretty": {
+                    "size": 5963747,
+                    "md5": "ea85b51434af01fce53b793d5586ea4e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0323.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5371111,
+                    "md5": "aadc25281198ac08c061de29fce1fe29",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0323.jpg"
+                },
+                "raw": {
+                    "size": 19011116,
+                    "md5": "84ca1079670e66f784b1bb408da1bf04",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0323.dng"
+                }
+            },
+            "IMG_0345": {
+                "jpg_pretty": {
+                    "size": 5227257,
+                    "md5": "2eaa94ecd936a9df09442213f3a26fe0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0345.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5271297,
+                    "md5": "361d49ac5bacc9864b9c1332874cdc1f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0345.jpg"
+                },
+                "raw": {
+                    "size": 21169078,
+                    "md5": "6d8d4827c4ef76a835fe2101ae076319",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0345.dng"
+                }
+            },
+            "IMG_0355": {
+                "jpg_pretty": {
+                    "size": 5043619,
+                    "md5": "f2334aa4d9b33c823ae9ab7c11529598",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0355.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5207834,
+                    "md5": "fceb95e71bd51c1c5289bbcd4136d8f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0355.jpg"
+                },
+                "raw": {
+                    "size": 23632756,
+                    "md5": "285a49b2ff9bfa10727d4a07449675ee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0355.dng"
+                }
+            },
+            "IMG_0331": {
+                "jpg_pretty": {
+                    "size": 8776035,
+                    "md5": "11bca050be5c34b80c5793db1b6e564e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0331.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7859151,
+                    "md5": "bc17332c5902970184019de64f8ee470",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0331.jpg"
+                },
+                "raw": {
+                    "size": 20597064,
+                    "md5": "c1378c0bbeba34e0260a1f88cd85f390",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0331.dng"
+                }
+            },
+            "IMG_0353": {
+                "jpg_pretty": {
+                    "size": 6990679,
+                    "md5": "bb8d4629c9a148686d6005b57426375e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0353.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6996533,
+                    "md5": "88d656e1149091dc97f7eb475a531b6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0353.jpg"
+                },
+                "raw": {
+                    "size": 22830636,
+                    "md5": "09021e2baf1d4063feb9a88a2c23e305",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0353.dng"
+                }
+            },
+            "IMG_0352": {
+                "jpg_pretty": {
+                    "size": 4409949,
+                    "md5": "01c7e18d5f7046df3b098ccfe0e8e04a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0352.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4222780,
+                    "md5": "5b2a39affd07f59b57a97ca6ba180eb3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0352.jpg"
+                },
+                "raw": {
+                    "size": 22917786,
+                    "md5": "80de0a5be6273fb9b392a82f6f181fe6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0352.dng"
+                }
+            },
+            "IMG_0351": {
+                "jpg_pretty": {
+                    "size": 8228763,
+                    "md5": "80daf253241de53e1d6e98745ae6cda8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0351.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8266057,
+                    "md5": "7d881fd8ab3f37d6e86706514223dd0c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0351.jpg"
+                },
+                "raw": {
+                    "size": 22565182,
+                    "md5": "5482d0758cf22487867d4b8889ac8301",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0351.dng"
+                }
+            },
+            "IMG_0350": {
+                "jpg_pretty": {
+                    "size": 3894411,
+                    "md5": "63d75942900bd12184474ff42cfa74f1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0350.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3895601,
+                    "md5": "16595e6cf6ee051477fcb310d13a6b2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0350.jpg"
+                },
+                "raw": {
+                    "size": 21861294,
+                    "md5": "d6f4063b04e753bec0ea523e956be520",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0350.dng"
+                }
+            },
+            "IMG_0319": {
+                "jpg_pretty": {
+                    "size": 5287057,
+                    "md5": "cc3715c694ae781d37c6ef56481af60e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0319.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5454536,
+                    "md5": "d17a69d7fe12c2b73d6e5dbc26601a15",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0319.jpg"
+                },
+                "raw": {
+                    "size": 19896256,
+                    "md5": "955397fdcf61544e9ad422d7d356d427",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0319.dng"
+                }
+            },
+            "IMG_0318": {
+                "jpg_pretty": {
+                    "size": 5119689,
+                    "md5": "82422b84e7da6e4cbf60e89b100fbf2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0318.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5249211,
+                    "md5": "da70f380f3d4f96fed7bef9f10620056",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0318.jpg"
+                },
+                "raw": {
+                    "size": 19555556,
+                    "md5": "c9b115049db255f8dc8600c3afd33d8c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0318.dng"
+                }
+            },
+            "IMG_0317": {
+                "jpg_pretty": {
+                    "size": 4987684,
+                    "md5": "8eeafcd3565ae62b8a07d14bf44fc70f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0317.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5266644,
+                    "md5": "cb9078ecf0df973242197ebf15ff2948",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0317.jpg"
+                },
+                "raw": {
+                    "size": 20587526,
+                    "md5": "4f0cbbba5bb4e2d6004539a97b2a61dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0317.dng"
+                }
+            },
+            "IMG_0339": {
+                "jpg_pretty": {
+                    "size": 6003215,
+                    "md5": "c500223155fba9bf48a9d1ee507de284",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0339.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5657039,
+                    "md5": "307cb514afd09173c1552042d6f212ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0339.jpg"
+                },
+                "raw": {
+                    "size": 20645206,
+                    "md5": "72e67cef2b07b4af84984521a43d564d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0339.dng"
+                }
+            },
+            "IMG_0316": {
+                "jpg_pretty": {
+                    "size": 5509142,
+                    "md5": "78f8a50f7686bbec47a6ff05b5e14cd1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0316.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5406274,
+                    "md5": "0b2f44fe0ee74f8299e00182972c4349",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0316.jpg"
+                },
+                "raw": {
+                    "size": 19355002,
+                    "md5": "b84c3d28a73a80669622f7da47b845be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0316.dng"
+                }
+            },
+            "IMG_0338": {
+                "jpg_pretty": {
+                    "size": 6589622,
+                    "md5": "9616f4c0506ab6347fd5a0abe69e0de2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0338.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5980992,
+                    "md5": "b8bf750a5cdfef91be9982ef2897c0ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0338.jpg"
+                },
+                "raw": {
+                    "size": 21141098,
+                    "md5": "1d6c6d41a03d2673b4262c2ca0aa7773",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0338.dng"
+                }
+            },
+            "IMG_0315": {
+                "jpg_pretty": {
+                    "size": 5011523,
+                    "md5": "c07d7fe7f6ab9413c5e5469872ab9286",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0315.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4729270,
+                    "md5": "40ce158c9c6c30f401b5f1690241fcb5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0315.jpg"
+                },
+                "raw": {
+                    "size": 21016908,
+                    "md5": "7bc95b276c6deeb40bc980555983e0e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0315.dng"
+                }
+            },
+            "IMG_0337": {
+                "jpg_pretty": {
+                    "size": 5973076,
+                    "md5": "fc09837b786814e5aa683e23981452e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0337.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5236045,
+                    "md5": "7b870705e84b3ff2c9142adc33ab5053",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0337.jpg"
+                },
+                "raw": {
+                    "size": 20897316,
+                    "md5": "fde51db11f4aa54d497b1442b8eda304",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0337.dng"
+                }
+            },
+            "IMG_0314": {
+                "jpg_pretty": {
+                    "size": 5371090,
+                    "md5": "af3bca591653d5df11f20f00d799af2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0314.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5541839,
+                    "md5": "3e89fa726fef7ddad278f6fbd7d3fd28",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0314.jpg"
+                },
+                "raw": {
+                    "size": 18659892,
+                    "md5": "980da0c1762055c8f54cc678abb8f152",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0314.dng"
+                }
+            },
+            "IMG_0336": {
+                "jpg_pretty": {
+                    "size": 5986190,
+                    "md5": "b9d8c14cad52468f77a74ae0ca270717",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0336.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5306801,
+                    "md5": "dccb602a5bec984280ceda0c565f8a3a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0336.jpg"
+                },
+                "raw": {
+                    "size": 19426956,
+                    "md5": "b569381c75312c357dfd73002892e066",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0336.dng"
+                }
+            },
+            "IMG_0335": {
+                "jpg_pretty": {
+                    "size": 9023763,
+                    "md5": "28de7a8b9607be06a7b115e0e3cda45c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0335.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8158069,
+                    "md5": "8717a65b1c61b51d0a0f8219dea3061c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0335.jpg"
+                },
+                "raw": {
+                    "size": 21440926,
+                    "md5": "3dac76921aa1863027baaa1c2ff50716",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0335.dng"
+                }
+            },
+            "IMG_0334": {
+                "jpg_pretty": {
+                    "size": 8739627,
+                    "md5": "4798c3512b02e962fcd1057da03600f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0334.jpg"
+                },
+                "jpg_plain": {
+                    "size": 7992922,
+                    "md5": "a46b3bd12a468d46da492fdc2c9b4d49",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0334.jpg"
+                },
+                "raw": {
+                    "size": 21735940,
+                    "md5": "12eca76f2c34dc0654d2b8d4ea2aef31",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0334.dng"
+                }
+            },
+            "IMG_0356": {
+                "jpg_pretty": {
+                    "size": 2665609,
+                    "md5": "56151e8466e30091a548b2bb3819f7e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0356.jpg"
+                },
+                "jpg_plain": {
+                    "size": 2820607,
+                    "md5": "83bf03b54ab3ea47014c5bd915eedff9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0356.jpg"
+                },
+                "raw": {
+                    "size": 21182254,
+                    "md5": "2c6daa5a3ad984db5fb4f94ef23ac11e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0356.dng"
+                }
+            },
+            "IMG_0322": {
+                "jpg_pretty": {
+                    "size": 5536996,
+                    "md5": "2ff165ad1f11a438341db1fdb20bec21",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0322.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5244118,
+                    "md5": "827aa5fdf1cc77be52201407ed489f53",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0322.jpg"
+                },
+                "raw": {
+                    "size": 19209488,
+                    "md5": "91aa0d2a154cecf1b5a2487e4871180c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0322.dng"
+                }
+            },
+            "IMG_0344": {
+                "jpg_pretty": {
+                    "size": 6531955,
+                    "md5": "ee3f914bc1e738f2350aa6cebedd3ec6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0344.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6808879,
+                    "md5": "df3969427489a4753ee92198fa8f95a3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0344.jpg"
+                },
+                "raw": {
+                    "size": 21927058,
+                    "md5": "5ff7304ee351d1eb33e0db1679398d26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0344.dng"
+                }
+            },
+            "IMG_0321": {
+                "jpg_pretty": {
+                    "size": 5651091,
+                    "md5": "a7925efbd83c5775400d3954c8ad6b53",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0321.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5640672,
+                    "md5": "4e73205958e9c1cfe038d16a8932c01e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0321.jpg"
+                },
+                "raw": {
+                    "size": 19315680,
+                    "md5": "50ce40cd1c39eed08330175e374a2288",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0321.dng"
+                }
+            },
+            "IMG_0343": {
+                "jpg_pretty": {
+                    "size": 4983030,
+                    "md5": "f7eb0c9a70411cc2ee28720ed8ffe38a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0343.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4989031,
+                    "md5": "d5f6d6e22cc0fad064d852ad319d6b9e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0343.jpg"
+                },
+                "raw": {
+                    "size": 22007824,
+                    "md5": "6e99e343c6dfc6f6dcfe08ab1c350f50",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0343.dng"
+                }
+            },
+            "IMG_0320": {
+                "jpg_pretty": {
+                    "size": 5372993,
+                    "md5": "bb2d342237a338f15e8be5195dd7296f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0320.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5574148,
+                    "md5": "b6a24e0d63d99091f118b6874827c93e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0320.jpg"
+                },
+                "raw": {
+                    "size": 18958460,
+                    "md5": "1db0c30ec44cf4bbdf10cea83d2a6264",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0320.dng"
+                }
+            },
+            "IMG_0342": {
+                "jpg_pretty": {
+                    "size": 6037470,
+                    "md5": "de01ead4f12211e6bc883c3dfae2ad40",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0342.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6061055,
+                    "md5": "c396ceb48370c5e66364e21ac8b6fd2d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0342.jpg"
+                },
+                "raw": {
+                    "size": 21672718,
+                    "md5": "767fe6a801c98953aeca43b43c9aa5d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0342.dng"
+                }
+            },
+            "IMG_0341": {
+                "jpg_pretty": {
+                    "size": 5940234,
+                    "md5": "c05e3e201a8f6f33d5a1512dd4d70f8e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0341.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5371285,
+                    "md5": "51e8f1e45a5dfeb2abec5cbbe7aaf1f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0341.jpg"
+                },
+                "raw": {
+                    "size": 20164068,
+                    "md5": "324c4e9dd2855549a4ee7071eaed583b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0341.dng"
+                }
+            },
+            "IMG_0340": {
+                "jpg_pretty": {
+                    "size": 5456586,
+                    "md5": "e136dee75437efecbcdc2d602618a777",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_pretty/IMG_0340.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5447000,
+                    "md5": "35e7d1162b5c49381d46fc58e6c76550",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/jpg_plain/IMG_0340.jpg"
+                },
+                "raw": {
+                    "size": 20183982,
+                    "md5": "4524bfb8383d99eca4338822cdb26720",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/white_cliff_top/raw/IMG_0340.dng"
+                }
+            }
+        }
+    }
+}

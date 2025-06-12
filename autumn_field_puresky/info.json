@@ -1,0 +1,105 @@
+{
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 5450,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Autumn Field (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "skies",
+        "high contrast",
+        "clear",
+        "morning-afternoon",
+        "pure skies"
+    ],
+    "date_taken": 1697032560,
+    "authors": {
+        "Jarod Guest": "Sky Edits",
+        "Sergej Majboroda": "Original"
+    },
+    "info": "Edited sky-only version of [Autumn Field](https://polyhaven.com/a/autumn_field).",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "b0c7cf817c8120909c16f72ac2f3104cdb14ce02",
+    "date_published": 1713484800,
+    "sponsors": [
+        "78546118"
+    ],
+    "download_count": 116320,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/autumn_field_puresky.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 17996972,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/autumn_field_puresky.jpg",
+            "md5": "88882bfae29562dedaf9160d514fe459"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 60521779,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/autumn_field_puresky_8k.hdr",
+                    "md5": "a87fd35743e59562857032ab03c1355f"
+                },
+                "exr": {
+                    "size": 272541881,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/autumn_field_puresky_8k.exr",
+                    "md5": "4284e691c43c92055fc3a1b2fc31a2b3"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 195211755,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/autumn_field_puresky_16k.hdr",
+                    "md5": "c47b52a323fbbba74b8fef18576e5a57"
+                },
+                "exr": {
+                    "size": 1060007397,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/autumn_field_puresky_16k.exr",
+                    "md5": "0c5b0f83a44616b19960d09921250be0"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 16984221,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/autumn_field_puresky_4k.hdr",
+                    "md5": "7891f2f4b9448b2aa4959f78cd4d6cfc"
+                },
+                "exr": {
+                    "size": 70502897,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/autumn_field_puresky_4k.exr",
+                    "md5": "9e66d63c7f835063ddd4546f797f82ff"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4374736,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/autumn_field_puresky_2k.hdr",
+                    "md5": "5c402963ff2c6d1b23fd239b94b05604"
+                },
+                "exr": {
+                    "size": 18559089,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/autumn_field_puresky_2k.exr",
+                    "md5": "707498a4c6cd2f5ef9d9bc3eca2a8399"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1092974,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/autumn_field_puresky_1k.hdr",
+                    "md5": "f9a6bd6d95a55e2d677b8a84b7f53673"
+                },
+                "exr": {
+                    "size": 5047965,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/autumn_field_puresky_1k.exr",
+                    "md5": "7b3c7491330f997e4adf9239e5e4fbe7"
+                }
+            }
+        }
+    }
+}

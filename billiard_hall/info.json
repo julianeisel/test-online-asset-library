@@ -1,0 +1,128 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "brick",
+        "pool",
+        "snooker",
+        "ball game",
+        "carpet",
+        "window",
+        "lamp",
+        "billiards",
+        "table"
+    ],
+    "name": "Billiard Hall",
+    "categories": [
+        "indoor",
+        "urban",
+        "natural light",
+        "artificial light",
+        "medium contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1724336160,
+    "coords": [
+        -28.490444919267457,
+        29.00577761138751
+    ],
+    "authors": {
+        "Greg Zaal": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "8d8ab63e422d8e38e131ded21cbd664310792f77",
+    "date_published": 1727395200,
+    "download_count": 2489,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/billiard_hall.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 48023133,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/billiard_hall.jpg",
+            "md5": "fe848afc0b3d053e11d24af1f382165b"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103795065,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/billiard_hall_8k.hdr",
+                    "md5": "b265557048b8acf2e6e431ed264c4b8a"
+                },
+                "exr": {
+                    "size": 386298539,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/billiard_hall_8k.exr",
+                    "md5": "33a40c379f6aa7360a06bb55f71d59c5"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 393730945,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/billiard_hall_16k.hdr",
+                    "md5": "859a2b518e3920c9e9d377e417c30b58"
+                },
+                "exr": {
+                    "size": 1533666960,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/billiard_hall_16k.exr",
+                    "md5": "87a46e47891c23bf40c2e61d5470e729"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26235018,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/billiard_hall_4k.hdr",
+                    "md5": "8c45f6638e1436c5ecb4a8e9e037785e"
+                },
+                "exr": {
+                    "size": 96750433,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/billiard_hall_4k.exr",
+                    "md5": "fc9287f99e5f243d2ece791c93e22485"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 864929342,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/billiard_hall_24k.hdr",
+                    "md5": "f826ebce90ff8aa7e48bee7612dda1a1"
+                },
+                "exr": {
+                    "size": 3413689969,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/billiard_hall_24k.exr",
+                    "md5": "ae9525292997ac9112d95930efe518f1"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6546781,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/billiard_hall_2k.hdr",
+                    "md5": "987f5967d3eb0f2cbf6bbc473a506dc5"
+                },
+                "exr": {
+                    "size": 24283711,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/billiard_hall_2k.exr",
+                    "md5": "98dc9ea6ecbca2f8f9d48d0b829c6088"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1629669,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/billiard_hall_1k.hdr",
+                    "md5": "1733d3312d8ed5bd31717979903902e7"
+                },
+                "exr": {
+                    "size": 6096943,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/billiard_hall_1k.exr",
+                    "md5": "304424669a7574df488f3b2ec432639e"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 267353363,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/billiard_hall.zip",
+            "md5": "d7882e2c0b74956ec5e060e78c7b543c"
+        }
+    }
+}

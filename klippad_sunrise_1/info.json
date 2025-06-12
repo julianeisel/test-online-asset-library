@@ -1,0 +1,131 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "arid",
+        "hilltop",
+        "rocky",
+        "desolate",
+        "desert",
+        "mountain",
+        "valley"
+    ],
+    "social_post_pending": true,
+    "name": "Klippad Sunrise 1",
+    "date_taken": 1694158260,
+    "coords": [
+        -29.654551983908654,
+        18.0300945839593
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "ed1c9373b55608fad68d3077d56847bafe77431d",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "skies",
+        "partly cloudy",
+        "low contrast",
+        "sunrise-sunset",
+        "collection: namaqualand"
+    ],
+    "sponsors": [
+        "82322099"
+    ],
+    "date_published": 1728345600,
+    "download_count": 153,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/klippad_sunrise_1.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 47169189,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/klippad_sunrise_1.jpg",
+            "md5": "5e4b94674087a053f3bd720f083dfab3"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102387428,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/klippad_sunrise_1_8k.hdr",
+                    "md5": "cb563df9e4a8aedd93b4afeaa40e40e6"
+                },
+                "exr": {
+                    "size": 328847829,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/klippad_sunrise_1_8k.exr",
+                    "md5": "15ce1729ac00fdc0382515599c39b629"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 383350825,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/klippad_sunrise_1_16k.hdr",
+                    "md5": "5d1800c9acf929e3cd1a0d6063eaf0a7"
+                },
+                "exr": {
+                    "size": 1243490128,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/klippad_sunrise_1_16k.exr",
+                    "md5": "89c3f70203b95ed487a371472b04f975"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25820017,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/klippad_sunrise_1_4k.hdr",
+                    "md5": "a62de64e16eaf332df2beacec20273ff"
+                },
+                "exr": {
+                    "size": 84077546,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/klippad_sunrise_1_4k.exr",
+                    "md5": "8f3343a8c04425865cc7becc39ef283a"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 847192133,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/klippad_sunrise_1_24k.hdr",
+                    "md5": "97fc80d222b8e4f03eef53000a57a8d9"
+                },
+                "exr": {
+                    "size": 2790780545,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/klippad_sunrise_1_24k.exr",
+                    "md5": "cfc71d433d6f20b02528bf26ee96cdff"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6347753,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/klippad_sunrise_1_2k.hdr",
+                    "md5": "1a581733dde46aa3f5e181665525a06b"
+                },
+                "exr": {
+                    "size": 21805596,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/klippad_sunrise_1_2k.exr",
+                    "md5": "5fd3edb400c208f2025a692a85fcc604"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1547153,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/klippad_sunrise_1_1k.hdr",
+                    "md5": "075038e97d27a26f974fcff18d198a1a"
+                },
+                "exr": {
+                    "size": 5832033,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/klippad_sunrise_1_1k.exr",
+                    "md5": "9f58e90b25c90af2f7725103f3eb3148"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 648440281,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/klippad_sunrise_1.zip",
+            "md5": "f610955e162ec2a0e8619bbfe0f78d0e"
+        }
+    }
+}

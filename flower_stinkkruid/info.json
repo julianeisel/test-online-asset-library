@@ -1,0 +1,823 @@
+{
+    "lods": true,
+    "name": "Flower Stinkkruid",
+    "categories": [
+        "nature",
+        "plants",
+        "flowers",
+        "collection: namaqualand"
+    ],
+    "type": 2,
+    "tags": [
+        "karoo",
+        "field",
+        "yellow",
+        "botanical",
+        "botany",
+        "floral",
+        "south africa",
+        "wildflower"
+    ],
+    "social_post_pending": true,
+    "max_resolution": [
+        4096,
+        4096
+    ],
+    "polycount": 103778,
+    "texel_density": 18238.37568143932,
+    "dimensions": [
+        1705.3872346878052,
+        300.4951626062393,
+        178.21717727929354
+    ],
+    "files_hash": "260a9cf78f9a09d53bd906dff06064c234092270",
+    "authors": {
+        "Jenelle van Heerden": "Photography",
+        "Rico Cilliers": "Model"
+    },
+    "date_published": 1728345600,
+    "download_count": 9,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/flower_stinkkruid.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "4k": {
+                "jpg": {
+                    "size": 3184810,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/flower_stinkkruid/flower_stinkkruid_diff_4k.jpg",
+                    "md5": "f19ad1aa31b37d7af1a79503baa3b98b"
+                },
+                "png": {
+                    "size": 20212121,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/flower_stinkkruid/flower_stinkkruid_diff_4k.png",
+                    "md5": "da539f85ce4ec7d839de5610dad6e178"
+                },
+                "exr": {
+                    "size": 7229916,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/flower_stinkkruid/flower_stinkkruid_diff_4k.exr",
+                    "md5": "5ef93f554c59f7134ce6c9520c1359d0"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1037938,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/flower_stinkkruid/flower_stinkkruid_diff_2k.jpg",
+                    "md5": "fea6f243566f61ea612b2dd3979fe221"
+                },
+                "png": {
+                    "size": 5414894,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/flower_stinkkruid/flower_stinkkruid_diff_2k.png",
+                    "md5": "d3e1ddd9d32c9e8b26c436698ca410cf"
+                },
+                "exr": {
+                    "size": 2314743,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/flower_stinkkruid/flower_stinkkruid_diff_2k.exr",
+                    "md5": "55e6b2b33524ca673a698bbd15abed86"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 354293,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_stinkkruid/flower_stinkkruid_diff_1k.jpg",
+                    "md5": "59a7c5e2079adea1b0fc09cc2ab04eb9"
+                },
+                "png": {
+                    "size": 1992740,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/flower_stinkkruid/flower_stinkkruid_diff_1k.png",
+                    "md5": "7d86ae906c59bb547ac69230d68f3dad"
+                },
+                "exr": {
+                    "size": 842576,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/flower_stinkkruid/flower_stinkkruid_diff_1k.exr",
+                    "md5": "c24c394e829fbc9d62f0e77173db9bce"
+                }
+            }
+        },
+        "nor_dx": {
+            "4k": {
+                "jpg": {
+                    "size": 7495522,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/flower_stinkkruid/flower_stinkkruid_nor_dx_4k.jpg",
+                    "md5": "f970f4453ee3df8bdd95bb802b23dee8"
+                },
+                "png": {
+                    "size": 19399171,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/flower_stinkkruid/flower_stinkkruid_nor_dx_4k.png",
+                    "md5": "59c4e65135e82b68153732f165c4c99f"
+                },
+                "exr": {
+                    "size": 16121777,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/flower_stinkkruid/flower_stinkkruid_nor_dx_4k.exr",
+                    "md5": "a4114335d56664d74782b1de7a5f1c2a"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2179250,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/flower_stinkkruid/flower_stinkkruid_nor_dx_2k.jpg",
+                    "md5": "77607fd925b06a0fde15067ed1850f11"
+                },
+                "png": {
+                    "size": 7013158,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/flower_stinkkruid/flower_stinkkruid_nor_dx_2k.png",
+                    "md5": "9b6aa800f188d30c8f87cb8e75c2d831"
+                },
+                "exr": {
+                    "size": 4637373,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/flower_stinkkruid/flower_stinkkruid_nor_dx_2k.exr",
+                    "md5": "8a7d8a4336a14147d6d769ba484806be"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 653417,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_stinkkruid/flower_stinkkruid_nor_dx_1k.jpg",
+                    "md5": "9388efb654429e4fa408339687e12f2b"
+                },
+                "png": {
+                    "size": 2621182,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/flower_stinkkruid/flower_stinkkruid_nor_dx_1k.png",
+                    "md5": "ced3d9cc6c7b664b36d751521dbdd7c0"
+                },
+                "exr": {
+                    "size": 1397547,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/flower_stinkkruid/flower_stinkkruid_nor_dx_1k.exr",
+                    "md5": "a748fa7f1bb8c8968c3ff6553ee925f2"
+                }
+            }
+        },
+        "nor_gl": {
+            "4k": {
+                "jpg": {
+                    "size": 7237796,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/flower_stinkkruid/flower_stinkkruid_nor_gl_4k.jpg",
+                    "md5": "10008a9d789aebfe15c76a3a14634bcd"
+                },
+                "png": {
+                    "size": 19399480,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/flower_stinkkruid/flower_stinkkruid_nor_gl_4k.png",
+                    "md5": "783ea890b7e4e7e1b2666093280ad816"
+                },
+                "exr": {
+                    "size": 16317221,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/flower_stinkkruid/flower_stinkkruid_nor_gl_4k.exr",
+                    "md5": "48daa9a6bad1cb9aad4f9659d65b5d25"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2153075,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/flower_stinkkruid/flower_stinkkruid_nor_gl_2k.jpg",
+                    "md5": "8ec036dfddfbd3d9c5b320610736e62a"
+                },
+                "png": {
+                    "size": 7014492,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/flower_stinkkruid/flower_stinkkruid_nor_gl_2k.png",
+                    "md5": "e1ec57dcf36c9d0d4238d54eb609b052"
+                },
+                "exr": {
+                    "size": 4687827,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/flower_stinkkruid/flower_stinkkruid_nor_gl_2k.exr",
+                    "md5": "ff75ae76d28a1b46acca5701d7907149"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 653063,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_stinkkruid/flower_stinkkruid_nor_gl_1k.jpg",
+                    "md5": "1ff1f184e61216979310ebec4ec712cc"
+                },
+                "png": {
+                    "size": 2617899,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/flower_stinkkruid/flower_stinkkruid_nor_gl_1k.png",
+                    "md5": "ecc35fc109ab8f588528cc228f87dac1"
+                },
+                "exr": {
+                    "size": 1411534,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/flower_stinkkruid/flower_stinkkruid_nor_gl_1k.exr",
+                    "md5": "714757c76d5bf3eaedb4c5b358b658e7"
+                }
+            }
+        },
+        "blend": {
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/flower_stinkkruid_alpha_4k.png": {
+                            "size": 631584,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/flower_stinkkruid/flower_stinkkruid_alpha_4k.png",
+                            "md5": "e3609eacb3f8a6afd1df79332c131064"
+                        },
+                        "textures/flower_stinkkruid_diff_4k.jpg": {
+                            "size": 3184810,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/flower_stinkkruid/flower_stinkkruid_diff_4k.jpg",
+                            "md5": "f19ad1aa31b37d7af1a79503baa3b98b"
+                        },
+                        "textures/flower_stinkkruid_rough_4k.exr": {
+                            "size": 3551347,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/flower_stinkkruid/flower_stinkkruid_rough_4k.exr",
+                            "md5": "18329f34d4a7095de0f6d9af1723469d"
+                        },
+                        "textures/flower_stinkkruid_nor_gl_4k.exr": {
+                            "size": 16317221,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/flower_stinkkruid/flower_stinkkruid_nor_gl_4k.exr",
+                            "md5": "48daa9a6bad1cb9aad4f9659d65b5d25"
+                        }
+                    },
+                    "size": 2635212,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/flower_stinkkruid/flower_stinkkruid_4k.blend",
+                    "md5": "b319f8589fbf27538241fc6aac2adff4"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/flower_stinkkruid_diff_2k.jpg": {
+                            "size": 1037938,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/flower_stinkkruid/flower_stinkkruid_diff_2k.jpg",
+                            "md5": "fea6f243566f61ea612b2dd3979fe221"
+                        },
+                        "textures/flower_stinkkruid_rough_2k.exr": {
+                            "size": 1085955,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/flower_stinkkruid/flower_stinkkruid_rough_2k.exr",
+                            "md5": "f5ad2a9ad43619a765a38c62f09332b1"
+                        },
+                        "textures/flower_stinkkruid_nor_gl_2k.exr": {
+                            "size": 4687827,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/flower_stinkkruid/flower_stinkkruid_nor_gl_2k.exr",
+                            "md5": "ff75ae76d28a1b46acca5701d7907149"
+                        },
+                        "textures/flower_stinkkruid_alpha_2k.png": {
+                            "size": 327284,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/flower_stinkkruid/flower_stinkkruid_alpha_2k.png",
+                            "md5": "3f5072600871095f5a43f0865fe35433"
+                        }
+                    },
+                    "size": 2635186,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/flower_stinkkruid/flower_stinkkruid_2k.blend",
+                    "md5": "f708152cfdfa5631d7e2f1676a7fa748"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/flower_stinkkruid_alpha_1k.png": {
+                            "size": 135641,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/flower_stinkkruid/flower_stinkkruid_alpha_1k.png",
+                            "md5": "71d8ea334f7acde4054eeaac85796add"
+                        },
+                        "textures/flower_stinkkruid_nor_gl_1k.exr": {
+                            "size": 1411534,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/flower_stinkkruid/flower_stinkkruid_nor_gl_1k.exr",
+                            "md5": "714757c76d5bf3eaedb4c5b358b658e7"
+                        },
+                        "textures/flower_stinkkruid_rough_1k.exr": {
+                            "size": 364714,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/flower_stinkkruid/flower_stinkkruid_rough_1k.exr",
+                            "md5": "a354aa8900698961afc8fa67b8b4a019"
+                        },
+                        "textures/flower_stinkkruid_diff_1k.jpg": {
+                            "size": 354293,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_stinkkruid/flower_stinkkruid_diff_1k.jpg",
+                            "md5": "59a7c5e2079adea1b0fc09cc2ab04eb9"
+                        }
+                    },
+                    "size": 2635432,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/flower_stinkkruid/flower_stinkkruid_1k.blend",
+                    "md5": "754d36599e9f13609e9f43b7cae157c1"
+                }
+            }
+        },
+        "gltf": {
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "flower_stinkkruid.bin": {
+                            "size": 3299376,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/flower_stinkkruid/flower_stinkkruid.bin",
+                            "md5": "eb7cd1b1e4237be592107bd14a2791ff"
+                        },
+                        "textures/flower_stinkkruid_diff_4k.jpg": {
+                            "size": 3184810,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/flower_stinkkruid/flower_stinkkruid_diff_4k.jpg",
+                            "md5": "f19ad1aa31b37d7af1a79503baa3b98b"
+                        },
+                        "textures/flower_stinkkruid_nor_gl_4k.jpg": {
+                            "size": 7237796,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/flower_stinkkruid/flower_stinkkruid_nor_gl_4k.jpg",
+                            "md5": "10008a9d789aebfe15c76a3a14634bcd"
+                        },
+                        "textures/flower_stinkkruid_arm_4k.jpg": {
+                            "size": 4607347,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/flower_stinkkruid/flower_stinkkruid_arm_4k.jpg",
+                            "md5": "0c1cb1e8f1075ad6f6c19860151841a7"
+                        }
+                    },
+                    "size": 7539,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/flower_stinkkruid/flower_stinkkruid_4k.gltf",
+                    "md5": "ebb3f91028da704e460a83f1c1e5e3c9"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "flower_stinkkruid.bin": {
+                            "size": 3299376,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/flower_stinkkruid/flower_stinkkruid.bin",
+                            "md5": "eb7cd1b1e4237be592107bd14a2791ff"
+                        },
+                        "textures/flower_stinkkruid_diff_2k.jpg": {
+                            "size": 1037938,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/flower_stinkkruid/flower_stinkkruid_diff_2k.jpg",
+                            "md5": "fea6f243566f61ea612b2dd3979fe221"
+                        },
+                        "textures/flower_stinkkruid_arm_2k.jpg": {
+                            "size": 1436411,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/flower_stinkkruid/flower_stinkkruid_arm_2k.jpg",
+                            "md5": "c2443b2f67a37e399a40cfeeaa79c719"
+                        },
+                        "textures/flower_stinkkruid_nor_gl_2k.jpg": {
+                            "size": 2153075,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/flower_stinkkruid/flower_stinkkruid_nor_gl_2k.jpg",
+                            "md5": "8ec036dfddfbd3d9c5b320610736e62a"
+                        }
+                    },
+                    "size": 7539,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/flower_stinkkruid/flower_stinkkruid_2k.gltf",
+                    "md5": "93db3bba76e596a257e69017296f4544"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/flower_stinkkruid_arm_1k.jpg": {
+                            "size": 466764,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_stinkkruid/flower_stinkkruid_arm_1k.jpg",
+                            "md5": "160fff2e7cd93077aff996a3217f6b50"
+                        },
+                        "flower_stinkkruid.bin": {
+                            "size": 3299376,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/flower_stinkkruid/flower_stinkkruid.bin",
+                            "md5": "eb7cd1b1e4237be592107bd14a2791ff"
+                        },
+                        "textures/flower_stinkkruid_nor_gl_1k.jpg": {
+                            "size": 653063,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_stinkkruid/flower_stinkkruid_nor_gl_1k.jpg",
+                            "md5": "1ff1f184e61216979310ebec4ec712cc"
+                        },
+                        "textures/flower_stinkkruid_diff_1k.jpg": {
+                            "size": 354293,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_stinkkruid/flower_stinkkruid_diff_1k.jpg",
+                            "md5": "59a7c5e2079adea1b0fc09cc2ab04eb9"
+                        }
+                    },
+                    "size": 7539,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/flower_stinkkruid/flower_stinkkruid_1k.gltf",
+                    "md5": "819470db7e2fc539e0ee01f52809f5ca"
+                }
+            }
+        },
+        "usd": {
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/flower_stinkkruid_alpha_4k.png": {
+                            "size": 631584,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/flower_stinkkruid/flower_stinkkruid_alpha_4k.png",
+                            "md5": "e3609eacb3f8a6afd1df79332c131064"
+                        },
+                        "textures/flower_stinkkruid_diff_4k.jpg": {
+                            "size": 3184810,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/flower_stinkkruid/flower_stinkkruid_diff_4k.jpg",
+                            "md5": "f19ad1aa31b37d7af1a79503baa3b98b"
+                        },
+                        "textures/flower_stinkkruid_rough_4k.exr": {
+                            "size": 3551347,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/flower_stinkkruid/flower_stinkkruid_rough_4k.exr",
+                            "md5": "18329f34d4a7095de0f6d9af1723469d"
+                        },
+                        "textures/flower_stinkkruid_nor_gl_4k.exr": {
+                            "size": 16317221,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/flower_stinkkruid/flower_stinkkruid_nor_gl_4k.exr",
+                            "md5": "48daa9a6bad1cb9aad4f9659d65b5d25"
+                        }
+                    },
+                    "size": 4508165,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/flower_stinkkruid/flower_stinkkruid_4k.usdc",
+                    "md5": "5bf60b9b540de66d5e8efe1c7e6a747b"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/flower_stinkkruid_diff_2k.jpg": {
+                            "size": 1037938,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/flower_stinkkruid/flower_stinkkruid_diff_2k.jpg",
+                            "md5": "fea6f243566f61ea612b2dd3979fe221"
+                        },
+                        "textures/flower_stinkkruid_rough_2k.exr": {
+                            "size": 1085955,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/flower_stinkkruid/flower_stinkkruid_rough_2k.exr",
+                            "md5": "f5ad2a9ad43619a765a38c62f09332b1"
+                        },
+                        "textures/flower_stinkkruid_nor_gl_2k.exr": {
+                            "size": 4687827,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/flower_stinkkruid/flower_stinkkruid_nor_gl_2k.exr",
+                            "md5": "ff75ae76d28a1b46acca5701d7907149"
+                        },
+                        "textures/flower_stinkkruid_alpha_2k.png": {
+                            "size": 327284,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/flower_stinkkruid/flower_stinkkruid_alpha_2k.png",
+                            "md5": "3f5072600871095f5a43f0865fe35433"
+                        }
+                    },
+                    "size": 4508165,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/flower_stinkkruid/flower_stinkkruid_2k.usdc",
+                    "md5": "d2abf72ff0589b35ca752deaad0c7c8f"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/flower_stinkkruid_alpha_1k.png": {
+                            "size": 135641,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/flower_stinkkruid/flower_stinkkruid_alpha_1k.png",
+                            "md5": "71d8ea334f7acde4054eeaac85796add"
+                        },
+                        "textures/flower_stinkkruid_nor_gl_1k.exr": {
+                            "size": 1411534,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/flower_stinkkruid/flower_stinkkruid_nor_gl_1k.exr",
+                            "md5": "714757c76d5bf3eaedb4c5b358b658e7"
+                        },
+                        "textures/flower_stinkkruid_rough_1k.exr": {
+                            "size": 364714,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/flower_stinkkruid/flower_stinkkruid_rough_1k.exr",
+                            "md5": "a354aa8900698961afc8fa67b8b4a019"
+                        },
+                        "textures/flower_stinkkruid_diff_1k.jpg": {
+                            "size": 354293,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_stinkkruid/flower_stinkkruid_diff_1k.jpg",
+                            "md5": "59a7c5e2079adea1b0fc09cc2ab04eb9"
+                        }
+                    },
+                    "size": 4508165,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/flower_stinkkruid/flower_stinkkruid_1k.usdc",
+                    "md5": "5bf60b9b540de66d5e8efe1c7e6a747b"
+                }
+            }
+        },
+        "Alpha": {
+            "4k": {
+                "jpg": {
+                    "size": 1116733,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/flower_stinkkruid/flower_stinkkruid_alpha_4k.jpg",
+                    "md5": "d314b9bc442eba3262b76ca313879816"
+                },
+                "png": {
+                    "size": 631584,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/flower_stinkkruid/flower_stinkkruid_alpha_4k.png",
+                    "md5": "e3609eacb3f8a6afd1df79332c131064"
+                },
+                "exr": {
+                    "size": 1402502,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/flower_stinkkruid/flower_stinkkruid_alpha_4k.exr",
+                    "md5": "22541d213c3d6718f21ddb9a709636ed"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 451294,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/flower_stinkkruid/flower_stinkkruid_alpha_2k.jpg",
+                    "md5": "f456125cfa8e810df0333151e0c328c6"
+                },
+                "png": {
+                    "size": 327284,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/flower_stinkkruid/flower_stinkkruid_alpha_2k.png",
+                    "md5": "3f5072600871095f5a43f0865fe35433"
+                },
+                "exr": {
+                    "size": 613414,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/flower_stinkkruid/flower_stinkkruid_alpha_2k.exr",
+                    "md5": "a4d91db56ede75d2a24ca6ed01af4065"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 189736,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_stinkkruid/flower_stinkkruid_alpha_1k.jpg",
+                    "md5": "6edfb185a128ddb49f5ec9ef5cde2d64"
+                },
+                "png": {
+                    "size": 135641,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/flower_stinkkruid/flower_stinkkruid_alpha_1k.png",
+                    "md5": "71d8ea334f7acde4054eeaac85796add"
+                },
+                "exr": {
+                    "size": 266467,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/flower_stinkkruid/flower_stinkkruid_alpha_1k.exr",
+                    "md5": "e7b67ef21623dd3d5013d32dec92fc43"
+                }
+            }
+        },
+        "arm": {
+            "4k": {
+                "jpg": {
+                    "size": 4607347,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/flower_stinkkruid/flower_stinkkruid_arm_4k.jpg",
+                    "md5": "0c1cb1e8f1075ad6f6c19860151841a7"
+                },
+                "png": {
+                    "size": 7047028,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/flower_stinkkruid/flower_stinkkruid_arm_4k.png",
+                    "md5": "f06d46d9d9d4accaa70dcb27ae2ea8d3"
+                },
+                "exr": {
+                    "size": 8859680,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/flower_stinkkruid/flower_stinkkruid_arm_4k.exr",
+                    "md5": "7e0d1ded66a4e39bbb9b4d6064856035"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1436411,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/flower_stinkkruid/flower_stinkkruid_arm_2k.jpg",
+                    "md5": "c2443b2f67a37e399a40cfeeaa79c719"
+                },
+                "png": {
+                    "size": 4139667,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/flower_stinkkruid/flower_stinkkruid_arm_2k.png",
+                    "md5": "c180a59dd93c62ee1c3e1b0ffcf5b5d7"
+                },
+                "exr": {
+                    "size": 2709936,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/flower_stinkkruid/flower_stinkkruid_arm_2k.exr",
+                    "md5": "1c6a1224f9bfc75b8ea7c4eb5a4d67da"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 466764,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_stinkkruid/flower_stinkkruid_arm_1k.jpg",
+                    "md5": "160fff2e7cd93077aff996a3217f6b50"
+                },
+                "png": {
+                    "size": 1822247,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/flower_stinkkruid/flower_stinkkruid_arm_1k.png",
+                    "md5": "f549d6ad558d302c72a3e5897e905170"
+                },
+                "exr": {
+                    "size": 901877,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/flower_stinkkruid/flower_stinkkruid_arm_1k.exr",
+                    "md5": "65a7e5e1cae6691af10beadd5f127891"
+                }
+            }
+        },
+        "fbx": {
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/flower_stinkkruid_alpha_4k.png": {
+                            "size": 631584,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/flower_stinkkruid/flower_stinkkruid_alpha_4k.png",
+                            "md5": "e3609eacb3f8a6afd1df79332c131064"
+                        },
+                        "textures/flower_stinkkruid_diff_4k.jpg": {
+                            "size": 3184810,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/flower_stinkkruid/flower_stinkkruid_diff_4k.jpg",
+                            "md5": "f19ad1aa31b37d7af1a79503baa3b98b"
+                        },
+                        "textures/flower_stinkkruid_rough_4k.exr": {
+                            "size": 3551347,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/flower_stinkkruid/flower_stinkkruid_rough_4k.exr",
+                            "md5": "18329f34d4a7095de0f6d9af1723469d"
+                        },
+                        "textures/flower_stinkkruid_nor_gl_4k.exr": {
+                            "size": 16317221,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/flower_stinkkruid/flower_stinkkruid_nor_gl_4k.exr",
+                            "md5": "48daa9a6bad1cb9aad4f9659d65b5d25"
+                        }
+                    },
+                    "size": 3059676,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/flower_stinkkruid/flower_stinkkruid_4k.fbx",
+                    "md5": "4c5dbfdcad93803e5ca408094e7bb884"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/flower_stinkkruid_diff_2k.jpg": {
+                            "size": 1037938,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/flower_stinkkruid/flower_stinkkruid_diff_2k.jpg",
+                            "md5": "fea6f243566f61ea612b2dd3979fe221"
+                        },
+                        "textures/flower_stinkkruid_rough_2k.exr": {
+                            "size": 1085955,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/flower_stinkkruid/flower_stinkkruid_rough_2k.exr",
+                            "md5": "f5ad2a9ad43619a765a38c62f09332b1"
+                        },
+                        "textures/flower_stinkkruid_nor_gl_2k.exr": {
+                            "size": 4687827,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/flower_stinkkruid/flower_stinkkruid_nor_gl_2k.exr",
+                            "md5": "ff75ae76d28a1b46acca5701d7907149"
+                        },
+                        "textures/flower_stinkkruid_alpha_2k.png": {
+                            "size": 327284,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/flower_stinkkruid/flower_stinkkruid_alpha_2k.png",
+                            "md5": "3f5072600871095f5a43f0865fe35433"
+                        }
+                    },
+                    "size": 3059676,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/flower_stinkkruid/flower_stinkkruid_2k.fbx",
+                    "md5": "96d7a86bfab7bd00ebf8f8776a4ebc77"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/flower_stinkkruid_alpha_1k.png": {
+                            "size": 135641,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/flower_stinkkruid/flower_stinkkruid_alpha_1k.png",
+                            "md5": "71d8ea334f7acde4054eeaac85796add"
+                        },
+                        "textures/flower_stinkkruid_nor_gl_1k.exr": {
+                            "size": 1411534,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/flower_stinkkruid/flower_stinkkruid_nor_gl_1k.exr",
+                            "md5": "714757c76d5bf3eaedb4c5b358b658e7"
+                        },
+                        "textures/flower_stinkkruid_rough_1k.exr": {
+                            "size": 364714,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/flower_stinkkruid/flower_stinkkruid_rough_1k.exr",
+                            "md5": "a354aa8900698961afc8fa67b8b4a019"
+                        },
+                        "textures/flower_stinkkruid_diff_1k.jpg": {
+                            "size": 354293,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_stinkkruid/flower_stinkkruid_diff_1k.jpg",
+                            "md5": "59a7c5e2079adea1b0fc09cc2ab04eb9"
+                        }
+                    },
+                    "size": 3059676,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/flower_stinkkruid/flower_stinkkruid_1k.fbx",
+                    "md5": "dcc9384dcec05bfb8b42e29dc36777ff"
+                }
+            }
+        },
+        "AO": {
+            "4k": {
+                "jpg": {
+                    "size": 4433899,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/flower_stinkkruid/flower_stinkkruid_ao_4k.jpg",
+                    "md5": "077ffc48f6bdf1a0ceb64d995208e9f3"
+                },
+                "png": {
+                    "size": 3301631,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/flower_stinkkruid/flower_stinkkruid_ao_4k.png",
+                    "md5": "5b0c18d0f0119b34c49c2258c2b15f90"
+                },
+                "exr": {
+                    "size": 4826174,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/flower_stinkkruid/flower_stinkkruid_ao_4k.exr",
+                    "md5": "6cfbdbc013734f91574098397c7d9972"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1309312,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/flower_stinkkruid/flower_stinkkruid_ao_2k.jpg",
+                    "md5": "bfebf284809cd02c91571308b80b001c"
+                },
+                "png": {
+                    "size": 1865593,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/flower_stinkkruid/flower_stinkkruid_ao_2k.png",
+                    "md5": "4cf7c1a82b70bb21cca4fa3c6dee105d"
+                },
+                "exr": {
+                    "size": 1460228,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/flower_stinkkruid/flower_stinkkruid_ao_2k.exr",
+                    "md5": "bb34354a841f37975f9d4153f223205d"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 407189,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_stinkkruid/flower_stinkkruid_ao_1k.jpg",
+                    "md5": "77e0ba827628702543a235c80fe0e41e"
+                },
+                "png": {
+                    "size": 850804,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/flower_stinkkruid/flower_stinkkruid_ao_1k.png",
+                    "md5": "9c080f9dc453d303baaf88a5bb53398b"
+                },
+                "exr": {
+                    "size": 471728,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/flower_stinkkruid/flower_stinkkruid_ao_1k.exr",
+                    "md5": "0c2eb8e9045526c4927823828d9aa806"
+                }
+            }
+        },
+        "Displacement": {
+            "4k": {
+                "jpg": {
+                    "size": 2146025,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/flower_stinkkruid/flower_stinkkruid_disp_4k.jpg",
+                    "md5": "b8048e879be8214f02c71525a78584df"
+                },
+                "png": {
+                    "size": 4381244,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/flower_stinkkruid/flower_stinkkruid_disp_4k.png",
+                    "md5": "3ab8b965112fdc8cd75ddca6d4f76bb3"
+                },
+                "exr": {
+                    "size": 2704675,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/flower_stinkkruid/flower_stinkkruid_disp_4k.exr",
+                    "md5": "e630169fe4772cd77c5a831ceaae93e6"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 708202,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/flower_stinkkruid/flower_stinkkruid_disp_2k.jpg",
+                    "md5": "4487e1f7bb491281061f972575fc1db2"
+                },
+                "png": {
+                    "size": 1999060,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/flower_stinkkruid/flower_stinkkruid_disp_2k.png",
+                    "md5": "f9aa0a70ce4277bdd6826a54d6c18492"
+                },
+                "exr": {
+                    "size": 923463,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/flower_stinkkruid/flower_stinkkruid_disp_2k.exr",
+                    "md5": "3521824573bb553e6206affbd8f30753"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 240413,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_stinkkruid/flower_stinkkruid_disp_1k.jpg",
+                    "md5": "610f0f88f5e3014781b0c9e0a602b776"
+                },
+                "png": {
+                    "size": 835650,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/flower_stinkkruid/flower_stinkkruid_disp_1k.png",
+                    "md5": "ea06c0175d60092e1760a4e86178acf6"
+                },
+                "exr": {
+                    "size": 325796,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/flower_stinkkruid/flower_stinkkruid_disp_1k.exr",
+                    "md5": "0e29a657aa0647b5a39ddd6068c204d0"
+                }
+            }
+        },
+        "Rough": {
+            "4k": {
+                "jpg": {
+                    "size": 3209311,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/flower_stinkkruid/flower_stinkkruid_rough_4k.jpg",
+                    "md5": "21aa50829765514d0ed505c021a2231f"
+                },
+                "png": {
+                    "size": 2549537,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/flower_stinkkruid/flower_stinkkruid_rough_4k.png",
+                    "md5": "09ca4fd939cfa1f1050b9f2be9bbb7a5"
+                },
+                "exr": {
+                    "size": 3551347,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/flower_stinkkruid/flower_stinkkruid_rough_4k.exr",
+                    "md5": "18329f34d4a7095de0f6d9af1723469d"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 952848,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/flower_stinkkruid/flower_stinkkruid_rough_2k.jpg",
+                    "md5": "6362691d535fa05509f8e785abc8adc7"
+                },
+                "png": {
+                    "size": 1602540,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/flower_stinkkruid/flower_stinkkruid_rough_2k.png",
+                    "md5": "4f535e3ac9972cb5504ae4db00a07c8b"
+                },
+                "exr": {
+                    "size": 1085955,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/flower_stinkkruid/flower_stinkkruid_rough_2k.exr",
+                    "md5": "f5ad2a9ad43619a765a38c62f09332b1"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 306546,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/flower_stinkkruid/flower_stinkkruid_rough_1k.jpg",
+                    "md5": "b545643b311647a81942df932874d999"
+                },
+                "png": {
+                    "size": 763644,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/flower_stinkkruid/flower_stinkkruid_rough_1k.png",
+                    "md5": "70937f6f1611c4155e41e9e82905c996"
+                },
+                "exr": {
+                    "size": 364714,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/flower_stinkkruid/flower_stinkkruid_rough_1k.exr",
+                    "md5": "a354aa8900698961afc8fa67b8b4a019"
+                }
+            }
+        }
+    }
+}

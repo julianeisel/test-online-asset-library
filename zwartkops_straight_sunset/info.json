@@ -1,0 +1,509 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "sun",
+        "road",
+        "track",
+        "asphalt",
+        "race",
+        "straight",
+        "barrier",
+        "circuit",
+        "backplates"
+    ],
+    "name": "Zwartkops Straight Sunset",
+    "categories": [
+        "outdoor",
+        "urban",
+        "skies",
+        "natural light",
+        "clear",
+        "sunrise-sunset",
+        "low contrast"
+    ],
+    "backplates": true,
+    "date_taken": 1713721020,
+    "coords": [
+        -25.810044808817782,
+        28.110051739066126
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "files_hash": "498bc3f807584aab1c597a3a099bce90c4f6c349",
+    "date_published": 1722211200,
+    "sponsors": [
+        "37678923"
+    ],
+    "download_count": 21894,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zwartkops_straight_sunset.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 37006377,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/zwartkops_straight_sunset.jpg",
+            "md5": "5f4d55e278b3afa449b3f703ba21653a"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99062748,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/zwartkops_straight_sunset_8k.hdr",
+                    "md5": "e571468598a1457f8318a709f051da63"
+                },
+                "exr": {
+                    "size": 382687645,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/zwartkops_straight_sunset_8k.exr",
+                    "md5": "8457f02e0139586ad07dd7b6f1dd0810"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 377265004,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/zwartkops_straight_sunset_16k.hdr",
+                    "md5": "4c2fff760e2305b81a52f2f60c5459e6"
+                },
+                "exr": {
+                    "size": 1515397971,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/zwartkops_straight_sunset_16k.exr",
+                    "md5": "00b104d3d24604177a242fe9f89d6863"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25399388,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/zwartkops_straight_sunset_4k.hdr",
+                    "md5": "1321010cbbd53bb0f9b315e861488fa2"
+                },
+                "exr": {
+                    "size": 95982569,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/zwartkops_straight_sunset_4k.exr",
+                    "md5": "576cfc0908c8e0096f65ffff90557db1"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6351593,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/zwartkops_straight_sunset_2k.hdr",
+                    "md5": "296b1245696743e414a830c84defca41"
+                },
+                "exr": {
+                    "size": 24113673,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/zwartkops_straight_sunset_2k.exr",
+                    "md5": "c2cd40129bcc0432429349a2df36c7c2"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1556718,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/zwartkops_straight_sunset_1k.hdr",
+                    "md5": "26bb8986389b839f8191bc29ea6dd9f3"
+                },
+                "exr": {
+                    "size": 6053029,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/zwartkops_straight_sunset_1k.exr",
+                    "md5": "608250313b7a89838773a141b4c2f49f"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 579368031,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/zwartkops_straight_sunset_20k.hdr",
+                    "md5": "39651e9795b739e37c33716e80743d76"
+                },
+                "exr": {
+                    "size": 2339770416,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/zwartkops_straight_sunset_20k.exr",
+                    "md5": "d11f46839756f9d4307ff885e9bcdceb"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 198704248,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/zwartkops_straight_sunset.zip",
+            "md5": "0099a2e6b3bf0fb88cc63c98262185a3"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "size": 21032255,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/10.jpg",
+                    "md5": "f1bd5aaf2b5e445f4d04b205ecf55f0e"
+                },
+                "jpg_plain": {
+                    "size": 5088816,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/10.JPG",
+                    "md5": "e621e3771d8a27fe5aa221c1d11c3693"
+                },
+                "raw": {
+                    "size": 33499940,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/10.CR2",
+                    "md5": "3c2c302764088e9b9c5bbfa124b11f26"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "size": 12443524,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/11.jpg",
+                    "md5": "002f8191fc48a5a22ff877fb3ad81a39"
+                },
+                "jpg_plain": {
+                    "size": 5427027,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/11.JPG",
+                    "md5": "32f897bce42de2ba7995e7c517f60d7a"
+                },
+                "raw": {
+                    "size": 35409457,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/11.CR2",
+                    "md5": "4e508417dbcc35381e119abbbb1e1b15"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "size": 17916199,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/12.JPG",
+                    "md5": "0ee22e8311e9265ea1cf49f062becb8d"
+                },
+                "jpg_plain": {
+                    "size": 28965337,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/12.jpg",
+                    "md5": "14191486181e4f02fc5012f07e2d50cd"
+                },
+                "raw": {
+                    "size": 85505536,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/12.RAF",
+                    "md5": "9c20dc1b4539f3d46033c15e87b46b03"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "size": 16929817,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/13.JPG",
+                    "md5": "5b45c389f6e1fecd4c54cdc58811dbf8"
+                },
+                "jpg_plain": {
+                    "size": 28238556,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/13.jpg",
+                    "md5": "d28554679b078c916dbd0fe7a0409cc2"
+                },
+                "raw": {
+                    "size": 85093376,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/13.RAF",
+                    "md5": "f46b8a46b9e96a06e2140527b81e7dbb"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "size": 15457108,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/14.JPG",
+                    "md5": "afc7f6ace9ab169b87f98834f1ca96d7"
+                },
+                "jpg_plain": {
+                    "size": 26040105,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/14.jpg",
+                    "md5": "52d447b847a961cbde27545d7d337c50"
+                },
+                "raw": {
+                    "size": 84436992,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/14.RAF",
+                    "md5": "f11fcb2e588b67be894988f1fd242128"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "size": 17008729,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/15.JPG",
+                    "md5": "c3f5172625ef55efb681d74eefe16350"
+                },
+                "jpg_plain": {
+                    "size": 28060563,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/15.jpg",
+                    "md5": "02ec74887b08709b656e92f2b6925cc2"
+                },
+                "raw": {
+                    "size": 85124096,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/15.RAF",
+                    "md5": "7412f973bc7a49971a8f524a1ec8c7de"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "size": 18103813,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/16.JPG",
+                    "md5": "03ee37cee3f35f9f43285d7586e59a4e"
+                },
+                "jpg_plain": {
+                    "size": 27364952,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/16.jpg",
+                    "md5": "0ff4e756ff495a7e7779ed03db7b725c"
+                },
+                "raw": {
+                    "size": 85571584,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/16.RAF",
+                    "md5": "5746ab0abe11e07526afaf5845588405"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "size": 15877885,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/17.JPG",
+                    "md5": "979411ad6bbca4826031348515cb2c55"
+                },
+                "jpg_plain": {
+                    "size": 29096405,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/17.jpg",
+                    "md5": "84ac4482784a28aea2315f45f02c4671"
+                },
+                "raw": {
+                    "size": 84641792,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/17.RAF",
+                    "md5": "bee319e3708054cc218be85c544f7383"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "size": 19379722,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/18.JPG",
+                    "md5": "116e40e43c6f1b00f61210f7eaae4d48"
+                },
+                "jpg_plain": {
+                    "size": 30247883,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/18.jpg",
+                    "md5": "ea9edef682a1732afd26692f4d281421"
+                },
+                "raw": {
+                    "size": 86070272,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/18.RAF",
+                    "md5": "c54de1d177da482d948b013f44dd7c0f"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "size": 17996233,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/19.JPG",
+                    "md5": "0e12de9819dd3c3dc2a6631cce48718f"
+                },
+                "jpg_plain": {
+                    "size": 25983089,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/19.jpg",
+                    "md5": "be69d0b6d255f83d0fd374507308535d"
+                },
+                "raw": {
+                    "size": 85513216,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/19.RAF",
+                    "md5": "a4bff36f6be84c58afc3d313004b23cc"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "size": 18436263,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/20.JPG",
+                    "md5": "7fd4d37fd44ea84e0cc60a8a30df14af"
+                },
+                "jpg_plain": {
+                    "size": 23453563,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/20.jpg",
+                    "md5": "b8e2d9fbb06852b0cde6e2fb2b757de2"
+                },
+                "raw": {
+                    "size": 85823488,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/20.RAF",
+                    "md5": "c8038e39c517a3e4731eac7f24ed8a5c"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "size": 18408261,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/21.JPG",
+                    "md5": "334a3a378c28b273f3ee196fc555e4a8"
+                },
+                "jpg_plain": {
+                    "size": 28136810,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/21.jpg",
+                    "md5": "ae18569248ca0596dddaaebf1f81fb51"
+                },
+                "raw": {
+                    "size": 85636096,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/21.RAF",
+                    "md5": "f39385f21952cc7c52626fcee752a46e"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "size": 18606330,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/22.JPG",
+                    "md5": "577ce45a2d28d3ecb1c6ba7cfc8a7c04"
+                },
+                "jpg_plain": {
+                    "size": 28583313,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/22.jpg",
+                    "md5": "5f82f2a22185d8ed214be89f7b240d82"
+                },
+                "raw": {
+                    "size": 85701120,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/22.RAF",
+                    "md5": "4bd137c37ad1219be0bad88c38f8c62a"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "size": 17338213,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/01.jpg",
+                    "md5": "02f5f614ef5072f4070e74c33dcee4e0"
+                },
+                "jpg_plain": {
+                    "size": 5892192,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/01.JPG",
+                    "md5": "b75de51cc982f49ddab23c3ccbb9eff4"
+                },
+                "raw": {
+                    "size": 31892478,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/01.CR2",
+                    "md5": "aa5ea5d695d2bc04f08a735d45b7b539"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "size": 20130457,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/02.jpg",
+                    "md5": "240efcd08691bb9d9c2843cf4deaf3d2"
+                },
+                "jpg_plain": {
+                    "size": 5654503,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/02.JPG",
+                    "md5": "03007e155bfe50feb28347dfb08b2e59"
+                },
+                "raw": {
+                    "size": 31488773,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/02.CR2",
+                    "md5": "1c4cccbf4bd7bd76ca71245d8fe249e7"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "size": 17187768,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/03.jpg",
+                    "md5": "09f42b0da4517a89b1650ef15b1cdec3"
+                },
+                "jpg_plain": {
+                    "size": 5283998,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/03.JPG",
+                    "md5": "191f81d11f836c0a30af2c5578290e62"
+                },
+                "raw": {
+                    "size": 31457952,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/03.CR2",
+                    "md5": "47c045f6fc7a7ab5876ff8fd402e468e"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "size": 17625039,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/04.jpg",
+                    "md5": "47892150f54f3460c2be38dc2a017d40"
+                },
+                "jpg_plain": {
+                    "size": 5109925,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/04.JPG",
+                    "md5": "8b4c01a9c7808cdd1bdfa84b7baab17a"
+                },
+                "raw": {
+                    "size": 31127837,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/04.CR2",
+                    "md5": "eb2235a9e90fb80742d7931086bb1171"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "size": 17175656,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/05.jpg",
+                    "md5": "893a767fc11cba205dfeaed83cbfc077"
+                },
+                "jpg_plain": {
+                    "size": 5120461,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/05.JPG",
+                    "md5": "f0f3647e0eceac4fd4c125fb70d7ed46"
+                },
+                "raw": {
+                    "size": 31230419,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/05.CR2",
+                    "md5": "447182289093c293219bdfd8176be897"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "size": 17235313,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/06.jpg",
+                    "md5": "8001009454e509db6e5dbbb8f04d4584"
+                },
+                "jpg_plain": {
+                    "size": 6060898,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/06.JPG",
+                    "md5": "595caa82d20d25026c1e2a9d627fe0a7"
+                },
+                "raw": {
+                    "size": 32995422,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/06.CR2",
+                    "md5": "0d334fb5983b0b2d7d306572200f3940"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "size": 13994727,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/07.jpg",
+                    "md5": "eec92a28bf5e332bdd466c98df9c8042"
+                },
+                "jpg_plain": {
+                    "size": 4435327,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/07.JPG",
+                    "md5": "2432f56e2025511fd5f3cf495d7bf8b1"
+                },
+                "raw": {
+                    "size": 33327195,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/07.CR2",
+                    "md5": "2690f458126c5bc1805e6302b6dfbb20"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "size": 12812317,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/08.jpg",
+                    "md5": "5c69df70b77235e1949efa6c1db911f2"
+                },
+                "jpg_plain": {
+                    "size": 4502351,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/08.JPG",
+                    "md5": "bb70d84f6c4f7b7436a59049cb382ba9"
+                },
+                "raw": {
+                    "size": 31429217,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/08.CR2",
+                    "md5": "a544b5080e0733c98031626f5fa57458"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "size": 19908070,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_pretty/09.jpg",
+                    "md5": "c138ae180f90def1f6ed97d7569653be"
+                },
+                "jpg_plain": {
+                    "size": 4416050,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/jpg_plain/09.JPG",
+                    "md5": "8e41a100f28c78b1f04c210d399ed83e"
+                },
+                "raw": {
+                    "size": 35126268,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_straight_sunset/raw/09.CR2",
+                    "md5": "13593f15385a97dce53f3fca0b57caa8"
+                }
+            }
+        }
+    }
+}

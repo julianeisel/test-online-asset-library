@@ -1,0 +1,106 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "abandoned",
+        "graffiti",
+        "stage",
+        "theater",
+        "tree",
+        "stair"
+    ],
+    "date_published": 1542322800,
+    "name": "Summer Stage 02",
+    "categories": [
+        "outdoor",
+        "urban",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1538401860,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "993026"
+    ],
+    "files_hash": "1215eee3304c5c9370dd378a6141d6881ecd4c75",
+    "max_resolution": [
+        16500,
+        8250
+    ],
+    "download_count": 12649,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/summer_stage_02.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6096295,
+            "md5": "4d814f3c21690d392de7f723117d1a34",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/summer_stage_02.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103752673,
+                    "md5": "2baa86ed843a831328cfcace9df1cb4c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/summer_stage_02_8k.hdr"
+                },
+                "exr": {
+                    "size": 90435681,
+                    "md5": "e22e94a3d9b3cf41b3cc5871ce7e94ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/summer_stage_02_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 393655400,
+                    "md5": "ad7d2f3cb692feb2d7975ed838922913",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/summer_stage_02_16k.hdr"
+                },
+                "exr": {
+                    "size": 336172942,
+                    "md5": "4c68993e00f14d0c4947e34a57a7d951",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/summer_stage_02_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26487874,
+                    "md5": "83d3b12d83f8d89142e6162d26b0da28",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/summer_stage_02_4k.hdr"
+                },
+                "exr": {
+                    "size": 22984248,
+                    "md5": "10ae92e9a3a80070753618d0e8313305",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/summer_stage_02_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6556788,
+                    "md5": "50d682d4ee3be23772e11ac186fdb108",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/summer_stage_02_2k.hdr"
+                },
+                "exr": {
+                    "size": 5711882,
+                    "md5": "8e3772e592c48507bd66ed87d4358f91",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/summer_stage_02_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1605287,
+                    "md5": "f2925320574ac103737f2ae079baea34",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/summer_stage_02_1k.hdr"
+                },
+                "exr": {
+                    "size": 1432171,
+                    "md5": "036f75d9ac5d7d53698577c786214329",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/summer_stage_02_1k.exr"
+                }
+            }
+        }
+    }
+}

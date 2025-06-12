@@ -1,0 +1,105 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5050,
+    "tags": [
+        "snow",
+        "tree",
+        "winter"
+    ],
+    "date_published": 1553554800,
+    "name": "Snowy Park 01",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1547201340,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        {
+            "name": "Kimba"
+        }
+    ],
+    "files_hash": "c013dfe934f8f385b8ffcce54d8ff8188a7add7c",
+    "max_resolution": [
+        17000,
+        8500
+    ],
+    "download_count": 163415,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snowy_park_01.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5124952,
+            "md5": "c2489034fb47db1953d382fc89c833d5",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/snowy_park_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 86585698,
+                    "md5": "2c1801b5819e197ce1d31c715e5d35ee",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/snowy_park_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 66430374,
+                    "md5": "718743c7b37ad503447c37bf2b312df3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/snowy_park_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 337689150,
+                    "md5": "c8be75e23e54346063ab1f24c809276f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/snowy_park_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 268129834,
+                    "md5": "ba8347ae40b9407ee87d02e2d2caaf96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/snowy_park_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 21227714,
+                    "md5": "54a93db40e174d19609f6f340d4f122e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/snowy_park_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 16418481,
+                    "md5": "a441fb9c5153567cdfe7f6c7409f3623",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/snowy_park_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4998322,
+                    "md5": "2ee775c926a8df799fe6639aee1d9dc5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/snowy_park_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 4109732,
+                    "md5": "37d4f8d4a3f6b29d871dd7118f2b6515",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/snowy_park_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1211017,
+                    "md5": "dd7090d90d13e04a13a3a9e0cb2dd944",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/snowy_park_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1063213,
+                    "md5": "15076b6f48e19c5877f56ec630ac9db4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/snowy_park_01_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "rocky",
+        "arid",
+        "desert",
+        "cloud"
+    ],
+    "social_post_pending": true,
+    "name": "Rogland Overcast",
+    "date_taken": 1693897320,
+    "coords": [
+        -29.68232655273397,
+        17.949190420193943
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "15bd98db98df4658d1b0777a4cdef84d89fa18d1",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "skies",
+        "overcast",
+        "low contrast",
+        "morning-afternoon",
+        "collection: namaqualand"
+    ],
+    "date_published": 1728345600,
+    "download_count": 98,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rogland_overcast.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 45130673,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rogland_overcast.jpg",
+            "md5": "cad32b68d704b82c9253adc839bb87ce"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98773019,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rogland_overcast_8k.hdr",
+                    "md5": "a08c855887f7309ffd923680d7fbd62a"
+                },
+                "exr": {
+                    "size": 385485915,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rogland_overcast_8k.exr",
+                    "md5": "61a5a0076ec2f382d14fbc3e157fafbd"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 366836567,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rogland_overcast_16k.hdr",
+                    "md5": "65ed9f1ca2d4c76f759cba3381d94bc8"
+                },
+                "exr": {
+                    "size": 1521866440,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rogland_overcast_16k.exr",
+                    "md5": "5e4373f95a4fb3873b5365b82cd07ac7"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24583900,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rogland_overcast_4k.hdr",
+                    "md5": "13e63d14f5132ff9e3362a1e8802781b"
+                },
+                "exr": {
+                    "size": 96766169,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rogland_overcast_4k.exr",
+                    "md5": "5b897acb070f476be6ebecc77f92fb6e"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 811647574,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rogland_overcast_24k.hdr",
+                    "md5": "da4dcf38680d9c60b4530c51803411e2"
+                },
+                "exr": {
+                    "size": 3387183228,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rogland_overcast_24k.exr",
+                    "md5": "f4149bf38d9067bd57f2f0fd07fc3915"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5949699,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rogland_overcast_2k.hdr",
+                    "md5": "0fbacffd3a5db21603fca38105c8e542"
+                },
+                "exr": {
+                    "size": 24253006,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rogland_overcast_2k.exr",
+                    "md5": "4d13598e02ce9c0236929004046a44ea"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1469750,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rogland_overcast_1k.hdr",
+                    "md5": "5a32587769fcd6ce9a36ae91092e35c1"
+                },
+                "exr": {
+                    "size": 6084046,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rogland_overcast_1k.exr",
+                    "md5": "ebbc1e7f577af89e54f4bc8d53b762b0"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 817460219,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rogland_overcast.zip",
+            "md5": "2e7ed8ecd1a33fb9c21f896ffb09a432"
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "hangar",
+        "plane",
+        "airport",
+        "concrete",
+        "aviation",
+        "warehouse"
+    ],
+    "name": "Hangar Interior",
+    "categories": [
+        "indoor",
+        "urban",
+        "natural light",
+        "medium contrast",
+        "midday"
+    ],
+    "date_taken": 1710330780,
+    "coords": [
+        -25.658993,
+        28.211758
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "files_hash": "e0fe7b3ace44e019f018e191522bd9eb6cd86e2e",
+    "date_published": 1715731200,
+    "sponsors": [
+        "95481047"
+    ],
+    "download_count": 17547,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hangar_interior.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 46682042,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hangar_interior.jpg",
+            "md5": "ea1ec51bab32b1443c76f9b0bf30e840"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104066468,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hangar_interior_8k.hdr",
+                    "md5": "27cabf6a2760237d62577e107e2ec0be"
+                },
+                "exr": {
+                    "size": 385447723,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hangar_interior_8k.exr",
+                    "md5": "4eac6dfa5a17aa60a1ca02cbd828d484"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 396275610,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hangar_interior_16k.hdr",
+                    "md5": "e7f193b3bfb56879fd5548b5e2689ba2"
+                },
+                "exr": {
+                    "size": 1526906105,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hangar_interior_16k.exr",
+                    "md5": "e77a6ccde816e9f17d762f5e2f643ad8"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27027347,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hangar_interior_4k.hdr",
+                    "md5": "4da4ade8f69f89ee312f77014298ed3e"
+                },
+                "exr": {
+                    "size": 96912068,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hangar_interior_4k.exr",
+                    "md5": "3d5dd43874ff5b88bf15b028e599c7fe"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6939075,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hangar_interior_2k.hdr",
+                    "md5": "32d5499a202cf48c3b2be4cd785484d0"
+                },
+                "exr": {
+                    "size": 24375277,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hangar_interior_2k.exr",
+                    "md5": "ad400e15799039ef34070d1f1461b2ec"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1755683,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hangar_interior_1k.hdr",
+                    "md5": "11bde1787d58db3768cb8a5a4dd806ff"
+                },
+                "exr": {
+                    "size": 6127172,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hangar_interior_1k.exr",
+                    "md5": "bcc2b33fdc9e38e47c04504c917c1e18"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 608707729,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hangar_interior_20k.hdr",
+                    "md5": "5cda9f9e097f32f8013ff186f5ddf025"
+                },
+                "exr": {
+                    "size": 2361218722,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hangar_interior_20k.exr",
+                    "md5": "f8e9afdeac19bbf067015472e4eebd0c"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 194261327,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/hangar_interior.zip",
+            "md5": "8dc2b7bb5928a6bce605a4d27f201d4b"
+        }
+    }
+}

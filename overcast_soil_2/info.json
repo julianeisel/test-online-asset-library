@@ -1,0 +1,590 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 6000,
+    "tags": [
+        "soil",
+        "dirt",
+        "farm",
+        "field",
+        "rural",
+        "earth",
+        "backplates"
+    ],
+    "name": "Overcast Soil 2",
+    "categories": [
+        "outdoor",
+        "skies",
+        "natural light",
+        "nature",
+        "low contrast",
+        "overcast",
+        "morning-afternoon"
+    ],
+    "backplates": true,
+    "date_taken": 1697727240,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "files_hash": "1c7fd1a8bd2e8501ff9ec40b6e20b34603836e15",
+    "date_published": 1705276800,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 12762,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/overcast_soil_2.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 36820082,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/overcast_soil_2.jpg",
+            "md5": "3d9914c7ea0870689f0857e452225f04"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100537362,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/overcast_soil_2_8k.hdr",
+                    "md5": "3e5989c619fc1eb6882c1943e470258a"
+                },
+                "exr": {
+                    "size": 81667641,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/overcast_soil_2_8k.exr",
+                    "md5": "be2bf07b36365921f122b3af1fee8592"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 373217740,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/overcast_soil_2_16k.hdr",
+                    "md5": "30745c903bc69bc1fb4fcad20c4bc535"
+                },
+                "exr": {
+                    "size": 292829551,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/overcast_soil_2_16k.exr",
+                    "md5": "9e1a47e67e9e918a973dd0749b0111d8"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25919199,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/overcast_soil_2_4k.hdr",
+                    "md5": "20b14df624063e049860bca0e72d1478"
+                },
+                "exr": {
+                    "size": 21600023,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/overcast_soil_2_4k.exr",
+                    "md5": "3fa30aec7400ffdb100e88b351e51473"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6582720,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/overcast_soil_2_2k.hdr",
+                    "md5": "0537c0fe32afe72df1feddbbf53be3e1"
+                },
+                "exr": {
+                    "size": 5659626,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/overcast_soil_2_2k.exr",
+                    "md5": "a99db30a9b694cf514af9bcbd34dd51f"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1660890,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/overcast_soil_2_1k.hdr",
+                    "md5": "25ed948526a606e3293b0e58b1a56b41"
+                },
+                "exr": {
+                    "size": 1483679,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/overcast_soil_2_1k.exr",
+                    "md5": "1def96374883a9a821f06606e56a8a84"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 97879337,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/overcast_soil_2.zip",
+            "md5": "93fd1c5645a31f59f00b742b4480be90"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "size": 6379427,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/10.jpg",
+                    "md5": "86c14c5c981ff85d24d2eea13810eea3"
+                },
+                "jpg_plain": {
+                    "size": 4596403,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/10.jpg",
+                    "md5": "af65412119c44e709cf196a30c7945c7"
+                },
+                "raw": {
+                    "size": 23934450,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/10.NEF",
+                    "md5": "a78c7c11937d2acb90cc50f2c0f74eea"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "size": 7666474,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/11.jpg",
+                    "md5": "412da4d271cb42b742937880bea4180d"
+                },
+                "jpg_plain": {
+                    "size": 6464089,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/11.jpg",
+                    "md5": "bcdc0ef0012cb97ae8357ee86e231196"
+                },
+                "raw": {
+                    "size": 25104447,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/11.NEF",
+                    "md5": "9f8acd9b09ef94aff26f44550355c7a4"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "size": 7045337,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/12.jpg",
+                    "md5": "b0175c7ae821b2993422676055073794"
+                },
+                "jpg_plain": {
+                    "size": 5204051,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/12.jpg",
+                    "md5": "81eca03ed8bb41207e9988a6b8482a1d"
+                },
+                "raw": {
+                    "size": 24258613,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/12.NEF",
+                    "md5": "7a9a8463d034c023e3cd27d8a868ff95"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "size": 7423188,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/13.jpg",
+                    "md5": "73a55157e73c14fb42fd574861ba5c18"
+                },
+                "jpg_plain": {
+                    "size": 6115492,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/13.jpg",
+                    "md5": "6ca8b206e3f3d764837202fcf36fc85c"
+                },
+                "raw": {
+                    "size": 24718783,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/13.NEF",
+                    "md5": "6fd3526c4b54e9bcc50396cb042bf0f5"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "size": 8001362,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/14.jpg",
+                    "md5": "6b0a57e7d465939439ff4a582d3ae4d1"
+                },
+                "jpg_plain": {
+                    "size": 5688598,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/14.jpg",
+                    "md5": "eae79ffeb957312e81e364ff8e700e8a"
+                },
+                "raw": {
+                    "size": 25288822,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/14.NEF",
+                    "md5": "3df9d4709c45167422f9d0b6aae4d907"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "size": 9255939,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/15.jpg",
+                    "md5": "6d1e388f7887beb73ad99ba8ae00105f"
+                },
+                "jpg_plain": {
+                    "size": 7946872,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/15.jpg",
+                    "md5": "d09ec581ff7583a57db146b0f8aee9de"
+                },
+                "raw": {
+                    "size": 26431724,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/15.NEF",
+                    "md5": "0c7cef8a0a915e12ac29e8761798a261"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "size": 8660891,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/16.jpg",
+                    "md5": "99395eea43239fe0f2d673a97f90b486"
+                },
+                "jpg_plain": {
+                    "size": 5908191,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/16.jpg",
+                    "md5": "962622689240885c51e3806421e6fda5"
+                },
+                "raw": {
+                    "size": 24873923,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/16.NEF",
+                    "md5": "fa55f8f248c815a7c27ca87b53c90a27"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "size": 8992695,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/17.jpg",
+                    "md5": "51c1ba49965636deeee879999c28b8f5"
+                },
+                "jpg_plain": {
+                    "size": 6341701,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/17.jpg",
+                    "md5": "05171ab90fdcd576dd412b2905b30b05"
+                },
+                "raw": {
+                    "size": 24884868,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/17.NEF",
+                    "md5": "e1512ba3bb69487b243dac5d7b50ccca"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "size": 7923112,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/18.jpg",
+                    "md5": "7076ecabc6b5d8696c107ddf0080a435"
+                },
+                "jpg_plain": {
+                    "size": 5868463,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/18.jpg",
+                    "md5": "7ee4460873bd2c2aa9211918a128c237"
+                },
+                "raw": {
+                    "size": 23904868,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/18.NEF",
+                    "md5": "0914b6e1f15fff984c7f1b27d4bf40da"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "size": 7583552,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/19.jpg",
+                    "md5": "6b30b719487d7c9ec94bdc5003394d97"
+                },
+                "jpg_plain": {
+                    "size": 5302104,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/19.jpg",
+                    "md5": "0cd92d862528b1ff4f89b5d10876d3aa"
+                },
+                "raw": {
+                    "size": 23952354,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/19.NEF",
+                    "md5": "2cf85def9ec858851484cf1eee8400a2"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "size": 8759583,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/20.jpg",
+                    "md5": "36a9bb50b9395a1548109702b00240fc"
+                },
+                "jpg_plain": {
+                    "size": 5811686,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/20.jpg",
+                    "md5": "98e166c6af29f5f3457c908e7d458313"
+                },
+                "raw": {
+                    "size": 24253117,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/20.NEF",
+                    "md5": "022c195de1249c4de3a02fc5588b44eb"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "size": 7281607,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/21.jpg",
+                    "md5": "99f6d71cd6aa253fd42cc4b804541a22"
+                },
+                "jpg_plain": {
+                    "size": 4673198,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/21.jpg",
+                    "md5": "726922c5e8a4281ea825f903f387a4e4"
+                },
+                "raw": {
+                    "size": 23837196,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/21.NEF",
+                    "md5": "88caf84e5743610a707c77c515337420"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "size": 7495730,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/22.jpg",
+                    "md5": "dec107b5d93326b1817e83d1d8403d08"
+                },
+                "jpg_plain": {
+                    "size": 4837692,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/22.jpg",
+                    "md5": "65337139b66ab43f1ec6043a623eb558"
+                },
+                "raw": {
+                    "size": 23880512,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/22.NEF",
+                    "md5": "9660b788cdfefd70a280df199988c123"
+                }
+            },
+            "23": {
+                "jpg_pretty": {
+                    "size": 6736623,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/23.jpg",
+                    "md5": "9698873bbefbddb171e5a97402adbcb2"
+                },
+                "jpg_plain": {
+                    "size": 4821244,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/23.jpg",
+                    "md5": "4d44a769d1e1234c98093650fc58d3fb"
+                },
+                "raw": {
+                    "size": 23948523,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/23.NEF",
+                    "md5": "5d4876a95f74858686b463f8969aeda0"
+                }
+            },
+            "24": {
+                "jpg_pretty": {
+                    "size": 7377095,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/24.jpg",
+                    "md5": "d7f2d3df519d1338995634aad4fa7c52"
+                },
+                "jpg_plain": {
+                    "size": 4623399,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/24.jpg",
+                    "md5": "be57a7f0931b5331f9150e35857b9e01"
+                },
+                "raw": {
+                    "size": 23728072,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/24.NEF",
+                    "md5": "bb401f56330cc3fe173a1911c5677a24"
+                }
+            },
+            "25": {
+                "jpg_pretty": {
+                    "size": 6722599,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/25.jpg",
+                    "md5": "fefa752ea9a676bb702566f221736d26"
+                },
+                "jpg_plain": {
+                    "size": 5316833,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/25.jpg",
+                    "md5": "bb6b1afe6ca00647eb55b18515dbfc26"
+                },
+                "raw": {
+                    "size": 23884977,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/25.NEF",
+                    "md5": "029c09f1e20897a92baa70b6234f4e1c"
+                }
+            },
+            "26": {
+                "jpg_pretty": {
+                    "size": 7574785,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/26.jpg",
+                    "md5": "9271a30fa6b4bd3be644b4b40dab049c"
+                },
+                "jpg_plain": {
+                    "size": 5235641,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/26.jpg",
+                    "md5": "e8cee52f9b0b47bfb780005bd07d8970"
+                },
+                "raw": {
+                    "size": 23635155,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/26.NEF",
+                    "md5": "58e504a74273fbe6413e6a7ba56f00b9"
+                }
+            },
+            "27": {
+                "jpg_pretty": {
+                    "size": 7412860,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/27.jpg",
+                    "md5": "5b111fdef3a5aa6b9d5e0b48ce5bfed9"
+                },
+                "jpg_plain": {
+                    "size": 5896918,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/27.jpg",
+                    "md5": "49d192024eca510ca0084b060d1c530e"
+                },
+                "raw": {
+                    "size": 24371487,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/27.NEF",
+                    "md5": "f63b717a6271b76496fb3f7efa116683"
+                }
+            },
+            "28": {
+                "jpg_pretty": {
+                    "size": 6879732,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/28.jpg",
+                    "md5": "d967bab1ee1da6c43c98ca30b5d09f78"
+                },
+                "jpg_plain": {
+                    "size": 4838942,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/28.jpg",
+                    "md5": "8bfab87baabb0ae2a0f1d3c60e64715d"
+                },
+                "raw": {
+                    "size": 23728988,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/28.NEF",
+                    "md5": "e58b4b1d647a160c49d4a440bf5c817a"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "size": 7858162,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/01.jpg",
+                    "md5": "e9a1e9b16efff498d94248fa7e1912df"
+                },
+                "jpg_plain": {
+                    "size": 5251345,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/01.jpg",
+                    "md5": "1fc91f307adb9d7e24cc3c987689d43e"
+                },
+                "raw": {
+                    "size": 24193964,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/01.NEF",
+                    "md5": "027f730f36e6dc6460b58a879bc61df7"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "size": 7141836,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/02.jpg",
+                    "md5": "a69bbd27309ff374c98ac331b51fd67e"
+                },
+                "jpg_plain": {
+                    "size": 4559559,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/02.jpg",
+                    "md5": "3874432516dad81dee23491bdd3fd454"
+                },
+                "raw": {
+                    "size": 23706246,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/02.NEF",
+                    "md5": "90e5373ff59cfc77f34e9207f25e70d3"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "size": 7470329,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/03.jpg",
+                    "md5": "c65b30e43b5987ee2ac4549c727324dd"
+                },
+                "jpg_plain": {
+                    "size": 5076617,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/03.jpg",
+                    "md5": "5c13df3e1c98a9b09c6098569f2e4a47"
+                },
+                "raw": {
+                    "size": 23989547,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/03.NEF",
+                    "md5": "d705b02f47d2820f40dfa723b497c935"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "size": 7244934,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/04.jpg",
+                    "md5": "a1f97cf52b9c628b3d0d25b47070f7ed"
+                },
+                "jpg_plain": {
+                    "size": 5004855,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/04.jpg",
+                    "md5": "43bad597ff362f9aaff5b9a622801935"
+                },
+                "raw": {
+                    "size": 23847708,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/04.NEF",
+                    "md5": "1320b562d09eca14045590e9382d25de"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "size": 6197221,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/05.jpg",
+                    "md5": "ee69896ad754f0dd8e51443413212e49"
+                },
+                "jpg_plain": {
+                    "size": 4913648,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/05.jpg",
+                    "md5": "712277dcfbd3317c5c8d4fe2f5498b00"
+                },
+                "raw": {
+                    "size": 23961088,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/05.NEF",
+                    "md5": "29e8d9e62305f324404ee966290e74ed"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "size": 6631001,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/06.jpg",
+                    "md5": "a6087cf7513062b05c78be2497a78972"
+                },
+                "jpg_plain": {
+                    "size": 4622641,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/06.jpg",
+                    "md5": "f60d0c4959e69faf31227ab0369d0e86"
+                },
+                "raw": {
+                    "size": 23565732,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/06.NEF",
+                    "md5": "d1db2a9cd7fc53ab798bb0fb0654db3a"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "size": 6547030,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/07.jpg",
+                    "md5": "423fd710226bec8be6b15702173702e1"
+                },
+                "jpg_plain": {
+                    "size": 5012020,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/07.jpg",
+                    "md5": "8f9340b99b5140e380b014ae6da36950"
+                },
+                "raw": {
+                    "size": 23876510,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/07.NEF",
+                    "md5": "a3cafb8f367915635a4b353d394ac98b"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "size": 5968801,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/08.jpg",
+                    "md5": "6686486839086b4baac6c48f870c6d32"
+                },
+                "jpg_plain": {
+                    "size": 4370504,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/08.jpg",
+                    "md5": "ccf4519c8b48879f02fad0a2721f74cf"
+                },
+                "raw": {
+                    "size": 23400878,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/08.NEF",
+                    "md5": "7e9f575fc6788fec059cc0ec8ecbb341"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "size": 7647880,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_pretty/09.jpg",
+                    "md5": "4d0956b8d9c2fb94686e0c2cd0c0ead3"
+                },
+                "jpg_plain": {
+                    "size": 6096619,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/jpg_plain/09.jpg",
+                    "md5": "b186f33af80bf92765d86530e0714656"
+                },
+                "raw": {
+                    "size": 24982408,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/overcast_soil_2/raw/09.NEF",
+                    "md5": "204c3b5aa2f04007ef34d02800ce691a"
+                }
+            }
+        }
+    }
+}

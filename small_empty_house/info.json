@@ -1,0 +1,99 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "tags": [
+        "house",
+        "tile",
+        "lamp",
+        "door"
+    ],
+    "date_published": 1522879200,
+    "name": "Small Empty House",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1474794240,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "be0c8c1d839b50b4f31ed991b49a34fd542f6726",
+    "download_count": 31836,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/small_empty_house.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 3118783,
+            "md5": "c7db2b36b6bbfb3b5d722e93739529b7",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/small_empty_house.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/small_empty_house_8k.hdr",
+                    "size": 89040666,
+                    "md5": "67982fac4bef74d7b0eb15d9b27ccaee"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/small_empty_house_8k.exr",
+                    "size": 63527885,
+                    "md5": "51422a49cdd4c3ccdd7b9839ea4d42f2"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/small_empty_house_16k.hdr",
+                    "size": 304404599,
+                    "md5": "18aa20507b89856b88ad5ade42d64603"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/small_empty_house_16k.exr",
+                    "size": 220896577,
+                    "md5": "e64fc717174d38d749ac880536cb78af"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/small_empty_house_4k.hdr",
+                    "size": 23439131,
+                    "md5": "91b52af10308b7201b208f1dbcb965d4"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/small_empty_house_4k.exr",
+                    "size": 16897453,
+                    "md5": "32e273710dc478d2c91426cf08f4cf3a"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/small_empty_house_2k.hdr",
+                    "size": 5976728,
+                    "md5": "635d42794d44f12e3b04724e792dd905"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/small_empty_house_2k.exr",
+                    "size": 4339692,
+                    "md5": "5a95b51de5270a7e38e7167231a8f08f"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/small_empty_house_1k.hdr",
+                    "size": 1509651,
+                    "md5": "04ff3d6affad585a768a0751e7433cf9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/small_empty_house_1k.exr",
+                    "size": 1125548,
+                    "md5": "315a3235b84ee2653067e2b1d534045b"
+                }
+            }
+        }
+    }
+}

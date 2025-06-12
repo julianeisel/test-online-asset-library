@@ -1,0 +1,110 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "sun",
+        "stream",
+        "river",
+        "tree",
+        "pond",
+        "grass",
+        "root"
+    ],
+    "date_published": 1508536800,
+    "name": "Stream",
+    "categories": [
+        "outdoor",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -26.128576,
+        28.006198
+    ],
+    "date_taken": 1436017620,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "9133e834f366e9440171b8b2c7486bf01cb3bf41",
+    "sponsors": [
+        "42579608"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 22424,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stream.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 11674509,
+            "md5": "0a41b6c72d719ad81e36702197995b36",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/stream.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 114535200,
+                    "md5": "4115bf9fa94f8e85bfb1e7120b849f03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/stream_8k.hdr"
+                },
+                "exr": {
+                    "size": 120666044,
+                    "md5": "adb41e76e8cca024b235c719f9bd77b0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/stream_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 428239605,
+                    "md5": "2ca4204d610749c7563cca073e5e2457",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/stream_16k.hdr"
+                },
+                "exr": {
+                    "size": 435721196,
+                    "md5": "189b28f2c5ca25ecd5008d2cd1d06d58",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/stream_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29577348,
+                    "md5": "f2d6bcce654f49dc0a15dbd454feb7d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/stream_4k.hdr"
+                },
+                "exr": {
+                    "size": 30933475,
+                    "md5": "357e8972724c5d7aa82aec107b639ba0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/stream_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7539512,
+                    "md5": "1245fa5904b5bc112debc4886898276f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/stream_2k.hdr"
+                },
+                "exr": {
+                    "size": 7851695,
+                    "md5": "df4f63247b033337b1ce20f5a21f2b41",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/stream_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1893107,
+                    "md5": "96879e77fb2e02b954af054eb43090cf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/stream_1k.hdr"
+                },
+                "exr": {
+                    "size": 1967437,
+                    "md5": "2e01aae3c259e631694577f88c5608b7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/stream_1k.exr"
+                }
+            }
+        }
+    }
+}

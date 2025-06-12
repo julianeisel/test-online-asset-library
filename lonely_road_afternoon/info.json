@@ -1,0 +1,127 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "dirt road",
+        "gravel",
+        "farm",
+        "field",
+        "countryside",
+        "rural"
+    ],
+    "name": "Lonely Road Afternoon",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "skies",
+        "clear",
+        "sunrise-sunset",
+        "high contrast"
+    ],
+    "date_taken": 1699638660,
+    "coords": [
+        -28.046333,
+        26.603583
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "date_published": 1706486400,
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "files_hash": "714a4b3a9579bf2d8324abd3d4d5a3f0c626306d",
+    "download_count": 30936,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lonely_road_afternoon.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 50532878,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/lonely_road_afternoon.jpg",
+            "md5": "8a276f4a48b0df3e52ea28faf4577179"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100969134,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/lonely_road_afternoon_8k.hdr",
+                    "md5": "f6a950d179b988609a2ddc5f0661a296"
+                },
+                "exr": {
+                    "size": 384268619,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/lonely_road_afternoon_8k.exr",
+                    "md5": "b6136988d8a80ec10d5b36057b5a03cc"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 376724488,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lonely_road_afternoon_16k.hdr",
+                    "md5": "3445b4c944452dddea10c3bf53f20bda"
+                },
+                "exr": {
+                    "size": 1512479035,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lonely_road_afternoon_16k.exr",
+                    "md5": "af36d366d0dd5dd3c47121824db51149"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26309450,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/lonely_road_afternoon_4k.hdr",
+                    "md5": "90b182925192324136c4bdbbdf1cf538"
+                },
+                "exr": {
+                    "size": 96635227,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/lonely_road_afternoon_4k.exr",
+                    "md5": "555be22ca65e7fc17b369374ef11b59d"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6606851,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/lonely_road_afternoon_2k.hdr",
+                    "md5": "aa46592032aebcab45bcc1e9324a457b"
+                },
+                "exr": {
+                    "size": 24246875,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/lonely_road_afternoon_2k.exr",
+                    "md5": "23f37a34726516403e491f11c0e62a13"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1600765,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/lonely_road_afternoon_1k.hdr",
+                    "md5": "68de1d8291273add4999a466607927b2"
+                },
+                "exr": {
+                    "size": 6081167,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/lonely_road_afternoon_1k.exr",
+                    "md5": "831c71c7a633922b222e4d6f98b5d2e9"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 575363765,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/lonely_road_afternoon_20k.hdr",
+                    "md5": "6d15693aed041d394c166290510cf4f4"
+                },
+                "exr": {
+                    "size": 2339351261,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/lonely_road_afternoon_20k.exr",
+                    "md5": "33bc897cc82311c4bfde910963ed0578"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 213450826,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/lonely_road_afternoon.zip",
+            "md5": "55abfff5582f5e8db0504296c5de13eb"
+        }
+    }
+}

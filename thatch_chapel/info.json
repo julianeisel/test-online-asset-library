@@ -1,0 +1,126 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "room",
+        "thatch",
+        "windows",
+        "door",
+        "basket",
+        "table",
+        "chapel"
+    ],
+    "date_published": 1667347200,
+    "name": "Thatch Chapel",
+    "categories": [
+        "artificial light",
+        "indoor",
+        "urban",
+        "high contrast",
+        "morning-afternoon"
+    ],
+    "coords": [
+        -25.798718659481835,
+        28.33134693004516
+    ],
+    "date_taken": 1661098620,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "f1d8af398eb1a175aec2f538029d0b639c54cd6c",
+    "download_count": 79222,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/thatch_chapel.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 54674725,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/thatch_chapel.jpg",
+            "md5": "563b02ec640d0746f0bcbf442390f812"
+        },
+        "colorchart": {
+            "size": 304460633,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/thatch_chapel.zip",
+            "md5": "10d7722987e9f7ca25b6586b3cc6ab8a"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/thatch_chapel_8k.hdr",
+                    "size": 105864465,
+                    "md5": "3e9c90b060c1e060b74d8b79261c5c0b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/thatch_chapel_8k.exr",
+                    "size": 342452475,
+                    "md5": "25cbd840621a81ff5788a2b45000824b"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/thatch_chapel_16k.hdr",
+                    "size": 403814891,
+                    "md5": "3ffd0a7dbf8e5188289dfeb32d57edd0"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/thatch_chapel_16k.exr",
+                    "size": 1305817871,
+                    "md5": "230da0ca9dc607219716c1b54bae0e76"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/thatch_chapel_4k.hdr",
+                    "size": 27031533,
+                    "md5": "702b4dfb873f176dc1fb0343a6296f2d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/thatch_chapel_4k.exr",
+                    "size": 88010330,
+                    "md5": "253cfcad327125668d68ff298c959f2c"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/thatch_chapel_24k.hdr",
+                    "size": 889931157,
+                    "md5": "1a372a935ab9fc80474fda00148e842f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/thatch_chapel_24k.exr",
+                    "size": 2946032414,
+                    "md5": "82b37ced5383232c218556ecc6cb113e"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/thatch_chapel_2k.hdr",
+                    "size": 6850929,
+                    "md5": "da3523098378bdc67c582d32432c90e9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/thatch_chapel_2k.exr",
+                    "size": 22928180,
+                    "md5": "9026e46c2d4d5b176953ef2f6261389f"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/thatch_chapel_1k.hdr",
+                    "size": 1734245,
+                    "md5": "d9ad29c3e3ed13210e3acd2d68f5f814"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/thatch_chapel_1k.exr",
+                    "size": 6119203,
+                    "md5": "505dd154585b41076f426ab53356698f"
+                }
+            }
+        }
+    }
+}

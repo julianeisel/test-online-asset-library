@@ -1,0 +1,123 @@
+{
+    "donated": true,
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 6504,
+    "tags": [
+        "field",
+        "flower",
+        "path",
+        "tree",
+        "grass",
+        "farm",
+        "rural"
+    ],
+    "name": "Wildflower Field",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "clear",
+        "sunrise-sunset",
+        "skies",
+        "low contrast"
+    ],
+    "date_taken": 1722977700,
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "max_resolution": [
+        24088,
+        12044
+    ],
+    "files_hash": "e65f8ddd30eeee71a22fe2d904128b68ebb7bac5",
+    "date_published": 1724716800,
+    "download_count": 16403,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wildflower_field.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 49005168,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/wildflower_field.jpg",
+            "md5": "9c7fec3748685aab715da65a9727ed43"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100696031,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/wildflower_field_8k.hdr",
+                    "md5": "66569169c09ed113bc5c586c00122f1d"
+                },
+                "exr": {
+                    "size": 331671039,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/wildflower_field_8k.exr",
+                    "md5": "54125d5475fd1cdb8d8cd50a5052f852"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 384604833,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/wildflower_field_16k.hdr",
+                    "md5": "26471e7c28c89007b3490119b8ea47e9"
+                },
+                "exr": {
+                    "size": 1295970509,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/wildflower_field_16k.exr",
+                    "md5": "cd0205c069d0f8852332dcdde66f2cd7"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25325120,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/wildflower_field_4k.hdr",
+                    "md5": "8a91ac0ceda1b67737c4cc39021f3a1e"
+                },
+                "exr": {
+                    "size": 84776435,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/wildflower_field_4k.exr",
+                    "md5": "e572d744626c7c2f8976b4af6f96ef54"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 798869027,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/wildflower_field_24k.hdr",
+                    "md5": "fcc916c2e9ad7771f6f32f3926da1931"
+                },
+                "exr": {
+                    "size": 2760374545,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/wildflower_field_24k.exr",
+                    "md5": "5c15c8d59836a07295a44e56e4f6e679"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6081492,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/wildflower_field_2k.hdr",
+                    "md5": "e3149396f69e0ebc45684060c609ff3c"
+                },
+                "exr": {
+                    "size": 21917566,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/wildflower_field_2k.exr",
+                    "md5": "e5eeb50128f492b872cff010ce8c914f"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1449053,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/wildflower_field_1k.hdr",
+                    "md5": "ec6b024a392d13b29bbadc1730ea9d2f"
+                },
+                "exr": {
+                    "size": 5830002,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/wildflower_field_1k.exr",
+                    "md5": "cda8905bc776f44d78a75b1ef414a281"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 239834757,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/wildflower_field.zip",
+            "md5": "f83ca33308a4825b45507877dc128e44"
+        }
+    }
+}

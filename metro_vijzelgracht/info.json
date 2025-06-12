@@ -1,0 +1,130 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 2730,
+    "tags": [
+        "underground",
+        "metro",
+        "train",
+        "station",
+        "platform",
+        "metal",
+        "concrete",
+        "subway",
+        "architecture",
+        "modern",
+        "europe",
+        "amsterdam"
+    ],
+    "categories": [
+        "indoor",
+        "urban",
+        "artificial light",
+        "low contrast",
+        "night"
+    ],
+    "date_taken": 1698610440,
+    "coords": [
+        52.360357679470305,
+        4.891118510296261
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "info": null,
+    "name": "Metro: Vijzelgracht",
+    "files_hash": "5fcf8a9087a395531691534db86cd287248ae9e1",
+    "date_published": 1706227200,
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "download_count": 10016,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/metro_vijzelgracht.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 47714716,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/metro_vijzelgracht.jpg",
+            "md5": "3d21570ca2502e85b72a467b8372403e"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103710090,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/metro_vijzelgracht_8k.hdr",
+                    "md5": "453cc39a1a67e30fb904e740137fbbab"
+                },
+                "exr": {
+                    "size": 314142398,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/metro_vijzelgracht_8k.exr",
+                    "md5": "23b061f79e6d906e78c3a7c718f126ab"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 404412480,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/metro_vijzelgracht_16k.hdr",
+                    "md5": "aadfcb6b1fdbb9b6c48097c6da6fdd2a"
+                },
+                "exr": {
+                    "size": 1204670816,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/metro_vijzelgracht_16k.exr",
+                    "md5": "19cdb981e742bae6211f4d26ff351cfe"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26027273,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/metro_vijzelgracht_4k.hdr",
+                    "md5": "5e413212871bf2baf3aaed28e7c915ec"
+                },
+                "exr": {
+                    "size": 79978915,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/metro_vijzelgracht_4k.exr",
+                    "md5": "d9cba1c70b888fe85668b27c8399d7d0"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 899481623,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/metro_vijzelgracht_24k.hdr",
+                    "md5": "69acf43135cd0da937e189fe65c25527"
+                },
+                "exr": {
+                    "size": 2732333082,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/metro_vijzelgracht_24k.exr",
+                    "md5": "714b538fbbaf948d225090a282de2b55"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6483714,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/metro_vijzelgracht_2k.hdr",
+                    "md5": "cc0ad8658ee5d112a8e765983c41fd13"
+                },
+                "exr": {
+                    "size": 20711204,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/metro_vijzelgracht_2k.exr",
+                    "md5": "5dbbfdfad3f5efbe091435e34b321669"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1614172,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/metro_vijzelgracht_1k.hdr",
+                    "md5": "e336d066ce38547ea82d6045e963f75f"
+                },
+                "exr": {
+                    "size": 5530721,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/metro_vijzelgracht_1k.exr",
+                    "md5": "54d32a566cb83f0459e008d1df819c1b"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 1080793701,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/metro_vijzelgracht.zip",
+            "md5": "f2dc9b3fcd6102bdaf007d513fdfa836"
+        }
+    }
+}

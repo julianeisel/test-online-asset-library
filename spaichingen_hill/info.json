@@ -1,0 +1,126 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "tags": [
+        "sun",
+        "grass",
+        "field",
+        "tree",
+        "hilltop"
+    ],
+    "name": "Spaichingen Hill",
+    "categories": [
+        "outdoor",
+        "nature",
+        "natural light",
+        "sunrise-sunset",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast"
+    ],
+    "date_taken": 1630775520,
+    "coords": [
+        48.08539924280088,
+        8.744318783365332
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1634774400,
+    "sponsors": [
+        "37678923"
+    ],
+    "files_hash": "bb9d51108201dcd0ef89527c4530fc469d9d9e01",
+    "max_resolution": [
+        19376,
+        9688
+    ],
+    "download_count": 200868,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/spaichingen_hill.png?width=256&height=256",
+    "files": {
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/spaichingen_hill_19k.hdr",
+                    "size": 526366899,
+                    "md5": "d9bd4f32c993a838a1ec769f0513fd5b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/spaichingen_hill_19k.exr",
+                    "size": 1327359937,
+                    "md5": "1334532157b870dabc71c66eea04637f"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/spaichingen_hill_16k.hdr",
+                    "size": 383810272,
+                    "md5": "65b0b65425a3fb02d5fef33dfcb8d8cd"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/spaichingen_hill_16k.exr",
+                    "size": 1096926659,
+                    "md5": "040a1d4f04d046d6e567c010d64472b9"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/spaichingen_hill_8k.hdr",
+                    "size": 102377556,
+                    "md5": "f1197505f430c14ef86cfd045c417649"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/spaichingen_hill_8k.exr",
+                    "size": 326516388,
+                    "md5": "3f9908cdb3c3221d267bcb55c90aefac"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/spaichingen_hill_4k.hdr",
+                    "size": 26116556,
+                    "md5": "d4bdb28bbd5749225e3113d1fe231d64"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/spaichingen_hill_4k.exr",
+                    "size": 85554677,
+                    "md5": "7c1098b78ee5c0adbfe4f3e37eb38ba4"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/spaichingen_hill_2k.hdr",
+                    "size": 6415111,
+                    "md5": "56b771c361ca83093b5fd7aec5861980"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/spaichingen_hill_2k.exr",
+                    "size": 22194238,
+                    "md5": "5a810ad3e062f5cc4046e7b1a6091251"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/spaichingen_hill_1k.hdr",
+                    "size": 1560808,
+                    "md5": "dd7d9e206b0b1843c01862ff2686bd6f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/spaichingen_hill_1k.exr",
+                    "size": 5912654,
+                    "md5": "580abeb80e578d1fc58a81b4c1e4b685"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/spaichingen_hill.zip",
+            "size": 169611629,
+            "md5": "60903a66e1d3b0efdd86d974e574023f"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/spaichingen_hill.jpg",
+            "size": 52790943,
+            "md5": "ad22d97ad5cf7487b1d6eefd6ae19cc7"
+        }
+    }
+}

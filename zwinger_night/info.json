@@ -1,0 +1,109 @@
+{
+    "evs_cap": 18,
+    "type": 0,
+    "tags": [
+        "lamp",
+        "europe",
+        "architecture",
+        "building",
+        "square"
+    ],
+    "date_published": 1522879200,
+    "name": "Zwinger Night",
+    "categories": [
+        "outdoor",
+        "urban",
+        "night",
+        "overcast",
+        "high contrast",
+        "artificial light"
+    ],
+    "date_taken": 1478630760,
+    "coords": [
+        51.053,
+        13.733765
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "7947474",
+        "73871560"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "4e4d23b974e14810abac53f8979d2f7cb4c57a69",
+    "download_count": 46525,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zwinger_night.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6300113,
+            "md5": "91084b767483df5e4172b0affc760be7",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/zwinger_night.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/zwinger_night_8k.hdr",
+                    "size": 103433322,
+                    "md5": "8314027a1b226cc703ede3239ef280b1"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/zwinger_night_8k.exr",
+                    "size": 85668605,
+                    "md5": "237d78897d20dbeee51f603d9b40116b"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/zwinger_night_16k.hdr",
+                    "size": 395537368,
+                    "md5": "6e18c44634f7dea4d16e759894e0ee29"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/zwinger_night_16k.exr",
+                    "size": 323633807,
+                    "md5": "25b16dd9863c09efc058c86e32b91407"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/zwinger_night_4k.hdr",
+                    "size": 26463917,
+                    "md5": "01d3a2e4ed370de54cd21636f2f09670"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/zwinger_night_4k.exr",
+                    "size": 21626765,
+                    "md5": "c2ddf301c5537ef2c3b3756dc8e697d6"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/zwinger_night_2k.hdr",
+                    "size": 6630866,
+                    "md5": "bf80d1419934910b202e9bc9a9a80339"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/zwinger_night_2k.exr",
+                    "size": 5319559,
+                    "md5": "fef550bec83cec9005252cd71bf93f92"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/zwinger_night_1k.hdr",
+                    "size": 1627536,
+                    "md5": "b36a61406f6fa7aba6e3e6f891f0ce32"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/zwinger_night_1k.exr",
+                    "size": 1294242,
+                    "md5": "8e07ca33801449840d9cc222f4c38ca5"
+                }
+            }
+        }
+    }
+}

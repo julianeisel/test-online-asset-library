@@ -1,0 +1,116 @@
+{
+    "evs_cap": 20,
+    "type": 0,
+    "whitebalance": 4532,
+    "tags": [
+        "rocky",
+        "arid",
+        "desert",
+        "astronomy",
+        "galaxy",
+        "stars",
+        "moon"
+    ],
+    "social_post_pending": true,
+    "name": "Rogland Moonlit Night",
+    "date_taken": 1694064780,
+    "coords": [
+        -29.68232655273397,
+        17.949190420193943
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "6dc13ac0d19e1d87432be11f95f9ddbc2b764afc",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "skies",
+        "partly cloudy",
+        "high contrast",
+        "night",
+        "collection: namaqualand"
+    ],
+    "date_published": 1728345600,
+    "download_count": 341,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rogland_moonlit_night.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 47896479,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rogland_moonlit_night.jpg",
+            "md5": "26c4a52379c4d6eb5167be1cb7173090"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103697549,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rogland_moonlit_night_8k.hdr",
+                    "md5": "1bd43b0a38e294e87eab0991bf930291"
+                },
+                "exr": {
+                    "size": 384383874,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rogland_moonlit_night_8k.exr",
+                    "md5": "3d311267d6088101c96c6538447c934e"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 402486481,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rogland_moonlit_night_16k.hdr",
+                    "md5": "51ae87244377036920a61a5c47c67bdd"
+                },
+                "exr": {
+                    "size": 1515560568,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rogland_moonlit_night_16k.exr",
+                    "md5": "fc99d63415e2a02efbd63b4775fec4fd"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26495692,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rogland_moonlit_night_4k.hdr",
+                    "md5": "f6a432c6315ccdba78831c0f41ff34e5"
+                },
+                "exr": {
+                    "size": 96639156,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rogland_moonlit_night_4k.exr",
+                    "md5": "b33478bf00f735d7efd5cc9cf793da48"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6762142,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rogland_moonlit_night_2k.hdr",
+                    "md5": "35ef38ea0eeca723952be15233c7fbd6"
+                },
+                "exr": {
+                    "size": 24281226,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rogland_moonlit_night_2k.exr",
+                    "md5": "3051596977a7fc8301a394eb2fc9eea4"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1723744,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rogland_moonlit_night_1k.hdr",
+                    "md5": "19bcd78f82342c992ac2e01c3f65e1e3"
+                },
+                "exr": {
+                    "size": 6099557,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rogland_moonlit_night_1k.exr",
+                    "md5": "5e5129126ef33d2b47d1d45c83a7799e"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 815101643,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rogland_moonlit_night.zip",
+            "md5": "66c56d9bc6ad1a892e9f42107f2b326f"
+        }
+    }
+}

@@ -1,0 +1,508 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "whitebalance": 6000,
+    "tags": [
+        "field",
+        "grass",
+        "backplates"
+    ],
+    "name": "Scythian Tombs",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "partly cloudy",
+        "low contrast",
+        "skies",
+        "sunrise-sunset"
+    ],
+    "backplates": true,
+    "coords": [
+        50.799222,
+        33.583327
+    ],
+    "date_taken": 1665331920,
+    "info": null,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1669766400,
+    "files_hash": "2ecbe085c042b71bed133653a3dfc13aaa0663f9",
+    "sponsors": [
+        "37678923"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 63709,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/scythian_tombs.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 39373623,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/scythian_tombs.jpg",
+            "md5": "364e4553980f67c5bb5a12a875d774c1"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99404461,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/scythian_tombs_8k.hdr",
+                    "md5": "6bf324d38be0b65c52c92ce79d9632e7"
+                },
+                "exr": {
+                    "size": 78678758,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/scythian_tombs_8k.exr",
+                    "md5": "190201487df757c8a088dd6137caa74e"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 371958911,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/scythian_tombs_16k.hdr",
+                    "md5": "fd28a7d503e3d27cb46690bd3a1dd3d1"
+                },
+                "exr": {
+                    "size": 284412001,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/scythian_tombs_16k.exr",
+                    "md5": "50cf4ee5cc7f898a5e4ce05f21aa6ade"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25487436,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/scythian_tombs_4k.hdr",
+                    "md5": "47efaeca3ed7d1e1b6e11d0c58d5f5c4"
+                },
+                "exr": {
+                    "size": 20803518,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/scythian_tombs_4k.exr",
+                    "md5": "1aa0548c698923198da5ef273e4650bc"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6467091,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/scythian_tombs_2k.hdr",
+                    "md5": "1315783b3b71506dd9b45cf5e351ce74"
+                },
+                "exr": {
+                    "size": 5481344,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/scythian_tombs_2k.exr",
+                    "md5": "a0dd1315ec4f5605859411da30a5960f"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1640060,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/scythian_tombs_1k.hdr",
+                    "md5": "d9bc8eadf4eb99e5f5707079ca7b8b76"
+                },
+                "exr": {
+                    "size": 1440448,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/scythian_tombs_1k.exr",
+                    "md5": "1e8cd730d2b3a4261e10c5782d708115"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 68147366,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/scythian_tombs.zip",
+            "md5": "b88f9e2a1691bd9930b0de820cab8982"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "size": 8171570,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/10.jpg",
+                    "md5": "6f7fc6a91a4e0e45796529f6e88af475"
+                },
+                "jpg_plain": {
+                    "size": 3846643,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/10.jpg",
+                    "md5": "e16d9c347f8a2f6fe1bcc04f36dae4fa"
+                },
+                "raw": {
+                    "size": 24615594,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/10.NEF",
+                    "md5": "e3cbe53a239adfc1d72e38ddd833553a"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "size": 8690850,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/11.jpg",
+                    "md5": "59b217158e9dca1209afab6d6561fcaa"
+                },
+                "jpg_plain": {
+                    "size": 3949326,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/11.jpg",
+                    "md5": "8543fa5f9b3d02fe29ddfe40743c3569"
+                },
+                "raw": {
+                    "size": 24690216,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/11.NEF",
+                    "md5": "0152b259bb2112681b0ea4732f5d43c3"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "size": 9997109,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/12.jpg",
+                    "md5": "e82b6e092829d2ae415c8e19b314fe08"
+                },
+                "jpg_plain": {
+                    "size": 4552460,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/12.jpg",
+                    "md5": "2d59e7382c6066981a53dc87c2d82aef"
+                },
+                "raw": {
+                    "size": 25231710,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/12.NEF",
+                    "md5": "8909975683e734e7526f6e2feee96e56"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "size": 9232385,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/13.jpg",
+                    "md5": "2a0274250e3029df88902f86d251f7d0"
+                },
+                "jpg_plain": {
+                    "size": 4519021,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/13.jpg",
+                    "md5": "73e8a95c9d11eb5ae59f2605059220b3"
+                },
+                "raw": {
+                    "size": 25113185,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/13.NEF",
+                    "md5": "f6614d1ad6d0852abfe1dd11f205887f"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "size": 12029894,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/14.jpg",
+                    "md5": "14c158b2d067b6f413027cbbc0873a33"
+                },
+                "jpg_plain": {
+                    "size": 6086432,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/14.jpg",
+                    "md5": "40713e319a08092e7d34f1041d6a69f2"
+                },
+                "raw": {
+                    "size": 25873116,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/14.NEF",
+                    "md5": "71d6cdbb72478f5c4b5f22b08760ea0b"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "size": 7168054,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/15.jpg",
+                    "md5": "e1cf4bf8fea08fda85dccaa897b6bbef"
+                },
+                "jpg_plain": {
+                    "size": 2722365,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/15.jpg",
+                    "md5": "c00f1ffbc7d77e8851849bc3b2611ba6"
+                },
+                "raw": {
+                    "size": 23813434,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/15.NEF",
+                    "md5": "b01c40724a8a3fca74523ba34e1ff03b"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "size": 6433963,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/16.jpg",
+                    "md5": "106176f53b27c60371ec8d6a86f526d0"
+                },
+                "jpg_plain": {
+                    "size": 2261094,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/16.jpg",
+                    "md5": "85ccf1b8aeef1e6deec391eb999be75d"
+                },
+                "raw": {
+                    "size": 23475822,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/16.NEF",
+                    "md5": "f4bc5f85cf28e68dbfcbe07349342a9f"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "size": 6179403,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/17.jpg",
+                    "md5": "215c4e75aaccaa44abd407ef48151ac5"
+                },
+                "jpg_plain": {
+                    "size": 2453346,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/17.jpg",
+                    "md5": "791977b6ae25f80ee56ab23285afa347"
+                },
+                "raw": {
+                    "size": 23700693,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/17.NEF",
+                    "md5": "b1e6bfb2d88f473be84b1d3736305ed4"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "size": 5771009,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/18.jpg",
+                    "md5": "bab72fc0c04985293a530832e340469a"
+                },
+                "jpg_plain": {
+                    "size": 2717691,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/18.jpg",
+                    "md5": "7daed75e5d513a1e19281b6c3d2f3407"
+                },
+                "raw": {
+                    "size": 24097012,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/18.NEF",
+                    "md5": "9c3a3a36c7b985c22bb4306c695f8246"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "size": 10377029,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/19.jpg",
+                    "md5": "274d67dced473e43b0c765279ff8b444"
+                },
+                "jpg_plain": {
+                    "size": 6301724,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/19.jpg",
+                    "md5": "dab617d52bf7c4d5b871454b03b19212"
+                },
+                "raw": {
+                    "size": 26131553,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/19.NEF",
+                    "md5": "b64297b2b0f82ecdcbc5de6f7c36d1a2"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "size": 9747404,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/20.jpg",
+                    "md5": "ab83190509385f257c05124130bfa63c"
+                },
+                "jpg_plain": {
+                    "size": 5480188,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/20.jpg",
+                    "md5": "b0996e85055f2cd85fd66f5381a47971"
+                },
+                "raw": {
+                    "size": 25768201,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/20.NEF",
+                    "md5": "45a93ae6fabb72a7328b56b2e10b2f3b"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "size": 9503289,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/21.jpg",
+                    "md5": "938aba725eee882b8391a12f6071beaf"
+                },
+                "jpg_plain": {
+                    "size": 5351748,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/21.jpg",
+                    "md5": "7deff2fe0558b4a8c1a3d6419047ebb5"
+                },
+                "raw": {
+                    "size": 25688418,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/21.NEF",
+                    "md5": "cf9387448169d617377e41f6cde7bb4c"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "size": 9052744,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/22.jpg",
+                    "md5": "2879ffded0f428593a039e724c5a327b"
+                },
+                "jpg_plain": {
+                    "size": 5036247,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/22.jpg",
+                    "md5": "a79a3a0a6e602bc97333aa5db4f75c9d"
+                },
+                "raw": {
+                    "size": 25493521,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/22.NEF",
+                    "md5": "5b975420ac3c9c207e314268666792fc"
+                }
+            },
+            "23": {
+                "jpg_pretty": {
+                    "size": 8147194,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/23.jpg",
+                    "md5": "415ab6c2dcf2a2e35bac75ac9216b7eb"
+                },
+                "jpg_plain": {
+                    "size": 4873321,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/23.jpg",
+                    "md5": "fc99ff36952a22064ef45c55e9f8eae9"
+                },
+                "raw": {
+                    "size": 26275778,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/23.NEF",
+                    "md5": "3b4aa3eee5ca40914aa28c5f2ea36d02"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "size": 7971076,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/01.jpg",
+                    "md5": "dc5d71a59f0fc0c289bedd9459d467ea"
+                },
+                "jpg_plain": {
+                    "size": 4014398,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/01.jpg",
+                    "md5": "d6bd55faa754fedd6f6eefb978425960"
+                },
+                "raw": {
+                    "size": 24571657,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/01.NEF",
+                    "md5": "bb2b703cf14e976bac5fe3dee6661051"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "size": 8061960,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/02.jpg",
+                    "md5": "d3dd271b39fd716c03a597fb57b93469"
+                },
+                "jpg_plain": {
+                    "size": 3925123,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/02.jpg",
+                    "md5": "e1c93e6cc8d29e520e92f1f36c12ed0c"
+                },
+                "raw": {
+                    "size": 24452639,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/02.NEF",
+                    "md5": "5fbd4c81d50287d7ae39e050d6a31cf6"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "size": 9937343,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/03.jpg",
+                    "md5": "8bf8954665a61465bc51ed763120cffa"
+                },
+                "jpg_plain": {
+                    "size": 4985705,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/03.jpg",
+                    "md5": "dda93866f5124236dfe96caac719a5ee"
+                },
+                "raw": {
+                    "size": 25169214,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/03.NEF",
+                    "md5": "a3ba413b548fb4b2f4d86f296c914055"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "size": 6911813,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/04.jpg",
+                    "md5": "50296d6a8bdd79bb53f2b50de2e29f07"
+                },
+                "jpg_plain": {
+                    "size": 3243657,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/04.jpg",
+                    "md5": "4b16d6cbecc4de7a47511d2ae5d52020"
+                },
+                "raw": {
+                    "size": 24121244,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/04.NEF",
+                    "md5": "3e74eca4620f0ff8d016f1aa331860f7"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "size": 7625097,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/05.jpg",
+                    "md5": "edf1a52775acfa3fae2e364fa84acca3"
+                },
+                "jpg_plain": {
+                    "size": 3436445,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/05.jpg",
+                    "md5": "c48d380dec97fdf8b32364498a8bbfc4"
+                },
+                "raw": {
+                    "size": 24558550,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/05.NEF",
+                    "md5": "e43ec157038832f727c355aa6b38e74d"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "size": 8432857,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/06.jpg",
+                    "md5": "f7f4138b93185f22af727d27b5f08e7f"
+                },
+                "jpg_plain": {
+                    "size": 4556246,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/06.jpg",
+                    "md5": "bdc896a787c7bdb5b333957dd2078ecc"
+                },
+                "raw": {
+                    "size": 24965284,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/06.NEF",
+                    "md5": "e06f716ebc315f750e38e1d3da2762b1"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "size": 7299799,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/07.jpg",
+                    "md5": "4cac2b22f1e42db603e87351b4105d19"
+                },
+                "jpg_plain": {
+                    "size": 4453636,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/07.jpg",
+                    "md5": "9e2291b99a988cd995885b0c05dbaa96"
+                },
+                "raw": {
+                    "size": 25464800,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/07.NEF",
+                    "md5": "0715244bf5f80d28f3f13c5a1f3d5849"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "size": 7838375,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/08.jpg",
+                    "md5": "28b84970dcd7999238db995dab5f8850"
+                },
+                "jpg_plain": {
+                    "size": 3932613,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/08.jpg",
+                    "md5": "a69f4bdd9ae49143b83ffbc6785ad250"
+                },
+                "raw": {
+                    "size": 24898370,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/08.NEF",
+                    "md5": "b9cf5dc0951307d5a3d834b55895a2fd"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "size": 8580948,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_pretty/09.jpg",
+                    "md5": "57d91512f38ca1fb00801d18cf845780"
+                },
+                "jpg_plain": {
+                    "size": 4170485,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/jpg_plain/09.jpg",
+                    "md5": "3cad4af80a55f2125bc5827d853f6b08"
+                },
+                "raw": {
+                    "size": 24830134,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/scythian_tombs/raw/09.NEF",
+                    "md5": "5d46da0404b771407c833d8a2fd6cdab"
+                }
+            }
+        }
+    }
+}

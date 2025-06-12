@@ -1,0 +1,118 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "tree",
+        "monument",
+        "cross",
+        "park",
+        "grass"
+    ],
+    "date_published": 1582239600,
+    "name": "Ruckenkreuz",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1572442500,
+    "coords": [
+        48.409861,
+        9.790544
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "files_hash": "5563aef7bd2c79392d7dc37e6bbc82e48327e986",
+    "max_resolution": [
+        19228,
+        9614
+    ],
+    "download_count": 27521,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ruckenkreuz.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6246393,
+            "md5": "0e84d724daba136ec07ed52bde2364c1",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/ruckenkreuz.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 552443487,
+                    "md5": "c22d34aaea1e11cfeaa1ca5ac1f2ee09",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/ruckenkreuz_19k.hdr"
+                },
+                "exr": {
+                    "size": 468534623,
+                    "md5": "19da727f41c1a7549b7c8e241b1f93fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/ruckenkreuz_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 106835101,
+                    "md5": "a8bc8d44dd1bf12ecfc16b5c63188efa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/ruckenkreuz_8k.hdr"
+                },
+                "exr": {
+                    "size": 91915451,
+                    "md5": "dab07e4ddd2940fa97b6aa0ed0e2ffae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/ruckenkreuz_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 407453066,
+                    "md5": "a2ce7ff174fd2e8f5c4ca15d14ce9863",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/ruckenkreuz_16k.hdr"
+                },
+                "exr": {
+                    "size": 350578949,
+                    "md5": "2b1ca4a0f14c451f12e3a3f0b382f54a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/ruckenkreuz_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27184124,
+                    "md5": "9b9ba5fe5c7da99f009854ab436ec2ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/ruckenkreuz_4k.hdr"
+                },
+                "exr": {
+                    "size": 23041397,
+                    "md5": "d5e4d67edacd320e88f22241b0c15091",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/ruckenkreuz_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6775167,
+                    "md5": "8a6a64a864b1be9a1790015927dd7cbe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/ruckenkreuz_2k.hdr"
+                },
+                "exr": {
+                    "size": 5612713,
+                    "md5": "90d006e402318e574d1f98bcca5845e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/ruckenkreuz_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1661602,
+                    "md5": "06cb37761dc78b37984fd8b912f48e4d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/ruckenkreuz_1k.hdr"
+                },
+                "exr": {
+                    "size": 1370451,
+                    "md5": "7bcf0aaa4f8cf5808a4ec8d11590026d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/ruckenkreuz_1k.exr"
+                }
+            }
+        }
+    }
+}

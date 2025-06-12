@@ -1,0 +1,124 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "field",
+        "dry grass",
+        "park"
+    ],
+    "name": "Rosendal Park Sunset",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "clear",
+        "skies",
+        "low contrast",
+        "sunrise-sunset"
+    ],
+    "date_taken": 1691863560,
+    "coords": [
+        -28.506456,
+        27.9373
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "files_hash": "4c06a628bb79b34edcf7f84053b597d8eb9fb28f",
+    "date_published": 1699228800,
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "download_count": 52063,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rosendal_park_sunset.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 58242424,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rosendal_park_sunset.jpg",
+            "md5": "f778aba7bf589ed296567452c2e0caab"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101849820,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rosendal_park_sunset_8k.hdr",
+                    "md5": "4c77d32482a959f0d1660c2b79ee2001"
+                },
+                "exr": {
+                    "size": 384448778,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rosendal_park_sunset_8k.exr",
+                    "md5": "0cc7eb10e282230c6fdedaf139582808"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 383388383,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rosendal_park_sunset_16k.hdr",
+                    "md5": "b01ec4eb4b870c363c84ef1a18b70486"
+                },
+                "exr": {
+                    "size": 1517249437,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rosendal_park_sunset_16k.exr",
+                    "md5": "311230820a14e07ae853d94fa56ec08b"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26314373,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rosendal_park_sunset_4k.hdr",
+                    "md5": "2677e6f1fb03f7fcde5839bc39d6f31e"
+                },
+                "exr": {
+                    "size": 96580915,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rosendal_park_sunset_4k.exr",
+                    "md5": "d356185f5d289814f15bfb3486027846"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6581753,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rosendal_park_sunset_2k.hdr",
+                    "md5": "1580e4fe4374c35463e49d647b30c157"
+                },
+                "exr": {
+                    "size": 24212659,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rosendal_park_sunset_2k.exr",
+                    "md5": "c97881f216e9445cf42c31c8680ae250"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1616956,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rosendal_park_sunset_1k.hdr",
+                    "md5": "b2492087e3476bf89997189632b86f57"
+                },
+                "exr": {
+                    "size": 6070959,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rosendal_park_sunset_1k.exr",
+                    "md5": "ccf30f3c7c0154fd52fc95ecc846db88"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 587488401,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rosendal_park_sunset_20k.hdr",
+                    "md5": "cf33152d9e2bafc145b8d2e2bc63d64f"
+                },
+                "exr": {
+                    "size": 2351499504,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rosendal_park_sunset_20k.exr",
+                    "md5": "4a839b2ec121f5f1f5b0e6fe8e28e0d7"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 173374961,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rosendal_park_sunset.zip",
+            "md5": "6ba24ead79b3b562307050c4b8019443"
+        }
+    }
+}

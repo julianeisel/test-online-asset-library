@@ -1,0 +1,104 @@
+{
+    "evs_cap": 16,
+    "type": 0,
+    "tags": [
+        "movie",
+        "cinema",
+        "chair",
+        "seat",
+        "projector",
+        "theater"
+    ],
+    "date_published": 1554156000,
+    "name": "Cinema Hall",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1550827920,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "8571269",
+        "59361351"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "956a97f719ac2cc36c399cae987990c6d76d520d",
+    "download_count": 14122,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cinema_hall.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6565150,
+            "md5": "b283343acd9401be1b1e0696a3e81d4d",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cinema_hall.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cinema_hall_8k.hdr",
+                    "size": 102445645,
+                    "md5": "22ba565f096118c5aee32130e3938ad2"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cinema_hall_8k.exr",
+                    "size": 95048477,
+                    "md5": "f3e75584b85a18f9217b7550bcf5b9ef"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cinema_hall_16k.hdr",
+                    "size": 379034309,
+                    "md5": "f186cc92a5dfc76d6ef2a7d3a240a55b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cinema_hall_16k.exr",
+                    "size": 341198411,
+                    "md5": "40acf8e238e6b500d12fea0e65db514c"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cinema_hall_4k.hdr",
+                    "size": 26567686,
+                    "md5": "ee794ddd6a4e19fb0f146ea3718cfd6e"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cinema_hall_4k.exr",
+                    "size": 25192736,
+                    "md5": "8b73f57a76af10c0c1d9c1d530f4dfbe"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cinema_hall_2k.hdr",
+                    "size": 6749730,
+                    "md5": "eb202157072a432883df143632d488ac"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cinema_hall_2k.exr",
+                    "size": 6522980,
+                    "md5": "f11a3ee22cbc8b06dd6274561bf3eecc"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cinema_hall_1k.hdr",
+                    "size": 1691550,
+                    "md5": "342544c97f300a833cec0b6768fce963"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cinema_hall_1k.exr",
+                    "size": 1662857,
+                    "md5": "1d81fcb14e5c6dab0e85d8c5b10e89d7"
+                }
+            }
+        }
+    }
+}

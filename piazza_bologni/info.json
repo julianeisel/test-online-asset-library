@@ -1,0 +1,120 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "europe",
+        "square",
+        "bench",
+        "architecture",
+        "cafe"
+    ],
+    "date_published": 1574722800,
+    "name": "Piazza Bologni",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        38.114788,
+        13.36021
+    ],
+    "date_taken": 1569822180,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "9910225"
+    ],
+    "max_resolution": [
+        20776,
+        10388
+    ],
+    "files_hash": "694ba0b95c3065d1a45a2397654639fba98bbfc4",
+    "download_count": 34336,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/piazza_bologni.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5494485,
+            "md5": "79342a259444efb8384118c042f4d8a4",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/piazza_bologni.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/piazza_bologni_8k.hdr",
+                    "size": 103423371,
+                    "md5": "890646497510aa88e2a62a7831e7e0cd"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/piazza_bologni_8k.exr",
+                    "size": 87530028,
+                    "md5": "497e1fcabed47ea6672dca1d66a7a246"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/piazza_bologni_16k.hdr",
+                    "size": 393627695,
+                    "md5": "8ed38660c19a4de32b2bb67f1c8cb6bb"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/piazza_bologni_16k.exr",
+                    "size": 324181801,
+                    "md5": "0f6ba04e212d97294171f16754e47fdf"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/piazza_bologni_4k.hdr",
+                    "size": 26615774,
+                    "md5": "07cfabc642312a76f6c7611e2127406f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/piazza_bologni_4k.exr",
+                    "size": 22810224,
+                    "md5": "aaff32942744f01cbe41cc73b7ad8a2f"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/piazza_bologni_2k.hdr",
+                    "size": 6744653,
+                    "md5": "ccc3702baf6d8d695ab482fef6f2625e"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/piazza_bologni_2k.exr",
+                    "size": 5812626,
+                    "md5": "4b52f6219ed3b410a28e38d36eeb40a6"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/piazza_bologni_1k.hdr",
+                    "size": 1687915,
+                    "md5": "4320b093c6938fde3e0b127cc8929df2"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/piazza_bologni_1k.exr",
+                    "size": 1479424,
+                    "md5": "6ade34989573e98f383cce3f542d4062"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/piazza_bologni_20k.hdr",
+                    "size": 619195232,
+                    "md5": "174d0c27fb42f5beb91ef8c837051821"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/piazza_bologni_20k.exr",
+                    "size": 504607741,
+                    "md5": "b65d6731aa918685f512b04e4a542026"
+                }
+            }
+        }
+    }
+}

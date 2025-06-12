@@ -1,0 +1,389 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1516921200,
+    "name": "Vignaioli",
+    "categories": [
+        "outdoor",
+        "urban",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        44.0988,
+        9.73777
+    ],
+    "date_taken": 1509879900,
+    "backplates": true,
+    "tags": [
+        "europe",
+        "building",
+        "view",
+        "ocean",
+        "art",
+        "roof",
+        "balcony",
+        "marina",
+        "town",
+        "hill",
+        "square",
+        "backplates"
+    ],
+    "authors": {
+        "Greg Zaal": "All",
+        "Rico Cilliers": "Backplates"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "d8a39720dc3aa5e0046604ed77a65061978220cf",
+    "download_count": 31677,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/vignaioli.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4405793,
+            "md5": "62f2a593d614d846c021eabbdb347aa1",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/vignaioli.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/vignaioli_8k.hdr",
+                    "size": 94307328,
+                    "md5": "3f564ee237c1e2aa1fe56771b822f643"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/vignaioli_8k.exr",
+                    "size": 75285102,
+                    "md5": "a9926a235d2300690c1f283bc8b81e74"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/vignaioli_16k.hdr",
+                    "size": 337115117,
+                    "md5": "39ea8d74a567894110cae8390ac92f31"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/vignaioli_16k.exr",
+                    "size": 262176638,
+                    "md5": "5e84faba8cf65899ed80a19cd0d952c5"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/vignaioli_4k.hdr",
+                    "size": 24643253,
+                    "md5": "1bc78889fb93e672c280287c026505d6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/vignaioli_4k.exr",
+                    "size": 20332499,
+                    "md5": "adfe3d6adaed93ef059ae2074c6317a8"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/vignaioli_2k.hdr",
+                    "size": 6343442,
+                    "md5": "feca81ff59b2593cc362986adf825b7e"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/vignaioli_2k.exr",
+                    "size": 5429344,
+                    "md5": "d377c3a15c9d60afd4a4a3c537384462"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/vignaioli_1k.hdr",
+                    "size": 1630876,
+                    "md5": "57c1a3f409de70cbd55060701ddcbd0c"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/vignaioli_1k.exr",
+                    "size": 1454835,
+                    "md5": "f5d26b3c5e9d34edbf7fd389776b27f0"
+                }
+            }
+        },
+        "backplates": {
+            "DSC07529": {
+                "jpg_pretty": {
+                    "size": 24683490,
+                    "md5": "d085f2868c9e6f753f0d88a4ef4d2869",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07529.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14229123,
+                    "md5": "43d3d2234d5b92e4079cd62537fd577e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07529.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "e05e6b095406bc43330a606dcd4e3ac7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07529.ARW"
+                }
+            },
+            "DSC07531": {
+                "jpg_pretty": {
+                    "size": 24623335,
+                    "md5": "d05c399e845ad0fa1e0f6ddc6ebbf6ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07531.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15207465,
+                    "md5": "a1df973febc40f780e8646d8f93ae58e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07531.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "5da6465928bad95c9a53621367b3e1bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07531.ARW"
+                }
+            },
+            "DSC07532": {
+                "jpg_pretty": {
+                    "size": 17944008,
+                    "md5": "1039a01049b44365d1f143e84f2d9d9f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07532.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12043098,
+                    "md5": "cc25a1b2873d547d087a9bcd8ec775f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07532.jpg"
+                },
+                "raw": {
+                    "size": 36995072,
+                    "md5": "aac58875b97c08fb7d1a84fe83d68bc5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07532.ARW"
+                }
+            },
+            "DSC07534": {
+                "jpg_pretty": {
+                    "size": 18673389,
+                    "md5": "a20c8d6145abab76af0c53aca06f6de7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07534.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13072995,
+                    "md5": "80de8e8fc0c69c9fc85ab5269c482118",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07534.jpg"
+                },
+                "raw": {
+                    "size": 37027840,
+                    "md5": "2ad0c4627bcc81285649a3970ac0fe19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07534.ARW"
+                }
+            },
+            "DSC07513": {
+                "jpg_pretty": {
+                    "size": 21666460,
+                    "md5": "f094568e5ee70a9ee66c16b8c3be7557",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07513.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13469912,
+                    "md5": "8e89650cb97cfce16886c9fe98be7f57",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07513.jpg"
+                },
+                "raw": {
+                    "size": 37093376,
+                    "md5": "a1443efd0434a5c80002cc5f42c9d4ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07513.ARW"
+                }
+            },
+            "DSC07536": {
+                "jpg_pretty": {
+                    "size": 18332396,
+                    "md5": "8c48efc824df60b6f706b6825fe46596",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07536.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12275202,
+                    "md5": "481bbbdcb8c12472ede691adaebc73e0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07536.jpg"
+                },
+                "raw": {
+                    "size": 36962304,
+                    "md5": "ec4b965bafca54a8e2cfa4218df3e54d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07536.ARW"
+                }
+            },
+            "DSC07515": {
+                "jpg_pretty": {
+                    "size": 23328178,
+                    "md5": "6d8c9230dd913ba6db1a63f58e391bd1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07515.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14177414,
+                    "md5": "f469bad6c240fb01759f43e379c8fcfb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07515.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "2ebf9f03afb417f8590345e30cf8e2d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07515.ARW"
+                }
+            },
+            "DSC07537": {
+                "jpg_pretty": {
+                    "size": 16676364,
+                    "md5": "dab3d439d461b7b93ee77920c7db1b1a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07537.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13046481,
+                    "md5": "6a7741c14f5b8866089db1b962a5fd3e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07537.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "393bbe45330a05277e64bdc62ae0ba16",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07537.ARW"
+                }
+            },
+            "DSC07516": {
+                "jpg_pretty": {
+                    "size": 26071151,
+                    "md5": "3f2ca2460668ea9ef094e2c11121680f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07516.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15825522,
+                    "md5": "b7ba66d4319d9d3fa2fc78b47e7e77ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07516.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "ca846e5ad104a6c51f6355c60d8f1638",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07516.ARW"
+                }
+            },
+            "DSC07538": {
+                "jpg_pretty": {
+                    "size": 17357989,
+                    "md5": "7d42ad446e69458b12a52910cd2f1fc2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07538.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13314580,
+                    "md5": "60ae6b2db3359412878f978bd977f9af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07538.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "86aecf227792982ad5aada645e77633d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07538.ARW"
+                }
+            },
+            "DSC07539": {
+                "jpg_pretty": {
+                    "size": 18027373,
+                    "md5": "21b09d97fa584349aa53af6e98ad1031",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07539.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12518321,
+                    "md5": "7f3c6a873c8071ced23bcc4868d91860",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07539.jpg"
+                },
+                "raw": {
+                    "size": 36962304,
+                    "md5": "34a0bff597da0c7ffd2ba730aa3c8882",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07539.ARW"
+                }
+            },
+            "DSC07519": {
+                "jpg_pretty": {
+                    "size": 24860764,
+                    "md5": "60a113f676f9241f13fd55b54acf8375",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07519.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15160516,
+                    "md5": "095cfaf49430569dcd792981c0ec3d84",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07519.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "6030543d130bfc11b7de1b8e91c7e894",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07519.ARW"
+                }
+            },
+            "DSC07520": {
+                "jpg_pretty": {
+                    "size": 25491508,
+                    "md5": "d05b646916e6731b319da4f16c612a92",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07520.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15802617,
+                    "md5": "9fb6a9ccf863d41556802e82376f54c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07520.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "53635afcebd9d8074d9f11ca40fa7831",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07520.ARW"
+                }
+            },
+            "DSC07523": {
+                "jpg_pretty": {
+                    "size": 22442160,
+                    "md5": "0b6f921d3a562bb0923346f986cf82a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07523.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14355495,
+                    "md5": "4f30da36a86a0fbce3e90255971b7e53",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07523.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "647b3adf27be1746ec44cc88dcedf3cf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07523.ARW"
+                }
+            },
+            "DSC07525": {
+                "jpg_pretty": {
+                    "size": 21959843,
+                    "md5": "7d31daba202d6eb25be6c229bbe239db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07525.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13599291,
+                    "md5": "f4568cdad0708abfac150188e0b364ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07525.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "d88ed7fd85ddfb484d493e3a2aeb21ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07525.ARW"
+                }
+            },
+            "DSC07527": {
+                "jpg_pretty": {
+                    "size": 22353431,
+                    "md5": "7a7185bb94e550e1f31bc53ccc006ec0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_pretty/DSC07527.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13972952,
+                    "md5": "b6f22b3218cd85ff8580f0d69ffe5a17",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/jpg_plain/DSC07527.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "efca8411fe9fb6436857921aed456164",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vignaioli/raw/DSC07527.ARW"
+                }
+            }
+        }
+    }
+}

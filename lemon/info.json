@@ -1,0 +1,666 @@
+{
+    "name": "Lemon",
+    "categories": [
+        "props",
+        "food"
+    ],
+    "type": 2,
+    "tags": [
+        "culinary",
+        "cooking",
+        "vegetable",
+        "vegetables",
+        "organic",
+        "ingredients",
+        "produce"
+    ],
+    "authors": {
+        "Kuutti Siitonen": "All"
+    },
+    "max_resolution": [
+        4096,
+        4096
+    ],
+    "polycount": 4012,
+    "files_hash": "2efb6fa06e1f6c8b4f3c8e6f2b77ea33ea918dc7",
+    "texel_density": 24767.7848312472,
+    "dimensions": [
+        68.68193298578262,
+        68.2600848376751,
+        95.36931291222572
+    ],
+    "date_published": 1721174400,
+    "download_count": 3626,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/lemon.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "4k": {
+                "jpg": {
+                    "size": 4752400,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lemon/lemon_diff_4k.jpg",
+                    "md5": "76c6a40a987e2ba2d688973529a2cb3e"
+                },
+                "png": {
+                    "size": 11269536,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/lemon/lemon_diff_4k.png",
+                    "md5": "a02f42e75e7bd9c368fff0a6a3814062"
+                },
+                "exr": {
+                    "size": 10255936,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lemon/lemon_diff_4k.exr",
+                    "md5": "ae49985edce31d0c6e3723fc6fd326a1"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1319923,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lemon/lemon_diff_2k.jpg",
+                    "md5": "f5573d5bb845be01416538415e5594dc"
+                },
+                "png": {
+                    "size": 3348268,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/lemon/lemon_diff_2k.png",
+                    "md5": "aae7dd40fb93aa93e2933450a188a6f7"
+                },
+                "exr": {
+                    "size": 2728284,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lemon/lemon_diff_2k.exr",
+                    "md5": "5440d9034c79415011ff5c86a198f5e7"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 410970,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lemon/lemon_diff_1k.jpg",
+                    "md5": "86c47e7daf0f9ba4aa0563be6cb7297c"
+                },
+                "png": {
+                    "size": 1016373,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/lemon/lemon_diff_1k.png",
+                    "md5": "fbb5557f85c005d2f0221a7b4153fa6c"
+                },
+                "exr": {
+                    "size": 852946,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lemon/lemon_diff_1k.exr",
+                    "md5": "cf7b0f027a6b38505745ca415cbcf8bc"
+                }
+            }
+        },
+        "nor_dx": {
+            "4k": {
+                "jpg": {
+                    "size": 8503660,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lemon/lemon_nor_dx_4k.jpg",
+                    "md5": "a547b39a48e79064e6874fec8c9ab9f6"
+                },
+                "png": {
+                    "size": 55061826,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/lemon/lemon_nor_dx_4k.png",
+                    "md5": "e7f76f381e9da9b0266d3b1940ddc3b5"
+                },
+                "exr": {
+                    "size": 16023219,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lemon/lemon_nor_dx_4k.exr",
+                    "md5": "15e6bd99451b75a5243eafd3bd9e6f3e"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2852658,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lemon/lemon_nor_dx_2k.jpg",
+                    "md5": "7ed88b50287935db77de66a898c3e6a8"
+                },
+                "png": {
+                    "size": 16333131,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/lemon/lemon_nor_dx_2k.png",
+                    "md5": "34cdeeb0ca58d507f6fd903ead60689e"
+                },
+                "exr": {
+                    "size": 5648015,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lemon/lemon_nor_dx_2k.exr",
+                    "md5": "97572a99df1d8c2b4b1b2babfb52e0fb"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 900237,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lemon/lemon_nor_dx_1k.jpg",
+                    "md5": "3418b9ad415a56595ce7a299369b1f86"
+                },
+                "png": {
+                    "size": 4647012,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/lemon/lemon_nor_dx_1k.png",
+                    "md5": "2d06bca4b6d23063be23175ef8359665"
+                },
+                "exr": {
+                    "size": 1866529,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lemon/lemon_nor_dx_1k.exr",
+                    "md5": "ad8f996c44caeed47be434c31d8b0e00"
+                }
+            }
+        },
+        "nor_gl": {
+            "4k": {
+                "jpg": {
+                    "size": 8526192,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lemon/lemon_nor_gl_4k.jpg",
+                    "md5": "e9f39c62c5b34ff1fda9cf7c9e7a97a8"
+                },
+                "png": {
+                    "size": 55310793,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/lemon/lemon_nor_gl_4k.png",
+                    "md5": "65958f97d51855475df8431c08d40c94"
+                },
+                "exr": {
+                    "size": 16019524,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lemon/lemon_nor_gl_4k.exr",
+                    "md5": "5a5497dc32d6a9b0e4cf43b8a3073067"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2857830,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lemon/lemon_nor_gl_2k.jpg",
+                    "md5": "c6c156207f05e7cbda9a3b351700ee74"
+                },
+                "png": {
+                    "size": 16335239,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/lemon/lemon_nor_gl_2k.png",
+                    "md5": "ea88aea8157549132a5ab46c0f770612"
+                },
+                "exr": {
+                    "size": 5645044,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lemon/lemon_nor_gl_2k.exr",
+                    "md5": "a83bde9b4f012bbc15c862f018c51bd6"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 900796,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lemon/lemon_nor_gl_1k.jpg",
+                    "md5": "967ac253c8a1bc3623f1ebac3c7e543a"
+                },
+                "png": {
+                    "size": 4648192,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/lemon/lemon_nor_gl_1k.png",
+                    "md5": "55871ddb9b93c81c0c5ab626b7bbc079"
+                },
+                "exr": {
+                    "size": 1864815,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lemon/lemon_nor_gl_1k.exr",
+                    "md5": "44ee0f08d52fe29c6567bfb1d0d72b37"
+                }
+            }
+        },
+        "blend": {
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/lemon_diff_4k.jpg": {
+                            "size": 4752400,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lemon/lemon_diff_4k.jpg",
+                            "md5": "76c6a40a987e2ba2d688973529a2cb3e"
+                        },
+                        "textures/lemon_nor_gl_4k.exr": {
+                            "size": 16019524,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lemon/lemon_nor_gl_4k.exr",
+                            "md5": "5a5497dc32d6a9b0e4cf43b8a3073067"
+                        },
+                        "textures/lemon_rough_4k.exr": {
+                            "size": 4294762,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lemon/lemon_rough_4k.exr",
+                            "md5": "bff1e097b4f780abf6b4de8f1efe3519"
+                        }
+                    },
+                    "size": 217123,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/lemon/lemon_4k.blend",
+                    "md5": "dc1df8794c0011bcb26712b04c243a2e"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/lemon_diff_2k.jpg": {
+                            "size": 1319923,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lemon/lemon_diff_2k.jpg",
+                            "md5": "f5573d5bb845be01416538415e5594dc"
+                        },
+                        "textures/lemon_nor_gl_2k.exr": {
+                            "size": 5645044,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lemon/lemon_nor_gl_2k.exr",
+                            "md5": "a83bde9b4f012bbc15c862f018c51bd6"
+                        },
+                        "textures/lemon_rough_2k.exr": {
+                            "size": 1250538,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lemon/lemon_rough_2k.exr",
+                            "md5": "c13d142f7e9ff17228c61ca48b23296f"
+                        }
+                    },
+                    "size": 216987,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/lemon/lemon_2k.blend",
+                    "md5": "a0c380b94bdfb4b1f4f7b7470eb82c42"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/lemon_diff_1k.jpg": {
+                            "size": 410970,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lemon/lemon_diff_1k.jpg",
+                            "md5": "86c47e7daf0f9ba4aa0563be6cb7297c"
+                        },
+                        "textures/lemon_nor_gl_1k.exr": {
+                            "size": 1864815,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lemon/lemon_nor_gl_1k.exr",
+                            "md5": "44ee0f08d52fe29c6567bfb1d0d72b37"
+                        },
+                        "textures/lemon_rough_1k.exr": {
+                            "size": 407933,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lemon/lemon_rough_1k.exr",
+                            "md5": "1c9c76cff2cb1ce35fce7c9a7e807f74"
+                        }
+                    },
+                    "size": 216934,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/lemon/lemon_1k.blend",
+                    "md5": "0a16ff84d9239fadca03cf3343697c63"
+                }
+            }
+        },
+        "gltf": {
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/lemon_diff_4k.jpg": {
+                            "size": 4752400,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lemon/lemon_diff_4k.jpg",
+                            "md5": "76c6a40a987e2ba2d688973529a2cb3e"
+                        },
+                        "textures/lemon_nor_gl_4k.jpg": {
+                            "size": 8526192,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lemon/lemon_nor_gl_4k.jpg",
+                            "md5": "e9f39c62c5b34ff1fda9cf7c9e7a97a8"
+                        },
+                        "textures/lemon_arm_4k.jpg": {
+                            "size": 5665816,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lemon/lemon_arm_4k.jpg",
+                            "md5": "5bf75e88204128db6ab42d803b8d153e"
+                        },
+                        "lemon.bin": {
+                            "size": 95464,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/lemon/lemon.bin",
+                            "md5": "357973be23fd9b4bcf2a212ef30ecc31"
+                        }
+                    },
+                    "size": 3036,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/lemon/lemon_4k.gltf",
+                    "md5": "d34afdafdd0ad9ad22ce2a120b8dae1a"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "lemon.bin": {
+                            "size": 95464,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/lemon/lemon.bin",
+                            "md5": "357973be23fd9b4bcf2a212ef30ecc31"
+                        },
+                        "textures/lemon_diff_2k.jpg": {
+                            "size": 1319923,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lemon/lemon_diff_2k.jpg",
+                            "md5": "f5573d5bb845be01416538415e5594dc"
+                        },
+                        "textures/lemon_arm_2k.jpg": {
+                            "size": 1453549,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lemon/lemon_arm_2k.jpg",
+                            "md5": "b341359b4c4bfc5092d596aeab1a1aad"
+                        },
+                        "textures/lemon_nor_gl_2k.jpg": {
+                            "size": 2857830,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lemon/lemon_nor_gl_2k.jpg",
+                            "md5": "c6c156207f05e7cbda9a3b351700ee74"
+                        }
+                    },
+                    "size": 3036,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/lemon/lemon_2k.gltf",
+                    "md5": "0ae7bac10722e55be2072cc26d38c899"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/lemon_nor_gl_1k.jpg": {
+                            "size": 900796,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lemon/lemon_nor_gl_1k.jpg",
+                            "md5": "967ac253c8a1bc3623f1ebac3c7e543a"
+                        },
+                        "textures/lemon_arm_1k.jpg": {
+                            "size": 441578,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lemon/lemon_arm_1k.jpg",
+                            "md5": "53c105e1a00b864cd0d41fa488f48a1a"
+                        },
+                        "textures/lemon_diff_1k.jpg": {
+                            "size": 410970,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lemon/lemon_diff_1k.jpg",
+                            "md5": "86c47e7daf0f9ba4aa0563be6cb7297c"
+                        },
+                        "lemon.bin": {
+                            "size": 95464,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/lemon/lemon.bin",
+                            "md5": "357973be23fd9b4bcf2a212ef30ecc31"
+                        }
+                    },
+                    "size": 3036,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/lemon/lemon_1k.gltf",
+                    "md5": "79ad40158b71f7d08d7dcc4efc060468"
+                }
+            }
+        },
+        "usd": {
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/lemon_diff_4k.jpg": {
+                            "size": 4752400,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lemon/lemon_diff_4k.jpg",
+                            "md5": "76c6a40a987e2ba2d688973529a2cb3e"
+                        },
+                        "textures/lemon_nor_gl_4k.exr": {
+                            "size": 16019524,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lemon/lemon_nor_gl_4k.exr",
+                            "md5": "5a5497dc32d6a9b0e4cf43b8a3073067"
+                        },
+                        "textures/lemon_rough_4k.exr": {
+                            "size": 4294762,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lemon/lemon_rough_4k.exr",
+                            "md5": "bff1e097b4f780abf6b4de8f1efe3519"
+                        }
+                    },
+                    "size": 194346,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/lemon/lemon_4k.usdc",
+                    "md5": "32b160386a7f2e81731a98e84a86e80e"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/lemon_diff_2k.jpg": {
+                            "size": 1319923,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lemon/lemon_diff_2k.jpg",
+                            "md5": "f5573d5bb845be01416538415e5594dc"
+                        },
+                        "textures/lemon_nor_gl_2k.exr": {
+                            "size": 5645044,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lemon/lemon_nor_gl_2k.exr",
+                            "md5": "a83bde9b4f012bbc15c862f018c51bd6"
+                        },
+                        "textures/lemon_rough_2k.exr": {
+                            "size": 1250538,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lemon/lemon_rough_2k.exr",
+                            "md5": "c13d142f7e9ff17228c61ca48b23296f"
+                        }
+                    },
+                    "size": 194346,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/lemon/lemon_2k.usdc",
+                    "md5": "510ef6777ab75a99d7e95b9bb035867c"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/lemon_diff_1k.jpg": {
+                            "size": 410970,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lemon/lemon_diff_1k.jpg",
+                            "md5": "86c47e7daf0f9ba4aa0563be6cb7297c"
+                        },
+                        "textures/lemon_nor_gl_1k.exr": {
+                            "size": 1864815,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lemon/lemon_nor_gl_1k.exr",
+                            "md5": "44ee0f08d52fe29c6567bfb1d0d72b37"
+                        },
+                        "textures/lemon_rough_1k.exr": {
+                            "size": 407933,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lemon/lemon_rough_1k.exr",
+                            "md5": "1c9c76cff2cb1ce35fce7c9a7e807f74"
+                        }
+                    },
+                    "size": 194346,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/lemon/lemon_1k.usdc",
+                    "md5": "7fab18971d9642b8c99cec9b517a4c42"
+                }
+            }
+        },
+        "arm": {
+            "4k": {
+                "jpg": {
+                    "size": 5665816,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lemon/lemon_arm_4k.jpg",
+                    "md5": "5bf75e88204128db6ab42d803b8d153e"
+                },
+                "png": {
+                    "size": 6094664,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/lemon/lemon_arm_4k.png",
+                    "md5": "f71683b2f4ad17286e15499812978b6d"
+                },
+                "exr": {
+                    "size": 8574667,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lemon/lemon_arm_4k.exr",
+                    "md5": "ad64c273f2aa23188cbf86e1b240c2c8"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1453549,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lemon/lemon_arm_2k.jpg",
+                    "md5": "b341359b4c4bfc5092d596aeab1a1aad"
+                },
+                "png": {
+                    "size": 2158327,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/lemon/lemon_arm_2k.png",
+                    "md5": "e3ac57427e720fe9555a35083747a762"
+                },
+                "exr": {
+                    "size": 2227514,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lemon/lemon_arm_2k.exr",
+                    "md5": "86c175d4c939bed76336177d709e8f27"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 441578,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lemon/lemon_arm_1k.jpg",
+                    "md5": "53c105e1a00b864cd0d41fa488f48a1a"
+                },
+                "png": {
+                    "size": 592238,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/lemon/lemon_arm_1k.png",
+                    "md5": "be562cbada5f3440413b990aa63af078"
+                },
+                "exr": {
+                    "size": 747770,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lemon/lemon_arm_1k.exr",
+                    "md5": "f12f2531f166a75b616b4ca5ddc5c892"
+                }
+            }
+        },
+        "fbx": {
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/lemon_diff_4k.jpg": {
+                            "size": 4752400,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lemon/lemon_diff_4k.jpg",
+                            "md5": "76c6a40a987e2ba2d688973529a2cb3e"
+                        },
+                        "textures/lemon_nor_gl_4k.exr": {
+                            "size": 16019524,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lemon/lemon_nor_gl_4k.exr",
+                            "md5": "5a5497dc32d6a9b0e4cf43b8a3073067"
+                        },
+                        "textures/lemon_rough_4k.exr": {
+                            "size": 4294762,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lemon/lemon_rough_4k.exr",
+                            "md5": "bff1e097b4f780abf6b4de8f1efe3519"
+                        }
+                    },
+                    "size": 126780,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/lemon/lemon_4k.fbx",
+                    "md5": "529b79b376e216d4b532a3a475aa1b74"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/lemon_diff_2k.jpg": {
+                            "size": 1319923,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lemon/lemon_diff_2k.jpg",
+                            "md5": "f5573d5bb845be01416538415e5594dc"
+                        },
+                        "textures/lemon_nor_gl_2k.exr": {
+                            "size": 5645044,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lemon/lemon_nor_gl_2k.exr",
+                            "md5": "a83bde9b4f012bbc15c862f018c51bd6"
+                        },
+                        "textures/lemon_rough_2k.exr": {
+                            "size": 1250538,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lemon/lemon_rough_2k.exr",
+                            "md5": "c13d142f7e9ff17228c61ca48b23296f"
+                        }
+                    },
+                    "size": 126780,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/lemon/lemon_2k.fbx",
+                    "md5": "cd86d8ab5d4223d8df379f773ee67ad7"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/lemon_diff_1k.jpg": {
+                            "size": 410970,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lemon/lemon_diff_1k.jpg",
+                            "md5": "86c47e7daf0f9ba4aa0563be6cb7297c"
+                        },
+                        "textures/lemon_nor_gl_1k.exr": {
+                            "size": 1864815,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lemon/lemon_nor_gl_1k.exr",
+                            "md5": "44ee0f08d52fe29c6567bfb1d0d72b37"
+                        },
+                        "textures/lemon_rough_1k.exr": {
+                            "size": 407933,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lemon/lemon_rough_1k.exr",
+                            "md5": "1c9c76cff2cb1ce35fce7c9a7e807f74"
+                        }
+                    },
+                    "size": 126780,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/lemon/lemon_1k.fbx",
+                    "md5": "50eb3c6f21e094f7c082e0c536d4d26f"
+                }
+            }
+        },
+        "AO": {
+            "4k": {
+                "jpg": {
+                    "size": 6407881,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lemon/lemon_ao_4k.jpg",
+                    "md5": "0fc391eee17d0e694a274f85dabc407c"
+                },
+                "png": {
+                    "size": 6924296,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/lemon/lemon_ao_4k.png",
+                    "md5": "a251909402f8990538951a42c772b94b"
+                },
+                "exr": {
+                    "size": 6501042,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lemon/lemon_ao_4k.exr",
+                    "md5": "f8296d19834075e3b3c16e75c4d4b2b7"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1583908,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lemon/lemon_ao_2k.jpg",
+                    "md5": "f71ad107c5f1a93148adc5d16409cdfe"
+                },
+                "png": {
+                    "size": 1650415,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/lemon/lemon_ao_2k.png",
+                    "md5": "828a15f5c4ea08416edd7e26329ad944"
+                },
+                "exr": {
+                    "size": 1645455,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lemon/lemon_ao_2k.exr",
+                    "md5": "5f87f90dcdc51c9cc9f945c28a465173"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 458376,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lemon/lemon_ao_1k.jpg",
+                    "md5": "b955e34afe366b852877f689b70af3b9"
+                },
+                "png": {
+                    "size": 451325,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/lemon/lemon_ao_1k.png",
+                    "md5": "63da09b3b3dd9cb06482245b3b537d84"
+                },
+                "exr": {
+                    "size": 503747,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lemon/lemon_ao_1k.exr",
+                    "md5": "6a11586ae9201d70b83cc134e9ecddfc"
+                }
+            }
+        },
+        "Rough": {
+            "4k": {
+                "jpg": {
+                    "size": 3766708,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/lemon/lemon_rough_4k.jpg",
+                    "md5": "95a3fe1c437d6ac9e101e0790fcc444e"
+                },
+                "png": {
+                    "size": 3922153,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/lemon/lemon_rough_4k.png",
+                    "md5": "1c2051af76ee017a76e1a8306cb4f9a5"
+                },
+                "exr": {
+                    "size": 4294762,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/lemon/lemon_rough_4k.exr",
+                    "md5": "bff1e097b4f780abf6b4de8f1efe3519"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1031931,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/lemon/lemon_rough_2k.jpg",
+                    "md5": "1ca9949683acecf3296791457c189fd9"
+                },
+                "png": {
+                    "size": 1137059,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/lemon/lemon_rough_2k.png",
+                    "md5": "ea5ac22381f4153a823f7311f9467e29"
+                },
+                "exr": {
+                    "size": 1250538,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/lemon/lemon_rough_2k.exr",
+                    "md5": "c13d142f7e9ff17228c61ca48b23296f"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 321800,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/lemon/lemon_rough_1k.jpg",
+                    "md5": "cd9dace6b2bc36e8e05d897582c3639c"
+                },
+                "png": {
+                    "size": 357652,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/lemon/lemon_rough_1k.png",
+                    "md5": "3509935a94c7a9a36eadd6afaa7235a1"
+                },
+                "exr": {
+                    "size": 407933,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/lemon/lemon_rough_1k.exr",
+                    "md5": "1c9c76cff2cb1ce35fce7c9a7e807f74"
+                }
+            }
+        }
+    }
+}

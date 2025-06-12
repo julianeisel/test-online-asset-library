@@ -1,0 +1,128 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "concrete",
+        "pavers",
+        "covered",
+        "hall",
+        "square",
+        "campus",
+        "school",
+        "symmetrical"
+    ],
+    "name": "School Quad",
+    "categories": [
+        "indoor",
+        "urban",
+        "natural light",
+        "artificial light",
+        "medium contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1684689000,
+    "coords": [
+        -25.841497,
+        28.145946
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "files_hash": "99e4539cd2bcd11dcb4cfe960227d573a06a3326",
+    "date_published": 1690329600,
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "download_count": 8322,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/school_quad.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 53146404,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/school_quad.jpg",
+            "md5": "0703072ec0fa1c94c4ae605b6e35c3aa"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105317071,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/school_quad_8k.hdr",
+                    "md5": "bf499c04152e1f92fc9ed219defa6cf5"
+                },
+                "exr": {
+                    "size": 385077220,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/school_quad_8k.exr",
+                    "md5": "3d7ab472dfeed9f4f45c246378ea28fb"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 404376483,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/school_quad_16k.hdr",
+                    "md5": "5e98eb24ecd58ee7173f69c702633116"
+                },
+                "exr": {
+                    "size": 1520834689,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/school_quad_16k.exr",
+                    "md5": "9b2f5873eec33ba645642abd0c902873"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27235042,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/school_quad_4k.hdr",
+                    "md5": "ddecfc04a5f94a3a6834883fe47492e0"
+                },
+                "exr": {
+                    "size": 96815206,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/school_quad_4k.exr",
+                    "md5": "3effcade2fa3157d25a9ecd350c6a14b"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6979563,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/school_quad_2k.hdr",
+                    "md5": "8c9e397b640a174f0aba5ca8d5e4c381"
+                },
+                "exr": {
+                    "size": 24323674,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/school_quad_2k.exr",
+                    "md5": "f03e66410e64a45174a86659aadd28a9"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1775896,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/school_quad_1k.hdr",
+                    "md5": "dd88f896c7e5fe98194058a38799a044"
+                },
+                "exr": {
+                    "size": 6111354,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/school_quad_1k.exr",
+                    "md5": "932d8a53576ddcdbfc8bb9c6da40e0f4"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 623530345,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/school_quad_20k.hdr",
+                    "md5": "3c8fe5961871bb9c3027037d1a6792a7"
+                },
+                "exr": {
+                    "size": 2358879631,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/school_quad_20k.exr",
+                    "md5": "5b571e0961aa04ec334baf697e2ccf3f"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 196143306,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/school_quad.zip",
+            "md5": "6282cc0de1be43bd89dd8af5b4c922ce"
+        }
+    }
+}

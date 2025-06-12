@@ -1,0 +1,103 @@
+{
+    "evs_cap": 18,
+    "type": 0,
+    "tags": [
+        "lamp",
+        "suburb",
+        "road",
+        "tree"
+    ],
+    "date_published": 1522879200,
+    "name": "Street Lamp",
+    "categories": [
+        "outdoor",
+        "urban",
+        "night",
+        "partly cloudy",
+        "high contrast",
+        "artificial light"
+    ],
+    "date_taken": 1457032740,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "a78b1191c779409e94999fd2b980370301830f19",
+    "download_count": 55936,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/street_lamp.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 9122360,
+            "md5": "d49d53f00b3e2679049d5fbfd6ec4fa2",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/street_lamp.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/street_lamp_8k.hdr",
+                    "size": 110817941,
+                    "md5": "d4ed47da75403049a0ded138f46a8f78"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/street_lamp_8k.exr",
+                    "size": 194110631,
+                    "md5": "185c700f1abb87ea3ad5eeec62cb891b"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/street_lamp_16k.hdr",
+                    "size": 428010492,
+                    "md5": "76aa2c4d86476d9b171f206e66760df9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/street_lamp_16k.exr",
+                    "size": 447867605,
+                    "md5": "28ec0c0ef46a2a318408df22f4cb3628"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/street_lamp_4k.hdr",
+                    "size": 28187127,
+                    "md5": "df5971e26af5ebebc1f3e5c8e3b9453b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/street_lamp_4k.exr",
+                    "size": 59277896,
+                    "md5": "496c467d319bafcbee1e8103dc03031a"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/street_lamp_2k.hdr",
+                    "size": 7097629,
+                    "md5": "f52db5664b987c2ad81944edce1f6016"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/street_lamp_2k.exr",
+                    "size": 16723324,
+                    "md5": "e85fd2331531c58a9a3d14c364a99831"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/street_lamp_1k.hdr",
+                    "size": 1779341,
+                    "md5": "ee2092411457ca1953b0937456d27f45"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/street_lamp_1k.exr",
+                    "size": 4588625,
+                    "md5": "abf3dd42755fb62804820f044e0b0f60"
+                }
+            }
+        }
+    }
+}

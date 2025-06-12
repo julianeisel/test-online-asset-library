@@ -1,0 +1,109 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "alley",
+        "europe",
+        "italy",
+        "cobblestone",
+        "rock",
+        "narrow"
+    ],
+    "date_published": 1570744800,
+    "name": "Stone Alley",
+    "categories": [
+        "outdoor",
+        "urban",
+        "midday",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        38.118887,
+        13.36592
+    ],
+    "date_taken": 1569765300,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "files_hash": "6eddfac7f1bbbdfc092bba77bb6290e3d121ddb3",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 9639,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stone_alley.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 7081280,
+            "md5": "7399a4bfbd55511e5316b427b71cab77",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/stone_alley.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105216187,
+                    "md5": "aca8261e3f48277725d6e4d6e0ab11c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/stone_alley_8k.hdr"
+                },
+                "exr": {
+                    "size": 100118706,
+                    "md5": "699303f1b451069585f7ff0af27b7176",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/stone_alley_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 398760521,
+                    "md5": "85b256c559f30f1ee86e5e4503d7494b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/stone_alley_16k.hdr"
+                },
+                "exr": {
+                    "size": 361153260,
+                    "md5": "49b1b5256e6d0e5e9003b52f5bf27665",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/stone_alley_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27131535,
+                    "md5": "6f53b4387a867505dcd086cab8962385",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/stone_alley_4k.hdr"
+                },
+                "exr": {
+                    "size": 26334283,
+                    "md5": "671b74fcf3bb259c6861fadedbe6698e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/stone_alley_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6932386,
+                    "md5": "410f6f6989d0cb4c397b158ddc6b67c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/stone_alley_2k.hdr"
+                },
+                "exr": {
+                    "size": 6810678,
+                    "md5": "9869157118cc9db8f158cf9ce5f6c753",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/stone_alley_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1762023,
+                    "md5": "28e62df319402fd8452b89b99d166650",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/stone_alley_1k.hdr"
+                },
+                "exr": {
+                    "size": 1755702,
+                    "md5": "5d268a526bbf5ea82062f9b2fd0f605c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/stone_alley_1k.exr"
+                }
+            }
+        }
+    }
+}

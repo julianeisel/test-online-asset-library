@@ -1,0 +1,999 @@
+{
+    "date_published": 1623767644,
+    "name": "Vintage Crutches 01",
+    "type": 2,
+    "authors": {
+        "James Ray Cock": "All"
+    },
+    "files_hash": "ccf17e884375e57170f759e72e87245dd94fdbd6",
+    "categories": [
+        "props",
+        "collection: the_shed"
+    ],
+    "tags": [
+        "vintage",
+        "war",
+        "old",
+        "antique",
+        "wood",
+        "hospital",
+        "medical"
+    ],
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "polycount": 10628,
+    "texel_density": 4867.974140515018,
+    "dimensions": [
+        399.43429827690125,
+        216.63851663470268,
+        1614.9340318515897
+    ],
+    "download_count": 3117,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/vintage_crutches_01.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 8668635,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_diff_8k.jpg",
+                    "md5": "1a7e090ab6dde5f07627dd0a62423596"
+                },
+                "png": {
+                    "size": 45959361,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/vintage_crutches_01/vintage_crutches_01_diff_8k.png",
+                    "md5": "233500835718f37973a3176346566248"
+                },
+                "exr": {
+                    "size": 52479587,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/vintage_crutches_01/vintage_crutches_01_diff_8k.exr",
+                    "md5": "67f28f19d1a0956ad11cbab5bffeb472"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2318280,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_diff_4k.jpg",
+                    "md5": "1080ac94407d288d2647716b098a2914"
+                },
+                "png": {
+                    "size": 11936564,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/vintage_crutches_01/vintage_crutches_01_diff_4k.png",
+                    "md5": "1c65da7291076205130d2d93e438750e"
+                },
+                "exr": {
+                    "size": 12776140,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/vintage_crutches_01/vintage_crutches_01_diff_4k.exr",
+                    "md5": "a6716f9ec1d208e273c55861b5fee629"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 627248,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_diff_2k.jpg",
+                    "md5": "ed00e456bedd869545b52b93f9f4d0f3"
+                },
+                "png": {
+                    "size": 3252567,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/vintage_crutches_01/vintage_crutches_01_diff_2k.png",
+                    "md5": "eb6b289a57b633892a4bcc6a01c9a439"
+                },
+                "exr": {
+                    "size": 3391593,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/vintage_crutches_01/vintage_crutches_01_diff_2k.exr",
+                    "md5": "1006c4e1dccb33f8500242a192017b6b"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 171652,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_diff_1k.jpg",
+                    "md5": "533618d9ce3788ee7dcc8859da8da983"
+                },
+                "png": {
+                    "size": 957353,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/vintage_crutches_01/vintage_crutches_01_diff_1k.png",
+                    "md5": "34820794a60dd2191517857c277a3d80"
+                },
+                "exr": {
+                    "size": 945205,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/vintage_crutches_01/vintage_crutches_01_diff_1k.exr",
+                    "md5": "9ebfa10cf16c56d2e6d721e169e856d0"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 8912809,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_nor_dx_8k.jpg",
+                    "md5": "eaff7f4a27227d0c8be644d5001498b1"
+                },
+                "png": {
+                    "size": 38469431,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/vintage_crutches_01/vintage_crutches_01_nor_dx_8k.png",
+                    "md5": "0c034d5776b7d6b9ee2ce8ea7f601f02"
+                },
+                "exr": {
+                    "size": 57325902,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/vintage_crutches_01/vintage_crutches_01_nor_dx_8k.exr",
+                    "md5": "44db83ee8ccda6a7857eacc54499050f"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2422244,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_nor_dx_4k.jpg",
+                    "md5": "d5d496aa30f2c994275998de1946d867"
+                },
+                "png": {
+                    "size": 13130535,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/vintage_crutches_01/vintage_crutches_01_nor_dx_4k.png",
+                    "md5": "1b16337271feb2d8738c1612460846ca"
+                },
+                "exr": {
+                    "size": 17979688,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/vintage_crutches_01/vintage_crutches_01_nor_dx_4k.exr",
+                    "md5": "638abb6f6f8158c56df21d7ac1e0b6ad"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 602928,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_nor_dx_2k.jpg",
+                    "md5": "1e93c07adbdadd533677670166f8c33a"
+                },
+                "png": {
+                    "size": 3837227,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/vintage_crutches_01/vintage_crutches_01_nor_dx_2k.png",
+                    "md5": "777f9be52002a12b4484fa8c7f80e4d5"
+                },
+                "exr": {
+                    "size": 4814161,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/vintage_crutches_01/vintage_crutches_01_nor_dx_2k.exr",
+                    "md5": "010be545bb2fc8d58a8cc48567f5d7cb"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 151519,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_nor_dx_1k.jpg",
+                    "md5": "47ae9ea3f3cccb91d41399d2b5220451"
+                },
+                "png": {
+                    "size": 1112871,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/vintage_crutches_01/vintage_crutches_01_nor_dx_1k.png",
+                    "md5": "253100baf65cdfd8486f173039899a45"
+                },
+                "exr": {
+                    "size": 1255811,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/vintage_crutches_01/vintage_crutches_01_nor_dx_1k.exr",
+                    "md5": "d23e37f31201074dddfc5117175816d0"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 8922521,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_nor_gl_8k.jpg",
+                    "md5": "069b92b2afd5727578b6f027a7ed3aa7"
+                },
+                "png": {
+                    "size": 38471653,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/vintage_crutches_01/vintage_crutches_01_nor_gl_8k.png",
+                    "md5": "d4f80be9ca20bb5bbe5327ce737e3f4d"
+                },
+                "exr": {
+                    "size": 57263479,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/vintage_crutches_01/vintage_crutches_01_nor_gl_8k.exr",
+                    "md5": "f7e9b786fc6e7ada97dd9fd3189e4643"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2427361,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_nor_gl_4k.jpg",
+                    "md5": "9426b8b6b1312a6dd23152d1a004ee8b"
+                },
+                "png": {
+                    "size": 13130755,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/vintage_crutches_01/vintage_crutches_01_nor_gl_4k.png",
+                    "md5": "8bb77edf0d388b716a25e1cc109c3e34"
+                },
+                "exr": {
+                    "size": 17966378,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/vintage_crutches_01/vintage_crutches_01_nor_gl_4k.exr",
+                    "md5": "a9315d6023432758204a00dfa6fd812a"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 604153,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_nor_gl_2k.jpg",
+                    "md5": "f9b44d2fbd611ae73a2bfc0539e89eb0"
+                },
+                "png": {
+                    "size": 3837051,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/vintage_crutches_01/vintage_crutches_01_nor_gl_2k.png",
+                    "md5": "7cd09519e4bb4681e5d89209e0f7c80a"
+                },
+                "exr": {
+                    "size": 4805927,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/vintage_crutches_01/vintage_crutches_01_nor_gl_2k.exr",
+                    "md5": "69d33b5fb754066d18cd71f9cc59eaea"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 151576,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_nor_gl_1k.jpg",
+                    "md5": "ea6a3c624d8a3a87557da4dc43cc0c93"
+                },
+                "png": {
+                    "size": 1112590,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/vintage_crutches_01/vintage_crutches_01_nor_gl_1k.png",
+                    "md5": "19091c775e268c8ce74ddd6c5fd7e0fd"
+                },
+                "exr": {
+                    "size": 1253545,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/vintage_crutches_01/vintage_crutches_01_nor_gl_1k.exr",
+                    "md5": "f87c4aa67bbd03e46f31185ea9017532"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/vintage_crutches_01_metallic_8k.exr": {
+                            "size": 369722,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/vintage_crutches_01/vintage_crutches_01_metallic_8k.exr",
+                            "md5": "50259c83ebfff308c56d8ca727ad0db4"
+                        },
+                        "textures/vintage_crutches_01_roughness_8k.jpg": {
+                            "size": 5656465,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_roughness_8k.jpg",
+                            "md5": "6e4f63f67f088e987ae61d4e21eaf9dd"
+                        },
+                        "textures/vintage_crutches_01_diff_8k.jpg": {
+                            "size": 8668635,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_diff_8k.jpg",
+                            "md5": "1a7e090ab6dde5f07627dd0a62423596"
+                        },
+                        "textures/vintage_crutches_01_nor_gl_8k.exr": {
+                            "size": 57263479,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/vintage_crutches_01/vintage_crutches_01_nor_gl_8k.exr",
+                            "md5": "f7e9b786fc6e7ada97dd9fd3189e4643"
+                        }
+                    },
+                    "size": 429311,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/vintage_crutches_01/vintage_crutches_01_8k.blend",
+                    "md5": "36b4b6d65245f7dbb36f7baa3444d1d8"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/vintage_crutches_01_roughness_4k.jpg": {
+                            "size": 1721123,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_roughness_4k.jpg",
+                            "md5": "4820e1a7416ed5670a64453d0774928a"
+                        },
+                        "textures/vintage_crutches_01_metallic_4k.exr": {
+                            "size": 131597,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/vintage_crutches_01/vintage_crutches_01_metallic_4k.exr",
+                            "md5": "6ad747a925a1ed68f6c764cc1a18d9ab"
+                        },
+                        "textures/vintage_crutches_01_nor_gl_4k.exr": {
+                            "size": 17966378,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/vintage_crutches_01/vintage_crutches_01_nor_gl_4k.exr",
+                            "md5": "a9315d6023432758204a00dfa6fd812a"
+                        },
+                        "textures/vintage_crutches_01_diff_4k.jpg": {
+                            "size": 2318280,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_diff_4k.jpg",
+                            "md5": "1080ac94407d288d2647716b098a2914"
+                        }
+                    },
+                    "size": 429301,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/vintage_crutches_01/vintage_crutches_01_4k.blend",
+                    "md5": "730048cbef67672544de5e271eaadba1"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/vintage_crutches_01_nor_gl_2k.exr": {
+                            "size": 4805927,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/vintage_crutches_01/vintage_crutches_01_nor_gl_2k.exr",
+                            "md5": "69d33b5fb754066d18cd71f9cc59eaea"
+                        },
+                        "textures/vintage_crutches_01_diff_2k.jpg": {
+                            "size": 627248,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_diff_2k.jpg",
+                            "md5": "ed00e456bedd869545b52b93f9f4d0f3"
+                        },
+                        "textures/vintage_crutches_01_roughness_2k.jpg": {
+                            "size": 506749,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_roughness_2k.jpg",
+                            "md5": "efccc8d0d1ba57f7bd84c2a3e778fac8"
+                        },
+                        "textures/vintage_crutches_01_metallic_2k.exr": {
+                            "size": 51720,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/vintage_crutches_01/vintage_crutches_01_metallic_2k.exr",
+                            "md5": "8b0fe5ea2667df0e435f63ef3bdbb0a8"
+                        }
+                    },
+                    "size": 429195,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/vintage_crutches_01/vintage_crutches_01_2k.blend",
+                    "md5": "60e26b764ba639748697cc95e61ea9f9"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/vintage_crutches_01_roughness_1k.jpg": {
+                            "size": 146648,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_roughness_1k.jpg",
+                            "md5": "d04a58dcdf883c635742df0c8c7911b9"
+                        },
+                        "textures/vintage_crutches_01_metallic_1k.exr": {
+                            "size": 20633,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/vintage_crutches_01/vintage_crutches_01_metallic_1k.exr",
+                            "md5": "4807073d5162f128099f609e833e90dc"
+                        },
+                        "textures/vintage_crutches_01_nor_gl_1k.exr": {
+                            "size": 1253545,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/vintage_crutches_01/vintage_crutches_01_nor_gl_1k.exr",
+                            "md5": "f87c4aa67bbd03e46f31185ea9017532"
+                        },
+                        "textures/vintage_crutches_01_diff_1k.jpg": {
+                            "size": 171652,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_diff_1k.jpg",
+                            "md5": "533618d9ce3788ee7dcc8859da8da983"
+                        }
+                    },
+                    "size": 429338,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/vintage_crutches_01/vintage_crutches_01_1k.blend",
+                    "md5": "f505f31eeb25a50978160cff321307f2"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "textures/vintage_crutches_01_arm_8k.jpg": {
+                            "size": 5927652,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_arm_8k.jpg",
+                            "md5": "292eedc9f8006da8d1f1e7149da15c8a"
+                        },
+                        "vintage_crutches_01.bin": {
+                            "size": 271320,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/vintage_crutches_01/vintage_crutches_01.bin",
+                            "md5": "ddcb1b5dd18ff92fcf4eefc1ca058d5f"
+                        },
+                        "textures/vintage_crutches_01_diff_8k.jpg": {
+                            "size": 8668635,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_diff_8k.jpg",
+                            "md5": "1a7e090ab6dde5f07627dd0a62423596"
+                        },
+                        "textures/vintage_crutches_01_nor_gl_8k.jpg": {
+                            "size": 8922521,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_nor_gl_8k.jpg",
+                            "md5": "069b92b2afd5727578b6f027a7ed3aa7"
+                        }
+                    },
+                    "size": 4601,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/vintage_crutches_01/vintage_crutches_01_8k.gltf",
+                    "md5": "14af143561922beea085f209cd300426"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "vintage_crutches_01.bin": {
+                            "size": 271320,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/vintage_crutches_01/vintage_crutches_01.bin",
+                            "md5": "ddcb1b5dd18ff92fcf4eefc1ca058d5f"
+                        },
+                        "textures/vintage_crutches_01_arm_4k.jpg": {
+                            "size": 1892466,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_arm_4k.jpg",
+                            "md5": "1dba06c8691d8b56fea425f17205945e"
+                        },
+                        "textures/vintage_crutches_01_nor_gl_4k.jpg": {
+                            "size": 2427361,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_nor_gl_4k.jpg",
+                            "md5": "9426b8b6b1312a6dd23152d1a004ee8b"
+                        },
+                        "textures/vintage_crutches_01_diff_4k.jpg": {
+                            "size": 2318280,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_diff_4k.jpg",
+                            "md5": "1080ac94407d288d2647716b098a2914"
+                        }
+                    },
+                    "size": 4601,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/vintage_crutches_01/vintage_crutches_01_4k.gltf",
+                    "md5": "f4f88a772c37fcd61d2f2c96bcb3fd77"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/vintage_crutches_01_arm_2k.jpg": {
+                            "size": 601262,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_arm_2k.jpg",
+                            "md5": "84945dcabbed675307ab75dcdaa861a8"
+                        },
+                        "vintage_crutches_01.bin": {
+                            "size": 271320,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/vintage_crutches_01/vintage_crutches_01.bin",
+                            "md5": "ddcb1b5dd18ff92fcf4eefc1ca058d5f"
+                        },
+                        "textures/vintage_crutches_01_diff_2k.jpg": {
+                            "size": 627248,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_diff_2k.jpg",
+                            "md5": "ed00e456bedd869545b52b93f9f4d0f3"
+                        },
+                        "textures/vintage_crutches_01_nor_gl_2k.jpg": {
+                            "size": 604153,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_nor_gl_2k.jpg",
+                            "md5": "f9b44d2fbd611ae73a2bfc0539e89eb0"
+                        }
+                    },
+                    "size": 4601,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/vintage_crutches_01/vintage_crutches_01_2k.gltf",
+                    "md5": "771bfd07f8a7ed87c2719efd1bca4a16"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/vintage_crutches_01_nor_gl_1k.jpg": {
+                            "size": 151576,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_nor_gl_1k.jpg",
+                            "md5": "ea6a3c624d8a3a87557da4dc43cc0c93"
+                        },
+                        "vintage_crutches_01.bin": {
+                            "size": 271320,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/vintage_crutches_01/vintage_crutches_01.bin",
+                            "md5": "ddcb1b5dd18ff92fcf4eefc1ca058d5f"
+                        },
+                        "textures/vintage_crutches_01_arm_1k.jpg": {
+                            "size": 190854,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_arm_1k.jpg",
+                            "md5": "3d6f09a2475e2a04c72f2868dc49c7e9"
+                        },
+                        "textures/vintage_crutches_01_diff_1k.jpg": {
+                            "size": 171652,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_diff_1k.jpg",
+                            "md5": "533618d9ce3788ee7dcc8859da8da983"
+                        }
+                    },
+                    "size": 4601,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/vintage_crutches_01/vintage_crutches_01_1k.gltf",
+                    "md5": "8712734ee8c93ea7df3927de6c510443"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/vintage_crutches_01_metallic_8k.exr": {
+                            "size": 369722,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/vintage_crutches_01/vintage_crutches_01_metallic_8k.exr",
+                            "md5": "50259c83ebfff308c56d8ca727ad0db4"
+                        },
+                        "textures/vintage_crutches_01_roughness_8k.jpg": {
+                            "size": 5656465,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_roughness_8k.jpg",
+                            "md5": "6e4f63f67f088e987ae61d4e21eaf9dd"
+                        },
+                        "textures/vintage_crutches_01_diff_8k.jpg": {
+                            "size": 8668635,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_diff_8k.jpg",
+                            "md5": "1a7e090ab6dde5f07627dd0a62423596"
+                        },
+                        "textures/vintage_crutches_01_nor_gl_8k.exr": {
+                            "size": 57263479,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/vintage_crutches_01/vintage_crutches_01_nor_gl_8k.exr",
+                            "md5": "f7e9b786fc6e7ada97dd9fd3189e4643"
+                        }
+                    },
+                    "size": 534266,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/vintage_crutches_01/vintage_crutches_01_8k.usdc",
+                    "md5": "4747e47d29f070dc4e97576694d5f966"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/vintage_crutches_01_roughness_4k.jpg": {
+                            "size": 1721123,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_roughness_4k.jpg",
+                            "md5": "4820e1a7416ed5670a64453d0774928a"
+                        },
+                        "textures/vintage_crutches_01_metallic_4k.exr": {
+                            "size": 131597,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/vintage_crutches_01/vintage_crutches_01_metallic_4k.exr",
+                            "md5": "6ad747a925a1ed68f6c764cc1a18d9ab"
+                        },
+                        "textures/vintage_crutches_01_nor_gl_4k.exr": {
+                            "size": 17966378,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/vintage_crutches_01/vintage_crutches_01_nor_gl_4k.exr",
+                            "md5": "a9315d6023432758204a00dfa6fd812a"
+                        },
+                        "textures/vintage_crutches_01_diff_4k.jpg": {
+                            "size": 2318280,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_diff_4k.jpg",
+                            "md5": "1080ac94407d288d2647716b098a2914"
+                        }
+                    },
+                    "size": 534266,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/vintage_crutches_01/vintage_crutches_01_4k.usdc",
+                    "md5": "3af9653084381d2b2b6970b5dddc7827"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/vintage_crutches_01_nor_gl_2k.exr": {
+                            "size": 4805927,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/vintage_crutches_01/vintage_crutches_01_nor_gl_2k.exr",
+                            "md5": "69d33b5fb754066d18cd71f9cc59eaea"
+                        },
+                        "textures/vintage_crutches_01_diff_2k.jpg": {
+                            "size": 627248,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_diff_2k.jpg",
+                            "md5": "ed00e456bedd869545b52b93f9f4d0f3"
+                        },
+                        "textures/vintage_crutches_01_roughness_2k.jpg": {
+                            "size": 506749,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_roughness_2k.jpg",
+                            "md5": "efccc8d0d1ba57f7bd84c2a3e778fac8"
+                        },
+                        "textures/vintage_crutches_01_metallic_2k.exr": {
+                            "size": 51720,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/vintage_crutches_01/vintage_crutches_01_metallic_2k.exr",
+                            "md5": "8b0fe5ea2667df0e435f63ef3bdbb0a8"
+                        }
+                    },
+                    "size": 534266,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/vintage_crutches_01/vintage_crutches_01_2k.usdc",
+                    "md5": "ab3cdc0ae3b2c920fdd91b4b527c66df"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/vintage_crutches_01_roughness_1k.jpg": {
+                            "size": 146648,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_roughness_1k.jpg",
+                            "md5": "d04a58dcdf883c635742df0c8c7911b9"
+                        },
+                        "textures/vintage_crutches_01_metallic_1k.exr": {
+                            "size": 20633,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/vintage_crutches_01/vintage_crutches_01_metallic_1k.exr",
+                            "md5": "4807073d5162f128099f609e833e90dc"
+                        },
+                        "textures/vintage_crutches_01_nor_gl_1k.exr": {
+                            "size": 1253545,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/vintage_crutches_01/vintage_crutches_01_nor_gl_1k.exr",
+                            "md5": "f87c4aa67bbd03e46f31185ea9017532"
+                        },
+                        "textures/vintage_crutches_01_diff_1k.jpg": {
+                            "size": 171652,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_diff_1k.jpg",
+                            "md5": "533618d9ce3788ee7dcc8859da8da983"
+                        }
+                    },
+                    "size": 534266,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/vintage_crutches_01/vintage_crutches_01_1k.usdc",
+                    "md5": "af42cd6e7bc5e45092a99c7c4025f4e6"
+                }
+            }
+        },
+        "Metal": {
+            "8k": {
+                "jpg": {
+                    "size": 868650,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_metallic_8k.jpg",
+                    "md5": "c20e603d70bc6c3ec4ac61c2e3fa8a06"
+                },
+                "png": {
+                    "size": 210447,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/vintage_crutches_01/vintage_crutches_01_metallic_8k.png",
+                    "md5": "f988596cea0e04bcd1b2f096bd7586b9"
+                },
+                "exr": {
+                    "size": 369722,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/vintage_crutches_01/vintage_crutches_01_metallic_8k.exr",
+                    "md5": "50259c83ebfff308c56d8ca727ad0db4"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 225305,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_metallic_4k.jpg",
+                    "md5": "15fe21ba16c669172350191f0b350b7c"
+                },
+                "png": {
+                    "size": 73800,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/vintage_crutches_01/vintage_crutches_01_metallic_4k.png",
+                    "md5": "ac85c2f82c2a7c054d98f0423bd63ab1"
+                },
+                "exr": {
+                    "size": 131597,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/vintage_crutches_01/vintage_crutches_01_metallic_4k.exr",
+                    "md5": "6ad747a925a1ed68f6c764cc1a18d9ab"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 60362,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_metallic_2k.jpg",
+                    "md5": "953b673f6aa7988f2dfad55d2a1a7c4e"
+                },
+                "png": {
+                    "size": 27512,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/vintage_crutches_01/vintage_crutches_01_metallic_2k.png",
+                    "md5": "c33508e953331cf58b282f93dfc2d6b9"
+                },
+                "exr": {
+                    "size": 51720,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/vintage_crutches_01/vintage_crutches_01_metallic_2k.exr",
+                    "md5": "8b0fe5ea2667df0e435f63ef3bdbb0a8"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 16953,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_metallic_1k.jpg",
+                    "md5": "38904ec67a07aa40ed32bf7bbcbf8415"
+                },
+                "png": {
+                    "size": 10094,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/vintage_crutches_01/vintage_crutches_01_metallic_1k.png",
+                    "md5": "23974b106b2bdf167d3a39de5ed671a9"
+                },
+                "exr": {
+                    "size": 20633,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/vintage_crutches_01/vintage_crutches_01_metallic_1k.exr",
+                    "md5": "4807073d5162f128099f609e833e90dc"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 5927652,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_arm_8k.jpg",
+                    "md5": "292eedc9f8006da8d1f1e7149da15c8a"
+                },
+                "png": {
+                    "size": 29568623,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/vintage_crutches_01/vintage_crutches_01_arm_8k.png",
+                    "md5": "70e2e363266cb21d9a24ae6a999f45b9"
+                },
+                "exr": {
+                    "size": 47825789,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/vintage_crutches_01/vintage_crutches_01_arm_8k.exr",
+                    "md5": "2f3b88e5e77d69f08be8252a298378e9"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1892466,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_arm_4k.jpg",
+                    "md5": "1dba06c8691d8b56fea425f17205945e"
+                },
+                "png": {
+                    "size": 8623347,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/vintage_crutches_01/vintage_crutches_01_arm_4k.png",
+                    "md5": "87102525c903c755a533b881a16e53e8"
+                },
+                "exr": {
+                    "size": 14522687,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/vintage_crutches_01/vintage_crutches_01_arm_4k.exr",
+                    "md5": "c8abe73f19723df474da3df88138cc01"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 601262,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_arm_2k.jpg",
+                    "md5": "84945dcabbed675307ab75dcdaa861a8"
+                },
+                "png": {
+                    "size": 2408155,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/vintage_crutches_01/vintage_crutches_01_arm_2k.png",
+                    "md5": "e0803e67c0986f5b30fe19cc26630328"
+                },
+                "exr": {
+                    "size": 4425075,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/vintage_crutches_01/vintage_crutches_01_arm_2k.exr",
+                    "md5": "925e8ad6628db93c5314bdfcffe28f00"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 190854,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_arm_1k.jpg",
+                    "md5": "3d6f09a2475e2a04c72f2868dc49c7e9"
+                },
+                "png": {
+                    "size": 703568,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/vintage_crutches_01/vintage_crutches_01_arm_1k.png",
+                    "md5": "ab7c6c3f19aed6b65bb7ca15703104f3"
+                },
+                "exr": {
+                    "size": 1351362,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/vintage_crutches_01/vintage_crutches_01_arm_1k.exr",
+                    "md5": "c9fc5ec6dc4f159ec3df60637c41dd68"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/vintage_crutches_01_metallic_8k.exr": {
+                            "size": 369722,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/vintage_crutches_01/vintage_crutches_01_metallic_8k.exr",
+                            "md5": "50259c83ebfff308c56d8ca727ad0db4"
+                        },
+                        "textures/vintage_crutches_01_roughness_8k.jpg": {
+                            "size": 5656465,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_roughness_8k.jpg",
+                            "md5": "6e4f63f67f088e987ae61d4e21eaf9dd"
+                        },
+                        "textures/vintage_crutches_01_diff_8k.jpg": {
+                            "size": 8668635,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_diff_8k.jpg",
+                            "md5": "1a7e090ab6dde5f07627dd0a62423596"
+                        },
+                        "textures/vintage_crutches_01_nor_gl_8k.exr": {
+                            "size": 57263479,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/vintage_crutches_01/vintage_crutches_01_nor_gl_8k.exr",
+                            "md5": "f7e9b786fc6e7ada97dd9fd3189e4643"
+                        }
+                    },
+                    "size": 342364,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/vintage_crutches_01/vintage_crutches_01_8k.fbx",
+                    "md5": "e74f694f3fb08963a9924a4edebcc58e"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/vintage_crutches_01_roughness_4k.jpg": {
+                            "size": 1721123,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_roughness_4k.jpg",
+                            "md5": "4820e1a7416ed5670a64453d0774928a"
+                        },
+                        "textures/vintage_crutches_01_metallic_4k.exr": {
+                            "size": 131597,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/vintage_crutches_01/vintage_crutches_01_metallic_4k.exr",
+                            "md5": "6ad747a925a1ed68f6c764cc1a18d9ab"
+                        },
+                        "textures/vintage_crutches_01_nor_gl_4k.exr": {
+                            "size": 17966378,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/vintage_crutches_01/vintage_crutches_01_nor_gl_4k.exr",
+                            "md5": "a9315d6023432758204a00dfa6fd812a"
+                        },
+                        "textures/vintage_crutches_01_diff_4k.jpg": {
+                            "size": 2318280,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_diff_4k.jpg",
+                            "md5": "1080ac94407d288d2647716b098a2914"
+                        }
+                    },
+                    "size": 342364,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/vintage_crutches_01/vintage_crutches_01_4k.fbx",
+                    "md5": "cffe018ae962ec5ddf86b9f9045d03b2"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/vintage_crutches_01_nor_gl_2k.exr": {
+                            "size": 4805927,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/vintage_crutches_01/vintage_crutches_01_nor_gl_2k.exr",
+                            "md5": "69d33b5fb754066d18cd71f9cc59eaea"
+                        },
+                        "textures/vintage_crutches_01_diff_2k.jpg": {
+                            "size": 627248,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_diff_2k.jpg",
+                            "md5": "ed00e456bedd869545b52b93f9f4d0f3"
+                        },
+                        "textures/vintage_crutches_01_roughness_2k.jpg": {
+                            "size": 506749,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_roughness_2k.jpg",
+                            "md5": "efccc8d0d1ba57f7bd84c2a3e778fac8"
+                        },
+                        "textures/vintage_crutches_01_metallic_2k.exr": {
+                            "size": 51720,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/vintage_crutches_01/vintage_crutches_01_metallic_2k.exr",
+                            "md5": "8b0fe5ea2667df0e435f63ef3bdbb0a8"
+                        }
+                    },
+                    "size": 342364,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/vintage_crutches_01/vintage_crutches_01_2k.fbx",
+                    "md5": "9928914f94f2bd58c56e3723cadf52d9"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/vintage_crutches_01_roughness_1k.jpg": {
+                            "size": 146648,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_roughness_1k.jpg",
+                            "md5": "d04a58dcdf883c635742df0c8c7911b9"
+                        },
+                        "textures/vintage_crutches_01_metallic_1k.exr": {
+                            "size": 20633,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/vintage_crutches_01/vintage_crutches_01_metallic_1k.exr",
+                            "md5": "4807073d5162f128099f609e833e90dc"
+                        },
+                        "textures/vintage_crutches_01_nor_gl_1k.exr": {
+                            "size": 1253545,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/vintage_crutches_01/vintage_crutches_01_nor_gl_1k.exr",
+                            "md5": "f87c4aa67bbd03e46f31185ea9017532"
+                        },
+                        "textures/vintage_crutches_01_diff_1k.jpg": {
+                            "size": 171652,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_diff_1k.jpg",
+                            "md5": "533618d9ce3788ee7dcc8859da8da983"
+                        }
+                    },
+                    "size": 342364,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/vintage_crutches_01/vintage_crutches_01_1k.fbx",
+                    "md5": "f309215e149a9972ecc34ee031fc3c9e"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 5656465,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_roughness_8k.jpg",
+                    "md5": "6e4f63f67f088e987ae61d4e21eaf9dd"
+                },
+                "png": {
+                    "size": 13510118,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/vintage_crutches_01/vintage_crutches_01_roughness_8k.png",
+                    "md5": "83dc4617cd9442a841cfc0eadf3d16ee"
+                },
+                "exr": {
+                    "size": 19314138,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/vintage_crutches_01/vintage_crutches_01_roughness_8k.exr",
+                    "md5": "77d5ae0fa4cc4b8dfeeec30af45da3d7"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1721123,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_roughness_4k.jpg",
+                    "md5": "4820e1a7416ed5670a64453d0774928a"
+                },
+                "png": {
+                    "size": 4046800,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/vintage_crutches_01/vintage_crutches_01_roughness_4k.png",
+                    "md5": "5bd690a80e095a5b6c1882686b1a7e1f"
+                },
+                "exr": {
+                    "size": 5801222,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/vintage_crutches_01/vintage_crutches_01_roughness_4k.exr",
+                    "md5": "8f0446f5be1fb487ba5eeab07e792505"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 506749,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_roughness_2k.jpg",
+                    "md5": "efccc8d0d1ba57f7bd84c2a3e778fac8"
+                },
+                "png": {
+                    "size": 1246738,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/vintage_crutches_01/vintage_crutches_01_roughness_2k.png",
+                    "md5": "0021c5651fe151b17f4b8b2133fbfdfc"
+                },
+                "exr": {
+                    "size": 1818227,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/vintage_crutches_01/vintage_crutches_01_roughness_2k.exr",
+                    "md5": "d4556ed196f70ba098dd5384a2e175d7"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 146648,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_roughness_1k.jpg",
+                    "md5": "d04a58dcdf883c635742df0c8c7911b9"
+                },
+                "png": {
+                    "size": 384384,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/vintage_crutches_01/vintage_crutches_01_roughness_1k.png",
+                    "md5": "3e7fc335487e67d3376f3477146c5e2e"
+                },
+                "exr": {
+                    "size": 578737,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/vintage_crutches_01/vintage_crutches_01_roughness_1k.exr",
+                    "md5": "95d597e18e4af201c32609a6b638bafb"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 3286828,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/vintage_crutches_01/vintage_crutches_01_ao_8k.jpg",
+                    "md5": "bf89d465e6187dcfb0d4f6f69ce72df6"
+                },
+                "png": {
+                    "size": 11531045,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/vintage_crutches_01/vintage_crutches_01_ao_8k.png",
+                    "md5": "93d558051296266eefdbd6f7d7abba27"
+                },
+                "exr": {
+                    "size": 15226419,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/vintage_crutches_01/vintage_crutches_01_ao_8k.exr",
+                    "md5": "e31038d451aae218aacc36146c7136de"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 795747,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/vintage_crutches_01/vintage_crutches_01_ao_4k.jpg",
+                    "md5": "6996f8b28ee4dfca612d3282bc265123"
+                },
+                "png": {
+                    "size": 2898453,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/vintage_crutches_01/vintage_crutches_01_ao_4k.png",
+                    "md5": "c39f16971cd6df2cfae3b2ed93756093"
+                },
+                "exr": {
+                    "size": 3943450,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/vintage_crutches_01/vintage_crutches_01_ao_4k.exr",
+                    "md5": "4c2bd304cb775c4a939812a6daf6c5d4"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 273637,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/vintage_crutches_01/vintage_crutches_01_ao_2k.jpg",
+                    "md5": "0644df055bb489fc18847484de2c8b08"
+                },
+                "png": {
+                    "size": 681230,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/vintage_crutches_01/vintage_crutches_01_ao_2k.png",
+                    "md5": "57cbeeeb350ec774b2f28a3ebb9acebf"
+                },
+                "exr": {
+                    "size": 1033603,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/vintage_crutches_01/vintage_crutches_01_ao_2k.exr",
+                    "md5": "2985b50ab9491a860e1f723298856460"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 108934,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/vintage_crutches_01/vintage_crutches_01_ao_1k.jpg",
+                    "md5": "23df6023b2713054e0350e97a342a41c"
+                },
+                "png": {
+                    "size": 185156,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/vintage_crutches_01/vintage_crutches_01_ao_1k.png",
+                    "md5": "889821ea22d71bad5e3248eb9c4574c8"
+                },
+                "exr": {
+                    "size": 340861,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/vintage_crutches_01/vintage_crutches_01_ao_1k.exr",
+                    "md5": "a1a465620b2e601a6ff5be1d5cb9bf51"
+                }
+            }
+        }
+    }
+}

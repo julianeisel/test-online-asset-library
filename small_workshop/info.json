@@ -1,0 +1,130 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "workshop",
+        "machine",
+        "fluorescent",
+        "lamp",
+        "table",
+        "tablesaw",
+        "concrete",
+        "tools",
+        "mess"
+    ],
+    "name": "Small Workshop",
+    "categories": [
+        "artificial light",
+        "natural light",
+        "indoor",
+        "urban",
+        "low contrast",
+        "medium contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1676449920,
+    "coords": [
+        -25.863897007787877,
+        28.08872285637148
+    ],
+    "info": null,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "date_published": 1679443200,
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "dacaf3137350ede6e4bb22aa977c6c4485e106da",
+    "download_count": 10020,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/small_workshop.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 45204037,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/small_workshop.jpg",
+            "md5": "9d6488008ac3cb1bf35fbbd0268a632d"
+        },
+        "colorchart": {
+            "size": 214462919,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/small_workshop.zip",
+            "md5": "473df296662c2e2e115c433f71665769"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/small_workshop_8k.hdr",
+                    "size": 102544929,
+                    "md5": "c0b4ca6c73563e1762dc7acc54fa72b9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/small_workshop_8k.exr",
+                    "size": 332237530,
+                    "md5": "628021fd602feeeafdfe3ac4aff8f2f4"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/small_workshop_16k.hdr",
+                    "size": 392098227,
+                    "md5": "999772aa1313decdc1cf290b7af82612"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/small_workshop_16k.exr",
+                    "size": 1263575259,
+                    "md5": "e42137b1b93fcd2fd6c3a30d5c5e6acc"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/small_workshop_4k.hdr",
+                    "size": 26339921,
+                    "md5": "831cc1c4aec60b780a4a93fead85b60c"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/small_workshop_4k.exr",
+                    "size": 86297054,
+                    "md5": "f4ed99ebbd270850cbb3074b2879d96c"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/small_workshop_24k.hdr",
+                    "size": 864687396,
+                    "md5": "24fd1f473fea2b0ca213261465f5aed3"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/small_workshop_24k.exr",
+                    "size": 2848743547,
+                    "md5": "2ebf3589a6aeef10a1c17854c5d401b3"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/small_workshop_2k.hdr",
+                    "size": 6755781,
+                    "md5": "49729aaea6f3328d8264fb7010f3852c"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/small_workshop_2k.exr",
+                    "size": 22718888,
+                    "md5": "26213539cffdb9245672e0849e15e6f6"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/small_workshop_1k.hdr",
+                    "size": 1728826,
+                    "md5": "c61cc25804e783673486214af7455b4a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/small_workshop_1k.exr",
+                    "size": 6104927,
+                    "md5": "bb00cb8d44a9d86fd3e542e3a2424ad2"
+                }
+            }
+        }
+    }
+}

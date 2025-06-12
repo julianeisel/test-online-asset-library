@@ -1,0 +1,104 @@
+{
+    "donated": true,
+    "type": 0,
+    "tags": [
+        "road",
+        "asphalt",
+        "street",
+        "curve",
+        "bush",
+        "barrier"
+    ],
+    "name": "Tief Etz",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "clear",
+        "low contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1473602220,
+    "authors": {
+        "Adrian Kubasa": "All"
+    },
+    "info": null,
+    "evs_cap": 0,
+    "files_hash": "ad9b619fb54ecf341e01c9301a2d4fb870429539",
+    "date_published": 1707004800,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 52902,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/tief_etz.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 51155019,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/tief_etz.jpg",
+            "md5": "78743b9d3cfb81f3d4c70bc4c1f0dfec"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 108883979,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/tief_etz_8k.hdr",
+                    "md5": "678e2ab8967d673448bf7c80a8a8e235"
+                },
+                "exr": {
+                    "size": 102050401,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/tief_etz_8k.exr",
+                    "md5": "ee2db9f3d0400162dc99909f75f87929"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 408779770,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/tief_etz_16k.hdr",
+                    "md5": "7aed29b51d77ed18383d10ed1f9d74c1"
+                },
+                "exr": {
+                    "size": 376219353,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/tief_etz_16k.exr",
+                    "md5": "3f3c0503a7007eaa9e4c507acb0171ff"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27816667,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/tief_etz_4k.hdr",
+                    "md5": "bda1a44f0e0581418376e94d0218a18f"
+                },
+                "exr": {
+                    "size": 25928639,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/tief_etz_4k.exr",
+                    "md5": "1f55393c49c313b9e9daaed5a0ed5e57"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6910630,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/tief_etz_2k.hdr",
+                    "md5": "ebfcb9e8c46e4ca291c5208587e9884e"
+                },
+                "exr": {
+                    "size": 6442339,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/tief_etz_2k.exr",
+                    "md5": "ed986ea700d8869a2c7ef9ad27d830a7"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1700131,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/tief_etz_1k.hdr",
+                    "md5": "d41e4e8f61219d9aeef3b0e23d762ea0"
+                },
+                "exr": {
+                    "size": 1606591,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/tief_etz_1k.exr",
+                    "md5": "e234ee8cdba47ea5997c3dd2b8cf83c7"
+                }
+            }
+        }
+    }
+}

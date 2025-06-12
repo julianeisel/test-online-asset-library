@@ -1,0 +1,1151 @@
+{
+    "donated": true,
+    "name": "Gaming Console",
+    "categories": [
+        "appliances",
+        "electronics"
+    ],
+    "type": 2,
+    "tags": [
+        "game",
+        "gaming",
+        "console",
+        "playstation",
+        "entertainment",
+        "video games",
+        "xbox"
+    ],
+    "authors": {
+        "Sean Buckley": "All"
+    },
+    "info": null,
+    "files_hash": "8437265aaf38219aa91e129e9fb835cf0cfb2cb8",
+    "date_published": 1703030400,
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "polycount": 31710,
+    "texel_density": 11695.081184148397,
+    "dimensions": [
+        325.0104486942291,
+        318.54312121868134,
+        100.2653255709447
+    ],
+    "download_count": 1326,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/gaming_console.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 23993557,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/gaming_console/gaming_console_diff_8k.jpg",
+                    "md5": "0e0364e2957ffa11b2fd0f1c81fd0b62"
+                },
+                "png": {
+                    "size": 57943108,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/gaming_console/gaming_console_diff_8k.png",
+                    "md5": "847e0920aabe69755fa060fb127bf47a"
+                },
+                "exr": {
+                    "size": 62024866,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_diff_8k.exr",
+                    "md5": "632502cf075e6e239242656754985ca8"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 6298091,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_diff_4k.jpg",
+                    "md5": "3cad44c716660ce8b9dfe8092b1096b1"
+                },
+                "png": {
+                    "size": 33390209,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/gaming_console/gaming_console_diff_4k.png",
+                    "md5": "4be28cee5e2041aefa58bf66f3ec0311"
+                },
+                "exr": {
+                    "size": 13545589,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_diff_4k.exr",
+                    "md5": "2f10b6ed444862abd0e2c4a278355127"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1719779,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/gaming_console/gaming_console_diff_2k.jpg",
+                    "md5": "f917536ec4861aa015e81908fc6bc67a"
+                },
+                "png": {
+                    "size": 14319660,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/gaming_console/gaming_console_diff_2k.png",
+                    "md5": "8b94a05e5cf752d1be46ef553c819748"
+                },
+                "exr": {
+                    "size": 3146103,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_diff_2k.exr",
+                    "md5": "e4b2e42282d607da903fb52ccaef1cf2"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 456035,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gaming_console/gaming_console_diff_1k.jpg",
+                    "md5": "fee5e52cdb2a0e4cc66de267fd8919f2"
+                },
+                "png": {
+                    "size": 4225615,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/gaming_console/gaming_console_diff_1k.png",
+                    "md5": "208ab85e4350e495009429b8048237b0"
+                },
+                "exr": {
+                    "size": 838680,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_diff_1k.exr",
+                    "md5": "80338eefd0e50d7cb29d694a3dd88e35"
+                }
+            }
+        },
+        "emissive": {
+            "8k": {
+                "jpg": {
+                    "size": 1085077,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/gaming_console/gaming_console_emissive_8k.jpg",
+                    "md5": "337e98828ebe1aaae97b33cd700754c3"
+                },
+                "png": {
+                    "size": 535663,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/gaming_console/gaming_console_emissive_8k.png",
+                    "md5": "5fb678ab49b8d24713e9266964b76aee"
+                },
+                "exr": {
+                    "size": 139477,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_emissive_8k.exr",
+                    "md5": "e4317556c68068a0473422c85268f8f6"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 280178,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_emissive_4k.jpg",
+                    "md5": "f3990dc90778c60c98f5a0e846996cc8"
+                },
+                "png": {
+                    "size": 129619,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/gaming_console/gaming_console_emissive_4k.png",
+                    "md5": "eb59585595256c9d45fd31abb394bb61"
+                },
+                "exr": {
+                    "size": 61887,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_emissive_4k.exr",
+                    "md5": "110f7466125822c6513f39d9284b8295"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 73297,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/gaming_console/gaming_console_emissive_2k.jpg",
+                    "md5": "be8fc1fd71976293a839b1f22040589e"
+                },
+                "png": {
+                    "size": 37561,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/gaming_console/gaming_console_emissive_2k.png",
+                    "md5": "7b11a202f02638be057be421ea22fe48"
+                },
+                "exr": {
+                    "size": 28279,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_emissive_2k.exr",
+                    "md5": "a7eb9bc90dc7d40c0261f2cb27beed9d"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 19784,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gaming_console/gaming_console_emissive_1k.jpg",
+                    "md5": "adebd040dd0686d41af98b64d13c36fa"
+                },
+                "png": {
+                    "size": 11142,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/gaming_console/gaming_console_emissive_1k.png",
+                    "md5": "9bd7f96f85344e7d0dbf81c4dc75e493"
+                },
+                "exr": {
+                    "size": 13663,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_emissive_1k.exr",
+                    "md5": "7b85f4df5042c104aa91d4b64db2998e"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 9928044,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/gaming_console/gaming_console_nor_dx_8k.jpg",
+                    "md5": "9d3899315f942c121957615435f6cfea"
+                },
+                "png": {
+                    "size": 21335306,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/gaming_console/gaming_console_nor_dx_8k.png",
+                    "md5": "7b4a0dc6c16e2fb8b2890c9fd4aa6b05"
+                },
+                "exr": {
+                    "size": 15449670,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_nor_dx_8k.exr",
+                    "md5": "f5240e0661fd12ee5c8e4baa4c35d07e"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3841719,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_nor_dx_4k.jpg",
+                    "md5": "30f2aa9ef53fa46f69fd98e236d5813b"
+                },
+                "png": {
+                    "size": 10846350,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/gaming_console/gaming_console_nor_dx_4k.png",
+                    "md5": "80f65111effdcc3f28cec5559f69c4c2"
+                },
+                "exr": {
+                    "size": 6635677,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_nor_dx_4k.exr",
+                    "md5": "bf25da57868a10d20bddd92d5d96bb1d"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1335231,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/gaming_console/gaming_console_nor_dx_2k.jpg",
+                    "md5": "102feb184cebb86c2b96f9caa391c726"
+                },
+                "png": {
+                    "size": 4715117,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/gaming_console/gaming_console_nor_dx_2k.png",
+                    "md5": "0ca0c23e651dd9bc646de29144c4e122"
+                },
+                "exr": {
+                    "size": 2604126,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_nor_dx_2k.exr",
+                    "md5": "a08b01e71dca23bdc5b4a7b22ef56570"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 417448,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gaming_console/gaming_console_nor_dx_1k.jpg",
+                    "md5": "5cc4bb53d267890381715c3143e6756b"
+                },
+                "png": {
+                    "size": 1730031,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/gaming_console/gaming_console_nor_dx_1k.png",
+                    "md5": "702c524f88b1433bc8ea8454902ed7e6"
+                },
+                "exr": {
+                    "size": 853153,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_nor_dx_1k.exr",
+                    "md5": "bc16e10105d9fd1f252265eb2cd21b8b"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 9605512,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/gaming_console/gaming_console_nor_gl_8k.jpg",
+                    "md5": "a7e3c17b4806b47d5fb572e0ec62a64c"
+                },
+                "png": {
+                    "size": 21241407,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/gaming_console/gaming_console_nor_gl_8k.png",
+                    "md5": "9463a3d277207e1cff5b8715fddda80c"
+                },
+                "exr": {
+                    "size": 15801812,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_nor_gl_8k.exr",
+                    "md5": "9b3272ad40f2f95f7afea793eb382a78"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3739298,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_nor_gl_4k.jpg",
+                    "md5": "ad5a10f5264b660c59f6fcde91f2a83b"
+                },
+                "png": {
+                    "size": 10790194,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/gaming_console/gaming_console_nor_gl_4k.png",
+                    "md5": "1f0a7c34c9dd9335694ec2ac760111db"
+                },
+                "exr": {
+                    "size": 6692686,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_nor_gl_4k.exr",
+                    "md5": "18319da02a092631f18275ee07e98270"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1311585,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/gaming_console/gaming_console_nor_gl_2k.jpg",
+                    "md5": "96758b71af62a87a3520785a51b13884"
+                },
+                "png": {
+                    "size": 4573864,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/gaming_console/gaming_console_nor_gl_2k.png",
+                    "md5": "c8725382a91db5ffd237f4cc585a8b4f"
+                },
+                "exr": {
+                    "size": 2618046,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_nor_gl_2k.exr",
+                    "md5": "2f1ee34ab011182358fe02ec402c005a"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 412474,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gaming_console/gaming_console_nor_gl_1k.jpg",
+                    "md5": "bced09cb2baa2f9d099a23d673bb4be2"
+                },
+                "png": {
+                    "size": 1694847,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/gaming_console/gaming_console_nor_gl_1k.png",
+                    "md5": "10d337883a3025b243b0e7d72ecfeab9"
+                },
+                "exr": {
+                    "size": 855968,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_nor_gl_1k.exr",
+                    "md5": "63e1db082073acb7c857f5b3905f9393"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/gaming_console_rough_8k.exr": {
+                            "size": 41313344,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_rough_8k.exr",
+                            "md5": "95fe613fd8c4c6630054007adca1aef9"
+                        },
+                        "textures/gaming_console_nor_gl_8k.exr": {
+                            "size": 15801812,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_nor_gl_8k.exr",
+                            "md5": "9b3272ad40f2f95f7afea793eb382a78"
+                        },
+                        "textures/gaming_console_emissive_8k.png": {
+                            "size": 535663,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/gaming_console/gaming_console_emissive_8k.png",
+                            "md5": "5fb678ab49b8d24713e9266964b76aee"
+                        },
+                        "textures/gaming_console_diff_8k.jpg": {
+                            "size": 23993557,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/gaming_console/gaming_console_diff_8k.jpg",
+                            "md5": "0e0364e2957ffa11b2fd0f1c81fd0b62"
+                        },
+                        "textures/gaming_console_metal_8k.exr": {
+                            "size": 652271,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_metal_8k.exr",
+                            "md5": "ee594a909fc454830cbaacea74d5e8c8"
+                        }
+                    },
+                    "size": 971633,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/gaming_console/gaming_console_8k.blend",
+                    "md5": "d1cd0c304d5bf63de92aebe7165cd180"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/gaming_console_diff_4k.jpg": {
+                            "size": 6298091,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_diff_4k.jpg",
+                            "md5": "3cad44c716660ce8b9dfe8092b1096b1"
+                        },
+                        "textures/gaming_console_metal_4k.exr": {
+                            "size": 264423,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_metal_4k.exr",
+                            "md5": "45d83ee3f5ed25d3f84662a409f46cdb"
+                        },
+                        "textures/gaming_console_emissive_4k.png": {
+                            "size": 129619,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/gaming_console/gaming_console_emissive_4k.png",
+                            "md5": "eb59585595256c9d45fd31abb394bb61"
+                        },
+                        "textures/gaming_console_rough_4k.exr": {
+                            "size": 13179045,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_rough_4k.exr",
+                            "md5": "1d67c556cdf628d4a7d203dbd67a80a4"
+                        },
+                        "textures/gaming_console_nor_gl_4k.exr": {
+                            "size": 6692686,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_nor_gl_4k.exr",
+                            "md5": "18319da02a092631f18275ee07e98270"
+                        }
+                    },
+                    "size": 971547,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/gaming_console/gaming_console_4k.blend",
+                    "md5": "c66b818785224d6cd3858b1dfac261ef"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/gaming_console_metal_2k.exr": {
+                            "size": 110352,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_metal_2k.exr",
+                            "md5": "0cb473c691f7eee9832c2fa1ff4e7dc5"
+                        },
+                        "textures/gaming_console_nor_gl_2k.exr": {
+                            "size": 2618046,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_nor_gl_2k.exr",
+                            "md5": "2f1ee34ab011182358fe02ec402c005a"
+                        },
+                        "textures/gaming_console_diff_2k.jpg": {
+                            "size": 1719779,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/gaming_console/gaming_console_diff_2k.jpg",
+                            "md5": "f917536ec4861aa015e81908fc6bc67a"
+                        },
+                        "textures/gaming_console_rough_2k.exr": {
+                            "size": 3801236,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_rough_2k.exr",
+                            "md5": "9833261b22c3d378b33f7af4f88633cc"
+                        },
+                        "textures/gaming_console_emissive_2k.png": {
+                            "size": 37561,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/gaming_console/gaming_console_emissive_2k.png",
+                            "md5": "7b11a202f02638be057be421ea22fe48"
+                        }
+                    },
+                    "size": 971481,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/gaming_console/gaming_console_2k.blend",
+                    "md5": "8d3a26d69a5c6804a17e2d82445ca9b2"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/gaming_console_diff_1k.jpg": {
+                            "size": 456035,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gaming_console/gaming_console_diff_1k.jpg",
+                            "md5": "fee5e52cdb2a0e4cc66de267fd8919f2"
+                        },
+                        "textures/gaming_console_metal_1k.exr": {
+                            "size": 44992,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_metal_1k.exr",
+                            "md5": "5b6bca5dcd0baca693d7b02700f88f5e"
+                        },
+                        "textures/gaming_console_rough_1k.exr": {
+                            "size": 1047880,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_rough_1k.exr",
+                            "md5": "4f991ed7e70fd3410671aa9e6146a71d"
+                        },
+                        "textures/gaming_console_emissive_1k.png": {
+                            "size": 11142,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/gaming_console/gaming_console_emissive_1k.png",
+                            "md5": "9bd7f96f85344e7d0dbf81c4dc75e493"
+                        },
+                        "textures/gaming_console_nor_gl_1k.exr": {
+                            "size": 855968,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_nor_gl_1k.exr",
+                            "md5": "63e1db082073acb7c857f5b3905f9393"
+                        }
+                    },
+                    "size": 971681,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/gaming_console/gaming_console_1k.blend",
+                    "md5": "5a375ece945ed265aea03cba79a502bd"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "gaming_console.bin": {
+                            "size": 1407028,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/gaming_console/gaming_console.bin",
+                            "md5": "3bd9ba4b7ce934dba5f2508e14c21625"
+                        },
+                        "textures/gaming_console_arm_8k.jpg": {
+                            "size": 33582227,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/gaming_console/gaming_console_arm_8k.jpg",
+                            "md5": "359e9b47f9eba292eb272bf2cca1863f"
+                        },
+                        "textures/gaming_console_diff_8k.jpg": {
+                            "size": 23993557,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/gaming_console/gaming_console_diff_8k.jpg",
+                            "md5": "0e0364e2957ffa11b2fd0f1c81fd0b62"
+                        },
+                        "textures/gaming_console_nor_gl_8k.jpg": {
+                            "size": 9605512,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/gaming_console/gaming_console_nor_gl_8k.jpg",
+                            "md5": "a7e3c17b4806b47d5fb572e0ec62a64c"
+                        },
+                        "textures/gaming_console_emissive_8k.jpg": {
+                            "size": 1085077,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/gaming_console/gaming_console_emissive_8k.jpg",
+                            "md5": "337e98828ebe1aaae97b33cd700754c3"
+                        }
+                    },
+                    "size": 4943,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/gaming_console/gaming_console_8k.gltf",
+                    "md5": "585695ee3736ae61dba98f3f57992f2c"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/gaming_console_diff_4k.jpg": {
+                            "size": 6298091,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_diff_4k.jpg",
+                            "md5": "3cad44c716660ce8b9dfe8092b1096b1"
+                        },
+                        "gaming_console.bin": {
+                            "size": 1407028,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/gaming_console/gaming_console.bin",
+                            "md5": "3bd9ba4b7ce934dba5f2508e14c21625"
+                        },
+                        "textures/gaming_console_arm_4k.jpg": {
+                            "size": 9298173,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_arm_4k.jpg",
+                            "md5": "f9e40198454321c3bda2caa85f9f5a5b"
+                        },
+                        "textures/gaming_console_nor_gl_4k.jpg": {
+                            "size": 3739298,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_nor_gl_4k.jpg",
+                            "md5": "ad5a10f5264b660c59f6fcde91f2a83b"
+                        },
+                        "textures/gaming_console_emissive_4k.jpg": {
+                            "size": 280178,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_emissive_4k.jpg",
+                            "md5": "f3990dc90778c60c98f5a0e846996cc8"
+                        }
+                    },
+                    "size": 4943,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/gaming_console/gaming_console_4k.gltf",
+                    "md5": "40b2dc6a4c4039d3cf85a6529b6a16de"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/gaming_console_arm_2k.jpg": {
+                            "size": 2523141,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/gaming_console/gaming_console_arm_2k.jpg",
+                            "md5": "86813553f5328536ffb8061fcce6c6e9"
+                        },
+                        "textures/gaming_console_emissive_2k.jpg": {
+                            "size": 73297,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/gaming_console/gaming_console_emissive_2k.jpg",
+                            "md5": "be8fc1fd71976293a839b1f22040589e"
+                        },
+                        "gaming_console.bin": {
+                            "size": 1407028,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/gaming_console/gaming_console.bin",
+                            "md5": "3bd9ba4b7ce934dba5f2508e14c21625"
+                        },
+                        "textures/gaming_console_nor_gl_2k.jpg": {
+                            "size": 1311585,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/gaming_console/gaming_console_nor_gl_2k.jpg",
+                            "md5": "96758b71af62a87a3520785a51b13884"
+                        },
+                        "textures/gaming_console_diff_2k.jpg": {
+                            "size": 1719779,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/gaming_console/gaming_console_diff_2k.jpg",
+                            "md5": "f917536ec4861aa015e81908fc6bc67a"
+                        }
+                    },
+                    "size": 4943,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/gaming_console/gaming_console_2k.gltf",
+                    "md5": "79beb9d0459f524baf68dee1a7168a48"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/gaming_console_nor_gl_1k.jpg": {
+                            "size": 412474,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gaming_console/gaming_console_nor_gl_1k.jpg",
+                            "md5": "bced09cb2baa2f9d099a23d673bb4be2"
+                        },
+                        "textures/gaming_console_diff_1k.jpg": {
+                            "size": 456035,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gaming_console/gaming_console_diff_1k.jpg",
+                            "md5": "fee5e52cdb2a0e4cc66de267fd8919f2"
+                        },
+                        "textures/gaming_console_emissive_1k.jpg": {
+                            "size": 19784,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gaming_console/gaming_console_emissive_1k.jpg",
+                            "md5": "adebd040dd0686d41af98b64d13c36fa"
+                        },
+                        "gaming_console.bin": {
+                            "size": 1407028,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/gaming_console/gaming_console.bin",
+                            "md5": "3bd9ba4b7ce934dba5f2508e14c21625"
+                        },
+                        "textures/gaming_console_arm_1k.jpg": {
+                            "size": 679186,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gaming_console/gaming_console_arm_1k.jpg",
+                            "md5": "f905dfcf9e79d2f0db773edec8873c12"
+                        }
+                    },
+                    "size": 4943,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/gaming_console/gaming_console_1k.gltf",
+                    "md5": "d9ca70584a88825338871d5fbfa014de"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/gaming_console_rough_8k.exr": {
+                            "size": 41313344,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_rough_8k.exr",
+                            "md5": "95fe613fd8c4c6630054007adca1aef9"
+                        },
+                        "textures/gaming_console_nor_gl_8k.exr": {
+                            "size": 15801812,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_nor_gl_8k.exr",
+                            "md5": "9b3272ad40f2f95f7afea793eb382a78"
+                        },
+                        "textures/gaming_console_emissive_8k.png": {
+                            "size": 535663,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/gaming_console/gaming_console_emissive_8k.png",
+                            "md5": "5fb678ab49b8d24713e9266964b76aee"
+                        },
+                        "textures/gaming_console_diff_8k.jpg": {
+                            "size": 23993557,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/gaming_console/gaming_console_diff_8k.jpg",
+                            "md5": "0e0364e2957ffa11b2fd0f1c81fd0b62"
+                        },
+                        "textures/gaming_console_metal_8k.exr": {
+                            "size": 652271,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_metal_8k.exr",
+                            "md5": "ee594a909fc454830cbaacea74d5e8c8"
+                        }
+                    },
+                    "size": 9248884,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/gaming_console/gaming_console_8k.usdc",
+                    "md5": "0b1488a22dccdfa7b4fcf909aaa62222"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/gaming_console_diff_4k.jpg": {
+                            "size": 6298091,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_diff_4k.jpg",
+                            "md5": "3cad44c716660ce8b9dfe8092b1096b1"
+                        },
+                        "textures/gaming_console_metal_4k.exr": {
+                            "size": 264423,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_metal_4k.exr",
+                            "md5": "45d83ee3f5ed25d3f84662a409f46cdb"
+                        },
+                        "textures/gaming_console_emissive_4k.png": {
+                            "size": 129619,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/gaming_console/gaming_console_emissive_4k.png",
+                            "md5": "eb59585595256c9d45fd31abb394bb61"
+                        },
+                        "textures/gaming_console_rough_4k.exr": {
+                            "size": 13179045,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_rough_4k.exr",
+                            "md5": "1d67c556cdf628d4a7d203dbd67a80a4"
+                        },
+                        "textures/gaming_console_nor_gl_4k.exr": {
+                            "size": 6692686,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_nor_gl_4k.exr",
+                            "md5": "18319da02a092631f18275ee07e98270"
+                        }
+                    },
+                    "size": 9248884,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/gaming_console/gaming_console_4k.usdc",
+                    "md5": "667a897d077b7279fc0cdfebf430f48c"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/gaming_console_metal_2k.exr": {
+                            "size": 110352,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_metal_2k.exr",
+                            "md5": "0cb473c691f7eee9832c2fa1ff4e7dc5"
+                        },
+                        "textures/gaming_console_nor_gl_2k.exr": {
+                            "size": 2618046,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_nor_gl_2k.exr",
+                            "md5": "2f1ee34ab011182358fe02ec402c005a"
+                        },
+                        "textures/gaming_console_diff_2k.jpg": {
+                            "size": 1719779,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/gaming_console/gaming_console_diff_2k.jpg",
+                            "md5": "f917536ec4861aa015e81908fc6bc67a"
+                        },
+                        "textures/gaming_console_rough_2k.exr": {
+                            "size": 3801236,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_rough_2k.exr",
+                            "md5": "9833261b22c3d378b33f7af4f88633cc"
+                        },
+                        "textures/gaming_console_emissive_2k.png": {
+                            "size": 37561,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/gaming_console/gaming_console_emissive_2k.png",
+                            "md5": "7b11a202f02638be057be421ea22fe48"
+                        }
+                    },
+                    "size": 9248884,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/gaming_console/gaming_console_2k.usdc",
+                    "md5": "db9d3d07636c6d6a77c02dd5fdd445f9"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/gaming_console_diff_1k.jpg": {
+                            "size": 456035,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gaming_console/gaming_console_diff_1k.jpg",
+                            "md5": "fee5e52cdb2a0e4cc66de267fd8919f2"
+                        },
+                        "textures/gaming_console_metal_1k.exr": {
+                            "size": 44992,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_metal_1k.exr",
+                            "md5": "5b6bca5dcd0baca693d7b02700f88f5e"
+                        },
+                        "textures/gaming_console_rough_1k.exr": {
+                            "size": 1047880,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_rough_1k.exr",
+                            "md5": "4f991ed7e70fd3410671aa9e6146a71d"
+                        },
+                        "textures/gaming_console_emissive_1k.png": {
+                            "size": 11142,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/gaming_console/gaming_console_emissive_1k.png",
+                            "md5": "9bd7f96f85344e7d0dbf81c4dc75e493"
+                        },
+                        "textures/gaming_console_nor_gl_1k.exr": {
+                            "size": 855968,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_nor_gl_1k.exr",
+                            "md5": "63e1db082073acb7c857f5b3905f9393"
+                        }
+                    },
+                    "size": 9248884,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/gaming_console/gaming_console_1k.usdc",
+                    "md5": "8562acc02bbb7c1e7e3d97f3786846e9"
+                }
+            }
+        },
+        "Metal": {
+            "8k": {
+                "jpg": {
+                    "size": 1273198,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/gaming_console/gaming_console_metal_8k.jpg",
+                    "md5": "23801c91ca9622e5efbaae1d66abfd3f"
+                },
+                "png": {
+                    "size": 549594,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/gaming_console/gaming_console_metal_8k.png",
+                    "md5": "960c527a7b575af23c339c55ab857fbe"
+                },
+                "exr": {
+                    "size": 652271,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_metal_8k.exr",
+                    "md5": "ee594a909fc454830cbaacea74d5e8c8"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 394923,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_metal_4k.jpg",
+                    "md5": "79941ff8780cf8c9d35038335e5d9a71"
+                },
+                "png": {
+                    "size": 245845,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/gaming_console/gaming_console_metal_4k.png",
+                    "md5": "8e5ded26385c449c93f37064b9f06451"
+                },
+                "exr": {
+                    "size": 264423,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_metal_4k.exr",
+                    "md5": "45d83ee3f5ed25d3f84662a409f46cdb"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 130409,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/gaming_console/gaming_console_metal_2k.jpg",
+                    "md5": "6a632068c5b999ffb2fd5f9e024d16b3"
+                },
+                "png": {
+                    "size": 102163,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/gaming_console/gaming_console_metal_2k.png",
+                    "md5": "433042eb73796612f1ff59f34df9e3ce"
+                },
+                "exr": {
+                    "size": 110352,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_metal_2k.exr",
+                    "md5": "0cb473c691f7eee9832c2fa1ff4e7dc5"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 47833,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gaming_console/gaming_console_metal_1k.jpg",
+                    "md5": "fcdc89f20c6cfa9c21702506ef503b0b"
+                },
+                "png": {
+                    "size": 40541,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/gaming_console/gaming_console_metal_1k.png",
+                    "md5": "319dd5f7075e4bce0844c3f4ccb94bbc"
+                },
+                "exr": {
+                    "size": 44992,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_metal_1k.exr",
+                    "md5": "5b6bca5dcd0baca693d7b02700f88f5e"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 33582227,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/gaming_console/gaming_console_arm_8k.jpg",
+                    "md5": "359e9b47f9eba292eb272bf2cca1863f"
+                },
+                "png": {
+                    "size": 52314093,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/gaming_console/gaming_console_arm_8k.png",
+                    "md5": "2f8db79f007ed843048889404c37595e"
+                },
+                "exr": {
+                    "size": 74020117,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_arm_8k.exr",
+                    "md5": "4f060d42ece7546839f991dc41b6be4b"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 9298173,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_arm_4k.jpg",
+                    "md5": "f9e40198454321c3bda2caa85f9f5a5b"
+                },
+                "png": {
+                    "size": 30392682,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/gaming_console/gaming_console_arm_4k.png",
+                    "md5": "81e0ff21d7c474ef802a8972c4621178"
+                },
+                "exr": {
+                    "size": 21121021,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_arm_4k.exr",
+                    "md5": "1790d61c5e57b688951ebcc3a874ea4d"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2523141,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/gaming_console/gaming_console_arm_2k.jpg",
+                    "md5": "86813553f5328536ffb8061fcce6c6e9"
+                },
+                "png": {
+                    "size": 9716434,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/gaming_console/gaming_console_arm_2k.png",
+                    "md5": "c72bf6f5e51fddfcfb85b57a5ce25f6e"
+                },
+                "exr": {
+                    "size": 5810173,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_arm_2k.exr",
+                    "md5": "e9c30fdf7873fcb6e3ec24560ead9d4e"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 679186,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gaming_console/gaming_console_arm_1k.jpg",
+                    "md5": "f905dfcf9e79d2f0db773edec8873c12"
+                },
+                "png": {
+                    "size": 3038962,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/gaming_console/gaming_console_arm_1k.png",
+                    "md5": "04065c40e77c7361138a66df828e6dbe"
+                },
+                "exr": {
+                    "size": 1523822,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_arm_1k.exr",
+                    "md5": "3ae1855caa242840349511a526a36d9d"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/gaming_console_rough_8k.exr": {
+                            "size": 41313344,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_rough_8k.exr",
+                            "md5": "95fe613fd8c4c6630054007adca1aef9"
+                        },
+                        "textures/gaming_console_nor_gl_8k.exr": {
+                            "size": 15801812,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_nor_gl_8k.exr",
+                            "md5": "9b3272ad40f2f95f7afea793eb382a78"
+                        },
+                        "textures/gaming_console_emissive_8k.png": {
+                            "size": 535663,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/gaming_console/gaming_console_emissive_8k.png",
+                            "md5": "5fb678ab49b8d24713e9266964b76aee"
+                        },
+                        "textures/gaming_console_diff_8k.jpg": {
+                            "size": 23993557,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/gaming_console/gaming_console_diff_8k.jpg",
+                            "md5": "0e0364e2957ffa11b2fd0f1c81fd0b62"
+                        },
+                        "textures/gaming_console_metal_8k.exr": {
+                            "size": 652271,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_metal_8k.exr",
+                            "md5": "ee594a909fc454830cbaacea74d5e8c8"
+                        }
+                    },
+                    "size": 732908,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/gaming_console/gaming_console_8k.fbx",
+                    "md5": "ee156e74341e13e12d258f9e53bd02de"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/gaming_console_diff_4k.jpg": {
+                            "size": 6298091,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_diff_4k.jpg",
+                            "md5": "3cad44c716660ce8b9dfe8092b1096b1"
+                        },
+                        "textures/gaming_console_metal_4k.exr": {
+                            "size": 264423,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_metal_4k.exr",
+                            "md5": "45d83ee3f5ed25d3f84662a409f46cdb"
+                        },
+                        "textures/gaming_console_emissive_4k.png": {
+                            "size": 129619,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/gaming_console/gaming_console_emissive_4k.png",
+                            "md5": "eb59585595256c9d45fd31abb394bb61"
+                        },
+                        "textures/gaming_console_rough_4k.exr": {
+                            "size": 13179045,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_rough_4k.exr",
+                            "md5": "1d67c556cdf628d4a7d203dbd67a80a4"
+                        },
+                        "textures/gaming_console_nor_gl_4k.exr": {
+                            "size": 6692686,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_nor_gl_4k.exr",
+                            "md5": "18319da02a092631f18275ee07e98270"
+                        }
+                    },
+                    "size": 732908,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/gaming_console/gaming_console_4k.fbx",
+                    "md5": "68bd8143c57d3fc27d206b9551c39521"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/gaming_console_metal_2k.exr": {
+                            "size": 110352,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_metal_2k.exr",
+                            "md5": "0cb473c691f7eee9832c2fa1ff4e7dc5"
+                        },
+                        "textures/gaming_console_nor_gl_2k.exr": {
+                            "size": 2618046,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_nor_gl_2k.exr",
+                            "md5": "2f1ee34ab011182358fe02ec402c005a"
+                        },
+                        "textures/gaming_console_diff_2k.jpg": {
+                            "size": 1719779,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/gaming_console/gaming_console_diff_2k.jpg",
+                            "md5": "f917536ec4861aa015e81908fc6bc67a"
+                        },
+                        "textures/gaming_console_rough_2k.exr": {
+                            "size": 3801236,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_rough_2k.exr",
+                            "md5": "9833261b22c3d378b33f7af4f88633cc"
+                        },
+                        "textures/gaming_console_emissive_2k.png": {
+                            "size": 37561,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/gaming_console/gaming_console_emissive_2k.png",
+                            "md5": "7b11a202f02638be057be421ea22fe48"
+                        }
+                    },
+                    "size": 732908,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/gaming_console/gaming_console_2k.fbx",
+                    "md5": "1084d33e5aede3c6a7a6b43b459e1394"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/gaming_console_diff_1k.jpg": {
+                            "size": 456035,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gaming_console/gaming_console_diff_1k.jpg",
+                            "md5": "fee5e52cdb2a0e4cc66de267fd8919f2"
+                        },
+                        "textures/gaming_console_metal_1k.exr": {
+                            "size": 44992,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_metal_1k.exr",
+                            "md5": "5b6bca5dcd0baca693d7b02700f88f5e"
+                        },
+                        "textures/gaming_console_rough_1k.exr": {
+                            "size": 1047880,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_rough_1k.exr",
+                            "md5": "4f991ed7e70fd3410671aa9e6146a71d"
+                        },
+                        "textures/gaming_console_emissive_1k.png": {
+                            "size": 11142,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/gaming_console/gaming_console_emissive_1k.png",
+                            "md5": "9bd7f96f85344e7d0dbf81c4dc75e493"
+                        },
+                        "textures/gaming_console_nor_gl_1k.exr": {
+                            "size": 855968,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_nor_gl_1k.exr",
+                            "md5": "63e1db082073acb7c857f5b3905f9393"
+                        }
+                    },
+                    "size": 732908,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/gaming_console/gaming_console_1k.fbx",
+                    "md5": "a84ee287ae3363a4dee24c722b916c13"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 9327400,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/gaming_console/gaming_console_ao_8k.jpg",
+                    "md5": "8b68a0f65c7ba31e9b33bc7ffe159d4b"
+                },
+                "png": {
+                    "size": 7168377,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/gaming_console/gaming_console_ao_8k.png",
+                    "md5": "59765e67a17f21380d221fc848871fe0"
+                },
+                "exr": {
+                    "size": 10161387,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_ao_8k.exr",
+                    "md5": "b802d4cf0dc19bd5309d800521e10cda"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3432711,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_ao_4k.jpg",
+                    "md5": "2f9c66c06e3d775661395a7bd5a4f98c"
+                },
+                "png": {
+                    "size": 5225923,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/gaming_console/gaming_console_ao_4k.png",
+                    "md5": "ba4b6f98ce38f429301457b82f0c94f9"
+                },
+                "exr": {
+                    "size": 4368496,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_ao_4k.exr",
+                    "md5": "421c183ee43e95bd664d4a28185b75eb"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1269398,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/gaming_console/gaming_console_ao_2k.jpg",
+                    "md5": "4425ecf25e042dfdf17e4336eacbf885"
+                },
+                "png": {
+                    "size": 2063495,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/gaming_console/gaming_console_ao_2k.png",
+                    "md5": "76b3405500517fa133df7b4705f19366"
+                },
+                "exr": {
+                    "size": 1602831,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_ao_2k.exr",
+                    "md5": "b06bfd3355041821bf6c1fbc36aae96b"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 407984,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gaming_console/gaming_console_ao_1k.jpg",
+                    "md5": "2eafe459d5340af7aaf577116fde77c7"
+                },
+                "png": {
+                    "size": 769845,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/gaming_console/gaming_console_ao_1k.png",
+                    "md5": "89384f23a9417d1c5fabacadfcfdf658"
+                },
+                "exr": {
+                    "size": 550513,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_ao_1k.exr",
+                    "md5": "8ac94831860cb180ec0750c3e8992a76"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 27855804,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/gaming_console/gaming_console_rough_8k.jpg",
+                    "md5": "eaac812120df622724926e596c63cd22"
+                },
+                "png": {
+                    "size": 35526972,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/gaming_console/gaming_console_rough_8k.png",
+                    "md5": "b180d7eb2275481a46c080616ec9b690"
+                },
+                "exr": {
+                    "size": 41313344,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/gaming_console/gaming_console_rough_8k.exr",
+                    "md5": "95fe613fd8c4c6630054007adca1aef9"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 7672330,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/gaming_console/gaming_console_rough_4k.jpg",
+                    "md5": "04b1d13e3a78da1a63cfcda50c3fb615"
+                },
+                "png": {
+                    "size": 18605313,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/gaming_console/gaming_console_rough_4k.png",
+                    "md5": "2e1eaeede5979b24187ac8e3d08b2f65"
+                },
+                "exr": {
+                    "size": 13179045,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/gaming_console/gaming_console_rough_4k.exr",
+                    "md5": "1d67c556cdf628d4a7d203dbd67a80a4"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2097542,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/gaming_console/gaming_console_rough_2k.jpg",
+                    "md5": "bdc68008c9e20362c587b29cbc1cf31f"
+                },
+                "png": {
+                    "size": 5758409,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/gaming_console/gaming_console_rough_2k.png",
+                    "md5": "cacf000ecf10089dd59227d1708f9434"
+                },
+                "exr": {
+                    "size": 3801236,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/gaming_console/gaming_console_rough_2k.exr",
+                    "md5": "9833261b22c3d378b33f7af4f88633cc"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 569013,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gaming_console/gaming_console_rough_1k.jpg",
+                    "md5": "1b23e4f2575cec8e84e0abde235f7d57"
+                },
+                "png": {
+                    "size": 1663362,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/gaming_console/gaming_console_rough_1k.png",
+                    "md5": "5ff6c76003e8df6eb1b48bb556c233de"
+                },
+                "exr": {
+                    "size": 1047880,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/gaming_console/gaming_console_rough_1k.exr",
+                    "md5": "4f991ed7e70fd3410671aa9e6146a71d"
+                }
+            }
+        }
+    }
+}

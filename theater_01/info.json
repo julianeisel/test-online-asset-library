@@ -1,0 +1,106 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "theater",
+        "theatre",
+        "seat",
+        "orchestra",
+        "stage",
+        "curtain"
+    ],
+    "date_published": 1551430731,
+    "name": "Theater 01",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1548868860,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.artstation.com/robinsnest",
+            "name": "Natascha Hufgard"
+        }
+    ],
+    "files_hash": "ddb59d6b2338c7cd116dad72ef2732016f9f9ccc",
+    "max_resolution": [
+        17000,
+        8500
+    ],
+    "download_count": 15990,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/theater_01.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5298053,
+            "md5": "c2c4d0371c745ed4abb3ee1d4f20e271",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/theater_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100942231,
+                    "md5": "3cc343b141c989b0c8d3bc6639cb2fb8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/theater_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 88618817,
+                    "md5": "ead8c66c8fb797476b6b7d19c0b5dc47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/theater_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 409556780,
+                    "md5": "554be954a6417ed56bfb37c56484df1e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/theater_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 369701771,
+                    "md5": "de8af7244dbd75a0f54c8b40d54e5ac1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/theater_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25591803,
+                    "md5": "48de87341097c90dd2ce107a93ed1e5c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/theater_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 21975440,
+                    "md5": "200d342a62a2c7e8891481ffe6252ee2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/theater_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6481655,
+                    "md5": "9b73eaff6c7d916bdb43dfdebafa5cb1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/theater_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 5616158,
+                    "md5": "3724daf05a0062ffe9e6451f504961db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/theater_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1650130,
+                    "md5": "068ddde174e0772c20e105ee1fbd9123",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/theater_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1483079,
+                    "md5": "75960d8146e3295b8c24bcff02a14c8a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/theater_01_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "street",
+        "road",
+        "asphalt",
+        "curve",
+        "barrier",
+        "ocean",
+        "coastal",
+        "parking",
+        "hill"
+    ],
+    "name": "Victoria Curve 02",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "partly cloudy",
+        "medium contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1581670080,
+    "coords": [
+        -33.982607556151194,
+        18.361728502826175
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "9369b0435b59a5d7c103209fff6305efbc994ec3",
+    "date_published": 1717372800,
+    "download_count": 10887,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/victoria_curve_02.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 49937458,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/victoria_curve_02.jpg",
+            "md5": "d7668fcf0e3cc955df7e3485954edf94"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105672125,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/victoria_curve_02_8k.hdr",
+                    "md5": "7cfefb86eb3f685ca7315747eab30ffb"
+                },
+                "exr": {
+                    "size": 332413593,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/victoria_curve_02_8k.exr",
+                    "md5": "3c3766f2a98133e5845200433cedc742"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 398508489,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/victoria_curve_02_16k.hdr",
+                    "md5": "264d3b5227f6fdc18618ad1341c47ebe"
+                },
+                "exr": {
+                    "size": 1272365019,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/victoria_curve_02_16k.exr",
+                    "md5": "1da21c68745d96967a03156826c6b7cb"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26407961,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/victoria_curve_02_4k.hdr",
+                    "md5": "793322331eeed8135826d3d62a2affec"
+                },
+                "exr": {
+                    "size": 84667386,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/victoria_curve_02_4k.exr",
+                    "md5": "d326773166c18991b808554f5643b27b"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 883977276,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/victoria_curve_02_24k.hdr",
+                    "md5": "2d60cbfeae44cde0246e66a7a5b4d246"
+                },
+                "exr": {
+                    "size": 2884541861,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/victoria_curve_02_24k.exr",
+                    "md5": "d1e9030f61484d361326d323e3fca296"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6548401,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/victoria_curve_02_2k.hdr",
+                    "md5": "d0cf1594de9640d9d3e395bb9a583d94"
+                },
+                "exr": {
+                    "size": 21974431,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/victoria_curve_02_2k.exr",
+                    "md5": "1043c1dfbe0c2f82f04287cd94b62adc"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1640113,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/victoria_curve_02_1k.hdr",
+                    "md5": "dbf88940b40bff54dd49082706aade80"
+                },
+                "exr": {
+                    "size": 5883438,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/victoria_curve_02_1k.exr",
+                    "md5": "9cfd98d1f1b2bad1bcf9969363baa0c7"
+                }
+            }
+        }
+    }
+}

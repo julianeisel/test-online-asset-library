@@ -1,0 +1,129 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "veld",
+        "tree",
+        "winter",
+        "dry",
+        "grass",
+        "field",
+        "countryside",
+        "agriculture"
+    ],
+    "name": "Farm Sunset",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "clear",
+        "sunrise-sunset",
+        "skies",
+        "low contrast"
+    ],
+    "date_taken": 1687626240,
+    "coords": [
+        -25.698806,
+        30.120529
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "files_hash": "fc7cf4417376ba9a1acb4d26860b7a96a0e499de",
+    "date_published": 1692748800,
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "download_count": 29398,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/farm_sunset.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 43847848,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/farm_sunset.jpg",
+            "md5": "329073b38a04354a28786403337a0acc"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102828152,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/farm_sunset_8k.hdr",
+                    "md5": "94b369a57be1e9ecea7ee45a5ee0c601"
+                },
+                "exr": {
+                    "size": 385501434,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/farm_sunset_8k.exr",
+                    "md5": "4375cda722db216c76876e1db810b652"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 387176931,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/farm_sunset_16k.hdr",
+                    "md5": "cc3b3015a80d790f0c81f90a78616a6f"
+                },
+                "exr": {
+                    "size": 1520766044,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/farm_sunset_16k.exr",
+                    "md5": "629fcc56dbe4bd89ce18240150099001"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26567283,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/farm_sunset_4k.hdr",
+                    "md5": "ad0159f28e87444f93b90209cdfed5e1"
+                },
+                "exr": {
+                    "size": 96947614,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/farm_sunset_4k.exr",
+                    "md5": "a5dc959d068bdc7397f5cbccc919b109"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6664643,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/farm_sunset_2k.hdr",
+                    "md5": "58d138934ec73e0a5b8864f5e02c3e66"
+                },
+                "exr": {
+                    "size": 24326965,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/farm_sunset_2k.exr",
+                    "md5": "b328598a362d2d4f9172deb2d3262343"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1635062,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/farm_sunset_1k.hdr",
+                    "md5": "eeeadaec5210bae9cb2cd3154be8ec89"
+                },
+                "exr": {
+                    "size": 6102192,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/farm_sunset_1k.exr",
+                    "md5": "91e557fd41d45b68e13b4fd67ee0ec6f"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 592800587,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/farm_sunset_20k.hdr",
+                    "md5": "428f947520f05298c35a825fd4997419"
+                },
+                "exr": {
+                    "size": 2358294475,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/farm_sunset_20k.exr",
+                    "md5": "20f311086f7fa6f8ddf33b4af05016e0"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 196096315,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/farm_sunset.zip",
+            "md5": "1f04ed8da1ccd4e7579cb1eb1a1e27c3"
+        }
+    }
+}

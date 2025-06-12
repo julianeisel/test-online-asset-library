@@ -1,0 +1,127 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "farm",
+        "field",
+        "rows",
+        "grass"
+    ],
+    "name": "Citrus Orchard",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "skies",
+        "partly cloudy",
+        "sunrise-sunset",
+        "low contrast"
+    ],
+    "date_taken": 1708842240,
+    "coords": [
+        -25.483763,
+        27.763756
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "files_hash": "f27914a4094c49cc9aadcc403d197df583f3f61e",
+    "date_published": 1714953600,
+    "sponsors": [
+        "82322099"
+    ],
+    "download_count": 16550,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/citrus_orchard.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 41130497,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/citrus_orchard.jpg",
+            "md5": "7b34e9214619a08093e005f387bfa8cc"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100026135,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/citrus_orchard_8k.hdr",
+                    "md5": "a44ce800b44c4342549cbb94d4792c21"
+                },
+                "exr": {
+                    "size": 383775915,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/citrus_orchard_8k.exr",
+                    "md5": "2b90be1f1dd102a595f49b62943b227d"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 378405961,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/citrus_orchard_16k.hdr",
+                    "md5": "9990a171874d3cf6903149686c2a7327"
+                },
+                "exr": {
+                    "size": 1518385575,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/citrus_orchard_16k.exr",
+                    "md5": "ae0a93680c7cfbaac6d9d47d77786b7e"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25816585,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/citrus_orchard_4k.hdr",
+                    "md5": "5aefe34d0a0416c8ac3b0c044212a78b"
+                },
+                "exr": {
+                    "size": 96405873,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/citrus_orchard_4k.exr",
+                    "md5": "d42d68f0c83a74c4c91e3c2cb709e8bc"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6537067,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/citrus_orchard_2k.hdr",
+                    "md5": "a36f39c42a56e92363e6f267a6f7059a"
+                },
+                "exr": {
+                    "size": 24212247,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/citrus_orchard_2k.exr",
+                    "md5": "c97fa4ca67365939f99b7fc873e8c81b"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1642312,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/citrus_orchard_1k.hdr",
+                    "md5": "34923c536363f04eedcda5c932292701"
+                },
+                "exr": {
+                    "size": 6085875,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/citrus_orchard_1k.exr",
+                    "md5": "ebbabc767509d9ef156b26ae60003e0a"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 579677830,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/citrus_orchard_20k.hdr",
+                    "md5": "251edab7e01368320097e8fe6dceb02d"
+                },
+                "exr": {
+                    "size": 2343803733,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/citrus_orchard_20k.exr",
+                    "md5": "af2d8d76b33d71c21b0ef5c7da76e690"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 199251008,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/citrus_orchard.zip",
+            "md5": "5e8756de18132c7dd799c0db7218dc54"
+        }
+    }
+}

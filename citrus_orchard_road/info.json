@@ -1,0 +1,129 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "grass",
+        "rows",
+        "farm",
+        "field",
+        "dirt road",
+        "path"
+    ],
+    "name": "Citrus Orchard Road",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "partly cloudy",
+        "sunrise-sunset",
+        "skies",
+        "low contrast"
+    ],
+    "date_taken": 1708841580,
+    "coords": [
+        -25.482239,
+        27.7642
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "files_hash": "4b24218921972620cac261a9956a2d56feda5548",
+    "date_published": 1715299200,
+    "sponsors": [
+        "82322099"
+    ],
+    "download_count": 32024,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/citrus_orchard_road.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 42110250,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/citrus_orchard_road.jpg",
+            "md5": "f07719fc8d92bfac98d49272743b07ef"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97838523,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/citrus_orchard_road_8k.hdr",
+                    "md5": "007ac89bcbdb2223e69112944ee20e6c"
+                },
+                "exr": {
+                    "size": 383373779,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/citrus_orchard_road_8k.exr",
+                    "md5": "176de9dc8f1176e4e30eb0bed576fc15"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 370924676,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/citrus_orchard_road_16k.hdr",
+                    "md5": "ecfe1049049f0f9242f0289cae253765"
+                },
+                "exr": {
+                    "size": 1517623047,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/citrus_orchard_road_16k.exr",
+                    "md5": "96f85f288ff779665c784dd2e003a65c"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25168336,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/citrus_orchard_road_4k.hdr",
+                    "md5": "6ad074af8dbe4e1c5ddbf02da0059942"
+                },
+                "exr": {
+                    "size": 96245722,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/citrus_orchard_road_4k.exr",
+                    "md5": "d26830d2d16f71fb8704b160be673cbd"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6349674,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/citrus_orchard_road_2k.hdr",
+                    "md5": "bc1fb69fa437cc8fdc41b285de3d9206"
+                },
+                "exr": {
+                    "size": 24183447,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/citrus_orchard_road_2k.exr",
+                    "md5": "990e2fa294a8bf781cdf84bc000b7408"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1593906,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/citrus_orchard_road_1k.hdr",
+                    "md5": "1b2f78a7a21f8c426b95e6dcdc7e6420"
+                },
+                "exr": {
+                    "size": 6075640,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/citrus_orchard_road_1k.exr",
+                    "md5": "bca929d5a86d22630f4d4db5abc7c85a"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 568775343,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/citrus_orchard_road_20k.hdr",
+                    "md5": "067f5219c847ec6d1f83aeec30160ba3"
+                },
+                "exr": {
+                    "size": 2340800014,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/citrus_orchard_road_20k.exr",
+                    "md5": "78f8a5a4c87cc078f6b7cd429b4dfd74"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 202345919,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/citrus_orchard_road.zip",
+            "md5": "40749e0313921ea695a247e3674bf94b"
+        }
+    }
+}

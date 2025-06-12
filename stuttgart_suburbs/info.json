@@ -1,0 +1,128 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "car",
+        "road",
+        "street",
+        "asphalt",
+        "pink",
+        "house",
+        "suburb",
+        "grass"
+    ],
+    "name": "Stuttgart Suburbs",
+    "categories": [
+        "outdoor",
+        "urban",
+        "natural light",
+        "partly cloudy",
+        "sunrise-sunset",
+        "low contrast"
+    ],
+    "date_taken": 1627328580,
+    "coords": [
+        48.785363,
+        9.15049
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1631145600,
+    "sponsors": [
+        "37678923"
+    ],
+    "max_resolution": [
+        19682,
+        9841
+    ],
+    "files_hash": "06c9192a2e5df01aa512636266fc79116e4ae92b",
+    "download_count": 83470,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/stuttgart_suburbs.png?width=256&height=256",
+    "files": {
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/stuttgart_suburbs.zip",
+            "size": 190697703,
+            "md5": "5cda95358efa041cc40ec80705325915"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/stuttgart_suburbs.jpg",
+            "size": 51361280,
+            "md5": "80ff9740336807bc00b86e2d94e3936d"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/stuttgart_suburbs_19k.hdr",
+                    "size": 611496997,
+                    "md5": "77cfa1bb0080ae02815761d552847c53"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/stuttgart_suburbs_19k.exr",
+                    "size": 1063812625,
+                    "md5": "f01914eaaec4656c9879fc2d341a3286"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/stuttgart_suburbs_8k.hdr",
+                    "size": 108984620,
+                    "md5": "f46f20ec611b70aa4f087e57921c15b6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/stuttgart_suburbs_8k.exr",
+                    "size": 247054805,
+                    "md5": "e5cea5e988730b85461eed2232e7e05f"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/stuttgart_suburbs_16k.hdr",
+                    "size": 426930167,
+                    "md5": "342b4c246dc187c353e679622d0d4db7"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/stuttgart_suburbs_16k.exr",
+                    "size": 895818827,
+                    "md5": "57587ce3a6bcb6d6ae9e9fc863f8cda4"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/stuttgart_suburbs_4k.hdr",
+                    "size": 27588597,
+                    "md5": "1566294fdff1c54b0407aa2a0de55764"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/stuttgart_suburbs_4k.exr",
+                    "size": 66820848,
+                    "md5": "fc73eeb05425ae7218dc7858ed588bf3"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/stuttgart_suburbs_2k.hdr",
+                    "size": 6923205,
+                    "md5": "53b30187d3dda96cd9151d3b202a776b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/stuttgart_suburbs_2k.exr",
+                    "size": 19041892,
+                    "md5": "5769bc1f1b2e3e103faaba3d9ce4527d"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/stuttgart_suburbs_1k.hdr",
+                    "size": 1721025,
+                    "md5": "e755274f1ff01c645881dcfcae279ada"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/stuttgart_suburbs_1k.exr",
+                    "size": 5505533,
+                    "md5": "f7ec4188a4aad77cc4b6de2eb45b2eb5"
+                }
+            }
+        }
+    }
+}

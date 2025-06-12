@@ -1,0 +1,103 @@
+{
+    "donated": true,
+    "type": 0,
+    "tags": [
+        "field",
+        "road",
+        "asphalt",
+        "countryside"
+    ],
+    "name": "Etzwihl",
+    "categories": [
+        "outdoor",
+        "sunrise-sunset",
+        "skies",
+        "natural light",
+        "nature",
+        "partly cloudy",
+        "low contrast"
+    ],
+    "date_taken": 1699401600,
+    "authors": {
+        "Adrian Kubasa": "All"
+    },
+    "info": null,
+    "files_hash": "6ff23ea3a3825e12e25c926743bea0d00841e0d9",
+    "evs_cap": 0,
+    "date_published": 1700352000,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 26042,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/etzwihl.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 40642944,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/etzwihl.jpg",
+            "md5": "29a767122136166311118dbb0d0f9ef1"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104767041,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/etzwihl_8k.hdr",
+                    "md5": "b338f3914ca5aebc1b336be3e5cff949"
+                },
+                "exr": {
+                    "size": 87468977,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/etzwihl_8k.exr",
+                    "md5": "c12c1499876605bf3965d7d3413e9fdc"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 400845035,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/etzwihl_16k.hdr",
+                    "md5": "f64e58973853da90754e97ea4280cf77"
+                },
+                "exr": {
+                    "size": 323899897,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/etzwihl_16k.exr",
+                    "md5": "4f5002b26388a42e70ed39d1001ca939"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26468994,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/etzwihl_4k.hdr",
+                    "md5": "c38f8ae16d8e5d8788aa6b8590794ecb"
+                },
+                "exr": {
+                    "size": 21611384,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/etzwihl_4k.exr",
+                    "md5": "5585d003564556c56a398b4a81bd5634"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6536646,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/etzwihl_2k.hdr",
+                    "md5": "a0d0cad480044900e887267abb8ca68b"
+                },
+                "exr": {
+                    "size": 5286390,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/etzwihl_2k.exr",
+                    "md5": "3fcf308313398e262e620b36fc276a50"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1596961,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/etzwihl_1k.hdr",
+                    "md5": "964fe7f0ffa3f615be555784037e0dc0"
+                },
+                "exr": {
+                    "size": 1324771,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/etzwihl_1k.exr",
+                    "md5": "251136100c668dd6c4b454cba77973a8"
+                }
+            }
+        }
+    }
+}

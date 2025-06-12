@@ -1,0 +1,105 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "whitebalance": 6550,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Sunflowers (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "partly cloudy",
+        "high contrast",
+        "natural light",
+        "pure skies"
+    ],
+    "date_taken": 1564992720,
+    "authors": {
+        "Jarod Guest": "Sky Edits",
+        "Sergej Majboroda": "Original"
+    },
+    "info": "Edited sky-only version of [Sunflowers](https://polyhaven.com/a/sunflowers).",
+    "files_hash": "4c1a24f165b1f71a7d8fb29a7ba4ff4c5c6743e6",
+    "date_published": 1676160000,
+    "sponsors": [
+        "78546118"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 202927,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sunflowers_puresky.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 19585148,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/sunflowers_puresky.jpg",
+            "md5": "ca6fe3bbfd583f739955d6a2a657bc1c"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 76293780,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/sunflowers_puresky_8k.hdr",
+                    "md5": "de2d355070dddeeaba71517433e1642c"
+                },
+                "exr": {
+                    "size": 288297227,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/sunflowers_puresky_8k.exr",
+                    "md5": "c200a6a5986dfb87653cda3ed4dfd287"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 266030365,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/sunflowers_puresky_16k.hdr",
+                    "md5": "c4ccff8b98cf6ca999b09788093c0706"
+                },
+                "exr": {
+                    "size": 1115004702,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/sunflowers_puresky_16k.exr",
+                    "md5": "5ec3dde8efe5ed22dd78ec81c2a0e975"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 21248671,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/sunflowers_puresky_4k.hdr",
+                    "md5": "7ca3349587930ac40b2eb7720e093839"
+                },
+                "exr": {
+                    "size": 75188263,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/sunflowers_puresky_4k.exr",
+                    "md5": "82b82299d1ec36289276c71e5df94761"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5658712,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/sunflowers_puresky_2k.hdr",
+                    "md5": "2609ea973b9b1a3cdc4234961606ebc2"
+                },
+                "exr": {
+                    "size": 20023020,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/sunflowers_puresky_2k.exr",
+                    "md5": "fd4ab9b072e50d58f76ccbc8c547be14"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1482923,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/sunflowers_puresky_1k.hdr",
+                    "md5": "38fcaa021880c8ca8aa0cbaabefa1602"
+                },
+                "exr": {
+                    "size": 5494436,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/sunflowers_puresky_1k.exr",
+                    "md5": "f8ba10702e09c427138e59d50f2a08b1"
+                }
+            }
+        }
+    }
+}

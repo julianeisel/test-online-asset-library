@@ -1,0 +1,112 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "tree",
+        "grass",
+        "autumn",
+        "leaves",
+        "field",
+        "park"
+    ],
+    "date_published": 1511910000,
+    "name": "Tiergarten",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        52.510872,
+        13.359528
+    ],
+    "date_taken": 1478349180,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "name": "3DLux"
+        },
+        "11167855"
+    ],
+    "files_hash": "a4c6c0be8da9444e4c518b837def8398b535956a",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 157042,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/tiergarten.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 8536860,
+            "md5": "d8bb5454950e943cb612e87cac806137",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/tiergarten.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103359966,
+                    "md5": "19bc055118296d4df616102ef1328a96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/tiergarten_8k.hdr"
+                },
+                "exr": {
+                    "size": 94831852,
+                    "md5": "0b790bb53c02072f71c869cf003c3c2b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/tiergarten_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 381965611,
+                    "md5": "7db258bc06eb3bdb6276a8d8e6d90467",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/tiergarten_16k.hdr"
+                },
+                "exr": {
+                    "size": 352045090,
+                    "md5": "a2443f68d98ae5749bb0afc7df635a07",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/tiergarten_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26651796,
+                    "md5": "45333c0a8680c0a9e376f588ccb18992",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/tiergarten_4k.hdr"
+                },
+                "exr": {
+                    "size": 24429218,
+                    "md5": "14b3314e5cb56af29f9ae45d17961092",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/tiergarten_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6707223,
+                    "md5": "bbfa85dd04e2124f19e79e18bf18f1a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/tiergarten_2k.hdr"
+                },
+                "exr": {
+                    "size": 6157446,
+                    "md5": "010c1357ec0f87a97c7228c7511e2414",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/tiergarten_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1677230,
+                    "md5": "d58a4fc43686a8925b9c676b1166bcab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/tiergarten_1k.hdr"
+                },
+                "exr": {
+                    "size": 1548384,
+                    "md5": "9ca5009caab7092f54d211bde43b9139",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/tiergarten_1k.exr"
+                }
+            }
+        }
+    }
+}

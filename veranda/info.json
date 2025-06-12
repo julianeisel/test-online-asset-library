@@ -1,0 +1,106 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "table",
+        "tile",
+        "brick",
+        "patio",
+        "veranda",
+        "porch"
+    ],
+    "date_published": 1522879200,
+    "name": "Veranda",
+    "categories": [
+        "indoor",
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1443532440,
+    "coords": [
+        -25.030514,
+        31.141034
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "files_hash": "0182c75181259cc8c11546583effd743f7760cde",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 95799,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/veranda.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6490486,
+            "md5": "52a782b56c93228d5fdeab1f0bb2a84e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/veranda.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104092923,
+                    "md5": "8515fbe0110486836e4ae5e658d4a7a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/veranda_8k.hdr"
+                },
+                "exr": {
+                    "size": 98052096,
+                    "md5": "1ceeaabaf4b5a7472e8f5bc3fad99ba3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/veranda_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 393635124,
+                    "md5": "dd7c1989876aef82dc221d221f9fb237",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/veranda_16k.hdr"
+                },
+                "exr": {
+                    "size": 344549541,
+                    "md5": "f878b70c5bac6d423278dbb4677a7d06",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/veranda_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26649457,
+                    "md5": "1283ba46eb9d7c60bf392d9afbef8b3b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/veranda_4k.hdr"
+                },
+                "exr": {
+                    "size": 25021150,
+                    "md5": "03385a8819a10e62c9dae29fe21be990",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/veranda_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6783845,
+                    "md5": "56dc9920825ead6bf77f4fad6ed2e2ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/veranda_2k.hdr"
+                },
+                "exr": {
+                    "size": 6352292,
+                    "md5": "0cbbc57133e8967b84d2870133184322",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/veranda_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1719531,
+                    "md5": "dd02a0148629231b2b57c5ac8838a74b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/veranda_1k.hdr"
+                },
+                "exr": {
+                    "size": 1608094,
+                    "md5": "7922658864f047d65c3ba691dcf450f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/veranda_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Rosendal Park Sunset (Pure Sky)",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "clear",
+        "skies",
+        "low contrast",
+        "sunrise-sunset",
+        "pure skies"
+    ],
+    "date_taken": 1691863560,
+    "coords": [
+        -28.506456,
+        27.9373
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": "Edited sky-only version of [Rosendal Park Sunset](https://polyhaven.com/a/rosendal_park_sunset).",
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "files_hash": "95f060f3912f76cf282851b4b2803dde70cc4423",
+    "date_published": 1714089600,
+    "download_count": 31374,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rosendal_park_sunset_puresky.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 22273558,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rosendal_park_sunset_puresky.jpg",
+            "md5": "9ffd1db2c69a059a6e89ccf942e219a1"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 77999930,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rosendal_park_sunset_puresky_8k.hdr",
+                    "md5": "f13e3c544400686d0ff8c73b3292a9b1"
+                },
+                "exr": {
+                    "size": 290719484,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rosendal_park_sunset_puresky_8k.exr",
+                    "md5": "d2ee4fcf97a9053cf6a5d8cf7465cb1a"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 291989306,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rosendal_park_sunset_puresky_16k.hdr",
+                    "md5": "ace5dd0c90596d34bbe316742fab2381"
+                },
+                "exr": {
+                    "size": 1144852940,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rosendal_park_sunset_puresky_16k.exr",
+                    "md5": "bfe92ed703fb2bfd73ad0bd5124d7160"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 20435289,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rosendal_park_sunset_puresky_4k.hdr",
+                    "md5": "844d7d3d3bd25b29b4a28275aa6aa929"
+                },
+                "exr": {
+                    "size": 74998070,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rosendal_park_sunset_puresky_4k.exr",
+                    "md5": "500323842a88eec0612ae6cb4e7a4974"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5049451,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rosendal_park_sunset_puresky_2k.hdr",
+                    "md5": "344dbcde0e973f69cd7055f78a0629e1"
+                },
+                "exr": {
+                    "size": 19578137,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rosendal_park_sunset_puresky_2k.exr",
+                    "md5": "b36baf7282618dc1c5f08af2ba2e7d93"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1234480,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rosendal_park_sunset_puresky_1k.hdr",
+                    "md5": "63bc9fde435342690300a6262e6e0cd7"
+                },
+                "exr": {
+                    "size": 5273390,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rosendal_park_sunset_puresky_1k.exr",
+                    "md5": "86bf0207230d8123d360055dde2c3a5d"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 460774862,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rosendal_park_sunset_puresky_20k.hdr",
+                    "md5": "d2aa57e7b75e3545e9188769ba2e095a"
+                },
+                "exr": {
+                    "size": 1775943823,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rosendal_park_sunset_puresky_20k.exr",
+                    "md5": "33e07de5f464c6f8c6c6c8ea14bbc689"
+                }
+            }
+        }
+    }
+}

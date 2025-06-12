@@ -1,0 +1,122 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "veld",
+        "bush",
+        "safari",
+        "dense",
+        "dry grass"
+    ],
+    "name": "Safari Sunset",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "sunrise-sunset",
+        "clear",
+        "low contrast",
+        "skies"
+    ],
+    "date_taken": 1693762440,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "files_hash": "fdfe55b219cb25e41a55f6ea87854cb0662547f6",
+    "date_published": 1702857600,
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "download_count": 18070,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/safari_sunset.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 37756955,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/safari_sunset.jpg",
+            "md5": "a2a9580656bc24f1f880f8564820b285"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101569284,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/safari_sunset_8k.hdr",
+                    "md5": "bc6af9d83f6fb206a86c2594370975dd"
+                },
+                "exr": {
+                    "size": 385488470,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/safari_sunset_8k.exr",
+                    "md5": "4426dec5de4f4b0b51d0c5f874086b46"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 381846187,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/safari_sunset_16k.hdr",
+                    "md5": "63266325443798830d41ffce77731c54"
+                },
+                "exr": {
+                    "size": 1521394533,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/safari_sunset_16k.exr",
+                    "md5": "6750e42b04888376135ff7253a1dd1d3"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26377434,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/safari_sunset_4k.hdr",
+                    "md5": "4dd1121ae2da1bf8d9372a1d5d7a31a5"
+                },
+                "exr": {
+                    "size": 96969977,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/safari_sunset_4k.exr",
+                    "md5": "3c8d2789cca312beb41443e9b67e161e"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6639640,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/safari_sunset_2k.hdr",
+                    "md5": "eb4c26f4d59a20f0c2e89f9f2eae2996"
+                },
+                "exr": {
+                    "size": 24338260,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/safari_sunset_2k.exr",
+                    "md5": "f7add33a92610e083f931c767276dee3"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1627879,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/safari_sunset_1k.hdr",
+                    "md5": "a19edf1637bec7b6557c7645a8cdf908"
+                },
+                "exr": {
+                    "size": 6104546,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/safari_sunset_1k.exr",
+                    "md5": "a111acd93c2734dc1b821c252e0c4a98"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 584979116,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/safari_sunset_20k.hdr",
+                    "md5": "6aaac00477a159da4d2dc05b8d4bc4de"
+                },
+                "exr": {
+                    "size": 2361097525,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/safari_sunset_20k.exr",
+                    "md5": "f434e97d5d72a6fe368ad126b93ae7ef"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 197710036,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/safari_sunset.zip",
+            "md5": "104ecc64b60b7df209728b15dc6e617a"
+        }
+    }
+}

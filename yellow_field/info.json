@@ -1,0 +1,109 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "tree",
+        "grass",
+        "field",
+        "path",
+        "sun"
+    ],
+    "date_published": 1511996400,
+    "name": "Yellow Field",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1436946600,
+    "coords": [
+        -26.154424,
+        28.002938
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "files_hash": "611d322484b606f9bc0c9f27415e74b84b6e57d0",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 84218,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/yellow_field.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6719057,
+            "md5": "0a3940fba794fcbbc286fe988f4c8ae2",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/yellow_field.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104982693,
+                    "md5": "7755a57e0352390cbd7cf9ca543e0644",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/yellow_field_8k.hdr"
+                },
+                "exr": {
+                    "size": 90606815,
+                    "md5": "1ac3c06caec8d6bb697d27e55d4261b5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/yellow_field_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 393485322,
+                    "md5": "dec59d291afc35a0869f377d3a919f77",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/yellow_field_16k.hdr"
+                },
+                "exr": {
+                    "size": 335745422,
+                    "md5": "67c4002b984b27478d485b10c7e4f609",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/yellow_field_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26928488,
+                    "md5": "0c2a7bb386b8845592ade1f9e1d4c9c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/yellow_field_4k.hdr"
+                },
+                "exr": {
+                    "size": 23311606,
+                    "md5": "ce54ceea8b095c63b6d4f78627d46d92",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/yellow_field_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6776213,
+                    "md5": "eb1f46e2efe91766c24c755bb75436cf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/yellow_field_2k.hdr"
+                },
+                "exr": {
+                    "size": 5903307,
+                    "md5": "0ccf541efb8fe9cbb805ec59d4aba14f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/yellow_field_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1689526,
+                    "md5": "3e7037c8201327d9b0ba882153765a5a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/yellow_field_1k.hdr"
+                },
+                "exr": {
+                    "size": 1501862,
+                    "md5": "9a7374d22d2d9af83e0f58f0651d84a3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/yellow_field_1k.exr"
+                }
+            }
+        }
+    }
+}

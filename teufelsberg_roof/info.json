@@ -1,0 +1,115 @@
+{
+    "evs_cap": 10,
+    "type": 0,
+    "tags": [
+        "abandoned",
+        "graffiti",
+        "industrial",
+        "view",
+        "pallet",
+        "wet",
+        "concrete",
+        "rain",
+        "tower"
+    ],
+    "date_published": 1513897200,
+    "name": "Teufelsberg Roof",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1478434080,
+    "coords": [
+        52.497946,
+        13.240805
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://dabarti.com/",
+            "name": "Tomasz Wyszolmirski"
+        }
+    ],
+    "files_hash": "e729028f7fd4a29ce095e30fd50c56fab40df5f6",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 19775,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/teufelsberg_roof.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5632290,
+            "md5": "37d63ebe07ff5f64c0ff24320699ea36",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/teufelsberg_roof.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97188062,
+                    "md5": "38341ddb69987ea8fa224f3dce895a0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/teufelsberg_roof_8k.hdr"
+                },
+                "exr": {
+                    "size": 83612797,
+                    "md5": "86411138d217785acbdd5dd5c5152bd2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/teufelsberg_roof_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 351541858,
+                    "md5": "c786151e2ae7c69807f583941d7f6fdb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/teufelsberg_roof_16k.hdr"
+                },
+                "exr": {
+                    "size": 289719084,
+                    "md5": "467ca9865775331746a0581d9a726b19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/teufelsberg_roof_16k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6553694,
+                    "md5": "aab9f3fda75323e25bce896148e7dc26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/teufelsberg_roof_2k.hdr"
+                },
+                "exr": {
+                    "size": 6128698,
+                    "md5": "5e8f1a8841dfcf77a28bd559e6a46e42",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/teufelsberg_roof_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1687175,
+                    "md5": "96221ff3aa57b9c8bead7754a0c92250",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/teufelsberg_roof_1k.hdr"
+                },
+                "exr": {
+                    "size": 1645934,
+                    "md5": "a5498a922c2a6ddb9f72f917db7daace",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/teufelsberg_roof_1k.exr"
+                }
+            },
+            "4k": {
+                "exr": {
+                    "size": 22741501,
+                    "md5": "3558888cb6d204128388fa3f89511739",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/teufelsberg_roof_4k.exr"
+                },
+                "hdr": {
+                    "md5": "e947c6ccfc69d73c2c74a7e9ebd42c1e",
+                    "size": 25372850,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/teufelsberg_roof_4k.hdr"
+                }
+            }
+        }
+    }
+}

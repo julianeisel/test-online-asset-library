@@ -1,0 +1,116 @@
+{
+    "donated": true,
+    "type": 0,
+    "tags": [
+        "forest",
+        "tree",
+        "log",
+        "moss",
+        "woods",
+        "clearing"
+    ],
+    "name": "Niederwihl Forest",
+    "categories": [
+        "low contrast",
+        "outdoor",
+        "natural light",
+        "nature",
+        "midday",
+        "overcast"
+    ],
+    "date_taken": 1530789420,
+    "authors": {
+        "Adrian Kubasa": "All"
+    },
+    "info": null,
+    "files_hash": "83ff547bafde6e3c7966e4b0e5018d018e1af9a6",
+    "evs_cap": 0,
+    "date_published": 1703289600,
+    "max_resolution": [
+        18432,
+        9216
+    ],
+    "download_count": 15843,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/niederwihl_forest.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 58299384,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/niederwihl_forest.jpg",
+            "md5": "17015d6b6169caf788b3b5526d5291d4"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 114309021,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/niederwihl_forest_8k.hdr",
+                    "md5": "a1ed32deb4582643147e12a27e09f9dc"
+                },
+                "exr": {
+                    "size": 115670472,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/niederwihl_forest_8k.exr",
+                    "md5": "9121666571a2c061dcd41960964d6947"
+                }
+            },
+            "18k": {
+                "hdr": {
+                    "size": 539049012,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/niederwihl_forest_18k.hdr",
+                    "md5": "6bb823fb6049f6bd0ad6fccd4ac4fd27"
+                },
+                "exr": {
+                    "size": 532256377,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/niederwihl_forest_18k.exr",
+                    "md5": "095a0cd99c79684c0af2e730327ed2f2"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 430870451,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/niederwihl_forest_16k.hdr",
+                    "md5": "9dedc63e5ffeb5f7081ed5be7bfab90f"
+                },
+                "exr": {
+                    "size": 437008712,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/niederwihl_forest_16k.exr",
+                    "md5": "e5dc8e3a56e642e44f64953ba3d68827"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29396777,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/niederwihl_forest_4k.hdr",
+                    "md5": "fde8a38f4932acf08b4ad736bb44d13b"
+                },
+                "exr": {
+                    "size": 29809318,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/niederwihl_forest_4k.exr",
+                    "md5": "7bc3f08946a73024d6abe300f069e9e9"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7391643,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/niederwihl_forest_2k.hdr",
+                    "md5": "8481dc07ef16daa5db1c52c779ccda3f"
+                },
+                "exr": {
+                    "size": 7439602,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/niederwihl_forest_2k.exr",
+                    "md5": "a5257ddc3483d0a6a81b9421183eb1cd"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1843712,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/niederwihl_forest_1k.hdr",
+                    "md5": "0daf11226e1727881693c40fbdc1e174"
+                },
+                "exr": {
+                    "size": 1872691,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/niederwihl_forest_1k.exr",
+                    "md5": "b590c0a52ae424b7af1177f9ec4a4d64"
+                }
+            }
+        }
+    }
+}

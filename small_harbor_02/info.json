@@ -1,0 +1,110 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "boat",
+        "dam",
+        "dock",
+        "harbor",
+        "harbour",
+        "jetty",
+        "lake",
+        "water"
+    ],
+    "date_published": 1573167600,
+    "name": "Small Harbor 02",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -28.492613,
+        29.002165
+    ],
+    "date_taken": 1556748000,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "e914ad327ff343244e32b1f669fd127ef57eb89d",
+    "download_count": 25276,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/small_harbor_02.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4486208,
+            "md5": "309e27bf10343f9f800ae4c25c7cd879",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/small_harbor_02.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/small_harbor_02_8k.hdr",
+                    "size": 101870542,
+                    "md5": "e2f275081633fec5185d456b2ede3e41"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/small_harbor_02_8k.exr",
+                    "size": 81815910,
+                    "md5": "e331533eb21632bfb28076e2913b3ba8"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/small_harbor_02_16k.hdr",
+                    "size": 388161160,
+                    "md5": "8c6d89e6e8c5feb001e5181ca45bb5ef"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/small_harbor_02_16k.exr",
+                    "size": 308131073,
+                    "md5": "aad705c9fd0ff234c91cf43262b1e826"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/small_harbor_02_4k.hdr",
+                    "size": 25974605,
+                    "md5": "e90d115ff9a3f8bb839d931db7743371"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/small_harbor_02_4k.exr",
+                    "size": 20795663,
+                    "md5": "5cb8c1745938d3e5dc6b7fc891958a92"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/small_harbor_02_2k.hdr",
+                    "size": 6446322,
+                    "md5": "f156c841dbc6cebd6dfc8eff06c943dc"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/small_harbor_02_2k.exr",
+                    "size": 5190143,
+                    "md5": "85e715556ce62be306d04884662bec1d"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/small_harbor_02_1k.hdr",
+                    "size": 1564066,
+                    "md5": "772ecc983f34d179a2e4a2fed2fbc85b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/small_harbor_02_1k.exr",
+                    "size": 1308581,
+                    "md5": "ed755a833935be52c1fa11203ea3803f"
+                }
+            }
+        }
+    }
+}

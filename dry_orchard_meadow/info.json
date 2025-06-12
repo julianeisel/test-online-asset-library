@@ -1,0 +1,120 @@
+{
+    "donated": true,
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 6504,
+    "tags": [
+        "sun",
+        "grass",
+        "tree",
+        "meadow",
+        "rural"
+    ],
+    "name": "Dry Orchard Meadow",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "partly cloudy",
+        "high contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1657738500,
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "max_resolution": [
+        24136,
+        12068
+    ],
+    "files_hash": "547e25cd0ea299c49c1cc5097cf2ae305d39b255",
+    "date_published": 1724025600,
+    "download_count": 33830,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dry_orchard_meadow.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 49719755,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dry_orchard_meadow.jpg",
+            "md5": "24181904e877adf6d034f75519b835f2"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101444521,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dry_orchard_meadow_8k.hdr",
+                    "md5": "cb88ad830504ece36457b7304cf12e30"
+                },
+                "exr": {
+                    "size": 380255745,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dry_orchard_meadow_8k.exr",
+                    "md5": "3042ef3784497cf0c4a73584087d12d5"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 389318221,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dry_orchard_meadow_16k.hdr",
+                    "md5": "2b9b6d51b647327190b5ff9f36e4ec6d"
+                },
+                "exr": {
+                    "size": 1510712063,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dry_orchard_meadow_16k.exr",
+                    "md5": "405315cec08fdc6f0f7074c7133f179c"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25662027,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dry_orchard_meadow_4k.hdr",
+                    "md5": "5670d45bfc616cadbed197d4fc59fb09"
+                },
+                "exr": {
+                    "size": 95470789,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dry_orchard_meadow_4k.exr",
+                    "md5": "371a6dfe6baf4bea8655eb57f7c3d1e4"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 813975915,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dry_orchard_meadow_24k.hdr",
+                    "md5": "3b665c089e2ee50d0c38d838ec5fc342"
+                },
+                "exr": {
+                    "size": 3266113942,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dry_orchard_meadow_24k.exr",
+                    "md5": "48940ceb933bcf7c31c08b0fd2a471ec"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6319907,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dry_orchard_meadow_2k.hdr",
+                    "md5": "a045a5318ffed0b2d9ca4b2df5de16e0"
+                },
+                "exr": {
+                    "size": 23930317,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dry_orchard_meadow_2k.exr",
+                    "md5": "3032f1eb0b1a4df188a9f93d1b616541"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1544220,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dry_orchard_meadow_1k.hdr",
+                    "md5": "035283d605da4553c14b91a673969cd8"
+                },
+                "exr": {
+                    "size": 6015516,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dry_orchard_meadow_1k.exr",
+                    "md5": "7bf4e9c2538f00871574de47eeb2d266"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 766503462,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/dry_orchard_meadow.zip",
+            "md5": "834c098235ab7349d9272b11eb9e9023"
+        }
+    }
+}

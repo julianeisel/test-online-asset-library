@@ -1,0 +1,109 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "tree",
+        "bridge",
+        "river",
+        "rope",
+        "long grass",
+        "path"
+    ],
+    "date_published": 1506981600,
+    "name": "Wobbly Bridge",
+    "categories": [
+        "outdoor",
+        "nature",
+        "clear",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        -29.00795,
+        29.41795
+    ],
+    "date_taken": 1460643420,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "5ae63c4e61817447df83fc4eb474c5bcc3611886",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 17368,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wobbly_bridge.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6065285,
+            "md5": "aa2aea3f9214e98bb37af2cf20e34469",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/wobbly_bridge.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 96859991,
+                    "md5": "9049edfa113d920ed2ef30f6eb5d9240",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/wobbly_bridge_8k.hdr"
+                },
+                "exr": {
+                    "size": 85717188,
+                    "md5": "7348d468561791b51edf7d8a08dfe3a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/wobbly_bridge_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 345034953,
+                    "md5": "c2584f2f5fe1fe7b1573ee130ebe41e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/wobbly_bridge_16k.hdr"
+                },
+                "exr": {
+                    "size": 308121955,
+                    "md5": "32732cd7c8d9ce49e276fd2932a10019",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/wobbly_bridge_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24871295,
+                    "md5": "46a72554d5e63044c1e7e774239ee7f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/wobbly_bridge_4k.hdr"
+                },
+                "exr": {
+                    "size": 22318218,
+                    "md5": "5409bc2e2ecce6fdf97684058042b3e3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/wobbly_bridge_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6182152,
+                    "md5": "4efc4bf17c328e761e41d7e39ff52293",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/wobbly_bridge_2k.hdr"
+                },
+                "exr": {
+                    "size": 5726438,
+                    "md5": "1048a41e9c7aa11e59821f3604113d0e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/wobbly_bridge_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1548655,
+                    "md5": "54ba1dbe8e4a4ba838a53b63436c4852",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/wobbly_bridge_1k.hdr"
+                },
+                "exr": {
+                    "size": 1486481,
+                    "md5": "dab5590ef6430ccafd6eaf75b263f156",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/wobbly_bridge_1k.exr"
+                }
+            }
+        }
+    }
+}

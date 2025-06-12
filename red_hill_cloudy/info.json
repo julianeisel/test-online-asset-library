@@ -1,0 +1,118 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "road",
+        "hill",
+        "ocean",
+        "town",
+        "asphalt"
+    ],
+    "name": "Red Hill Cloudy",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "overcast",
+        "low contrast",
+        "midday"
+    ],
+    "date_taken": 1581676260,
+    "coords": [
+        -34.18770996294014,
+        18.421991866226893
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "a06638c2aeb771bbfaf950b8135131e585b8a42b",
+    "date_published": 1717718400,
+    "download_count": 6226,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/red_hill_cloudy.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 45007027,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/red_hill_cloudy.jpg",
+            "md5": "635676e3e4b4e77bd8ebec3f01b43b00"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103257898,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/red_hill_cloudy_8k.hdr",
+                    "md5": "b0d64783479d9ea22a4fcd83891dc9ab"
+                },
+                "exr": {
+                    "size": 329400672,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/red_hill_cloudy_8k.exr",
+                    "md5": "5b2488d362f47497783e7fed8dc1b031"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 385408469,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/red_hill_cloudy_16k.hdr",
+                    "md5": "89ff99d5ec9b02c6306366cdace7c38a"
+                },
+                "exr": {
+                    "size": 1260942774,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/red_hill_cloudy_16k.exr",
+                    "md5": "90eafee1cd13d0bb87b5d250b1570c94"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25858393,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/red_hill_cloudy_4k.hdr",
+                    "md5": "95d3d461731fd297d947e359ba3b9150"
+                },
+                "exr": {
+                    "size": 84072373,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/red_hill_cloudy_4k.exr",
+                    "md5": "07f6f6b15ad2d8205247ef11314d3aa4"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 853481453,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/red_hill_cloudy_24k.hdr",
+                    "md5": "f8fb365559acceee777c3de18e52e876"
+                },
+                "exr": {
+                    "size": 2852963259,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/red_hill_cloudy_24k.exr",
+                    "md5": "f79a915a4f189c338b922f75ea61fd17"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6440059,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/red_hill_cloudy_2k.hdr",
+                    "md5": "c31de47f9ce8d22b700dfefec8298ef8"
+                },
+                "exr": {
+                    "size": 21893155,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/red_hill_cloudy_2k.exr",
+                    "md5": "87b103b8ad826a42f18c571fdbf4c6e5"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1623619,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/red_hill_cloudy_1k.hdr",
+                    "md5": "86210ed57b5a657b40fa5b4f5bb1ba05"
+                },
+                "exr": {
+                    "size": 5881813,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/red_hill_cloudy_1k.exr",
+                    "md5": "52dc785919c4c50a4dc7a4cbf8d3036d"
+                }
+            }
+        }
+    }
+}

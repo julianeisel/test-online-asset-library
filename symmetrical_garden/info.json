@@ -1,0 +1,111 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "tags": [
+        "tree",
+        "sun",
+        "grass",
+        "garden",
+        "bush",
+        "symmetrical",
+        "fountain"
+    ],
+    "date_published": 1511996400,
+    "name": "Symmetrical Garden",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -26.152832,
+        28.000758
+    ],
+    "date_taken": 1450860480,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "files_hash": "57c619e7706e9f63fccc1f12e4d26f966a1d51b5",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 95195,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/symmetrical_garden.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6302315,
+            "md5": "766e81b76f50b87a781c2d8084091f60",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/symmetrical_garden.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104305158,
+                    "md5": "3b54b6f2351362dab422eae533498005",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/symmetrical_garden_8k.hdr"
+                },
+                "exr": {
+                    "size": 92623394,
+                    "md5": "ecf593d629cd3f50518b81b86ad1f298",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/symmetrical_garden_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 383468552,
+                    "md5": "eccf9748b57cb073365435be20247694",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/symmetrical_garden_16k.hdr"
+                },
+                "exr": {
+                    "size": 328338638,
+                    "md5": "8bace81d2671cec4bdefbcfd014750b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/symmetrical_garden_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26545584,
+                    "md5": "2ad5ca7b9e7cb6e5667faa11ac9c66a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/symmetrical_garden_4k.hdr"
+                },
+                "exr": {
+                    "size": 23554900,
+                    "md5": "0c0523abbc5df68d447aabb78185f185",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/symmetrical_garden_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6648431,
+                    "md5": "6c973d6082efdec071cc3d17f6efb970",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/symmetrical_garden_2k.hdr"
+                },
+                "exr": {
+                    "size": 5955958,
+                    "md5": "f4595108011f08b9e3ccb4baff0b6d2c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/symmetrical_garden_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1651349,
+                    "md5": "f01fe5c189bccd19207378a8beb73c64",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/symmetrical_garden_1k.hdr"
+                },
+                "exr": {
+                    "size": 1516869,
+                    "md5": "1c4da66cfae2e318b1e06598136f18ef",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/symmetrical_garden_1k.exr"
+                }
+            }
+        }
+    }
+}

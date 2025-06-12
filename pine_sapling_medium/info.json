@@ -1,0 +1,2006 @@
+{
+    "date_published": 1687737600,
+    "name": "Pine Sapling Medium",
+    "type": 2,
+    "authors": {
+        "Rob Tuytel": "photography",
+        "Rico Cilliers": "modeling"
+    },
+    "info": null,
+    "categories": [
+        "nature",
+        "plants",
+        "trees",
+        "collection: pine_forest"
+    ],
+    "geonodes": true,
+    "tags": [
+        "woodland",
+        "needles",
+        "pine",
+        "tree",
+        "sapling",
+        "branches",
+        "environment",
+        "coniferous",
+        "plants",
+        "trunk",
+        "bark",
+        "geometry nodes",
+        "foliage",
+        "natural",
+        "evergreen",
+        "twig",
+        "forest",
+        "vegetation",
+        "forest floor"
+    ],
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "polycount": 6073765,
+    "texel_density": 8197.989052776424,
+    "files_hash": "331357177d893fd7259250746988763d01225b5e",
+    "dimensions": [
+        8169.503211975098,
+        822.4465325474739,
+        1211.5700468420982
+    ],
+    "download_count": 9957,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pine_sapling_medium.png?width=256&height=256",
+    "files": {
+        "bark_disp": {
+            "8k": {
+                "jpg": {
+                    "size": 7746277,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_bark_disp_8k.jpg",
+                    "md5": "3b14d56f70d8314b5054087fdc301194"
+                },
+                "png": {
+                    "size": 62526321,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_disp_8k.png",
+                    "md5": "f8b87ec4b5b480a0ce5ae6432a02e4b0"
+                },
+                "exr": {
+                    "size": 28321866,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_bark_disp_8k.exr",
+                    "md5": "7f7dbc0505f6c7cac5f02a7a0184c612"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2603813,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_bark_disp_4k.jpg",
+                    "md5": "d64e858ddfe4e1e1c81f1c458e3fa074"
+                },
+                "png": {
+                    "size": 22794579,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_disp_4k.png",
+                    "md5": "eaeba8a06eb83b36b07d520a062ac3f0"
+                },
+                "exr": {
+                    "size": 9733776,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_bark_disp_4k.exr",
+                    "md5": "fe2306ac7b53a7f77800c072b0a54721"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 852445,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_bark_disp_2k.jpg",
+                    "md5": "1f1b00f37849ee8b64ef718f119d9c98"
+                },
+                "png": {
+                    "size": 6162156,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_disp_2k.png",
+                    "md5": "97db9324b179d11c271c1bcc57ae7dfa"
+                },
+                "exr": {
+                    "size": 3299188,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_bark_disp_2k.exr",
+                    "md5": "6287fbdf687081a6fb1fa87453ffbb6a"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 292709,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_bark_disp_1k.jpg",
+                    "md5": "d7e015fc2042e8ced8697a72a959608a"
+                },
+                "png": {
+                    "size": 1633203,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_disp_1k.png",
+                    "md5": "a085234cf5c6697b53187347dafad026"
+                },
+                "exr": {
+                    "size": 1027622,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_bark_disp_1k.exr",
+                    "md5": "f91ce71e882b404f61092a6c7cf3bc5e"
+                }
+            }
+        },
+        "twig_nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 33027038,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_twig_nor_dx_8k.jpg",
+                    "md5": "5e8966bbddb962fa008902836f88dc55"
+                },
+                "png": {
+                    "size": 78372869,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_nor_dx_8k.png",
+                    "md5": "42ff1930fcd93d633905fd712907ba9d"
+                },
+                "exr": {
+                    "size": 63584981,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_twig_nor_dx_8k.exr",
+                    "md5": "e2dc33effc8e3d7e73312cb2ebf9a490"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 9409981,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_twig_nor_dx_4k.jpg",
+                    "md5": "876c951a963de8e05d4b4a101c3a8805"
+                },
+                "png": {
+                    "size": 23350793,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_nor_dx_4k.png",
+                    "md5": "fdced341be6d40c2c686b011c3b64498"
+                },
+                "exr": {
+                    "size": 18705770,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_twig_nor_dx_4k.exr",
+                    "md5": "00cb3230875fd2307a46d0a85e44a4c3"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2589750,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_twig_nor_dx_2k.jpg",
+                    "md5": "a69ded8b028941f01a15ed5895556778"
+                },
+                "png": {
+                    "size": 7995090,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_nor_dx_2k.png",
+                    "md5": "b007c38913394fa61d3fec82311e9e03"
+                },
+                "exr": {
+                    "size": 5273986,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_twig_nor_dx_2k.exr",
+                    "md5": "151885f14a2c8b5e409bce8673d827fa"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 703875,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_twig_nor_dx_1k.jpg",
+                    "md5": "809f10c9b02d167011ada62e7f68d114"
+                },
+                "png": {
+                    "size": 2571618,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_nor_dx_1k.png",
+                    "md5": "87fbcc38b827ca157fe9dd26bff370e6"
+                },
+                "exr": {
+                    "size": 1476604,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_twig_nor_dx_1k.exr",
+                    "md5": "9c38b641935d06701faf08e3d8eb5ddb"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/pine_sapling_medium_bark_diff_8k.png": {
+                            "size": 313443159,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_diff_8k.png",
+                            "md5": "cd1223bea735d8091aa7f705012b66b5"
+                        },
+                        "textures/pine_sapling_medium_bark_rough_8k.png": {
+                            "size": 185184981,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_rough_8k.png",
+                            "md5": "df6ce49682271f5de997e2447b4184dc"
+                        },
+                        "textures/pine_sapling_medium_twig_alpha_8k.png": {
+                            "size": 1154640,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_alpha_8k.png",
+                            "md5": "94a21aed6a8d74ef6d880e6ce4a09242"
+                        },
+                        "textures/pine_sapling_medium_twig_nor_gl_8k.png": {
+                            "size": 78374967,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_8k.png",
+                            "md5": "2235a1b46305445a9ebc1600ecf4f6d4"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_8k.png": {
+                            "size": 58496101,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_diff_8k.png",
+                            "md5": "c08b0d21e7df204b7fc3d4c75490cc3d"
+                        },
+                        "textures/pine_sapling_medium_twig_rough_8k.png": {
+                            "size": 9219545,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_rough_8k.png",
+                            "md5": "559f6617db509000874c519470c7b30a"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_8k.png": {
+                            "size": 302057267,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_8k.png",
+                            "md5": "faf7f66818f097e2b879cdf759eff17a"
+                        },
+                        "textures/pine_sapling_medium_bark_disp_8k.png": {
+                            "size": 62526321,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_disp_8k.png",
+                            "md5": "f8b87ec4b5b480a0ce5ae6432a02e4b0"
+                        },
+                        "textures/pine_sapling_medium_twig_mask_8k.png": {
+                            "size": 1111792,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_mask_8k.png",
+                            "md5": "67de9a63692f300d2ae52d97ec37e58d"
+                        }
+                    },
+                    "size": 642707,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/pine_sapling_medium/pine_sapling_medium_8k.blend",
+                    "md5": "c544cb86797cfda1351f0dfc39c4e432"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/pine_sapling_medium_twig_rough_4k.png": {
+                            "size": 5537524,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_rough_4k.png",
+                            "md5": "7f175becedfc84deaa97f4eeaedb9847"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_4k.png": {
+                            "size": 82730338,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_4k.png",
+                            "md5": "39643329a19c367aa2a962eeb2d8ec71"
+                        },
+                        "textures/pine_sapling_medium_twig_nor_gl_4k.png": {
+                            "size": 23358899,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_4k.png",
+                            "md5": "283720a216722f6190693d59a8e2a53e"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_4k.png": {
+                            "size": 21001617,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_diff_4k.png",
+                            "md5": "8bbecfd14193aa348c5daa7d4d81f85f"
+                        },
+                        "textures/pine_sapling_medium_twig_alpha_4k.png": {
+                            "size": 666322,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_alpha_4k.png",
+                            "md5": "d26c9a912dd7082e27b657a904c340da"
+                        },
+                        "textures/pine_sapling_medium_bark_diff_4k.png": {
+                            "size": 83504453,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_diff_4k.png",
+                            "md5": "77dd08b3a586c2e020f72d99b1486ff7"
+                        },
+                        "textures/pine_sapling_medium_bark_rough_4k.png": {
+                            "size": 37868908,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_rough_4k.png",
+                            "md5": "a86b161ac41551f896971c600f514005"
+                        },
+                        "textures/pine_sapling_medium_bark_disp_4k.png": {
+                            "size": 22794579,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_disp_4k.png",
+                            "md5": "eaeba8a06eb83b36b07d520a062ac3f0"
+                        },
+                        "textures/pine_sapling_medium_twig_mask_4k.png": {
+                            "size": 634307,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_mask_4k.png",
+                            "md5": "a39c23921fdef2ce432dae2d6e18fcc4"
+                        }
+                    },
+                    "size": 642520,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/pine_sapling_medium/pine_sapling_medium_4k.blend",
+                    "md5": "6f8bc5d0cb013e0c3c81dc009677ba61"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/pine_sapling_medium_bark_diff_2k.png": {
+                            "size": 21914708,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_diff_2k.png",
+                            "md5": "431f3c4e40e4349527cf1c2fe2ebe6fc"
+                        },
+                        "textures/pine_sapling_medium_bark_disp_2k.png": {
+                            "size": 6162156,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_disp_2k.png",
+                            "md5": "97db9324b179d11c271c1bcc57ae7dfa"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_2k.png": {
+                            "size": 21747048,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_2k.png",
+                            "md5": "d658980d981ea8df2da1d005d5dea805"
+                        },
+                        "textures/pine_sapling_medium_bark_rough_2k.png": {
+                            "size": 9821164,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_rough_2k.png",
+                            "md5": "f6ed4cd584b4bf2fda17d221d529b369"
+                        },
+                        "textures/pine_sapling_medium_twig_mask_2k.png": {
+                            "size": 318955,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_mask_2k.png",
+                            "md5": "20c45eb7b75fe1b49dc2e381d97b0b35"
+                        },
+                        "textures/pine_sapling_medium_twig_alpha_2k.png": {
+                            "size": 334535,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_alpha_2k.png",
+                            "md5": "90189603eb9fb879a097d726cfff43e1"
+                        },
+                        "textures/pine_sapling_medium_twig_rough_2k.png": {
+                            "size": 2287334,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_rough_2k.png",
+                            "md5": "2c1897f0a6804d6424e1bbd2156c07a4"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_2k.png": {
+                            "size": 7495830,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_diff_2k.png",
+                            "md5": "3450655521818c3e78e15aa191a539f5"
+                        },
+                        "textures/pine_sapling_medium_twig_nor_gl_2k.png": {
+                            "size": 7992986,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_2k.png",
+                            "md5": "6635790f845ca2beae433e43db1400be"
+                        }
+                    },
+                    "size": 642445,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/pine_sapling_medium/pine_sapling_medium_2k.blend",
+                    "md5": "3dbfb7034e88cb096df47522d40b0677"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/pine_sapling_medium_twig_nor_gl_1k.png": {
+                            "size": 2570882,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_1k.png",
+                            "md5": "a2ea7fd10403a9bdde0ec78ab2dcddc7"
+                        },
+                        "textures/pine_sapling_medium_twig_rough_1k.png": {
+                            "size": 835523,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_rough_1k.png",
+                            "md5": "d4f7050fd60d51360c5515a969ffdf77"
+                        },
+                        "textures/pine_sapling_medium_bark_disp_1k.png": {
+                            "size": 1633203,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_disp_1k.png",
+                            "md5": "a085234cf5c6697b53187347dafad026"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_1k.png": {
+                            "size": 5640903,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_1k.png",
+                            "md5": "a0e2bfeda173e20c494d79c6125effa5"
+                        },
+                        "textures/pine_sapling_medium_bark_rough_1k.png": {
+                            "size": 2488380,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_rough_1k.png",
+                            "md5": "dca69b84d7846af93fbb31d0c1dafd2e"
+                        },
+                        "textures/pine_sapling_medium_bark_diff_1k.png": {
+                            "size": 5568559,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_diff_1k.png",
+                            "md5": "63688d7bcdd5ff5500f12bde192b197a"
+                        },
+                        "textures/pine_sapling_medium_twig_alpha_1k.png": {
+                            "size": 159896,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_alpha_1k.png",
+                            "md5": "9890eccee0444fd263dad2133338583f"
+                        },
+                        "textures/pine_sapling_medium_twig_mask_1k.png": {
+                            "size": 149491,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_mask_1k.png",
+                            "md5": "07f39f7450a4c5d9d812cf7cf73bceb6"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_1k.png": {
+                            "size": 2475084,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_diff_1k.png",
+                            "md5": "a85d23a577e4c9aa16338a60f076e038"
+                        }
+                    },
+                    "size": 642301,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/pine_sapling_medium/pine_sapling_medium_1k.blend",
+                    "md5": "387f8b8dc0e863e28cc8250961432ed0"
+                }
+            }
+        },
+        "bark_diff": {
+            "8k": {
+                "jpg": {
+                    "size": 23856446,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_bark_diff_8k.jpg",
+                    "md5": "cd877ca5090bdcefee324d9e62563bcf"
+                },
+                "png": {
+                    "size": 313443159,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_diff_8k.png",
+                    "md5": "cd1223bea735d8091aa7f705012b66b5"
+                },
+                "exr": {
+                    "size": 36475991,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_bark_diff_8k.exr",
+                    "md5": "099a781ae7c1324712bf9877284b96b7"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 8114102,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_bark_diff_4k.jpg",
+                    "md5": "68011b284f73f153c65884d39cf42adb"
+                },
+                "png": {
+                    "size": 83504453,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_diff_4k.png",
+                    "md5": "77dd08b3a586c2e020f72d99b1486ff7"
+                },
+                "exr": {
+                    "size": 12500426,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_bark_diff_4k.exr",
+                    "md5": "78082a6db506a067f5501e5cc1b3ffeb"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2700448,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_bark_diff_2k.jpg",
+                    "md5": "f420cb9ca2e845cd988f3bcf03c41a85"
+                },
+                "png": {
+                    "size": 21914708,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_diff_2k.png",
+                    "md5": "431f3c4e40e4349527cf1c2fe2ebe6fc"
+                },
+                "exr": {
+                    "size": 4141347,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_bark_diff_2k.exr",
+                    "md5": "39ace4a1d3b3b0c1fd196dbcd2b102f1"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 725265,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_bark_diff_1k.jpg",
+                    "md5": "7d3a558ed614c7e75594c7be3bf80311"
+                },
+                "png": {
+                    "size": 5568559,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_diff_1k.png",
+                    "md5": "63688d7bcdd5ff5500f12bde192b197a"
+                },
+                "exr": {
+                    "size": 1156481,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_bark_diff_1k.exr",
+                    "md5": "b0d372b614a50bb8184eb55d1b81651b"
+                }
+            }
+        },
+        "bark_nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 28491344,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_bark_nor_dx_8k.jpg",
+                    "md5": "9e6d4f9dd0418fa5b229f711d3d81c68"
+                },
+                "png": {
+                    "size": 301263366,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_nor_dx_8k.png",
+                    "md5": "6c04fc2be4705d13b41910b171ae55c3"
+                },
+                "exr": {
+                    "size": 48367119,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_bark_nor_dx_8k.exr",
+                    "md5": "caa71e1f1b856069aaaf683b67c803b3"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 10058374,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_bark_nor_dx_4k.jpg",
+                    "md5": "c6653b5f0615043e23cb37d85e8124d2"
+                },
+                "png": {
+                    "size": 82728581,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_nor_dx_4k.png",
+                    "md5": "d5834278039dc0a61db5458627675aa0"
+                },
+                "exr": {
+                    "size": 18268136,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_bark_nor_dx_4k.exr",
+                    "md5": "05335bad0ee6f5f67fe06637a60684c7"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3369455,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_bark_nor_dx_2k.jpg",
+                    "md5": "baf153fade9a5b35037af0706c27e689"
+                },
+                "png": {
+                    "size": 21746680,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_nor_dx_2k.png",
+                    "md5": "f005995822afbe412c3caf262541efff"
+                },
+                "exr": {
+                    "size": 6709075,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_bark_nor_dx_2k.exr",
+                    "md5": "8c79c3b0a55378ecee503b0c394b4816"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1014252,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_bark_nor_dx_1k.jpg",
+                    "md5": "d600d77921de18e43670d20dd9e05f4a"
+                },
+                "png": {
+                    "size": 5640649,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_nor_dx_1k.png",
+                    "md5": "11e0e968b7a0a7d37c98c2b9f65228b5"
+                },
+                "exr": {
+                    "size": 2110707,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_bark_nor_dx_1k.exr",
+                    "md5": "7164110ee358679b4035fa6d34479692"
+                }
+            }
+        },
+        "twig_mask": {
+            "8k": {
+                "jpg": {
+                    "size": 2722049,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_twig_mask_8k.jpg",
+                    "md5": "d2b2f0cc578712ef32f6af8f3d6200a5"
+                },
+                "png": {
+                    "size": 1111792,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_mask_8k.png",
+                    "md5": "67de9a63692f300d2ae52d97ec37e58d"
+                },
+                "exr": {
+                    "size": 1525879,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_twig_mask_8k.exr",
+                    "md5": "43a0e4a402e55b53f47419336db3d60c"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 882568,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_twig_mask_4k.jpg",
+                    "md5": "ee90519833f8242e4d610a4a44f7f8d8"
+                },
+                "png": {
+                    "size": 634307,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_mask_4k.png",
+                    "md5": "a39c23921fdef2ce432dae2d6e18fcc4"
+                },
+                "exr": {
+                    "size": 698762,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_twig_mask_4k.exr",
+                    "md5": "7b8aa7ddf4d00cb1da8c527822a1afa4"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 286093,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_twig_mask_2k.jpg",
+                    "md5": "efcd7de6b151a3c032bdef44631eba6b"
+                },
+                "png": {
+                    "size": 318955,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_mask_2k.png",
+                    "md5": "20c45eb7b75fe1b49dc2e381d97b0b35"
+                },
+                "exr": {
+                    "size": 323580,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_twig_mask_2k.exr",
+                    "md5": "9d822d9f38471e71c61600df0666c065"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 92877,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_twig_mask_1k.jpg",
+                    "md5": "33f1d750f81560356d4fc856f0494ff1"
+                },
+                "png": {
+                    "size": 149491,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_mask_1k.png",
+                    "md5": "07f39f7450a4c5d9d812cf7cf73bceb6"
+                },
+                "exr": {
+                    "size": 141446,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_twig_mask_1k.exr",
+                    "md5": "91ede3c51f9969d1a4a855fa937c0e51"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "pine_sapling_medium.bin": {
+                            "size": 263475848,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/pine_sapling_medium/pine_sapling_medium.bin",
+                            "md5": "576296df413cd0d59291131eeadfe496"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_8k.jpg": {
+                            "size": 28462113,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_8k.jpg",
+                            "md5": "29ca097751ebb0a00eea8da0b14df938"
+                        },
+                        "textures/pine_sapling_medium_bark_arm_8k.jpg": {
+                            "size": 28865543,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_bark_arm_8k.jpg",
+                            "md5": "0d4ca852e9a78f7d6fcd60d73367fc62"
+                        },
+                        "textures/pine_sapling_medium_bark_diff_8k.jpg": {
+                            "size": 23856446,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_bark_diff_8k.jpg",
+                            "md5": "cd877ca5090bdcefee324d9e62563bcf"
+                        },
+                        "textures/pine_sapling_medium_twig_arm_8k.jpg": {
+                            "size": 11784413,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_twig_arm_8k.jpg",
+                            "md5": "3fae608b82fa2e4f76dc7affac6e6ec8"
+                        },
+                        "textures/pine_sapling_medium_twig_nor_gl_8k.jpg": {
+                            "size": 32074649,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_8k.jpg",
+                            "md5": "0f27eb83a39fbe0513b887e626b0d4c1"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_8k.jpg": {
+                            "size": 14891078,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_twig_diff_8k.jpg",
+                            "md5": "c0f635e05a752fc3f66e2ef195cc0156"
+                        }
+                    },
+                    "size": 16741,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/pine_sapling_medium/pine_sapling_medium_8k.gltf",
+                    "md5": "dc17e3d2422980d84ca27e24a87d8710"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "pine_sapling_medium.bin": {
+                            "size": 263475848,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/pine_sapling_medium/pine_sapling_medium.bin",
+                            "md5": "576296df413cd0d59291131eeadfe496"
+                        },
+                        "textures/pine_sapling_medium_bark_diff_4k.jpg": {
+                            "size": 8114102,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_bark_diff_4k.jpg",
+                            "md5": "68011b284f73f153c65884d39cf42adb"
+                        },
+                        "textures/pine_sapling_medium_bark_arm_4k.jpg": {
+                            "size": 9499989,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_bark_arm_4k.jpg",
+                            "md5": "b713cffa1227391c35a40de58136dbe3"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_4k.jpg": {
+                            "size": 10052192,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_4k.jpg",
+                            "md5": "ec5566f44be52dcfe439a781f5f8f077"
+                        },
+                        "textures/pine_sapling_medium_twig_nor_gl_4k.jpg": {
+                            "size": 9247439,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_4k.jpg",
+                            "md5": "a783cd29fad4db384c76036dc8ae6385"
+                        },
+                        "textures/pine_sapling_medium_twig_arm_4k.jpg": {
+                            "size": 3874931,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_twig_arm_4k.jpg",
+                            "md5": "b7919a514fa141efa29381c4261d246e"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_4k.jpg": {
+                            "size": 4859889,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_twig_diff_4k.jpg",
+                            "md5": "7e963a35d4b3304e23552a02774f54e9"
+                        }
+                    },
+                    "size": 16741,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/pine_sapling_medium/pine_sapling_medium_4k.gltf",
+                    "md5": "3ce2cd8c6c57c2d9bb6e9444732bc49f"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "pine_sapling_medium.bin": {
+                            "size": 263475848,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/pine_sapling_medium/pine_sapling_medium.bin",
+                            "md5": "576296df413cd0d59291131eeadfe496"
+                        },
+                        "textures/pine_sapling_medium_bark_arm_2k.jpg": {
+                            "size": 2941366,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_bark_arm_2k.jpg",
+                            "md5": "218f22567f42e7918afc25c7e3450be8"
+                        },
+                        "textures/pine_sapling_medium_twig_nor_gl_2k.jpg": {
+                            "size": 2557993,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_2k.jpg",
+                            "md5": "07d9fbb7a95f16a0d733f06efbca56a7"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_2k.jpg": {
+                            "size": 1542464,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_twig_diff_2k.jpg",
+                            "md5": "acb5a3388d67a8cfcdcfcf9c66539fd0"
+                        },
+                        "textures/pine_sapling_medium_twig_arm_2k.jpg": {
+                            "size": 1251644,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_twig_arm_2k.jpg",
+                            "md5": "20b41bc76f1e40e11d1847b39779c015"
+                        },
+                        "textures/pine_sapling_medium_bark_diff_2k.jpg": {
+                            "size": 2700448,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_bark_diff_2k.jpg",
+                            "md5": "f420cb9ca2e845cd988f3bcf03c41a85"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_2k.jpg": {
+                            "size": 3373886,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_2k.jpg",
+                            "md5": "da6eb7bc3c4eafea4e8ed696f7891a73"
+                        }
+                    },
+                    "size": 16741,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/pine_sapling_medium/pine_sapling_medium_2k.gltf",
+                    "md5": "a4f66696e1d8de892d7287bb22824d89"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/pine_sapling_medium_bark_diff_1k.jpg": {
+                            "size": 725265,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_bark_diff_1k.jpg",
+                            "md5": "7d3a558ed614c7e75594c7be3bf80311"
+                        },
+                        "pine_sapling_medium.bin": {
+                            "size": 263475848,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/pine_sapling_medium/pine_sapling_medium.bin",
+                            "md5": "576296df413cd0d59291131eeadfe496"
+                        },
+                        "textures/pine_sapling_medium_twig_arm_1k.jpg": {
+                            "size": 394056,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_twig_arm_1k.jpg",
+                            "md5": "b5062030fc42ec7bd12eb3f052054104"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_1k.jpg": {
+                            "size": 477942,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_twig_diff_1k.jpg",
+                            "md5": "dacc918bb421968e9ccc1956d78a2dbe"
+                        },
+                        "textures/pine_sapling_medium_bark_arm_1k.jpg": {
+                            "size": 801278,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_bark_arm_1k.jpg",
+                            "md5": "21d1abd15e40951825a4f3da110b20ea"
+                        },
+                        "textures/pine_sapling_medium_twig_nor_gl_1k.jpg": {
+                            "size": 692711,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_1k.jpg",
+                            "md5": "eebc5a81f8f6231d8e18ec4ad7292798"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_1k.jpg": {
+                            "size": 1016849,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_1k.jpg",
+                            "md5": "bb6e3a6eea777d992cef48fabfdc538c"
+                        }
+                    },
+                    "size": 16741,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/pine_sapling_medium/pine_sapling_medium_1k.gltf",
+                    "md5": "14cf34cbd075185bb06a66604809b717"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/pine_sapling_medium_bark_diff_8k.png": {
+                            "size": 313443159,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_diff_8k.png",
+                            "md5": "cd1223bea735d8091aa7f705012b66b5"
+                        },
+                        "textures/pine_sapling_medium_bark_rough_8k.png": {
+                            "size": 185184981,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_rough_8k.png",
+                            "md5": "df6ce49682271f5de997e2447b4184dc"
+                        },
+                        "textures/pine_sapling_medium_twig_alpha_8k.png": {
+                            "size": 1154640,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_alpha_8k.png",
+                            "md5": "94a21aed6a8d74ef6d880e6ce4a09242"
+                        },
+                        "textures/pine_sapling_medium_twig_nor_gl_8k.png": {
+                            "size": 78374967,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_8k.png",
+                            "md5": "2235a1b46305445a9ebc1600ecf4f6d4"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_8k.png": {
+                            "size": 58496101,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_diff_8k.png",
+                            "md5": "c08b0d21e7df204b7fc3d4c75490cc3d"
+                        },
+                        "textures/pine_sapling_medium_twig_rough_8k.png": {
+                            "size": 9219545,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_rough_8k.png",
+                            "md5": "559f6617db509000874c519470c7b30a"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_8k.png": {
+                            "size": 302057267,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_8k.png",
+                            "md5": "faf7f66818f097e2b879cdf759eff17a"
+                        },
+                        "textures/pine_sapling_medium_bark_disp_8k.png": {
+                            "size": 62526321,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_disp_8k.png",
+                            "md5": "f8b87ec4b5b480a0ce5ae6432a02e4b0"
+                        },
+                        "textures/pine_sapling_medium_twig_mask_8k.png": {
+                            "size": 1111792,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_mask_8k.png",
+                            "md5": "67de9a63692f300d2ae52d97ec37e58d"
+                        }
+                    },
+                    "size": 4407,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/pine_sapling_medium/pine_sapling_medium_8k.usdc",
+                    "md5": "277ed1ebb6e8a84c6ce71389e48e9a35"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/pine_sapling_medium_twig_rough_4k.png": {
+                            "size": 5537524,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_rough_4k.png",
+                            "md5": "7f175becedfc84deaa97f4eeaedb9847"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_4k.png": {
+                            "size": 82730338,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_4k.png",
+                            "md5": "39643329a19c367aa2a962eeb2d8ec71"
+                        },
+                        "textures/pine_sapling_medium_twig_nor_gl_4k.png": {
+                            "size": 23358899,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_4k.png",
+                            "md5": "283720a216722f6190693d59a8e2a53e"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_4k.png": {
+                            "size": 21001617,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_diff_4k.png",
+                            "md5": "8bbecfd14193aa348c5daa7d4d81f85f"
+                        },
+                        "textures/pine_sapling_medium_twig_alpha_4k.png": {
+                            "size": 666322,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_alpha_4k.png",
+                            "md5": "d26c9a912dd7082e27b657a904c340da"
+                        },
+                        "textures/pine_sapling_medium_bark_diff_4k.png": {
+                            "size": 83504453,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_diff_4k.png",
+                            "md5": "77dd08b3a586c2e020f72d99b1486ff7"
+                        },
+                        "textures/pine_sapling_medium_bark_rough_4k.png": {
+                            "size": 37868908,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_rough_4k.png",
+                            "md5": "a86b161ac41551f896971c600f514005"
+                        },
+                        "textures/pine_sapling_medium_bark_disp_4k.png": {
+                            "size": 22794579,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_disp_4k.png",
+                            "md5": "eaeba8a06eb83b36b07d520a062ac3f0"
+                        },
+                        "textures/pine_sapling_medium_twig_mask_4k.png": {
+                            "size": 634307,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_mask_4k.png",
+                            "md5": "a39c23921fdef2ce432dae2d6e18fcc4"
+                        }
+                    },
+                    "size": 4408,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/pine_sapling_medium/pine_sapling_medium_4k.usdc",
+                    "md5": "a4f5111fc8f2e80e31399bdb21d5907a"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/pine_sapling_medium_bark_diff_2k.png": {
+                            "size": 21914708,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_diff_2k.png",
+                            "md5": "431f3c4e40e4349527cf1c2fe2ebe6fc"
+                        },
+                        "textures/pine_sapling_medium_bark_disp_2k.png": {
+                            "size": 6162156,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_disp_2k.png",
+                            "md5": "97db9324b179d11c271c1bcc57ae7dfa"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_2k.png": {
+                            "size": 21747048,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_2k.png",
+                            "md5": "d658980d981ea8df2da1d005d5dea805"
+                        },
+                        "textures/pine_sapling_medium_bark_rough_2k.png": {
+                            "size": 9821164,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_rough_2k.png",
+                            "md5": "f6ed4cd584b4bf2fda17d221d529b369"
+                        },
+                        "textures/pine_sapling_medium_twig_mask_2k.png": {
+                            "size": 318955,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_mask_2k.png",
+                            "md5": "20c45eb7b75fe1b49dc2e381d97b0b35"
+                        },
+                        "textures/pine_sapling_medium_twig_alpha_2k.png": {
+                            "size": 334535,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_alpha_2k.png",
+                            "md5": "90189603eb9fb879a097d726cfff43e1"
+                        },
+                        "textures/pine_sapling_medium_twig_rough_2k.png": {
+                            "size": 2287334,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_rough_2k.png",
+                            "md5": "2c1897f0a6804d6424e1bbd2156c07a4"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_2k.png": {
+                            "size": 7495830,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_diff_2k.png",
+                            "md5": "3450655521818c3e78e15aa191a539f5"
+                        },
+                        "textures/pine_sapling_medium_twig_nor_gl_2k.png": {
+                            "size": 7992986,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_2k.png",
+                            "md5": "6635790f845ca2beae433e43db1400be"
+                        }
+                    },
+                    "size": 4407,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/pine_sapling_medium/pine_sapling_medium_2k.usdc",
+                    "md5": "00841320521b23422add47483a974cd5"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/pine_sapling_medium_twig_nor_gl_1k.png": {
+                            "size": 2570882,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_1k.png",
+                            "md5": "a2ea7fd10403a9bdde0ec78ab2dcddc7"
+                        },
+                        "textures/pine_sapling_medium_twig_rough_1k.png": {
+                            "size": 835523,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_rough_1k.png",
+                            "md5": "d4f7050fd60d51360c5515a969ffdf77"
+                        },
+                        "textures/pine_sapling_medium_bark_disp_1k.png": {
+                            "size": 1633203,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_disp_1k.png",
+                            "md5": "a085234cf5c6697b53187347dafad026"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_1k.png": {
+                            "size": 5640903,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_1k.png",
+                            "md5": "a0e2bfeda173e20c494d79c6125effa5"
+                        },
+                        "textures/pine_sapling_medium_bark_rough_1k.png": {
+                            "size": 2488380,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_rough_1k.png",
+                            "md5": "dca69b84d7846af93fbb31d0c1dafd2e"
+                        },
+                        "textures/pine_sapling_medium_bark_diff_1k.png": {
+                            "size": 5568559,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_diff_1k.png",
+                            "md5": "63688d7bcdd5ff5500f12bde192b197a"
+                        },
+                        "textures/pine_sapling_medium_twig_alpha_1k.png": {
+                            "size": 159896,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_alpha_1k.png",
+                            "md5": "9890eccee0444fd263dad2133338583f"
+                        },
+                        "textures/pine_sapling_medium_twig_mask_1k.png": {
+                            "size": 149491,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_mask_1k.png",
+                            "md5": "07f39f7450a4c5d9d812cf7cf73bceb6"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_1k.png": {
+                            "size": 2475084,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_diff_1k.png",
+                            "md5": "a85d23a577e4c9aa16338a60f076e038"
+                        }
+                    },
+                    "size": 4407,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/pine_sapling_medium/pine_sapling_medium_1k.usdc",
+                    "md5": "41f2b38dfc50363297e157796b70a4cb"
+                }
+            }
+        },
+        "twig_disp": {
+            "8k": {
+                "jpg": {
+                    "size": 6032186,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_twig_disp_8k.jpg",
+                    "md5": "3cc505f0b2d950cb3b426b5333559029"
+                },
+                "png": {
+                    "size": 19809208,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_disp_8k.png",
+                    "md5": "ce1a904647b69489aecfeea2129661f1"
+                },
+                "exr": {
+                    "size": 11191836,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_twig_disp_8k.exr",
+                    "md5": "d1cab707311407efbb0fd070e59c22d4"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1986143,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_twig_disp_4k.jpg",
+                    "md5": "773e7c4ff89edd6805c57955168643e3"
+                },
+                "png": {
+                    "size": 6430451,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_disp_4k.png",
+                    "md5": "3a2438b04d9cd1baef95d2f432c8b363"
+                },
+                "exr": {
+                    "size": 3975416,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_twig_disp_4k.exr",
+                    "md5": "6cee8ea8826c0f9e04852b356a1c4c92"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 651337,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_twig_disp_2k.jpg",
+                    "md5": "08667f89fb614115c6c051bd0d69a0dd"
+                },
+                "png": {
+                    "size": 2237499,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_disp_2k.png",
+                    "md5": "38a69f269d3d9b168a623459b27a67ad"
+                },
+                "exr": {
+                    "size": 1451246,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_twig_disp_2k.exr",
+                    "md5": "566d66f4e5514fe68642638696a97a30"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 202563,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_twig_disp_1k.jpg",
+                    "md5": "d4b5a4de3cdd57e3cabd73f7e95b9907"
+                },
+                "png": {
+                    "size": 779713,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_disp_1k.png",
+                    "md5": "9f949eb9a59f2f39a208a8822676bffa"
+                },
+                "exr": {
+                    "size": 489655,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_twig_disp_1k.exr",
+                    "md5": "932129be37611a0e9bd067d022cb8849"
+                }
+            }
+        },
+        "twig_diff": {
+            "8k": {
+                "jpg": {
+                    "size": 14891078,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_twig_diff_8k.jpg",
+                    "md5": "c0f635e05a752fc3f66e2ef195cc0156"
+                },
+                "png": {
+                    "size": 58496101,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_diff_8k.png",
+                    "md5": "c08b0d21e7df204b7fc3d4c75490cc3d"
+                },
+                "exr": {
+                    "size": 24413222,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_twig_diff_8k.exr",
+                    "md5": "da44b3151cbb39c2339ff2f145019eb0"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4859889,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_twig_diff_4k.jpg",
+                    "md5": "7e963a35d4b3304e23552a02774f54e9"
+                },
+                "png": {
+                    "size": 21001617,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_diff_4k.png",
+                    "md5": "8bbecfd14193aa348c5daa7d4d81f85f"
+                },
+                "exr": {
+                    "size": 7934795,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_twig_diff_4k.exr",
+                    "md5": "9087c273f289850b5455a3fa44d70005"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1542464,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_twig_diff_2k.jpg",
+                    "md5": "acb5a3388d67a8cfcdcfcf9c66539fd0"
+                },
+                "png": {
+                    "size": 7495830,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_diff_2k.png",
+                    "md5": "3450655521818c3e78e15aa191a539f5"
+                },
+                "exr": {
+                    "size": 2562004,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_twig_diff_2k.exr",
+                    "md5": "08b017fac46ae220e8853b7426f37486"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 477942,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_twig_diff_1k.jpg",
+                    "md5": "dacc918bb421968e9ccc1956d78a2dbe"
+                },
+                "png": {
+                    "size": 2475084,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_diff_1k.png",
+                    "md5": "a85d23a577e4c9aa16338a60f076e038"
+                },
+                "exr": {
+                    "size": 839595,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_twig_diff_1k.exr",
+                    "md5": "dac42e24d2c5617c8a2e148b9b2c5bad"
+                }
+            }
+        },
+        "twig_arm": {
+            "8k": {
+                "jpg": {
+                    "size": 11784413,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_twig_arm_8k.jpg",
+                    "md5": "3fae608b82fa2e4f76dc7affac6e6ec8"
+                },
+                "png": {
+                    "size": 13066578,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_arm_8k.png",
+                    "md5": "afff3cd4b21b5471ea0767cea1ffb673"
+                },
+                "exr": {
+                    "size": 22359737,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_twig_arm_8k.exr",
+                    "md5": "d26568550a22ebb563ef4b0205ca88f1"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3874931,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_twig_arm_4k.jpg",
+                    "md5": "b7919a514fa141efa29381c4261d246e"
+                },
+                "png": {
+                    "size": 7968619,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_arm_4k.png",
+                    "md5": "d61b5d982f3c9bf45ed19c27a1278199"
+                },
+                "exr": {
+                    "size": 7689733,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_twig_arm_4k.exr",
+                    "md5": "47a616a5c98016db9ccb2712a96a54de"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1251644,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_twig_arm_2k.jpg",
+                    "md5": "20b41bc76f1e40e11d1847b39779c015"
+                },
+                "png": {
+                    "size": 3391132,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_arm_2k.png",
+                    "md5": "5d88faf896c317704d6f6152897bf655"
+                },
+                "exr": {
+                    "size": 2607389,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_twig_arm_2k.exr",
+                    "md5": "94765cfaee4d4a5d2344db44d7bd36ae"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 394056,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_twig_arm_1k.jpg",
+                    "md5": "b5062030fc42ec7bd12eb3f052054104"
+                },
+                "png": {
+                    "size": 1229355,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_arm_1k.png",
+                    "md5": "430b9436974b50260e512b02a63288b9"
+                },
+                "exr": {
+                    "size": 840457,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_twig_arm_1k.exr",
+                    "md5": "ddd4e96b36627933e0fa10097dec9bb4"
+                }
+            }
+        },
+        "twig_rough": {
+            "8k": {
+                "jpg": {
+                    "size": 10489564,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_twig_rough_8k.jpg",
+                    "md5": "ff36c7f91ac978b2043a0b0dbd95b0ee"
+                },
+                "png": {
+                    "size": 9219545,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_rough_8k.png",
+                    "md5": "559f6617db509000874c519470c7b30a"
+                },
+                "exr": {
+                    "size": 9746790,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_twig_rough_8k.exr",
+                    "md5": "ab2344c08eacafdb8fa0efc2bb3d176b"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3367004,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_twig_rough_4k.jpg",
+                    "md5": "aaa29efa568a21e3b82812c7b2314420"
+                },
+                "png": {
+                    "size": 5537524,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_rough_4k.png",
+                    "md5": "7f175becedfc84deaa97f4eeaedb9847"
+                },
+                "exr": {
+                    "size": 4241664,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_twig_rough_4k.exr",
+                    "md5": "bc6910939ad6d1a932220c688370dc56"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1067701,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_twig_rough_2k.jpg",
+                    "md5": "8871badcbe2b753fd4e2d359a17c2e22"
+                },
+                "png": {
+                    "size": 2287334,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_rough_2k.png",
+                    "md5": "2c1897f0a6804d6424e1bbd2156c07a4"
+                },
+                "exr": {
+                    "size": 1701497,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_twig_rough_2k.exr",
+                    "md5": "d6a76816d54c5b1ba009e4420f3b0ccd"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 329802,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_twig_rough_1k.jpg",
+                    "md5": "c2086ab679d6b01682be3d5e6cd90c05"
+                },
+                "png": {
+                    "size": 835523,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_rough_1k.png",
+                    "md5": "d4f7050fd60d51360c5515a969ffdf77"
+                },
+                "exr": {
+                    "size": 586423,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_twig_rough_1k.exr",
+                    "md5": "85196de47faab006503812c49d4e37ed"
+                }
+            }
+        },
+        "bark_rough": {
+            "8k": {
+                "jpg": {
+                    "size": 19492548,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_bark_rough_8k.jpg",
+                    "md5": "e7f95437bdf37e3f4d9c3d69999f60b3"
+                },
+                "png": {
+                    "size": 185184981,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_rough_8k.png",
+                    "md5": "df6ce49682271f5de997e2447b4184dc"
+                },
+                "exr": {
+                    "size": 18504315,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_bark_rough_8k.exr",
+                    "md5": "08f0fdead4cd06b00731f743fbdc1387"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 6620333,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_bark_rough_4k.jpg",
+                    "md5": "47b7d39e1a1e9ffcb31c7213ee88e6c3"
+                },
+                "png": {
+                    "size": 37868908,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_rough_4k.png",
+                    "md5": "a86b161ac41551f896971c600f514005"
+                },
+                "exr": {
+                    "size": 6506162,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_bark_rough_4k.exr",
+                    "md5": "eb13f0d70b534b75caff550dc019bf21"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2255278,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_bark_rough_2k.jpg",
+                    "md5": "b43e924451264ec64d8afab8fff5144e"
+                },
+                "png": {
+                    "size": 9821164,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_rough_2k.png",
+                    "md5": "f6ed4cd584b4bf2fda17d221d529b369"
+                },
+                "exr": {
+                    "size": 2276551,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_bark_rough_2k.exr",
+                    "md5": "2df7e3e1f9dc2c87643d4bc9be70bd74"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 611111,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_bark_rough_1k.jpg",
+                    "md5": "1fb09885fde634d377e1d4f2a8960593"
+                },
+                "png": {
+                    "size": 2488380,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_rough_1k.png",
+                    "md5": "dca69b84d7846af93fbb31d0c1dafd2e"
+                },
+                "exr": {
+                    "size": 644019,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_bark_rough_1k.exr",
+                    "md5": "70170deeeffe17f2ccfb62ed969ccc0b"
+                }
+            }
+        },
+        "bark_ao": {
+            "8k": {
+                "jpg": {
+                    "size": 24362281,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_bark_ao_8k.jpg",
+                    "md5": "3c5b0932d3aae2e7741df78027d14218"
+                },
+                "png": {
+                    "size": 101419100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_ao_8k.png",
+                    "md5": "58675f65a25c3796f514ce1d590c44c1"
+                },
+                "exr": {
+                    "size": 58693937,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_bark_ao_8k.exr",
+                    "md5": "e6fa326c8b4d96f32e22edae90553279"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 7854205,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_bark_ao_4k.jpg",
+                    "md5": "a1992ff451a22e34560bf6c2593d880a"
+                },
+                "png": {
+                    "size": 28179144,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_ao_4k.png",
+                    "md5": "975ac4b565c79ca2211af78203a5ddd6"
+                },
+                "exr": {
+                    "size": 16420556,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_bark_ao_4k.exr",
+                    "md5": "556a8007f11e111e6e8aa498d16b47b4"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2389683,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_bark_ao_2k.jpg",
+                    "md5": "d9237836b1dc6c648095f5c0de86d02d"
+                },
+                "png": {
+                    "size": 7307567,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_ao_2k.png",
+                    "md5": "624026aafa8b6cda4141087b73c66cb0"
+                },
+                "exr": {
+                    "size": 4474593,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_bark_ao_2k.exr",
+                    "md5": "43ab7b8a3fcf3afd7949a803618b1862"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 701354,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_bark_ao_1k.jpg",
+                    "md5": "455f5c0bf787ed36b8d86d1f98b326ad"
+                },
+                "png": {
+                    "size": 1880228,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_ao_1k.png",
+                    "md5": "af39e1235d419e7f0010999eb188460a"
+                },
+                "exr": {
+                    "size": 1192773,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_bark_ao_1k.exr",
+                    "md5": "a785de620687bfc76bdd6446b7510cce"
+                }
+            }
+        },
+        "bark_nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 28462113,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_8k.jpg",
+                    "md5": "29ca097751ebb0a00eea8da0b14df938"
+                },
+                "png": {
+                    "size": 302057267,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_8k.png",
+                    "md5": "faf7f66818f097e2b879cdf759eff17a"
+                },
+                "exr": {
+                    "size": 48539302,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_8k.exr",
+                    "md5": "26bb5545e01a4ad01cbedef185585d27"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 10052192,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_4k.jpg",
+                    "md5": "ec5566f44be52dcfe439a781f5f8f077"
+                },
+                "png": {
+                    "size": 82730338,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_4k.png",
+                    "md5": "39643329a19c367aa2a962eeb2d8ec71"
+                },
+                "exr": {
+                    "size": 18323876,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_4k.exr",
+                    "md5": "28bd5d8b702e7ff12c028302c3f7ab5c"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3373886,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_2k.jpg",
+                    "md5": "da6eb7bc3c4eafea4e8ed696f7891a73"
+                },
+                "png": {
+                    "size": 21747048,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_2k.png",
+                    "md5": "d658980d981ea8df2da1d005d5dea805"
+                },
+                "exr": {
+                    "size": 6715493,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_2k.exr",
+                    "md5": "a7f1d217c478ec3bbc578e6b0a6f6fb7"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1016849,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_1k.jpg",
+                    "md5": "bb6e3a6eea777d992cef48fabfdc538c"
+                },
+                "png": {
+                    "size": 5640903,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_1k.png",
+                    "md5": "a0e2bfeda173e20c494d79c6125effa5"
+                },
+                "exr": {
+                    "size": 2111920,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_1k.exr",
+                    "md5": "f46bdf55407d0a8f63d07adfaa9249a9"
+                }
+            }
+        },
+        "twig_nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 32074649,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_8k.jpg",
+                    "md5": "0f27eb83a39fbe0513b887e626b0d4c1"
+                },
+                "png": {
+                    "size": 78374967,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_8k.png",
+                    "md5": "2235a1b46305445a9ebc1600ecf4f6d4"
+                },
+                "exr": {
+                    "size": 63521345,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_8k.exr",
+                    "md5": "044eb721d74224b426d66738876721c9"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 9247439,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_4k.jpg",
+                    "md5": "a783cd29fad4db384c76036dc8ae6385"
+                },
+                "png": {
+                    "size": 23358899,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_4k.png",
+                    "md5": "283720a216722f6190693d59a8e2a53e"
+                },
+                "exr": {
+                    "size": 18664353,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_4k.exr",
+                    "md5": "30f71f794c90bab4a6cb59cdf782598b"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2557993,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_2k.jpg",
+                    "md5": "07d9fbb7a95f16a0d733f06efbca56a7"
+                },
+                "png": {
+                    "size": 7992986,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_2k.png",
+                    "md5": "6635790f845ca2beae433e43db1400be"
+                },
+                "exr": {
+                    "size": 5268108,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_2k.exr",
+                    "md5": "7ce9fa0504366c52207fbc94d9ebc694"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 692711,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_1k.jpg",
+                    "md5": "eebc5a81f8f6231d8e18ec4ad7292798"
+                },
+                "png": {
+                    "size": 2570882,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_1k.png",
+                    "md5": "a2ea7fd10403a9bdde0ec78ab2dcddc7"
+                },
+                "exr": {
+                    "size": 1476976,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_1k.exr",
+                    "md5": "c6bee9def1ac5ec48f5170b98fc95571"
+                }
+            }
+        },
+        "twig_ao": {
+            "8k": {
+                "jpg": {
+                    "size": 1349880,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_twig_ao_8k.jpg",
+                    "md5": "3fdbcac9e2068fad19191eec74c69309"
+                },
+                "png": {
+                    "size": 445626,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_ao_8k.png",
+                    "md5": "f79d71b18deae927364770195209d2a2"
+                },
+                "exr": {
+                    "size": 527858,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_twig_ao_8k.exr",
+                    "md5": "ca52cceb21bb808a18c7b46b2864ad6f"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 425142,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_twig_ao_4k.jpg",
+                    "md5": "9980b307c4a2acd014bb6ef0d2479522"
+                },
+                "png": {
+                    "size": 278301,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_ao_4k.png",
+                    "md5": "120fedfec81e6ca123f1db109257b86f"
+                },
+                "exr": {
+                    "size": 277883,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_twig_ao_4k.exr",
+                    "md5": "bd830b8e4a86115d8de6b7647a2cfc7e"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 134265,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_twig_ao_2k.jpg",
+                    "md5": "de2db4776addd34f1898034ecaa0f945"
+                },
+                "png": {
+                    "size": 175894,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_ao_2k.png",
+                    "md5": "2f193249923e6479d661c4c7a05b0e5d"
+                },
+                "exr": {
+                    "size": 144831,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_twig_ao_2k.exr",
+                    "md5": "6d7585c87e658b11b35dafabe037bf51"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 43404,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_twig_ao_1k.jpg",
+                    "md5": "701375c99a9dff9cbe55959ad66fcd45"
+                },
+                "png": {
+                    "size": 101076,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_ao_1k.png",
+                    "md5": "2c7fad1ce5861f13e173c2903e859687"
+                },
+                "exr": {
+                    "size": 64336,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_twig_ao_1k.exr",
+                    "md5": "0defd3aaf4969cb3d16794e4e797d06c"
+                }
+            }
+        },
+        "twig_alpha": {
+            "8k": {
+                "jpg": {
+                    "size": 2842814,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_twig_alpha_8k.jpg",
+                    "md5": "70daf45ac7fddebf0aec8ef8c07e52a7"
+                },
+                "png": {
+                    "size": 1154640,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_alpha_8k.png",
+                    "md5": "94a21aed6a8d74ef6d880e6ce4a09242"
+                },
+                "exr": {
+                    "size": 1572303,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_twig_alpha_8k.exr",
+                    "md5": "bbb23e67468d4646ac5945cad1f259ce"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 935525,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_twig_alpha_4k.jpg",
+                    "md5": "70c6f3aefd537aa643ae1c904eb2efa2"
+                },
+                "png": {
+                    "size": 666322,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_alpha_4k.png",
+                    "md5": "d26c9a912dd7082e27b657a904c340da"
+                },
+                "exr": {
+                    "size": 726228,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_twig_alpha_4k.exr",
+                    "md5": "4615bd394937cadede607eab757ed1ce"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 309956,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_twig_alpha_2k.jpg",
+                    "md5": "0e44ecb4b4796f8c802d403b3caedac3"
+                },
+                "png": {
+                    "size": 334535,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_alpha_2k.png",
+                    "md5": "90189603eb9fb879a097d726cfff43e1"
+                },
+                "exr": {
+                    "size": 340291,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_twig_alpha_2k.exr",
+                    "md5": "a492efbf1ef39802bbc38632b3850a2f"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 103504,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_twig_alpha_1k.jpg",
+                    "md5": "cb8efb1d1a38559adc5a8b5479f71702"
+                },
+                "png": {
+                    "size": 159896,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_alpha_1k.png",
+                    "md5": "9890eccee0444fd263dad2133338583f"
+                },
+                "exr": {
+                    "size": 150234,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_twig_alpha_1k.exr",
+                    "md5": "914b52d0c94f098a281094fe33828cd9"
+                }
+            }
+        },
+        "bark_arm": {
+            "8k": {
+                "jpg": {
+                    "size": 28865543,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/pine_sapling_medium/pine_sapling_medium_bark_arm_8k.jpg",
+                    "md5": "0d4ca852e9a78f7d6fcd60d73367fc62"
+                },
+                "png": {
+                    "size": 231234136,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_arm_8k.png",
+                    "md5": "ccd14ba900fadbd9630caca7ae6de9c9"
+                },
+                "exr": {
+                    "size": 42456435,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/pine_sapling_medium/pine_sapling_medium_bark_arm_8k.exr",
+                    "md5": "f36064671df985b3ea5143e285fc8073"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 9499989,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/pine_sapling_medium/pine_sapling_medium_bark_arm_4k.jpg",
+                    "md5": "b713cffa1227391c35a40de58136dbe3"
+                },
+                "png": {
+                    "size": 65029520,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_arm_4k.png",
+                    "md5": "c73897651612d1eedba9d5f97d302e9d"
+                },
+                "exr": {
+                    "size": 15488590,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/pine_sapling_medium/pine_sapling_medium_bark_arm_4k.exr",
+                    "md5": "302784508688c2e19437cc69955912c7"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2941366,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/pine_sapling_medium/pine_sapling_medium_bark_arm_2k.jpg",
+                    "md5": "218f22567f42e7918afc25c7e3450be8"
+                },
+                "png": {
+                    "size": 17056826,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_arm_2k.png",
+                    "md5": "d298f194ab9f62c1805b3c9358ecd87d"
+                },
+                "exr": {
+                    "size": 5478635,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/pine_sapling_medium/pine_sapling_medium_bark_arm_2k.exr",
+                    "md5": "4c9d3e2d3db6e3accdbbec8e0c0139e5"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 801278,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_sapling_medium/pine_sapling_medium_bark_arm_1k.jpg",
+                    "md5": "21d1abd15e40951825a4f3da110b20ea"
+                },
+                "png": {
+                    "size": 4376260,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_arm_1k.png",
+                    "md5": "fedcbea0f767ac1294e511bb08f3b6c4"
+                },
+                "exr": {
+                    "size": 1612124,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/pine_sapling_medium/pine_sapling_medium_bark_arm_1k.exr",
+                    "md5": "9603fe6a76957cdf83670c93c20df757"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/pine_sapling_medium_bark_diff_8k.png": {
+                            "size": 313443159,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_diff_8k.png",
+                            "md5": "cd1223bea735d8091aa7f705012b66b5"
+                        },
+                        "textures/pine_sapling_medium_bark_rough_8k.png": {
+                            "size": 185184981,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_rough_8k.png",
+                            "md5": "df6ce49682271f5de997e2447b4184dc"
+                        },
+                        "textures/pine_sapling_medium_twig_alpha_8k.png": {
+                            "size": 1154640,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_alpha_8k.png",
+                            "md5": "94a21aed6a8d74ef6d880e6ce4a09242"
+                        },
+                        "textures/pine_sapling_medium_twig_nor_gl_8k.png": {
+                            "size": 78374967,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_8k.png",
+                            "md5": "2235a1b46305445a9ebc1600ecf4f6d4"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_8k.png": {
+                            "size": 58496101,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_diff_8k.png",
+                            "md5": "c08b0d21e7df204b7fc3d4c75490cc3d"
+                        },
+                        "textures/pine_sapling_medium_twig_rough_8k.png": {
+                            "size": 9219545,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_rough_8k.png",
+                            "md5": "559f6617db509000874c519470c7b30a"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_8k.png": {
+                            "size": 302057267,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_8k.png",
+                            "md5": "faf7f66818f097e2b879cdf759eff17a"
+                        },
+                        "textures/pine_sapling_medium_bark_disp_8k.png": {
+                            "size": 62526321,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_bark_disp_8k.png",
+                            "md5": "f8b87ec4b5b480a0ce5ae6432a02e4b0"
+                        },
+                        "textures/pine_sapling_medium_twig_mask_8k.png": {
+                            "size": 1111792,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/pine_sapling_medium/pine_sapling_medium_twig_mask_8k.png",
+                            "md5": "67de9a63692f300d2ae52d97ec37e58d"
+                        }
+                    },
+                    "size": 200842572,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/pine_sapling_medium/pine_sapling_medium_8k.fbx",
+                    "md5": "c4a6a83067c585eddae88df7c4ba6af4"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/pine_sapling_medium_twig_rough_4k.png": {
+                            "size": 5537524,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_rough_4k.png",
+                            "md5": "7f175becedfc84deaa97f4eeaedb9847"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_4k.png": {
+                            "size": 82730338,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_4k.png",
+                            "md5": "39643329a19c367aa2a962eeb2d8ec71"
+                        },
+                        "textures/pine_sapling_medium_twig_nor_gl_4k.png": {
+                            "size": 23358899,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_4k.png",
+                            "md5": "283720a216722f6190693d59a8e2a53e"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_4k.png": {
+                            "size": 21001617,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_diff_4k.png",
+                            "md5": "8bbecfd14193aa348c5daa7d4d81f85f"
+                        },
+                        "textures/pine_sapling_medium_twig_alpha_4k.png": {
+                            "size": 666322,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_alpha_4k.png",
+                            "md5": "d26c9a912dd7082e27b657a904c340da"
+                        },
+                        "textures/pine_sapling_medium_bark_diff_4k.png": {
+                            "size": 83504453,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_diff_4k.png",
+                            "md5": "77dd08b3a586c2e020f72d99b1486ff7"
+                        },
+                        "textures/pine_sapling_medium_bark_rough_4k.png": {
+                            "size": 37868908,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_rough_4k.png",
+                            "md5": "a86b161ac41551f896971c600f514005"
+                        },
+                        "textures/pine_sapling_medium_bark_disp_4k.png": {
+                            "size": 22794579,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_bark_disp_4k.png",
+                            "md5": "eaeba8a06eb83b36b07d520a062ac3f0"
+                        },
+                        "textures/pine_sapling_medium_twig_mask_4k.png": {
+                            "size": 634307,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/pine_sapling_medium/pine_sapling_medium_twig_mask_4k.png",
+                            "md5": "a39c23921fdef2ce432dae2d6e18fcc4"
+                        }
+                    },
+                    "size": 200842572,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/pine_sapling_medium/pine_sapling_medium_4k.fbx",
+                    "md5": "4c399ab7cfbff0e67361c1fc216ef93a"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/pine_sapling_medium_bark_diff_2k.png": {
+                            "size": 21914708,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_diff_2k.png",
+                            "md5": "431f3c4e40e4349527cf1c2fe2ebe6fc"
+                        },
+                        "textures/pine_sapling_medium_bark_disp_2k.png": {
+                            "size": 6162156,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_disp_2k.png",
+                            "md5": "97db9324b179d11c271c1bcc57ae7dfa"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_2k.png": {
+                            "size": 21747048,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_2k.png",
+                            "md5": "d658980d981ea8df2da1d005d5dea805"
+                        },
+                        "textures/pine_sapling_medium_bark_rough_2k.png": {
+                            "size": 9821164,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_bark_rough_2k.png",
+                            "md5": "f6ed4cd584b4bf2fda17d221d529b369"
+                        },
+                        "textures/pine_sapling_medium_twig_mask_2k.png": {
+                            "size": 318955,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_mask_2k.png",
+                            "md5": "20c45eb7b75fe1b49dc2e381d97b0b35"
+                        },
+                        "textures/pine_sapling_medium_twig_alpha_2k.png": {
+                            "size": 334535,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_alpha_2k.png",
+                            "md5": "90189603eb9fb879a097d726cfff43e1"
+                        },
+                        "textures/pine_sapling_medium_twig_rough_2k.png": {
+                            "size": 2287334,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_rough_2k.png",
+                            "md5": "2c1897f0a6804d6424e1bbd2156c07a4"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_2k.png": {
+                            "size": 7495830,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_diff_2k.png",
+                            "md5": "3450655521818c3e78e15aa191a539f5"
+                        },
+                        "textures/pine_sapling_medium_twig_nor_gl_2k.png": {
+                            "size": 7992986,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_2k.png",
+                            "md5": "6635790f845ca2beae433e43db1400be"
+                        }
+                    },
+                    "size": 200842572,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/pine_sapling_medium/pine_sapling_medium_2k.fbx",
+                    "md5": "19f44e16009d4b31fd56549ec3d45096"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/pine_sapling_medium_twig_nor_gl_1k.png": {
+                            "size": 2570882,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_nor_gl_1k.png",
+                            "md5": "a2ea7fd10403a9bdde0ec78ab2dcddc7"
+                        },
+                        "textures/pine_sapling_medium_twig_rough_1k.png": {
+                            "size": 835523,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_rough_1k.png",
+                            "md5": "d4f7050fd60d51360c5515a969ffdf77"
+                        },
+                        "textures/pine_sapling_medium_bark_disp_1k.png": {
+                            "size": 1633203,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_disp_1k.png",
+                            "md5": "a085234cf5c6697b53187347dafad026"
+                        },
+                        "textures/pine_sapling_medium_bark_nor_gl_1k.png": {
+                            "size": 5640903,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_nor_gl_1k.png",
+                            "md5": "a0e2bfeda173e20c494d79c6125effa5"
+                        },
+                        "textures/pine_sapling_medium_bark_rough_1k.png": {
+                            "size": 2488380,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_rough_1k.png",
+                            "md5": "dca69b84d7846af93fbb31d0c1dafd2e"
+                        },
+                        "textures/pine_sapling_medium_bark_diff_1k.png": {
+                            "size": 5568559,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_bark_diff_1k.png",
+                            "md5": "63688d7bcdd5ff5500f12bde192b197a"
+                        },
+                        "textures/pine_sapling_medium_twig_alpha_1k.png": {
+                            "size": 159896,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_alpha_1k.png",
+                            "md5": "9890eccee0444fd263dad2133338583f"
+                        },
+                        "textures/pine_sapling_medium_twig_mask_1k.png": {
+                            "size": 149491,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_mask_1k.png",
+                            "md5": "07f39f7450a4c5d9d812cf7cf73bceb6"
+                        },
+                        "textures/pine_sapling_medium_twig_diff_1k.png": {
+                            "size": 2475084,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/pine_sapling_medium/pine_sapling_medium_twig_diff_1k.png",
+                            "md5": "a85d23a577e4c9aa16338a60f076e038"
+                        }
+                    },
+                    "size": 200842572,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/pine_sapling_medium/pine_sapling_medium_1k.fbx",
+                    "md5": "bb2390048bdd140a138c5c4083d35331"
+                }
+            }
+        }
+    }
+}

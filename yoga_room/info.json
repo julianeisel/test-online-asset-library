@@ -1,0 +1,603 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "tags": [
+        "mirror",
+        "gym",
+        "wooden floor",
+        "window",
+        "high ceiling",
+        "backplates"
+    ],
+    "name": "Yoga Room",
+    "categories": [
+        "indoor",
+        "urban",
+        "artificial light",
+        "medium contrast"
+    ],
+    "backplates": true,
+    "date_taken": 1674126240,
+    "info": null,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "whitebalance": 5100,
+    "date_published": 1678233600,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "293ab3380c563607b197668a9ae390140fe2f2d6",
+    "download_count": 19911,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/yoga_room.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 31952769,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/yoga_room.jpg",
+            "md5": "ffa1d8118e32a52dee8bf138bf5f3f1e"
+        },
+        "colorchart": {
+            "size": 74980967,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/yoga_room.zip",
+            "md5": "85a78f686497f91bd07bfed7e4362539"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "size": 5732389,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/10.jpg",
+                    "md5": "5c842cf2dc4f94bb17a6943e7cbec7ce"
+                },
+                "jpg_plain": {
+                    "size": 4844107,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/10.jpg",
+                    "md5": "1af099fe18f4747397036ec52a6d9d8d"
+                },
+                "raw": {
+                    "size": 24265841,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/10.NEF",
+                    "md5": "bb4efcf37411eb0231f54f2185065742"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "size": 6049406,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/11.jpg",
+                    "md5": "6741dc8970ce8545710ad0ff92c28e36"
+                },
+                "jpg_plain": {
+                    "size": 4937561,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/11.jpg",
+                    "md5": "fc6a7f1e62b17b2f0a7ac784ec5a9d87"
+                },
+                "raw": {
+                    "size": 24681044,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/11.NEF",
+                    "md5": "9c302d185012585332badc4c3e590c18"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "size": 8594239,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/12.jpg",
+                    "md5": "05163d3f9433efd91fb65c9c45d0fa73"
+                },
+                "jpg_plain": {
+                    "size": 5359251,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/12.jpg",
+                    "md5": "0ecac769f44a3836ae5505beab3a8871"
+                },
+                "raw": {
+                    "size": 24086657,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/12.NEF",
+                    "md5": "b083c4c235d6ea7ce486f45305c1dc36"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "size": 7340284,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/13.jpg",
+                    "md5": "4c02f635cc1207c70f1fced102668f9d"
+                },
+                "jpg_plain": {
+                    "size": 4833980,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/13.jpg",
+                    "md5": "968ac42d7b5e4b80f6a35df8be347b2d"
+                },
+                "raw": {
+                    "size": 23775540,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/13.NEF",
+                    "md5": "71c90babda54fa9b6f0b23146f5b07c4"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "size": 6772496,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/14.jpg",
+                    "md5": "0a91130d2ea952081eb9d2af33432c5f"
+                },
+                "jpg_plain": {
+                    "size": 4164982,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/14.jpg",
+                    "md5": "36e5cc2c33513f6e675f48e4b9737d24"
+                },
+                "raw": {
+                    "size": 23736079,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/14.NEF",
+                    "md5": "741971794b370e769d136ea762c43314"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "size": 5157168,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/15.jpg",
+                    "md5": "80005001f87f035869c4ab308e0ebcc5"
+                },
+                "jpg_plain": {
+                    "size": 4293387,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/15.jpg",
+                    "md5": "f10fffdbbc5c249a9bd8da3a0654b0d9"
+                },
+                "raw": {
+                    "size": 24030434,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/15.NEF",
+                    "md5": "da5815de3f4364fa0f305fc534dedeb8"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "size": 6048933,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/16.jpg",
+                    "md5": "03cab74eaf0f5b55f80874d0a63993f9"
+                },
+                "jpg_plain": {
+                    "size": 5110587,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/16.jpg",
+                    "md5": "88549e260cae17c87f487c698d1f2b76"
+                },
+                "raw": {
+                    "size": 24978274,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/16.NEF",
+                    "md5": "f61c881370d7367f17c824e7f911d369"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "size": 4472851,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/17.jpg",
+                    "md5": "1a5693ab8ee84f47dce19c05ec49174b"
+                },
+                "jpg_plain": {
+                    "size": 4579638,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/17.jpg",
+                    "md5": "b796dd42d3e28c4c0e5c2935d28456c4"
+                },
+                "raw": {
+                    "size": 24979800,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/17.NEF",
+                    "md5": "eab4f38a2d316b928a0bc58309ed93a6"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "size": 5885255,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/18.jpg",
+                    "md5": "50998fe7f5c7bdae40fc393743a54cd2"
+                },
+                "jpg_plain": {
+                    "size": 5070763,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/18.jpg",
+                    "md5": "648003b7b1cab5f889abea6fdb1806a6"
+                },
+                "raw": {
+                    "size": 25429042,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/18.NEF",
+                    "md5": "5ccdab2e6981daef7880d055d1f594b3"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "size": 7045879,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/19.jpg",
+                    "md5": "6fe741d431fd0013d046202f9ef71bb0"
+                },
+                "jpg_plain": {
+                    "size": 5550639,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/19.jpg",
+                    "md5": "c2e3c3a8a8d8791db0c656f7372cdff6"
+                },
+                "raw": {
+                    "size": 24356394,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/19.NEF",
+                    "md5": "f486c7b3aebde72995b073d06f7e0187"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "size": 7800312,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/20.jpg",
+                    "md5": "2a8e8f2b8793eb71b5c5aca0381f0b9f"
+                },
+                "jpg_plain": {
+                    "size": 5170513,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/20.jpg",
+                    "md5": "2de088b10374aef216b0be820a62d36e"
+                },
+                "raw": {
+                    "size": 24116089,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/20.NEF",
+                    "md5": "08e5bf764f0e6c94d4e2947df642a6c6"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "size": 4957511,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/21.jpg",
+                    "md5": "7ee0240d96b6c3a576b42d24f707a3e2"
+                },
+                "jpg_plain": {
+                    "size": 4174744,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/21.jpg",
+                    "md5": "39c75ac6f12d8bcc39780869bb775efc"
+                },
+                "raw": {
+                    "size": 24347831,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/21.NEF",
+                    "md5": "26642f3034834540d379f4be23f48feb"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "size": 7635182,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/22.jpg",
+                    "md5": "a3f43e322bdc188e366601a4962b48fd"
+                },
+                "jpg_plain": {
+                    "size": 5046645,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/22.jpg",
+                    "md5": "96955f3b782f0bb1a81e772fafb01f54"
+                },
+                "raw": {
+                    "size": 24110763,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/22.NEF",
+                    "md5": "c4236e917742ab90f7038c6b30c6064b"
+                }
+            },
+            "23": {
+                "jpg_pretty": {
+                    "size": 5188086,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/23.jpg",
+                    "md5": "6d6156f6b830bd3bec18a11c7ee371dc"
+                },
+                "jpg_plain": {
+                    "size": 4529008,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/23.jpg",
+                    "md5": "e70a15472a76c971c9406799be50efe8"
+                },
+                "raw": {
+                    "size": 24880379,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/23.NEF",
+                    "md5": "20ef73442adba7f144c59a9c678ceeae"
+                }
+            },
+            "24": {
+                "jpg_pretty": {
+                    "size": 6597177,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/24.jpg",
+                    "md5": "8c43f240c0f0ce095cc9811117f3ba53"
+                },
+                "jpg_plain": {
+                    "size": 5264371,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/24.jpg",
+                    "md5": "91984ac1ac6961d5ee2ce3d8becfaa8b"
+                },
+                "raw": {
+                    "size": 24905483,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/24.NEF",
+                    "md5": "1cf6160073e88fb29d6314d06a34ee3f"
+                }
+            },
+            "25": {
+                "jpg_pretty": {
+                    "size": 8298658,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/25.jpg",
+                    "md5": "436791cecac94bbfbf25ee189669d39e"
+                },
+                "jpg_plain": {
+                    "size": 5010591,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/25.jpg",
+                    "md5": "6fbb77cd53f7dbf2ea0015bdd4583cb5"
+                },
+                "raw": {
+                    "size": 24257038,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/25.NEF",
+                    "md5": "e15df45f514adfe52a9e4c71f9115717"
+                }
+            },
+            "26": {
+                "jpg_pretty": {
+                    "size": 5442870,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/26.jpg",
+                    "md5": "77cc6c6bc6ff7067085a1c70afe11b0f"
+                },
+                "jpg_plain": {
+                    "size": 4392237,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/26.jpg",
+                    "md5": "2bc6cef8ac8e4a2809812c2baddde4f4"
+                },
+                "raw": {
+                    "size": 24992978,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/26.NEF",
+                    "md5": "53bf08c60a4f4c1c9225399ffeb67e56"
+                }
+            },
+            "27": {
+                "jpg_pretty": {
+                    "size": 5900367,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/27.jpg",
+                    "md5": "ac24fee78121adfae2329b718afc3502"
+                },
+                "jpg_plain": {
+                    "size": 4555222,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/27.jpg",
+                    "md5": "9049b21756ab9cae76a642e411e360f8"
+                },
+                "raw": {
+                    "size": 24701265,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/27.NEF",
+                    "md5": "d94c0ae4cf566cfb68fda94c6a4497b8"
+                }
+            },
+            "28": {
+                "jpg_pretty": {
+                    "size": 5501696,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/28.jpg",
+                    "md5": "4310c19fb3591c609f14685f7b7f1dbb"
+                },
+                "jpg_plain": {
+                    "size": 4233838,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/28.jpg",
+                    "md5": "2b3a5e18c5e5bbd86d8f33f7537b7846"
+                },
+                "raw": {
+                    "size": 24496287,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/28.NEF",
+                    "md5": "cc7879de7182219841c89921828aab0f"
+                }
+            },
+            "29": {
+                "jpg_pretty": {
+                    "size": 4731664,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/29.jpg",
+                    "md5": "b413f36429a21e00b1d71ac18dc53755"
+                },
+                "jpg_plain": {
+                    "size": 3413337,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/29.jpg",
+                    "md5": "a62512a086f3e0a500f69fec6a656c34"
+                },
+                "raw": {
+                    "size": 24246133,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/29.NEF",
+                    "md5": "4c5f84abcdc5905a32ac95db18a57153"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "size": 5234586,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/01.jpg",
+                    "md5": "94a992eee8ca91d5f08c1a75cf8d7942"
+                },
+                "jpg_plain": {
+                    "size": 4464547,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/01.jpg",
+                    "md5": "71ef4a39ec73b833ab0f22603732601e"
+                },
+                "raw": {
+                    "size": 24786819,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/01.NEF",
+                    "md5": "ab6c43ccb433653a0b1ad0c4665dfca6"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "size": 5099487,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/02.jpg",
+                    "md5": "cbdab9260beec28c90a168da17bc07f1"
+                },
+                "jpg_plain": {
+                    "size": 4248754,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/02.jpg",
+                    "md5": "6ace23098b3bc76cc263eb0e5baa9b56"
+                },
+                "raw": {
+                    "size": 24145336,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/02.NEF",
+                    "md5": "5f54eec6e6325a35c8a670a223732e62"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "size": 5570693,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/03.jpg",
+                    "md5": "f156bc7610484efe693263d8fe466811"
+                },
+                "jpg_plain": {
+                    "size": 4978834,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/03.jpg",
+                    "md5": "22310368bab0cff5a8f3d7082adf7803"
+                },
+                "raw": {
+                    "size": 24084589,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/03.NEF",
+                    "md5": "cff79400e24cdb10a30e182f76306eb3"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "size": 4595414,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/04.jpg",
+                    "md5": "f4c9e14ad23f6e41177d2bafca3ded21"
+                },
+                "jpg_plain": {
+                    "size": 4341169,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/04.jpg",
+                    "md5": "bec87078c98ac91227276352b150dead"
+                },
+                "raw": {
+                    "size": 24457687,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/04.NEF",
+                    "md5": "a3b37e7257c01c1625ea639129c7da94"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "size": 4560523,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/05.jpg",
+                    "md5": "8d62e9a0193b4047209115197b316595"
+                },
+                "jpg_plain": {
+                    "size": 4201168,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/05.jpg",
+                    "md5": "44c574167154f78a7094bb49905a6312"
+                },
+                "raw": {
+                    "size": 24798417,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/05.NEF",
+                    "md5": "e3ff08276438366100d037963a5dc39a"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "size": 5282060,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/06.jpg",
+                    "md5": "202646487550e5b9eea1b729457b138a"
+                },
+                "jpg_plain": {
+                    "size": 4488498,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/06.jpg",
+                    "md5": "e7304f4b19eb5e7710fb4a72f841881c"
+                },
+                "raw": {
+                    "size": 24054231,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/06.NEF",
+                    "md5": "16a11f77908170a81e4350217a8cd773"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "size": 5978133,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/07.jpg",
+                    "md5": "c0a9333f47263a7cab939dd4f645f4cd"
+                },
+                "jpg_plain": {
+                    "size": 4524033,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/07.jpg",
+                    "md5": "c4d5aa3afe4c27e69c13e548872b3bab"
+                },
+                "raw": {
+                    "size": 23973862,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/07.NEF",
+                    "md5": "b2a9e5bbb4506ac5db55ec0fe00189e6"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "size": 7467047,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/08.jpg",
+                    "md5": "c988f33f79ac982e560562b5c9922944"
+                },
+                "jpg_plain": {
+                    "size": 5685076,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/08.jpg",
+                    "md5": "6044fba004703c190bde5612980a575e"
+                },
+                "raw": {
+                    "size": 24382894,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/08.NEF",
+                    "md5": "5d49520e8c95dd7a6b62ab1e0ef3693b"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "size": 5290416,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_pretty/09.jpg",
+                    "md5": "6b172463ba30301ca386f1f3a797eefe"
+                },
+                "jpg_plain": {
+                    "size": 4145345,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/jpg_plain/09.jpg",
+                    "md5": "fa72bc5160df8a8a21e6c3aa8d0647b5"
+                },
+                "raw": {
+                    "size": 23923791,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/yoga_room/raw/09.NEF",
+                    "md5": "840630f3adbe70983c7d7a7443b5017c"
+                }
+            }
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/yoga_room_8k.hdr",
+                    "size": 97448879,
+                    "md5": "f6e8efbdf6295c144cd0f82e6b20a8fc"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/yoga_room_8k.exr",
+                    "size": 70471210,
+                    "md5": "e92516475566ed074a29af19e9bc4c26"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/yoga_room_16k.hdr",
+                    "size": 361374314,
+                    "md5": "c04cdd525ed72e20c45e2314ef25c285"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/yoga_room_16k.exr",
+                    "size": 245688171,
+                    "md5": "05f0ddee78037ed62a35f01213446f3f"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/yoga_room_4k.hdr",
+                    "size": 25045108,
+                    "md5": "7fd2e9c5e68ef0513a2ac899b7c18880"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/yoga_room_4k.exr",
+                    "size": 18604521,
+                    "md5": "b7796a0294cbd48f26e2bb18911c5e0f"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/yoga_room_2k.hdr",
+                    "size": 6347339,
+                    "md5": "05ea4d4ca1835aef76ac41ec33c5231b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/yoga_room_2k.exr",
+                    "size": 4884924,
+                    "md5": "7a89c8b3a9703b7942cb15eec0e3930a"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/yoga_room_1k.hdr",
+                    "size": 1605708,
+                    "md5": "04ac51c8f0c35136155c98d133bf6f85"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/yoga_room_1k.exr",
+                    "size": 1303251,
+                    "md5": "9a9c40077039feca99be6f35b6b509d3"
+                }
+            }
+        }
+    }
+}

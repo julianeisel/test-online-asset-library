@@ -1,0 +1,125 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5313,
+    "tags": [
+        "rocky",
+        "arid",
+        "desert",
+        "sun"
+    ],
+    "social_post_pending": true,
+    "name": "Rogland Sunset",
+    "date_taken": 1693935060,
+    "coords": [
+        -29.68232655273397,
+        17.949190420193943
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "189671adb2beb3ba1f8e3ac86b0229058ade292b",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "skies",
+        "clear",
+        "high contrast",
+        "sunrise-sunset",
+        "collection: namaqualand"
+    ],
+    "date_published": 1728345600,
+    "download_count": 215,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rogland_sunset.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 51788112,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rogland_sunset.jpg",
+            "md5": "089a7979e8e76fec445a69a2edca1b1d"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102708614,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rogland_sunset_8k.hdr",
+                    "md5": "78c1ad5404f22574ceed0f12a1db7b4d"
+                },
+                "exr": {
+                    "size": 385997762,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rogland_sunset_8k.exr",
+                    "md5": "ce624be7c03a0a0c8aaded293a35c2b6"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 378400334,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rogland_sunset_16k.hdr",
+                    "md5": "de032515adba07deb53ed40850512e7a"
+                },
+                "exr": {
+                    "size": 1522079586,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rogland_sunset_16k.exr",
+                    "md5": "3c13610ec83ecf944dd5a04f1c443d8d"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25606659,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rogland_sunset_4k.hdr",
+                    "md5": "fbfb398e71c6863e3259fd68396fc6e4"
+                },
+                "exr": {
+                    "size": 96900017,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rogland_sunset_4k.exr",
+                    "md5": "971c9372cf3c5119bf8dcee02f760070"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 832144064,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rogland_sunset_24k.hdr",
+                    "md5": "e4c817edbe9b16413f8cc642c1bb0bcd"
+                },
+                "exr": {
+                    "size": 3361705275,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rogland_sunset_24k.exr",
+                    "md5": "e51a07b352790eeafd1dd0abf837668a"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6149597,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rogland_sunset_2k.hdr",
+                    "md5": "f8ba2ea0c16528ce01332b8770cebd36"
+                },
+                "exr": {
+                    "size": 24274130,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rogland_sunset_2k.exr",
+                    "md5": "cf32d5f6d6ef4d268d79c33e9683c0a5"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1487232,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rogland_sunset_1k.hdr",
+                    "md5": "992d5f4103d7054fa7a9ea41e0bd8ad3"
+                },
+                "exr": {
+                    "size": 6083827,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rogland_sunset_1k.exr",
+                    "md5": "09a1e2d2e9b2570840a3ee58fec42878"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 831966587,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rogland_sunset.zip",
+            "md5": "12c476974c1815cd970efa1720a3d5a8"
+        }
+    }
+}

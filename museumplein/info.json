@@ -1,0 +1,115 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "grass",
+        "building",
+        "tree",
+        "autumn",
+        "amsterdam",
+        "museum",
+        "park",
+        "path",
+        "field"
+    ],
+    "date_published": 1508474789,
+    "name": "Museumplein",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        52.357328,
+        4.880681
+    ],
+    "date_taken": 1477817040,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269",
+        "66627515"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "1a9226f15ac71af9bce17b021456ddf9e96c0c5d",
+    "download_count": 108776,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/museumplein.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5787841,
+            "md5": "de405b8bdcc9f87a05410ec7596e111a",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/museumplein.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/museumplein_8k.hdr",
+                    "size": 97750401,
+                    "md5": "01340f1046fad4147ebd0cc987ce94a4"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/museumplein_8k.exr",
+                    "size": 85582482,
+                    "md5": "bd1d39c1e9289d7cfd9e7d57d145a064"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/museumplein_16k.hdr",
+                    "size": 350550233,
+                    "md5": "4ebcbac1b56ef8fcececfcc4998046e2"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/museumplein_16k.exr",
+                    "size": 306436855,
+                    "md5": "77b13d1e2a2e45092eabf0add9705a6a"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/museumplein_4k.hdr",
+                    "size": 25553748,
+                    "md5": "03c70091f59050b44a25f8c8c41d681b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/museumplein_4k.exr",
+                    "size": 22859509,
+                    "md5": "ba2ae97fe70b642f3678c0b50b948188"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/museumplein_2k.hdr",
+                    "size": 6532758,
+                    "md5": "df7326e39694f37a212d9b0ee09a0cca"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/museumplein_2k.exr",
+                    "size": 5989794,
+                    "md5": "ed42c48be0c1d518571b9db868c38949"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/museumplein_1k.hdr",
+                    "size": 1654922,
+                    "md5": "6f201ab8b4f5edc5017796d7dbedbf4a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/museumplein_1k.exr",
+                    "size": 1551231,
+                    "md5": "c699164aa4ce17fdeb721931513462ae"
+                }
+            }
+        }
+    }
+}

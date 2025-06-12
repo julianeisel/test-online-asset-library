@@ -1,0 +1,129 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 3035,
+    "tags": [
+        "chair",
+        "bench",
+        "cross",
+        "altar",
+        "barrel",
+        "seat",
+        "church",
+        "pew",
+        "stained glass",
+        "religion"
+    ],
+    "name": "Chapel Day",
+    "categories": [
+        "indoor",
+        "urban",
+        "artificial light",
+        "natural light",
+        "low contrast",
+        "midday"
+    ],
+    "date_taken": 1708856940,
+    "coords": [
+        -25.479435,
+        27.767844
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "files_hash": "fcd64bf3f6602de95689e5b0b243b2ce931097fa",
+    "date_published": 1714694400,
+    "download_count": 6515,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/chapel_day.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 45626563,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/chapel_day.jpg",
+            "md5": "b1bdfb49ae334dddbf18f70b3657707c"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102000291,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/chapel_day_8k.hdr",
+                    "md5": "11b302868c2fdbe4dc82b20fcf9df33b"
+                },
+                "exr": {
+                    "size": 384990137,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/chapel_day_8k.exr",
+                    "md5": "2c802d43b235f5738bfb918dde578cbc"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 389268477,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/chapel_day_16k.hdr",
+                    "md5": "03a29b7b79540613274c7b7c3d11391a"
+                },
+                "exr": {
+                    "size": 1525787612,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/chapel_day_16k.exr",
+                    "md5": "303261028f171158c450b49368ac1d84"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26350695,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/chapel_day_4k.hdr",
+                    "md5": "a2f2f3c1114beabde01a9af4a68a48c7"
+                },
+                "exr": {
+                    "size": 96632034,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/chapel_day_4k.exr",
+                    "md5": "673dc61a9dd75a9dfcf7170f539e052e"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6725444,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/chapel_day_2k.hdr",
+                    "md5": "187086c2200e2bbf7dcb0a0995a4fcf8"
+                },
+                "exr": {
+                    "size": 24302272,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/chapel_day_2k.exr",
+                    "md5": "5a7bf0d5c6bce68b6495cc7d760c1cb6"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1710976,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/chapel_day_1k.hdr",
+                    "md5": "1ca86dc6120cdbe18640e8c4f3045c4f"
+                },
+                "exr": {
+                    "size": 6115294,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/chapel_day_1k.exr",
+                    "md5": "1251c04d8ff50731942a2e60459b5761"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 598544223,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/chapel_day_20k.hdr",
+                    "md5": "370683a25f033e72f2de3b8b1c0a60b3"
+                },
+                "exr": {
+                    "size": 2359803952,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/chapel_day_20k.exr",
+                    "md5": "debb5b15835ae6b8b69f222172bf6727"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 227981295,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/chapel_day.zip",
+            "md5": "967bb0ef5fb01753c1f1fe7140a62fbb"
+        }
+    }
+}

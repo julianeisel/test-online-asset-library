@@ -1,0 +1,111 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 4550,
+    "tags": [
+        "room",
+        "empty",
+        "construction",
+        "office",
+        "door",
+        "white"
+    ],
+    "date_published": 1666915200,
+    "name": "Unfinished Office",
+    "categories": [
+        "natural light",
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "low contrast"
+    ],
+    "date_taken": 1665848160,
+    "info": null,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "files_hash": "a67a21e5017b702d5420081727a57ce9e52af326",
+    "sponsors": [
+        "4047949"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 23920,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/unfinished_office.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 28754832,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/unfinished_office.jpg",
+            "md5": "b4d6ed40e85351dbc085865835f6f4d1"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 94523471,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/unfinished_office_8k.hdr",
+                    "md5": "49a8086d5fcb2bb7145a3b60899d15e2"
+                },
+                "exr": {
+                    "size": 56732819,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/unfinished_office_8k.exr",
+                    "md5": "35ab2da2c92214f5cfeb39364bb685f4"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 354824322,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/unfinished_office_16k.hdr",
+                    "md5": "bb015a9a45047cf2343ca5b5e00f3ae4"
+                },
+                "exr": {
+                    "size": 215150431,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/unfinished_office_16k.exr",
+                    "md5": "a3693ab5d5866f75a261bbf224ecad95"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24006070,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/unfinished_office_4k.hdr",
+                    "md5": "87668b6c4fbd5979e1c57777e8eb3d45"
+                },
+                "exr": {
+                    "size": 13935880,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/unfinished_office_4k.exr",
+                    "md5": "ac3e32ba1bc46a457c58ae58c2b3ae98"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5894614,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/unfinished_office_2k.hdr",
+                    "md5": "4d2da2de6f24b670226a794221a51f47"
+                },
+                "exr": {
+                    "size": 3478355,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/unfinished_office_2k.exr",
+                    "md5": "377a4bdfed775dd6ded4c6f243cdd0c9"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1436842,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/unfinished_office_1k.hdr",
+                    "md5": "1627e93320c94747f0597f8ac8142ff4"
+                },
+                "exr": {
+                    "size": 911194,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/unfinished_office_1k.exr",
+                    "md5": "8e60cfe96ba01d3f3634b3f17823a529"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 89931655,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/unfinished_office.zip",
+            "md5": "f1cc4cd766753451daf39ce6d3c0c0a0"
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "evs_cap": 21,
+    "type": 0,
+    "tags": [
+        "sun",
+        "tree",
+        "dam",
+        "lake",
+        "grass",
+        "path",
+        "reeds"
+    ],
+    "date_published": 1522879200,
+    "name": "Winter Sky",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1438237800,
+    "coords": [
+        -26.162015,
+        28.000628
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "10485422"
+    ],
+    "files_hash": "182708d4506280395d359a56527e4da60bd5ca0e",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 36238,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/winter_sky.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 7398886,
+            "md5": "88562b0feff93a5345c39523c9f2fba5",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/winter_sky.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101595130,
+                    "md5": "9fa006de26c4b18851853b87dcd4239d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/winter_sky_8k.hdr"
+                },
+                "exr": {
+                    "size": 88415880,
+                    "md5": "57261c500d0bb4ac906ca26ff7281546",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/winter_sky_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 378673998,
+                    "md5": "9b0dcc7e1f8ddd1fb8e6302d49a3c65f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/winter_sky_16k.hdr"
+                },
+                "exr": {
+                    "size": 328689205,
+                    "md5": "1192f031962d7b432246ff943f5c2a0d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/winter_sky_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26109271,
+                    "md5": "389a0239c615fc389f254a3fd0b0c5e2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/winter_sky_4k.hdr"
+                },
+                "exr": {
+                    "size": 22549662,
+                    "md5": "dec28033c839cf63bff97b59a3482ab1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/winter_sky_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6539297,
+                    "md5": "d2b718293b423da93b37c77c8a326158",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/winter_sky_2k.hdr"
+                },
+                "exr": {
+                    "size": 5638512,
+                    "md5": "c2970cdf965bf53b8a17b94b9a97a465",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/winter_sky_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1605337,
+                    "md5": "3321fe541861e7869df9b3b301f9f34f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/winter_sky_1k.hdr"
+                },
+                "exr": {
+                    "size": 1421057,
+                    "md5": "dd029e0ae828baf180403649e0f969d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/winter_sky_1k.exr"
+                }
+            }
+        }
+    }
+}

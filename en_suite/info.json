@@ -1,0 +1,102 @@
+{
+    "evs_cap": 18,
+    "type": 0,
+    "tags": [
+        "bathroom",
+        "sink",
+        "basin",
+        "shower",
+        "toilet"
+    ],
+    "date_published": 1511996400,
+    "name": "En Suite",
+    "categories": [
+        "indoor",
+        "urban",
+        "artificial light",
+        "high contrast"
+    ],
+    "date_taken": 1455984120,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "7bfb372dcd17d6389f495889724ad4babc797a23",
+    "download_count": 35086,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/en_suite.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 3276835,
+            "md5": "3fb9a0f5b2f497e7c7ee941a6a7da1af",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/en_suite.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/en_suite_8k.hdr",
+                    "size": 94232654,
+                    "md5": "12c92acf8333c98605467be0f869f721"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/en_suite_8k.exr",
+                    "size": 74835360,
+                    "md5": "c2d00954e7591760263bdd7ff1ad59d8"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/en_suite_16k.hdr",
+                    "size": 342445786,
+                    "md5": "8fb466dacdc57eb9531cfff0569fb973"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/en_suite_16k.exr",
+                    "size": 269509681,
+                    "md5": "181ea4b25bf814d22e48d6f3dc85b64c"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/en_suite_4k.hdr",
+                    "size": 24628743,
+                    "md5": "b05f37d71979ecf7a3d59c59ea3bf437"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/en_suite_4k.exr",
+                    "size": 19654457,
+                    "md5": "646ea49b893573752f91ca9de30c5b75"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/en_suite_2k.hdr",
+                    "size": 6282889,
+                    "md5": "ea75c502ae2c68b086307307ad14a5c6"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/en_suite_2k.exr",
+                    "size": 5058354,
+                    "md5": "0f5dc73b9badcaa8213787d2a3885cee"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/en_suite_1k.hdr",
+                    "size": 1591215,
+                    "md5": "52bd96c4ac9b93616a5a334d1678a148"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/en_suite_1k.exr",
+                    "size": 1330663,
+                    "md5": "de208458454ad4bf9cbd6f298a0efff3"
+                }
+            }
+        }
+    }
+}

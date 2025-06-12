@@ -1,0 +1,111 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "studio",
+        "lamp",
+        "umbrella",
+        "white",
+        "infinity",
+        "clean"
+    ],
+    "name": "Cyclorama Hard Light",
+    "categories": [
+        "studio",
+        "indoor",
+        "high contrast",
+        "urban",
+        "artificial light"
+    ],
+    "coords": [
+        49.2318106642269,
+        28.459069581792956
+    ],
+    "date_taken": 1649247480,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1658275200,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "4644eb965b0d87f744d218a6bf407b86ee2e543f",
+    "download_count": 68640,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/cyclorama_hard_light.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 23397084,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/cyclorama_hard_light.jpg",
+            "md5": "d6df778510914443ae5ace4d852fb199"
+        },
+        "colorchart": {
+            "size": 72034468,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/cyclorama_hard_light.zip",
+            "md5": "8876aa1511654e70db454ef028657018"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/cyclorama_hard_light_8k.hdr",
+                    "size": 92089784,
+                    "md5": "30418138e0cb7a7d475598a45a3c39d1"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/cyclorama_hard_light_8k.exr",
+                    "size": 54622268,
+                    "md5": "b7803764c8b5793b6f1716a0c577d93f"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/cyclorama_hard_light_16k.hdr",
+                    "size": 329189769,
+                    "md5": "d9b054025a44612d85bd92c37c4807e7"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/cyclorama_hard_light_16k.exr",
+                    "size": 197415374,
+                    "md5": "a849e1263f8589cf7b89d022fa4638a1"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/cyclorama_hard_light_4k.hdr",
+                    "size": 23268363,
+                    "md5": "582b4209f13d3714b5b722f8bab59b95"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/cyclorama_hard_light_4k.exr",
+                    "size": 13426878,
+                    "md5": "76b0fb0a2f714da6dd0f83b0fde12d83"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/cyclorama_hard_light_2k.hdr",
+                    "size": 5684968,
+                    "md5": "0d605a7ccc76bedfb61fff88bb5600bd"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/cyclorama_hard_light_2k.exr",
+                    "size": 3360188,
+                    "md5": "16bd003a8c4a35b9178f1fa138cd9ec1"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/cyclorama_hard_light_1k.hdr",
+                    "size": 1409707,
+                    "md5": "dc91db55904c205bd6b44e4029972962"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/cyclorama_hard_light_1k.exr",
+                    "size": 882171,
+                    "md5": "b1dfd74b04c858441d68d3b8d81a2afa"
+                }
+            }
+        }
+    }
+}

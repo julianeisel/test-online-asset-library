@@ -1,0 +1,974 @@
+{
+    "type": 1,
+    "tags": [
+        "snow",
+        "uneven",
+        "rough",
+        "trampled",
+        "mud"
+    ],
+    "date_published": 1549169162,
+    "name": "Snow 03",
+    "categories": [
+        "terrain",
+        "natural",
+        "snow",
+        "dirty",
+        "outdoor"
+    ],
+    "authors": {
+        "Rob Tuytel": "All"
+    },
+    "dimensions": [
+        2000,
+        2000
+    ],
+    "files_hash": "ff3666ca2f4ac043d8869c66debab3e6535789d5",
+    "sponsors": [
+        "44302755"
+    ],
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "download_count": 32202,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snow_03.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 20405650,
+                    "md5": "d216d19d06ce796a0bc32134d1745868",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/snow_03/snow_03_diff_8k.jpg"
+                },
+                "png": {
+                    "size": 91961548,
+                    "md5": "f01d1f8f1fa7fbd5abec488bfa9325fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/snow_03/snow_03_diff_8k.png"
+                },
+                "exr": {
+                    "size": 51632377,
+                    "md5": "18d1887a1b7755ca4c85de4a093d6f72",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/snow_03/snow_03_diff_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 6639494,
+                    "md5": "9c74e63ae4db4a20072add33628dfc71",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_03/snow_03_diff_4k.jpg"
+                },
+                "png": {
+                    "size": 25139461,
+                    "md5": "3516a5024d1a09643d9ad3b8c36e4c7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/snow_03/snow_03_diff_4k.png"
+                },
+                "exr": {
+                    "size": 15579337,
+                    "md5": "c233d3b82bea43c64b09218bf61b22a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/snow_03/snow_03_diff_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2013889,
+                    "md5": "ca00d0c9f972fb13531964ac1a9c1186",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/snow_03/snow_03_diff_2k.jpg"
+                },
+                "png": {
+                    "size": 7025305,
+                    "md5": "5b2d39f81eb73a39d277c6f3dcd58500",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/snow_03/snow_03_diff_2k.png"
+                },
+                "exr": {
+                    "size": 4692629,
+                    "md5": "7620bd83eccaef7169598aeb1f103db6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/snow_03/snow_03_diff_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 574004,
+                    "md5": "81c88f59622c1b0bbc80da483a69d0d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_03/snow_03_diff_1k.jpg"
+                },
+                "png": {
+                    "size": 1892476,
+                    "md5": "1ec7705804c0e4bc0a02e2da62bf4cb8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/snow_03/snow_03_diff_1k.png"
+                },
+                "exr": {
+                    "size": 1364087,
+                    "md5": "21d12a7e2dc94a53cdbe31d2bfc770be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/snow_03/snow_03_diff_1k.exr"
+                }
+            }
+        },
+        "translucent": {
+            "8k": {
+                "jpg": {
+                    "size": 6820035,
+                    "md5": "f83dd0767d64d508813bf41c100510e1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/snow_03/snow_03_translucent_8k.jpg"
+                },
+                "png": {
+                    "size": 27254569,
+                    "md5": "41e07308395f8dc008c2152410118744",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/snow_03/snow_03_translucent_8k.png"
+                },
+                "exr": {
+                    "size": 39155047,
+                    "md5": "db50d694466cd0bbefd1c3477699adcc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/snow_03/snow_03_translucent_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2746336,
+                    "md5": "1739405026841063df7b83406678d962",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_03/snow_03_translucent_4k.jpg"
+                },
+                "png": {
+                    "size": 8266077,
+                    "md5": "bffb008c951d5250fcdb45b018d45acd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/snow_03/snow_03_translucent_4k.png"
+                },
+                "exr": {
+                    "size": 12978223,
+                    "md5": "b3c5cac0fbf105a01fde728ab5ee7d75",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/snow_03/snow_03_translucent_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1030154,
+                    "md5": "1a77018f77421e73cf15a9021bd84112",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/snow_03/snow_03_translucent_2k.jpg"
+                },
+                "png": {
+                    "size": 2546266,
+                    "md5": "bc11f85d103c802b0625073a8b5ab6ac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/snow_03/snow_03_translucent_2k.png"
+                },
+                "exr": {
+                    "size": 3953647,
+                    "md5": "f28ef64d86dce4a3a9c31911858f81e7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/snow_03/snow_03_translucent_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 362500,
+                    "md5": "2be894ba4e4ad3149df414eb22e0302e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_03/snow_03_translucent_1k.jpg"
+                },
+                "png": {
+                    "size": 731391,
+                    "md5": "d1d33881ec2eae3df1dbb8d6e1cf0cca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/snow_03/snow_03_translucent_1k.png"
+                },
+                "exr": {
+                    "size": 1169574,
+                    "md5": "498f0b4eaa3ba604fa309723fcfab667",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/snow_03/snow_03_translucent_1k.exr"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 92372490,
+                    "md5": "25339d91f609a40b51d8e95bf3486d47",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/snow_03/snow_03_nor_dx_8k.jpg"
+                },
+                "png": {
+                    "size": 154791440,
+                    "md5": "fdc2602edcdb9ac84c71f0b0c407f008",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/snow_03/snow_03_nor_dx_8k.png"
+                },
+                "exr": {
+                    "size": 167054082,
+                    "md5": "c8d9a567a05c6849d4fcaade3c5262c1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/snow_03/snow_03_nor_dx_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 22232811,
+                    "md5": "7e8306f2346601aea8e51cc191cea3be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_03/snow_03_nor_dx_4k.jpg"
+                },
+                "png": {
+                    "size": 38438978,
+                    "md5": "c79ad262f6dcb4a11491afea53c00214",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/snow_03/snow_03_nor_dx_4k.png"
+                },
+                "exr": {
+                    "size": 41142911,
+                    "md5": "abaac727174208d769e0dede61df8907",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/snow_03/snow_03_nor_dx_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 5841668,
+                    "md5": "c3a4fb94ba14f7215aee3931d8eb33a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/snow_03/snow_03_nor_dx_2k.jpg"
+                },
+                "png": {
+                    "size": 9901526,
+                    "md5": "a9df7c878221fe95ae9d81e0b54b2913",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/snow_03/snow_03_nor_dx_2k.png"
+                },
+                "exr": {
+                    "size": 10556450,
+                    "md5": "349ed4541c2520aede5281172519d314",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/snow_03/snow_03_nor_dx_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1459784,
+                    "md5": "d7ebb3f0d2da9644606647d0db2d349c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_03/snow_03_nor_dx_1k.jpg"
+                },
+                "png": {
+                    "size": 2482476,
+                    "md5": "f99bccdf8605806184cf26558bacd8f2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/snow_03/snow_03_nor_dx_1k.png"
+                },
+                "exr": {
+                    "size": 2660116,
+                    "md5": "9863ce8742ce283a84a588e4a01f6d1e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/snow_03/snow_03_nor_dx_1k.exr"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 90888447,
+                    "md5": "85fd8fc71a093de61d487619592db59b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/snow_03/snow_03_nor_gl_8k.jpg"
+                },
+                "png": {
+                    "size": 154743869,
+                    "md5": "b849d2289648fb638898fdfc734cdd17",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/snow_03/snow_03_nor_gl_8k.png"
+                },
+                "exr": {
+                    "size": 164320368,
+                    "md5": "e02960895802084f24d1828461dad8e6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/snow_03/snow_03_nor_gl_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 21760853,
+                    "md5": "5104a2e3479c168fa45b479f2354df88",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_03/snow_03_nor_gl_4k.jpg"
+                },
+                "png": {
+                    "size": 38441515,
+                    "md5": "eb50fb94d3c7a179237d1c2929b1b69e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/snow_03/snow_03_nor_gl_4k.png"
+                },
+                "exr": {
+                    "size": 40075396,
+                    "md5": "71bcdf50bbca4d8f36238cea44abd5f6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/snow_03/snow_03_nor_gl_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 5736026,
+                    "md5": "63cb1530caa4d9a36dff658e3e270a0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/snow_03/snow_03_nor_gl_2k.jpg"
+                },
+                "png": {
+                    "size": 9902632,
+                    "md5": "520a6ce395055e4c17c1980bde9ae8eb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/snow_03/snow_03_nor_gl_2k.png"
+                },
+                "exr": {
+                    "size": 10251569,
+                    "md5": "d30c3f7dfa884d398bd98c5c478f964d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/snow_03/snow_03_nor_gl_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1434358,
+                    "md5": "ef60d989b9942af0d6d03615f2bb2912",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_03/snow_03_nor_gl_1k.jpg"
+                },
+                "png": {
+                    "size": 2482890,
+                    "md5": "b576c86a8de7176dc3efd2961672f5ba",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/snow_03/snow_03_nor_gl_1k.png"
+                },
+                "exr": {
+                    "size": 2573565,
+                    "md5": "64f1b8c1adc3f2ab6431bb6af3534a7a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/snow_03/snow_03_nor_gl_1k.exr"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "size": 277755,
+                    "md5": "1883dfeed4330f0951cd160d53a887b3",
+                    "include": {
+                        "textures/snow_03_rough_8k.jpg": {
+                            "size": 9220335,
+                            "md5": "1bdd5539fb3e92cbff4cf73ea4027750",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/snow_03/snow_03_rough_8k.jpg"
+                        },
+                        "textures/snow_03_diff_8k.jpg": {
+                            "size": 20405650,
+                            "md5": "d216d19d06ce796a0bc32134d1745868",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/snow_03/snow_03_diff_8k.jpg"
+                        },
+                        "textures/snow_03_disp_8k.png": {
+                            "size": 95393828,
+                            "md5": "f747b859ff602e93446f66e84b40c903",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/snow_03/snow_03_disp_8k.png"
+                        },
+                        "textures/snow_03_nor_gl_8k.exr": {
+                            "size": 164320368,
+                            "md5": "e02960895802084f24d1828461dad8e6",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/snow_03/snow_03_nor_gl_8k.exr"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/8k/snow_03/snow_03_8k.blend"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "size": 277568,
+                    "md5": "658d58865b8a4bdc22a384be97d4a211",
+                    "include": {
+                        "textures/snow_03_rough_4k.jpg": {
+                            "size": 2758745,
+                            "md5": "b3a1744dc178f1fd30be952bcfd7b8dd",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_03/snow_03_rough_4k.jpg"
+                        },
+                        "textures/snow_03_diff_4k.jpg": {
+                            "size": 6639494,
+                            "md5": "9c74e63ae4db4a20072add33628dfc71",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_03/snow_03_diff_4k.jpg"
+                        },
+                        "textures/snow_03_disp_4k.png": {
+                            "size": 29254927,
+                            "md5": "41046dba325c6fe4022e318e65a4382a",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/snow_03/snow_03_disp_4k.png"
+                        },
+                        "textures/snow_03_nor_gl_4k.exr": {
+                            "size": 40075396,
+                            "md5": "71bcdf50bbca4d8f36238cea44abd5f6",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/snow_03/snow_03_nor_gl_4k.exr"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/4k/snow_03/snow_03_4k.blend"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "size": 277664,
+                    "md5": "c53f585e22aec047cbd9515e8e6272ce",
+                    "include": {
+                        "textures/snow_03_disp_2k.png": {
+                            "size": 7774679,
+                            "md5": "7832373f3be250477e302ddf9143dc4f",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/snow_03/snow_03_disp_2k.png"
+                        },
+                        "textures/snow_03_rough_2k.jpg": {
+                            "size": 795902,
+                            "md5": "834603bb91f1c4c9c223f39e6b79a78f",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/snow_03/snow_03_rough_2k.jpg"
+                        },
+                        "textures/snow_03_nor_gl_2k.exr": {
+                            "size": 10251569,
+                            "md5": "d30c3f7dfa884d398bd98c5c478f964d",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/snow_03/snow_03_nor_gl_2k.exr"
+                        },
+                        "textures/snow_03_diff_2k.jpg": {
+                            "size": 2013889,
+                            "md5": "ca00d0c9f972fb13531964ac1a9c1186",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/snow_03/snow_03_diff_2k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/2k/snow_03/snow_03_2k.blend"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "size": 277938,
+                    "md5": "4544057ce0fd47b8a6d87e7c7e3cbefd",
+                    "include": {
+                        "textures/snow_03_diff_1k.jpg": {
+                            "size": 574004,
+                            "md5": "81c88f59622c1b0bbc80da483a69d0d5",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_03/snow_03_diff_1k.jpg"
+                        },
+                        "textures/snow_03_rough_1k.jpg": {
+                            "size": 229529,
+                            "md5": "770eb0ed38b8cf0836770d62cd51adaa",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_03/snow_03_rough_1k.jpg"
+                        },
+                        "textures/snow_03_nor_gl_1k.exr": {
+                            "size": 2573565,
+                            "md5": "64f1b8c1adc3f2ab6431bb6af3534a7a",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/snow_03/snow_03_nor_gl_1k.exr"
+                        },
+                        "textures/snow_03_disp_1k.png": {
+                            "size": 2088713,
+                            "md5": "e5b5650abc25453f3fa2a8c156b806f5",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/snow_03/snow_03_disp_1k.png"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/blend/1k/snow_03/snow_03_1k.blend"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "size": 2660,
+                    "md5": "f191fa1e20767607114a20ae197786d4",
+                    "include": {
+                        "snow_03.bin": {
+                            "size": 2368884,
+                            "md5": "d58e3fffb47beb4b1c34bceb8a4b7ddf",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/snow_03/snow_03.bin"
+                        },
+                        "textures/snow_03_rough_8k.jpg": {
+                            "size": 9220335,
+                            "md5": "1bdd5539fb3e92cbff4cf73ea4027750",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/snow_03/snow_03_rough_8k.jpg"
+                        },
+                        "textures/snow_03_diff_8k.jpg": {
+                            "size": 20405650,
+                            "md5": "d216d19d06ce796a0bc32134d1745868",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/snow_03/snow_03_diff_8k.jpg"
+                        },
+                        "textures/snow_03_nor_gl_8k.jpg": {
+                            "size": 90888447,
+                            "md5": "85fd8fc71a093de61d487619592db59b",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/snow_03/snow_03_nor_gl_8k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/snow_03/snow_03_8k.gltf"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "size": 2660,
+                    "md5": "6e92d7bef0c2e0e0b8350c574c57a93d",
+                    "include": {
+                        "textures/snow_03_rough_4k.jpg": {
+                            "size": 2758745,
+                            "md5": "b3a1744dc178f1fd30be952bcfd7b8dd",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_03/snow_03_rough_4k.jpg"
+                        },
+                        "textures/snow_03_diff_4k.jpg": {
+                            "size": 6639494,
+                            "md5": "9c74e63ae4db4a20072add33628dfc71",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_03/snow_03_diff_4k.jpg"
+                        },
+                        "snow_03.bin": {
+                            "size": 2368884,
+                            "md5": "d58e3fffb47beb4b1c34bceb8a4b7ddf",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/snow_03/snow_03.bin"
+                        },
+                        "textures/snow_03_nor_gl_4k.jpg": {
+                            "size": 21760853,
+                            "md5": "5104a2e3479c168fa45b479f2354df88",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_03/snow_03_nor_gl_4k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/4k/snow_03/snow_03_4k.gltf"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "size": 2660,
+                    "md5": "228477b9c77ab5271b99fc4589b76303",
+                    "include": {
+                        "textures/snow_03_rough_2k.jpg": {
+                            "size": 795902,
+                            "md5": "834603bb91f1c4c9c223f39e6b79a78f",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/snow_03/snow_03_rough_2k.jpg"
+                        },
+                        "textures/snow_03_nor_gl_2k.jpg": {
+                            "size": 5736026,
+                            "md5": "63cb1530caa4d9a36dff658e3e270a0f",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/snow_03/snow_03_nor_gl_2k.jpg"
+                        },
+                        "snow_03.bin": {
+                            "size": 2368884,
+                            "md5": "d58e3fffb47beb4b1c34bceb8a4b7ddf",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/snow_03/snow_03.bin"
+                        },
+                        "textures/snow_03_diff_2k.jpg": {
+                            "size": 2013889,
+                            "md5": "ca00d0c9f972fb13531964ac1a9c1186",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/snow_03/snow_03_diff_2k.jpg"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/2k/snow_03/snow_03_2k.gltf"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "size": 2660,
+                    "md5": "0fb97a64e66fd70531c7c9f24ab7225b",
+                    "include": {
+                        "textures/snow_03_diff_1k.jpg": {
+                            "size": 574004,
+                            "md5": "81c88f59622c1b0bbc80da483a69d0d5",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_03/snow_03_diff_1k.jpg"
+                        },
+                        "textures/snow_03_rough_1k.jpg": {
+                            "size": 229529,
+                            "md5": "770eb0ed38b8cf0836770d62cd51adaa",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_03/snow_03_rough_1k.jpg"
+                        },
+                        "textures/snow_03_nor_gl_1k.jpg": {
+                            "size": 1434358,
+                            "md5": "ef60d989b9942af0d6d03615f2bb2912",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_03/snow_03_nor_gl_1k.jpg"
+                        },
+                        "snow_03.bin": {
+                            "size": 2368884,
+                            "md5": "d58e3fffb47beb4b1c34bceb8a4b7ddf",
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/8k/snow_03/snow_03.bin"
+                        }
+                    },
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/gltf/1k/snow_03/snow_03_1k.gltf"
+                }
+            }
+        },
+        "Bump": {
+            "8k": {
+                "jpg": {
+                    "size": 22365027,
+                    "md5": "a5df48898d467c86ce265d3bca0d1c7f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/snow_03/snow_03_bump_8k.jpg"
+                },
+                "png": {
+                    "size": 35673121,
+                    "md5": "3c76e739da9c0be48ed591734b3cd8d4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/snow_03/snow_03_bump_8k.png"
+                },
+                "exr": {
+                    "size": 65479007,
+                    "md5": "4524731498fabe84651df6399b5929d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/snow_03/snow_03_bump_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 6369503,
+                    "md5": "fb7f1ebc67cf473353d599ca44368bdf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_03/snow_03_bump_4k.jpg"
+                },
+                "png": {
+                    "size": 15003238,
+                    "md5": "e3a28a0e315c097f318325524a351c2d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/snow_03/snow_03_bump_4k.png"
+                },
+                "exr": {
+                    "size": 18792067,
+                    "md5": "805a3bb1482c0bf5a664749b127f08b7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/snow_03/snow_03_bump_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1817666,
+                    "md5": "c92d5b47cbb10b293c918cea0d2ada48",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/snow_03/snow_03_bump_2k.jpg"
+                },
+                "png": {
+                    "size": 3886201,
+                    "md5": "6d9a676a636e9c32ce96b9664b2067be",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/snow_03/snow_03_bump_2k.png"
+                },
+                "exr": {
+                    "size": 5149383,
+                    "md5": "cab0b95408fcd2fa79fbdc89af99850d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/snow_03/snow_03_bump_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 495662,
+                    "md5": "9d60041987683b2aaec464aee555e65b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_03/snow_03_bump_1k.jpg"
+                },
+                "png": {
+                    "size": 995954,
+                    "md5": "6927f4432c2b17d68ff9ef8748820703",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/snow_03/snow_03_bump_1k.png"
+                },
+                "exr": {
+                    "size": 1358151,
+                    "md5": "ed30761d1faecdadfdabf81e172cb12b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/snow_03/snow_03_bump_1k.exr"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 16963469,
+                    "md5": "aa0bd8a372f6129484b3b4ec1e817998",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/snow_03/snow_03_arm_8k.jpg"
+                },
+                "png": {
+                    "size": 95925222,
+                    "md5": "5258a843e17d2db0c31b6d6a826b357e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/snow_03/snow_03_arm_8k.png"
+                },
+                "exr": {
+                    "size": 133212964,
+                    "md5": "d3b522ed8c871906a4150d7e713378bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/snow_03/snow_03_arm_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4327760,
+                    "md5": "915e5a01ad4ddeda44797d70f8137cfd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_03/snow_03_arm_4k.jpg"
+                },
+                "png": {
+                    "size": 24565776,
+                    "md5": "f739ad922aaaee78333aa129b7aeef77",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/snow_03/snow_03_arm_4k.png"
+                },
+                "exr": {
+                    "size": 34050109,
+                    "md5": "7cf84952fe3f0ea01da855dcbfa08da9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/snow_03/snow_03_arm_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1003013,
+                    "md5": "abbb04fd322461b04cb976e1264d80d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/snow_03/snow_03_arm_2k.jpg"
+                },
+                "png": {
+                    "size": 6104493,
+                    "md5": "b262681583f4b4eedabd6a04551a830b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/snow_03/snow_03_arm_2k.png"
+                },
+                "exr": {
+                    "size": 7982816,
+                    "md5": "20e3dbb96fd35273c8614cfa12f98b8a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/snow_03/snow_03_arm_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 248443,
+                    "md5": "e6919cb851dcd756a1ea99d201357bf6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_03/snow_03_arm_1k.jpg"
+                },
+                "png": {
+                    "size": 1566722,
+                    "md5": "9b6efb19beb76dac7da910fac9938b2c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/snow_03/snow_03_arm_1k.png"
+                },
+                "exr": {
+                    "size": 1991452,
+                    "md5": "401b26d0a9bd93c199b205f8cfe6e557",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/snow_03/snow_03_arm_1k.exr"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 42764903,
+                    "md5": "a9035e6d82ac1d4e5c7e7e2cbca3d08a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/snow_03/snow_03_ao_8k.jpg"
+                },
+                "png": {
+                    "size": 99129007,
+                    "md5": "5e3262b86ff8cd87aa5bafd24817af1e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/snow_03/snow_03_ao_8k.png"
+                },
+                "exr": {
+                    "size": 63926466,
+                    "md5": "464e9eebca0b076f3c842485aaea7c45",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/snow_03/snow_03_ao_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 10466819,
+                    "md5": "12c84a90629ccfd48f8b001b7bdd00f2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_03/snow_03_ao_4k.jpg"
+                },
+                "png": {
+                    "size": 15277092,
+                    "md5": "01dc99aad819cc226ba1ff8b160ea793",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/snow_03/snow_03_ao_4k.png"
+                },
+                "exr": {
+                    "size": 22979693,
+                    "md5": "0724f42ac778156c704b6e105046c409",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/snow_03/snow_03_ao_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2451512,
+                    "md5": "9643131735aa6f22a580c2c618ca420c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/snow_03/snow_03_ao_2k.jpg"
+                },
+                "png": {
+                    "size": 4045124,
+                    "md5": "c407e2c024fc2197788eebf60649f64c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/snow_03/snow_03_ao_2k.png"
+                },
+                "exr": {
+                    "size": 5618944,
+                    "md5": "ba968e24c26f187bafd5a74f54a26736",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/snow_03/snow_03_ao_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 611853,
+                    "md5": "19fe743b129c033ecf2df1481c4eff30",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_03/snow_03_ao_1k.jpg"
+                },
+                "png": {
+                    "size": 1007671,
+                    "md5": "56a5b873d07142bc7778769f5020c4cb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/snow_03/snow_03_ao_1k.png"
+                },
+                "exr": {
+                    "size": 1404660,
+                    "md5": "4cd3bd8678f9931037d412d7ffebb172",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/snow_03/snow_03_ao_1k.exr"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 6270746,
+                    "md5": "d913790fa2bd7898298ae0de5fb96918",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/snow_03/snow_03_disp_8k.jpg"
+                },
+                "png": {
+                    "size": 95393828,
+                    "md5": "f747b859ff602e93446f66e84b40c903",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/snow_03/snow_03_disp_8k.png"
+                },
+                "exr": {
+                    "size": 13928485,
+                    "md5": "0aa803f765577f95e450ca96e87c8198",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/snow_03/snow_03_disp_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2150889,
+                    "md5": "9c77e8f03a5c475d7f8c02a8309037bf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_03/snow_03_disp_4k.jpg"
+                },
+                "png": {
+                    "size": 29254927,
+                    "md5": "41046dba325c6fe4022e318e65a4382a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/snow_03/snow_03_disp_4k.png"
+                },
+                "exr": {
+                    "size": 4679136,
+                    "md5": "67596ad9a72df0a2553bdc009c3aad33",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/snow_03/snow_03_disp_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 752311,
+                    "md5": "40f5ac2c9ffe3c100e937c49fd5a3a39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/snow_03/snow_03_disp_2k.jpg"
+                },
+                "png": {
+                    "size": 7774679,
+                    "md5": "7832373f3be250477e302ddf9143dc4f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/snow_03/snow_03_disp_2k.png"
+                },
+                "exr": {
+                    "size": 1643276,
+                    "md5": "ef407f5aea469056acfd8916b17e57f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/snow_03/snow_03_disp_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 251214,
+                    "md5": "613f18d1ae6e3c778ad0c2daa5ad602d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_03/snow_03_disp_1k.jpg"
+                },
+                "png": {
+                    "size": 2088713,
+                    "md5": "e5b5650abc25453f3fa2a8c156b806f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/snow_03/snow_03_disp_1k.png"
+                },
+                "exr": {
+                    "size": 562763,
+                    "md5": "2268d34926e390fe7b2daa28f079a5f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/snow_03/snow_03_disp_1k.exr"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 9220335,
+                    "md5": "1bdd5539fb3e92cbff4cf73ea4027750",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/snow_03/snow_03_rough_8k.jpg"
+                },
+                "png": {
+                    "size": 18836028,
+                    "md5": "d215a4f4a86d18335c485be69af1c849",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/snow_03/snow_03_rough_8k.png"
+                },
+                "exr": {
+                    "size": 27391474,
+                    "md5": "3f126a49378b966a00b6f92de1a15d58",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/snow_03/snow_03_rough_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2758745,
+                    "md5": "b3a1744dc178f1fd30be952bcfd7b8dd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_03/snow_03_rough_4k.jpg"
+                },
+                "png": {
+                    "size": 6925145,
+                    "md5": "728c2389ffe5d35a9a3323f8dc829ad3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/snow_03/snow_03_rough_4k.png"
+                },
+                "exr": {
+                    "size": 7949778,
+                    "md5": "bf656e16888e5e8d0b02bfc93b014f2f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/snow_03/snow_03_rough_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 795902,
+                    "md5": "834603bb91f1c4c9c223f39e6b79a78f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/snow_03/snow_03_rough_2k.jpg"
+                },
+                "png": {
+                    "size": 1914195,
+                    "md5": "ff9dd5343c15f167e60391c0482833cc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/snow_03/snow_03_rough_2k.png"
+                },
+                "exr": {
+                    "size": 2316985,
+                    "md5": "360f1927f08e12323ed1176feed5ff0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/snow_03/snow_03_rough_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 229529,
+                    "md5": "770eb0ed38b8cf0836770d62cd51adaa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_03/snow_03_rough_1k.jpg"
+                },
+                "png": {
+                    "size": 519461,
+                    "md5": "092906b4ef39b2f29757d89e4849506e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/snow_03/snow_03_rough_1k.png"
+                },
+                "exr": {
+                    "size": 653956,
+                    "md5": "2033c53e214656fb18c96eecdcc30831",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/snow_03/snow_03_rough_1k.exr"
+                }
+            }
+        },
+        "spec": {
+            "8k": {
+                "jpg": {
+                    "size": 12919903,
+                    "md5": "07c11557bd72be8f1d4272969bd2d3a3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/8k/snow_03/snow_03_spec_8k.jpg"
+                },
+                "png": {
+                    "size": 24626274,
+                    "md5": "5c9414c93147742ba2775573277b6596",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/8k/snow_03/snow_03_spec_8k.png"
+                },
+                "exr": {
+                    "size": 52023088,
+                    "md5": "48fce4600bd7cd2d1a0eb6c0fd7da967",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/8k/snow_03/snow_03_spec_8k.exr"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3816590,
+                    "md5": "96d1f6687f0c249263ea2401b1afd542",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/snow_03/snow_03_spec_4k.jpg"
+                },
+                "png": {
+                    "size": 9784138,
+                    "md5": "4947398e561e7e0c2a40a5849b882b3c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/4k/snow_03/snow_03_spec_4k.png"
+                },
+                "exr": {
+                    "size": 14841334,
+                    "md5": "bbb6d18fd77f067e563f67e0c5b53cd8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/4k/snow_03/snow_03_spec_4k.exr"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1094735,
+                    "md5": "b24d5206bd1ea7b2f0a86b1c5aff20bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/snow_03/snow_03_spec_2k.jpg"
+                },
+                "png": {
+                    "size": 2627435,
+                    "md5": "971fc62e08eaa6dfc282ab2c6c1de924",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/snow_03/snow_03_spec_2k.png"
+                },
+                "exr": {
+                    "size": 4098851,
+                    "md5": "2841aacd58a5c9dcd2e5cadf8d935a90",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/2k/snow_03/snow_03_spec_2k.exr"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 307732,
+                    "md5": "431162f38f51b511e0ea62a44556b135",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_03/snow_03_spec_1k.jpg"
+                },
+                "png": {
+                    "size": 693444,
+                    "md5": "4ff26343a4a508d7e58bbff8d610db84",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/snow_03/snow_03_spec_1k.png"
+                },
+                "exr": {
+                    "size": 1145778,
+                    "md5": "b3cf4becca885430f2217b5239145f28",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/exr/1k/snow_03/snow_03_spec_1k.exr"
+                }
+            }
+        }
+    }
+}

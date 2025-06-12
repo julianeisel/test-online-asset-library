@@ -1,0 +1,107 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tree",
+        "forest",
+        "path",
+        "summer"
+    ],
+    "date_published": 1600120800,
+    "name": "Sunset Forest",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1596897960,
+    "coords": [
+        50.960083,
+        14.095532
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "files_hash": "ab375f47de46e1e5989d67cf911ef2dbea11c784",
+    "max_resolution": [
+        17710,
+        8855
+    ],
+    "download_count": 38941,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sunset_forest.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 12629216,
+            "md5": "a1d4da1d50a1f9769e2c3624e0863f4e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/sunset_forest.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 111026758,
+                    "md5": "36d9447677ad07271fa6fe687c75a4a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/sunset_forest_8k.hdr"
+                },
+                "exr": {
+                    "size": 111675230,
+                    "md5": "d04b6bc56b79d2d27279af54750c2db0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/sunset_forest_8k.exr"
+                }
+            },
+            "17k": {
+                "hdr": {
+                    "size": 488603501,
+                    "md5": "c2fc3b8cdf90540687590f60d6c96866",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/sunset_forest_17k.hdr"
+                },
+                "exr": {
+                    "size": 478834136,
+                    "md5": "96bf44a09e9b3018e16e251dbb543c07",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/sunset_forest_17k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28684575,
+                    "md5": "94936c20cc39dce5bba5808cc14256db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/sunset_forest_4k.hdr"
+                },
+                "exr": {
+                    "size": 29044900,
+                    "md5": "00b45c5817169a8c6e6cc275774ee731",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/sunset_forest_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7301510,
+                    "md5": "e64eb5db0b0ed8b6cb63ac1025f31af6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/sunset_forest_2k.hdr"
+                },
+                "exr": {
+                    "size": 7400852,
+                    "md5": "db14ad39942b265fc9d33265266ab1fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/sunset_forest_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1843297,
+                    "md5": "3bcad1eb36180f203d0bb644a3a682ed",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/sunset_forest_1k.hdr"
+                },
+                "exr": {
+                    "size": 1869789,
+                    "md5": "91cbb7ed86195e67d7d3864157dedc54",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/sunset_forest_1k.exr"
+                }
+            }
+        }
+    }
+}

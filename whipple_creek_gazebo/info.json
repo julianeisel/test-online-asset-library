@@ -1,0 +1,109 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "tree",
+        "sun",
+        "thatch",
+        "leaves",
+        "camp"
+    ],
+    "date_published": 1534802400,
+    "name": "Whipple Creek Gazebo",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1532688240,
+    "coords": [
+        45.7376,
+        -122.694
+    ],
+    "authors": {
+        "Philip Modin": "All"
+    },
+    "sponsors": [
+        "3237733"
+    ],
+    "files_hash": "417fdc40cf6862fe3a59c4c82aa413f550dbdcfa",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 34662,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/whipple_creek_gazebo.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 9924943,
+            "md5": "199c489c378b67f8ffbd8534333268f7",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/whipple_creek_gazebo.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 111161292,
+                    "md5": "4e3b70c997f9f35a93d1fbf38ebdfad7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/whipple_creek_gazebo_8k.hdr"
+                },
+                "exr": {
+                    "size": 347241473,
+                    "md5": "e29c6d118dd3c3c268bf576799c06074",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/whipple_creek_gazebo_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 424311042,
+                    "md5": "c3b36431c7e5922eabc0259d66b731c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/whipple_creek_gazebo_16k.hdr"
+                },
+                "exr": {
+                    "size": 1097304479,
+                    "md5": "633ae4fd3d6fdaff476db44d30dc07a7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/whipple_creek_gazebo_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28707487,
+                    "md5": "2b646c95bf5a170ccca387dbf3febf7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/whipple_creek_gazebo_4k.hdr"
+                },
+                "exr": {
+                    "size": 90763039,
+                    "md5": "5c8e330e976c4cae0f3d0416f2b09889",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/whipple_creek_gazebo_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7321034,
+                    "md5": "9e5f06ed12e58060508bd0650f6c96cd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/whipple_creek_gazebo_2k.hdr"
+                },
+                "exr": {
+                    "size": 23674153,
+                    "md5": "83a1474675ffefd252524172c6df6c0a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/whipple_creek_gazebo_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1846516,
+                    "md5": "f35e8f5271f306c5cef04cce1fe3cfe5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/whipple_creek_gazebo_1k.hdr"
+                },
+                "exr": {
+                    "size": 6299605,
+                    "md5": "994511355d03b2ee2cf2b22124d0109b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/whipple_creek_gazebo_1k.exr"
+                }
+            }
+        }
+    }
+}

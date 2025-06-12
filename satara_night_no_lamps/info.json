@@ -1,0 +1,111 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "stars",
+        "tree",
+        "milky way",
+        "galaxy"
+    ],
+    "date_published": 1513059370,
+    "name": "Satara Night (No Lamps)",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "clear",
+        "night",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        -24.39453,
+        31.77783
+    ],
+    "date_taken": 1508009940,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://dabarti.com/",
+            "name": "Tomasz Wyszolmirski"
+        }
+    ],
+    "files_hash": "23b9d612a4236bef40a4966e9c32b4fcb1c342dd",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 416026,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/satara_night_no_lamps.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 7975332,
+            "md5": "f2179766b4bf4b9861bd547757cff9a2",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/satara_night_no_lamps.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 116402260,
+                    "md5": "b210052d1e88148363a8654513851a9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/satara_night_no_lamps_8k.hdr"
+                },
+                "exr": {
+                    "size": 128508170,
+                    "md5": "658dd1f55286d72f4d279acb4d886183",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/satara_night_no_lamps_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 435139430,
+                    "md5": "2a8dfb9d396e84cf99770c3e7037f4ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/satara_night_no_lamps_16k.hdr"
+                },
+                "exr": {
+                    "size": 485353628,
+                    "md5": "e48e2bc9a8f1d38f05c2d730ba87e08d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/satara_night_no_lamps_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 29851032,
+                    "md5": "eb93139b553c68837cc8b674728a7d0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/satara_night_no_lamps_4k.hdr"
+                },
+                "exr": {
+                    "size": 31997982,
+                    "md5": "2c2ee8e5b73463500293c2c84adfd73c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/satara_night_no_lamps_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7492509,
+                    "md5": "3d37d80869ffb26c6d2be9bac2a5af05",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/satara_night_no_lamps_2k.hdr"
+                },
+                "exr": {
+                    "size": 7795243,
+                    "md5": "f9fe7c2ce14becd24e5def8dc53a7006",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/satara_night_no_lamps_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1859650,
+                    "md5": "6e806c851496ed4d83a641299ce1a4da",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/satara_night_no_lamps_1k.hdr"
+                },
+                "exr": {
+                    "size": 1908440,
+                    "md5": "5b8292801fa630a64fbac621e30d3834",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/satara_night_no_lamps_1k.exr"
+                }
+            }
+        }
+    }
+}

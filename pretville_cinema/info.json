@@ -1,0 +1,131 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5329,
+    "tags": [
+        "chair",
+        "seat",
+        "stage",
+        "cinema",
+        "theater",
+        "movie",
+        "red",
+        "piano",
+        "chandelier",
+        "projector"
+    ],
+    "name": "Pretville Cinema",
+    "categories": [
+        "indoor",
+        "artificial light",
+        "medium contrast",
+        "urban"
+    ],
+    "date_taken": 1653148140,
+    "coords": [
+        -25.740559556601085,
+        27.918297621359795
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "date_published": 1656892800,
+    "prepaid": true,
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "0846a558f1b734360834d81ba078789a13c988eb",
+    "sponsors": [
+        "20953239"
+    ],
+    "download_count": 31255,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/pretville_cinema.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 43911313,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/pretville_cinema.jpg",
+            "md5": "fc8d36a789de6eae1e245804f13d9cbb"
+        },
+        "colorchart": {
+            "size": 58137858,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/pretville_cinema.zip",
+            "md5": "ef995daf0dcd220519284f7e9a63cb30"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/pretville_cinema_8k.hdr",
+                    "size": 95232367,
+                    "md5": "973801248ebba50b16188ddbe13eecbe"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/pretville_cinema_8k.exr",
+                    "size": 339420573,
+                    "md5": "e1d836be89c6aea2c8fd3f647ecc539c"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pretville_cinema_16k.hdr",
+                    "size": 358519745,
+                    "md5": "7fbddae137564d686a9215fd02b7b6a8"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pretville_cinema_16k.exr",
+                    "size": 1305429292,
+                    "md5": "9583a69f74cf7e94c581bf827a466570"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/pretville_cinema_4k.hdr",
+                    "size": 24139859,
+                    "md5": "3b092d9117b19826540e82feecab98c8"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/pretville_cinema_4k.exr",
+                    "size": 86556813,
+                    "md5": "4da0a00f176721fed3e639c3540c88e0"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/pretville_cinema_24k.hdr",
+                    "size": 794430043,
+                    "md5": "73dbd874718fc36c093bc1bc04ce3edb"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/pretville_cinema_24k.exr",
+                    "size": 2963539061,
+                    "md5": "5d1f034a6177c209e368c15633806306"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/pretville_cinema_2k.hdr",
+                    "size": 6088474,
+                    "md5": "406c01275af36c26387a9a2464fb34c3"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/pretville_cinema_2k.exr",
+                    "size": 22524087,
+                    "md5": "9813809c7cf23b04ac0a107330131dd4"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/pretville_cinema_1k.hdr",
+                    "size": 1547747,
+                    "md5": "8d16a44c599130ea8991fcbf1569c30b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/pretville_cinema_1k.exr",
+                    "size": 6033133,
+                    "md5": "e17163c68d6a11b5dd2124e70c085436"
+                }
+            }
+        }
+    }
+}

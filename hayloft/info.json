@@ -1,0 +1,105 @@
+{
+    "donated": true,
+    "type": 0,
+    "tags": [
+        "barn",
+        "farm",
+        "hay",
+        "timber",
+        "rafters",
+        "pallet",
+        "rural",
+        "rustic"
+    ],
+    "name": "Hayloft",
+    "categories": [
+        "indoor",
+        "urban",
+        "natural light",
+        "medium contrast",
+        "midday"
+    ],
+    "date_taken": 1474813440,
+    "authors": {
+        "Adrian Kubasa": "All"
+    },
+    "info": null,
+    "files_hash": "b0c5fddbf1cd45b48aaa36c7f3e5c80e32109ffc",
+    "evs_cap": 0,
+    "date_published": 1700956800,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 23976,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hayloft.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 52472732,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hayloft.jpg",
+            "md5": "4def1e6b99fe98b00cee832b4c6a5581"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 106801272,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hayloft_8k.hdr",
+                    "md5": "b44be64bf91f50c1e4d6c023ec207ef4"
+                },
+                "exr": {
+                    "size": 103239887,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hayloft_8k.exr",
+                    "md5": "a281dde1eb9edc7f138d1064a91950a2"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 405171273,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hayloft_16k.hdr",
+                    "md5": "205927890a2b76fda9aac267008a899c"
+                },
+                "exr": {
+                    "size": 375668864,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hayloft_16k.exr",
+                    "md5": "a9984bb9514cada5bd53c446fbb649d7"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 27440374,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hayloft_4k.hdr",
+                    "md5": "1eaca4a5613378bf380601e243d87496"
+                },
+                "exr": {
+                    "size": 27284206,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hayloft_4k.exr",
+                    "md5": "6d120144849da18195889b515ba3e52c"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6967370,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hayloft_2k.hdr",
+                    "md5": "79a22bda93859e1f6470a362dd83e158"
+                },
+                "exr": {
+                    "size": 7064727,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hayloft_2k.exr",
+                    "md5": "bc6774ccb94d6abad3bd1b38a5f01241"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1765053,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hayloft_1k.hdr",
+                    "md5": "518f9cbb0a49789f468c5590b81b5f18"
+                },
+                "exr": {
+                    "size": 1810249,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hayloft_1k.exr",
+                    "md5": "d3819919490b3d1c7592ab325a1909ab"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5050,
+    "tags": [
+        "garage",
+        "warehouse",
+        "industrial",
+        "car",
+        "workshop"
+    ],
+    "date_published": 1545087600,
+    "name": "Autoshop 01",
+    "categories": [
+        "indoor",
+        "urban",
+        "low contrast",
+        "artificial light"
+    ],
+    "date_taken": 1542803160,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.idin-jewellery.co.uk/",
+            "name": "Idin Jewellery"
+        }
+    ],
+    "max_resolution": [
+        17000,
+        8500
+    ],
+    "files_hash": "af0f674cba31a40e7ddd48db6dd9779d6508b146",
+    "download_count": 140628,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/autoshop_01.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4189775,
+            "md5": "6c61df81d4a959f7ad3d4b269d605a07",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/autoshop_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/autoshop_01_8k.hdr",
+                    "size": 101819437,
+                    "md5": "d1c051f65a8231bbca57231e9f847d7b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/autoshop_01_8k.exr",
+                    "size": 80505183,
+                    "md5": "257375651de7cd91ea6c719200e2567f"
+                }
+            },
+            "17k": {
+                "hdr": {
+                    "size": 423673176,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/autoshop_01_17k.hdr",
+                    "md5": "42a69eaa18662b187b2f55ca33056ede"
+                },
+                "exr": {
+                    "size": 321057248,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/autoshop_01_17k.exr",
+                    "md5": "d7cf53b83dbaaedbd0a9c9590d338043"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/autoshop_01_16k.hdr",
+                    "size": 394338066,
+                    "md5": "9006ee78d25c325ba1ce204677bdc9c2"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/autoshop_01_16k.exr",
+                    "size": 306227657,
+                    "md5": "22dbd463116dbcd09402966b074b8b49"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/autoshop_01_4k.hdr",
+                    "size": 25734945,
+                    "md5": "05105f36a88ade120944ef9e31019d4e"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/autoshop_01_4k.exr",
+                    "size": 20652477,
+                    "md5": "e4d24547ad5a7a2da67da2d358f52b39"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/autoshop_01_2k.hdr",
+                    "size": 6451683,
+                    "md5": "15482ac3b9a1aa723add98d5612c2c15"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/autoshop_01_2k.exr",
+                    "size": 5343571,
+                    "md5": "a4f4d82741636c37c4a31860c2ad1f6a"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/autoshop_01_1k.hdr",
+                    "size": 1622432,
+                    "md5": "8450e5fed3067f4f9c05bbc890e3a22e"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/autoshop_01_1k.exr",
+                    "size": 1398131,
+                    "md5": "b258cc0bf3252da058c605cc5595e33e"
+                }
+            }
+        }
+    }
+}

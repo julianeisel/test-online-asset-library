@@ -1,0 +1,123 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "field",
+        "road",
+        "path",
+        "asphalt",
+        "gravel",
+        "dirt"
+    ],
+    "date_published": 1591048800,
+    "name": "Small Rural Road",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.599592,
+        9.519506
+    ],
+    "date_taken": 1589022660,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "7947474",
+        "20953239"
+    ],
+    "files_hash": "d5642e01735f3b19c734aa054ad5fccbca86c863",
+    "max_resolution": [
+        21654,
+        10827
+    ],
+    "download_count": 58384,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/small_rural_road.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5415674,
+            "md5": "477f3e931e4be226d5d7b6e750ecbcb8",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/small_rural_road.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101963541,
+                    "md5": "801b8d4f699358bdd714fbfbfda7d004",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/small_rural_road_8k.hdr"
+                },
+                "exr": {
+                    "size": 83386326,
+                    "md5": "2db9a4cf5212654d8c3b689745e3af3d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/small_rural_road_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 385419461,
+                    "md5": "447cb3e0b2dc433faad31b4a1c898666",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/small_rural_road_16k.hdr"
+                },
+                "exr": {
+                    "size": 311967763,
+                    "md5": "a00ea32c091c8b3fe0d936d312deb078",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/small_rural_road_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25944924,
+                    "md5": "cb06a8f8508a5958b63c515dfd5c39ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/small_rural_road_4k.hdr"
+                },
+                "exr": {
+                    "size": 21670628,
+                    "md5": "2ac179fae39b38891dc9930b2acf9fb9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/small_rural_road_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6504293,
+                    "md5": "d750f57608bc03709ecf719ca487f426",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/small_rural_road_2k.hdr"
+                },
+                "exr": {
+                    "size": 5580681,
+                    "md5": "adf8a785de200615f9ee7b55826a61aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/small_rural_road_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1622785,
+                    "md5": "2753905b0c724a9e103e73bbbca3aa23",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/small_rural_road_1k.hdr"
+                },
+                "exr": {
+                    "size": 1442784,
+                    "md5": "9dab5ad612d4ae0498c3e734be7b75b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/small_rural_road_1k.exr"
+                }
+            },
+            "21k": {
+                "hdr": {
+                    "size": 642925006,
+                    "md5": "3c92775e0747049f7814182c8e545e8c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/small_rural_road_21k.hdr"
+                },
+                "exr": {
+                    "size": 515620211,
+                    "md5": "02e9924bc5b55bb394874ff5b283a425",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/small_rural_road_21k.exr"
+                }
+            }
+        }
+    }
+}

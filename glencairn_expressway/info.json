@@ -1,0 +1,117 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "road",
+        "asphalt",
+        "straight",
+        "bush"
+    ],
+    "name": "Glencairn Expressway",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "overcast",
+        "midday",
+        "low contrast"
+    ],
+    "date_taken": 1581679140,
+    "coords": [
+        -34.14234413789151,
+        18.39841138743929
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "b545ba0e8fb960c048b3fdac1167df3252604961",
+    "date_published": 1718150400,
+    "download_count": 6893,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/glencairn_expressway.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 40644497,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/glencairn_expressway.jpg",
+            "md5": "4124b96d45b70dd0a42ec69430c9c304"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102167702,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/glencairn_expressway_8k.hdr",
+                    "md5": "8be9d7d0c1cf9a6d2894e2d1e7c616d9"
+                },
+                "exr": {
+                    "size": 307897618,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/glencairn_expressway_8k.exr",
+                    "md5": "2ac80d1a52feb2374a7d79202128e62d"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 382996005,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/glencairn_expressway_16k.hdr",
+                    "md5": "406947950132191961d7204ce8028d17"
+                },
+                "exr": {
+                    "size": 1182210068,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/glencairn_expressway_16k.exr",
+                    "md5": "03b8afce8fd4eff8446ed2126cb903c5"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25504396,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/glencairn_expressway_4k.hdr",
+                    "md5": "28291b4eb9f27aef7d89c828b4df5525"
+                },
+                "exr": {
+                    "size": 78575798,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/glencairn_expressway_4k.exr",
+                    "md5": "a04403c62e4a572d4c4a814ddb5ac824"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 848476187,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/glencairn_expressway_24k.hdr",
+                    "md5": "0ecda0d94397e3e58e53394dbacc007d"
+                },
+                "exr": {
+                    "size": 2670136371,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/glencairn_expressway_24k.exr",
+                    "md5": "b6a49f1765c9816ed84b2f4b5e2667d1"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6294438,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/glencairn_expressway_2k.hdr",
+                    "md5": "cdfd0bd809d6d2bc06e98bc510f8f1a6"
+                },
+                "exr": {
+                    "size": 20455243,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/glencairn_expressway_2k.exr",
+                    "md5": "7516456978cdea4714aed4d3ff57694e"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1573598,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/glencairn_expressway_1k.hdr",
+                    "md5": "6a9eedc31f5925d307fde1a18d2d7324"
+                },
+                "exr": {
+                    "size": 5495548,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/glencairn_expressway_1k.exr",
+                    "md5": "225f2a2bbba8a23e517c861fe7f983ba"
+                }
+            }
+        }
+    }
+}

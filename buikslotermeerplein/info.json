@@ -1,0 +1,124 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5600,
+    "tags": [
+        "grass",
+        "park",
+        "skate",
+        "graffiti",
+        "field",
+        "building",
+        "architecture",
+        "city",
+        "europe",
+        "amsterdam"
+    ],
+    "name": "Buikslotermeerplein",
+    "categories": [
+        "outdoor",
+        "urban",
+        "partly cloudy",
+        "natural light",
+        "low contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1698592860,
+    "coords": [
+        52.400113738174596,
+        4.933518749080046
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "info": null,
+    "date_published": 1705017600,
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "2f9ec3311235ac19a4a841529c13fff7c87bab2a",
+    "download_count": 136879,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/buikslotermeerplein.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 47598887,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/buikslotermeerplein.jpg",
+            "md5": "8f7a696c42911c7c0a3ef2f46d3ca4e6"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/buikslotermeerplein_8k.hdr",
+                    "size": 101952804,
+                    "md5": "54fad2056b9a82a9d5105c302b24bac9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/buikslotermeerplein_8k.exr",
+                    "size": 384637810,
+                    "md5": "9c42f792b8104e99c706e1f5b0c728ff"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/buikslotermeerplein_16k.hdr",
+                    "size": 389397793,
+                    "md5": "8bb0ee209f8778a2c84fe44fa54abf2d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/buikslotermeerplein_16k.exr",
+                    "size": 1523427673,
+                    "md5": "1a7deafffe72fb31220e0890e03c867d"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/buikslotermeerplein_4k.hdr",
+                    "size": 25738136,
+                    "md5": "28a0bd3080d34ee42e6507a2d6c24a4b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/buikslotermeerplein_4k.exr",
+                    "size": 96434598,
+                    "md5": "71453f35165f9c8a1ceca8c7136725bc"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/buikslotermeerplein_24k.hdr",
+                    "size": 859719195,
+                    "md5": "9af498d4cac1acd4ea868955fadb37a5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/buikslotermeerplein_24k.exr",
+                    "size": 3407106554,
+                    "md5": "c11cd9c2f54e0735bea4183391463f62"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/buikslotermeerplein_2k.hdr",
+                    "size": 6460786,
+                    "md5": "f97777c0eea4906b0a6ae9096552891a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/buikslotermeerplein_2k.exr",
+                    "size": 24183132,
+                    "md5": "9a1416754fcb041c9204ec7f81105a4e"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/buikslotermeerplein_1k.hdr",
+                    "size": 1624392,
+                    "md5": "99827f16f7bd69c5b9f3e22d3a9d1193"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/buikslotermeerplein_1k.exr",
+                    "size": 6071290,
+                    "md5": "e39ae3e6e4ef5bace4c411af693fda86"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5500,
+    "tags": [
+        "fish",
+        "shark",
+        "museum"
+    ],
+    "date_published": 1547161200,
+    "name": "Hall of Finfish",
+    "categories": [
+        "indoor",
+        "urban",
+        "low contrast",
+        "artificial light"
+    ],
+    "date_taken": 1544094120,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        "7937768"
+    ],
+    "files_hash": "5590570c981cf1082e67ef6bde61c189b2cb2a6d",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 18863,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hall_of_finfish.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 39641423,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hall_of_finfish.jpg",
+            "md5": "c97ff56cedb875e8c3afca7bb2daa539"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99997364,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hall_of_finfish_8k.hdr",
+                    "md5": "e5fbdfcee916e73548f7b861151d96b0"
+                },
+                "exr": {
+                    "size": 79759430,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hall_of_finfish_8k.exr",
+                    "md5": "f5d22b248d7241b6654e695c68d1a35d"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 377031840,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hall_of_finfish_16k.hdr",
+                    "md5": "d6ad10fbf309acfe8f2946c273999b9b"
+                },
+                "exr": {
+                    "size": 288487000,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hall_of_finfish_16k.exr",
+                    "md5": "01e17917ae4a0ceb4830409748bdf752"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25489805,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hall_of_finfish_4k.hdr",
+                    "md5": "c5a2883f73fd00b8b0e127a38907de81"
+                },
+                "exr": {
+                    "size": 20666313,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hall_of_finfish_4k.exr",
+                    "md5": "3e950a5533350080a2a7f866a8797b82"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6448429,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hall_of_finfish_2k.hdr",
+                    "md5": "9a3430e6673c254b41103c7f9ddd437b"
+                },
+                "exr": {
+                    "size": 5364215,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hall_of_finfish_2k.exr",
+                    "md5": "f2c4cb8617d7db90e451a5ede77d08f0"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1633336,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hall_of_finfish_1k.hdr",
+                    "md5": "987fadf51ebcb673321214ea79209609"
+                },
+                "exr": {
+                    "size": 1428402,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hall_of_finfish_1k.exr",
+                    "md5": "30b9574e76a7b43c1860a26574ca0b40"
+                }
+            }
+        }
+    }
+}

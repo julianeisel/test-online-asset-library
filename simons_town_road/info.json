@@ -1,0 +1,121 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5313,
+    "name": "Simon's Town Road",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "clear",
+        "high contrast",
+        "morning-afternoon"
+    ],
+    "date_taken": 1581611520,
+    "coords": [
+        -34.223141158317475,
+        18.465977715530645
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "tags": [
+        "road",
+        "asphalt",
+        "street",
+        "ocean",
+        "curve",
+        "coastal",
+        "cape town",
+        "sun"
+    ],
+    "files_hash": "bcc50549717937ae3820172caa5aa6f1a49b7e03",
+    "date_published": 1716940800,
+    "download_count": 14942,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/simons_town_road.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 51615883,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/simons_town_road.jpg",
+            "md5": "7139dfa49b24d6d8864bffb39e63781c"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102841266,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/simons_town_road_8k.hdr",
+                    "md5": "f0b5c7a51dbb87c94f45b3bd37e5fc6e"
+                },
+                "exr": {
+                    "size": 334357098,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/simons_town_road_8k.exr",
+                    "md5": "e7dce79e7397e4cc9f551d1efea81a4a"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 379582617,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/simons_town_road_16k.hdr",
+                    "md5": "f92f02b283950b48f9f3e014ca7f925c"
+                },
+                "exr": {
+                    "size": 1279353548,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/simons_town_road_16k.exr",
+                    "md5": "f7b08123ac22cfda29eac3b1c1165b23"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25669510,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/simons_town_road_4k.hdr",
+                    "md5": "ee81e57dac2c3c15cbeeb12646123a41"
+                },
+                "exr": {
+                    "size": 85075258,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/simons_town_road_4k.exr",
+                    "md5": "3c64edb0a6415dbf5d13c4644f9f4f45"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 833541668,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/simons_town_road_24k.hdr",
+                    "md5": "a2abb271c75184830838765955fdc0d6"
+                },
+                "exr": {
+                    "size": 2894799029,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/simons_town_road_24k.exr",
+                    "md5": "9c8f3d7a31a4a8a1557c53cbc80e5d15"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6186611,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/simons_town_road_2k.hdr",
+                    "md5": "8ae91a2fd0a74140a1de7b5f6a878ca0"
+                },
+                "exr": {
+                    "size": 21964168,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/simons_town_road_2k.exr",
+                    "md5": "b75a941affc4b196cbddbc4686a80ab2"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1486224,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/simons_town_road_1k.hdr",
+                    "md5": "9e66538148c0c9108778c7f4bba63bfd"
+                },
+                "exr": {
+                    "size": 5845229,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/simons_town_road_1k.exr",
+                    "md5": "b6ee98ef3ff1983f94b80075d9d6cde1"
+                }
+            }
+        }
+    }
+}

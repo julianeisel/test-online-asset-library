@@ -1,0 +1,105 @@
+{
+    "evs_cap": 26,
+    "type": 0,
+    "tags": [
+        "tree",
+        "park",
+        "path",
+        "europe",
+        "bench",
+        "brick"
+    ],
+    "date_published": 1567475755,
+    "name": "Altanka",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1561523520,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "183927799fcdac7131d6ce21e517e53706503787",
+    "download_count": 41079,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/altanka.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4092715,
+            "md5": "aa2fcf8cd10ad5859031488bfff5ab91",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/altanka.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/altanka_8k.hdr",
+                    "size": 97950540,
+                    "md5": "a00462df338a421856fcff9f127fb4a9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/altanka_8k.exr",
+                    "size": 76519169,
+                    "md5": "ce90d8fadf9e1c03aa02c2cb99873ef0"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/altanka_16k.hdr",
+                    "size": 368326203,
+                    "md5": "fe50cc5deb1690c29ef4816ace48dbf1"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/altanka_16k.exr",
+                    "size": 273972927,
+                    "md5": "c1a9d0531fee6cbcd781f1d7ee5282f3"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/altanka_4k.hdr",
+                    "size": 24919780,
+                    "md5": "dc39aa5ac77031eca7ce49cd9bd04a76"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/altanka_4k.exr",
+                    "size": 19844218,
+                    "md5": "a2911dc9b2da31844694c40380cb7c26"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/altanka_2k.hdr",
+                    "size": 6235356,
+                    "md5": "96f10b430bca8922f43bc39fc36a049b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/altanka_2k.exr",
+                    "size": 5081171,
+                    "md5": "400347b57de7d43b3166a78d9009f6ad"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/altanka_1k.hdr",
+                    "size": 1572949,
+                    "md5": "d51ac40f9979af521685935e88e0ffe9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/altanka_1k.exr",
+                    "size": 1311484,
+                    "md5": "f4f2cd78cc505eb1255a110915460d29"
+                }
+            }
+        }
+    }
+}

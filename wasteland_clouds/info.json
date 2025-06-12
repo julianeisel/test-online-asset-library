@@ -1,0 +1,103 @@
+{
+    "evs_cap": 16,
+    "type": 0,
+    "tags": [
+        "sun",
+        "grass",
+        "field"
+    ],
+    "date_published": 1560204000,
+    "name": "Wasteland Clouds",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "sunrise-sunset",
+        "partly cloudy",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1554914160,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "files_hash": "c2012d3df10195ef96f6f4484cc6280eaf45d85f",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 78938,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wasteland_clouds.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6250815,
+            "md5": "0ee1af1f2275e745f65fab559ada399e",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/wasteland_clouds.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103628351,
+                    "md5": "fe77e091a0c883cdae794beb7666878e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/wasteland_clouds_8k.hdr"
+                },
+                "exr": {
+                    "size": 82187027,
+                    "md5": "a8380427a10f81a400c953746a5db16c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/wasteland_clouds_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 387990179,
+                    "md5": "58c357e3ba5586c939cfb0cc46dcf7a2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/wasteland_clouds_16k.hdr"
+                },
+                "exr": {
+                    "size": 300378209,
+                    "md5": "962b835b331220fdf3158c56b67bd5c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/wasteland_clouds_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26075436,
+                    "md5": "3b27441f19754133aed69f83ce3a3d5b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/wasteland_clouds_4k.hdr"
+                },
+                "exr": {
+                    "size": 21131379,
+                    "md5": "233f169aaa59d9f860da2551097866d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/wasteland_clouds_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6482846,
+                    "md5": "d89743669fe0d1a036035bfc236693ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/wasteland_clouds_2k.hdr"
+                },
+                "exr": {
+                    "size": 5418321,
+                    "md5": "03188d4aecb55fb3f7539eef3b7cc7a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/wasteland_clouds_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1632290,
+                    "md5": "d8fb5968b7f1e76c1c8db7fcc876c522",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/wasteland_clouds_1k.hdr"
+                },
+                "exr": {
+                    "size": 1402606,
+                    "md5": "1f2e64dd5a5c42420418b5b5acf4a009",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/wasteland_clouds_1k.exr"
+                }
+            }
+        }
+    }
+}

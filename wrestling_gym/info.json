@@ -1,0 +1,556 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "whitebalance": 8500,
+    "tags": [
+        "gym",
+        "exercise",
+        "mat",
+        "windows",
+        "empty",
+        "hall",
+        "fitness",
+        "backplates"
+    ],
+    "name": "Wrestling Gym",
+    "categories": [
+        "indoor",
+        "urban",
+        "natural light",
+        "low contrast",
+        "midday",
+        "morning-afternoon"
+    ],
+    "backplates": true,
+    "date_taken": 1678702320,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "files_hash": "0eed9e54bce1ef67683d1ffe48dc7fbf555093eb",
+    "date_published": 1687132800,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 16364,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wrestling_gym.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 32527867,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/wrestling_gym.jpg",
+            "md5": "86d86389f19dc3b419843693d51b42cf"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 92999571,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/wrestling_gym_8k.hdr",
+                    "md5": "7530f937f641b5ef616cbdd600c662e9"
+                },
+                "exr": {
+                    "size": 66464290,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/wrestling_gym_8k.exr",
+                    "md5": "0a1a8dcee82d17afd6bb21042752947a"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 333987436,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/wrestling_gym_16k.hdr",
+                    "md5": "8cd816d763f12a364acf4d79f8f70b1b"
+                },
+                "exr": {
+                    "size": 239148332,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/wrestling_gym_16k.exr",
+                    "md5": "68ae203f6f2b989591c3d698037ab0c2"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 23993027,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/wrestling_gym_4k.hdr",
+                    "md5": "835311c837beea298a300738d5c76d7c"
+                },
+                "exr": {
+                    "size": 17402623,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/wrestling_gym_4k.exr",
+                    "md5": "da030117d9faba276a2e848d430c7010"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6097171,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/wrestling_gym_2k.hdr",
+                    "md5": "968398ed0f3072b3c4997c640620ff78"
+                },
+                "exr": {
+                    "size": 4576398,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/wrestling_gym_2k.exr",
+                    "md5": "1f5be1cc6b486c0a297d165921797c1e"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1540197,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/wrestling_gym_1k.hdr",
+                    "md5": "3e76779d5552518ea3ec6d3c77c0898d"
+                },
+                "exr": {
+                    "size": 1219456,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/wrestling_gym_1k.exr",
+                    "md5": "3a9d1783ce48ebe9c066cd243fbeb533"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 88359099,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/wrestling_gym.zip",
+            "md5": "972c3afac3ad1a4aaac692bffe161c26"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "size": 4458877,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/10.jpg",
+                    "md5": "339d0d90067e65fb37e16ae1bf1a9513"
+                },
+                "jpg_plain": {
+                    "size": 3285108,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/10.jpg",
+                    "md5": "fa1d8f74b11407e0fe234af75a30f4d7"
+                },
+                "raw": {
+                    "size": 24509645,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/10.NEF",
+                    "md5": "0ad0bb924fa40c1b393c0dd4dc95eba2"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "size": 3998956,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/11.jpg",
+                    "md5": "b235b011ddd6294025ea67b9ce449429"
+                },
+                "jpg_plain": {
+                    "size": 3191045,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/11.jpg",
+                    "md5": "bc24b0cb26e1022badb7ca3e94ce25dd"
+                },
+                "raw": {
+                    "size": 24092533,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/11.NEF",
+                    "md5": "3c959e30a1d77c048d54ff53081e3584"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "size": 5367189,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/12.jpg",
+                    "md5": "3e33e54b39b22a1b4e9ed543251ed169"
+                },
+                "jpg_plain": {
+                    "size": 3571816,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/12.jpg",
+                    "md5": "a0bacfb5d6496c22c3147e2d0c6affa5"
+                },
+                "raw": {
+                    "size": 25009255,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/12.NEF",
+                    "md5": "c7a765922eeb4a41de927eae61446bdc"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "size": 5438376,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/13.jpg",
+                    "md5": "ac54d24d5c9f588dda4eb5abebb32dc7"
+                },
+                "jpg_plain": {
+                    "size": 3558628,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/13.jpg",
+                    "md5": "797159193b76d51a0f3df6f2f50c371d"
+                },
+                "raw": {
+                    "size": 24725265,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/13.NEF",
+                    "md5": "71e34a102b3fcf096ddfa304240bd833"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "size": 4583017,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/14.jpg",
+                    "md5": "16ed24b1f6c7745c978519e0d7f70de2"
+                },
+                "jpg_plain": {
+                    "size": 3733015,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/14.jpg",
+                    "md5": "17ae77341b03e28e88dae5523c47607d"
+                },
+                "raw": {
+                    "size": 24794331,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/14.NEF",
+                    "md5": "a25e8b3cdf62f1a48dbe513a110ce411"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "size": 4999061,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/15.jpg",
+                    "md5": "e55b446e99e385e0d1abd14db20fdf80"
+                },
+                "jpg_plain": {
+                    "size": 3440811,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/15.jpg",
+                    "md5": "f931ccff019383d9d866027d5d7113e6"
+                },
+                "raw": {
+                    "size": 25414917,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/15.NEF",
+                    "md5": "51a326028071d000ac5dc758090b3cf2"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "size": 5052879,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/16.jpg",
+                    "md5": "fbeeeccafcf2ed5214385115877566a8"
+                },
+                "jpg_plain": {
+                    "size": 3192720,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/16.jpg",
+                    "md5": "8b4671fd67bab1a3e20a55d7004b22ee"
+                },
+                "raw": {
+                    "size": 25277463,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/16.NEF",
+                    "md5": "797f6dc8e63d38614402ac6bd472989a"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "size": 6916837,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/17.jpg",
+                    "md5": "86e6472caae60b9a3beeed839a397f21"
+                },
+                "jpg_plain": {
+                    "size": 3982296,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/17.jpg",
+                    "md5": "7acfaf242ab3e704e7d3598dfda1aaa7"
+                },
+                "raw": {
+                    "size": 26677108,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/17.NEF",
+                    "md5": "39b9dccbb84a75bc7950a5bd51426eea"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "size": 5862461,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/18.jpg",
+                    "md5": "ae908e130a905f3431958715498ca3df"
+                },
+                "jpg_plain": {
+                    "size": 4118131,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/18.jpg",
+                    "md5": "486ecd39248f15ffeb904bba6719f643"
+                },
+                "raw": {
+                    "size": 26414806,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/18.NEF",
+                    "md5": "6510421148714a7a8db457d232844d15"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "size": 5782320,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/19.jpg",
+                    "md5": "1c5dd7a9371695e49be463688b4f9695"
+                },
+                "jpg_plain": {
+                    "size": 3275252,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/19.jpg",
+                    "md5": "d7c2fbae3cf1590ac2d76b6490f8e9d0"
+                },
+                "raw": {
+                    "size": 24332007,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/19.NEF",
+                    "md5": "92d71d193f52dd0d62696ed598b90970"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "size": 5578151,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/20.jpg",
+                    "md5": "cdc74ecbe76a52ed83917cdafd18bc47"
+                },
+                "jpg_plain": {
+                    "size": 3509248,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/20.jpg",
+                    "md5": "9a9210523f6e8ecfe2f3b3d1e10c53f4"
+                },
+                "raw": {
+                    "size": 24690593,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/20.NEF",
+                    "md5": "d963e5ed6ea358f38abb8038a58fd799"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "size": 4946487,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/21.jpg",
+                    "md5": "4cb9c5bdb64c0bfede7a5ebe05cb848a"
+                },
+                "jpg_plain": {
+                    "size": 3598804,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/21.jpg",
+                    "md5": "cb33b45b64617db9fa20adbf0c0f1317"
+                },
+                "raw": {
+                    "size": 24805055,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/21.NEF",
+                    "md5": "ad7f08498c6b816c4be383476879c1f9"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "size": 7378921,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/22.jpg",
+                    "md5": "a02ca3b8ee514929e19ca540175f69b9"
+                },
+                "jpg_plain": {
+                    "size": 3973608,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/22.jpg",
+                    "md5": "152303e0012ef1ab1507d90882a51367"
+                },
+                "raw": {
+                    "size": 26008795,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/22.NEF",
+                    "md5": "538168da0cf9af755702d2bf369b9c9c"
+                }
+            },
+            "23": {
+                "jpg_pretty": {
+                    "size": 5580023,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/23.jpg",
+                    "md5": "8a5c85a5885fb0f2d688acd4e8b4bec9"
+                },
+                "jpg_plain": {
+                    "size": 3425711,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/23.jpg",
+                    "md5": "db5deb51d560ece5431eec0e37fac84d"
+                },
+                "raw": {
+                    "size": 24229539,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/23.NEF",
+                    "md5": "43c48d686f827e0174ccccd6fd2820ce"
+                }
+            },
+            "24": {
+                "jpg_pretty": {
+                    "size": 5918873,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/24.jpg",
+                    "md5": "a79e4e619546921949b13bcf9c424105"
+                },
+                "jpg_plain": {
+                    "size": 3683938,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/24.jpg",
+                    "md5": "39d26203222b2158863a2eb1ffa82981"
+                },
+                "raw": {
+                    "size": 25378035,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/24.NEF",
+                    "md5": "87e9e6781c0908e60927040f7117091b"
+                }
+            },
+            "25": {
+                "jpg_pretty": {
+                    "size": 5614896,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/25.jpg",
+                    "md5": "4a2f5d18c407cf1d56e8c6e86d36b18f"
+                },
+                "jpg_plain": {
+                    "size": 3723335,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/25.jpg",
+                    "md5": "bb066ae0949b06a6c3b4658c8b211184"
+                },
+                "raw": {
+                    "size": 24765070,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/25.NEF",
+                    "md5": "a67a9141d8c55fb83dc0934b869e453e"
+                }
+            },
+            "26": {
+                "jpg_pretty": {
+                    "size": 5835692,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/26.jpg",
+                    "md5": "1f6551012612688df9193c931686996c"
+                },
+                "jpg_plain": {
+                    "size": 3761775,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/26.jpg",
+                    "md5": "b08cc485fb4bb15cc4bce0e4bd75190a"
+                },
+                "raw": {
+                    "size": 24836665,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/26.NEF",
+                    "md5": "c58fab4d87acad744a63e804b2150de1"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "size": 5138864,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/01.jpg",
+                    "md5": "3f3af12e471156dc2fc582a2cf903087"
+                },
+                "jpg_plain": {
+                    "size": 3546518,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/01.jpg",
+                    "md5": "68a821a338bbc1866534da959b3e5a10"
+                },
+                "raw": {
+                    "size": 24965484,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/01.NEF",
+                    "md5": "369b1c202321082331519e7121ab556c"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "size": 5899851,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/02.jpg",
+                    "md5": "ab7068af40bd5b1a5dfd4bb8dbfc836a"
+                },
+                "jpg_plain": {
+                    "size": 3549173,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/02.jpg",
+                    "md5": "a42b9c6c3ae13434131952636be6ef57"
+                },
+                "raw": {
+                    "size": 24442680,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/02.NEF",
+                    "md5": "feddd7e1ae9cb384d50f56c7b6bcc4e2"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "size": 4685330,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/03.jpg",
+                    "md5": "4090c6b05dd3b5d9afd5b1935e9c0f54"
+                },
+                "jpg_plain": {
+                    "size": 3369390,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/03.jpg",
+                    "md5": "cb528a9cc23267040d76ade5d5166b13"
+                },
+                "raw": {
+                    "size": 24467995,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/03.NEF",
+                    "md5": "5e5c91a9fa2c629a353f976ba1e5a10d"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "size": 4692980,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/04.jpg",
+                    "md5": "13efb2d5f2e8b192cf4e222870c514a2"
+                },
+                "jpg_plain": {
+                    "size": 3281842,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/04.jpg",
+                    "md5": "885f917a8ca7d0ac06ccdbde1a3748a0"
+                },
+                "raw": {
+                    "size": 24296953,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/04.NEF",
+                    "md5": "a35dc6221e2687334173fc6128e6fbcf"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "size": 4734103,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/05.jpg",
+                    "md5": "74a635cd1bf52b2d030e08ad456840f2"
+                },
+                "jpg_plain": {
+                    "size": 3306606,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/05.jpg",
+                    "md5": "b71c4c536ba4a6a331577b301ea9a05a"
+                },
+                "raw": {
+                    "size": 24381093,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/05.NEF",
+                    "md5": "c7825c0f750c3a00d89f414efc5332c3"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "size": 4141364,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/06.jpg",
+                    "md5": "11b68efcbd1c6d27fd0420b95e288d19"
+                },
+                "jpg_plain": {
+                    "size": 2598442,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/06.jpg",
+                    "md5": "b1c4e698eb787856d7c626580626a16d"
+                },
+                "raw": {
+                    "size": 23504415,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/06.NEF",
+                    "md5": "84dd23f34d8da3706ecf3ebe0f5db6cd"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "size": 4811309,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/07.jpg",
+                    "md5": "b78ce0e7cb2375bcee20f6336ebd8d30"
+                },
+                "jpg_plain": {
+                    "size": 3022847,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/07.jpg",
+                    "md5": "90a0fd23269944d8452d382c69802816"
+                },
+                "raw": {
+                    "size": 24168455,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/07.NEF",
+                    "md5": "7642e172a19ccb8e33ca8c9a4b932215"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "size": 5058586,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/08.jpg",
+                    "md5": "a2d491bd1e320f403dab1d4a4acfbeca"
+                },
+                "jpg_plain": {
+                    "size": 3061680,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/08.jpg",
+                    "md5": "37af8d0780cd690ca67e0c9e24ebe4ef"
+                },
+                "raw": {
+                    "size": 24136527,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/08.NEF",
+                    "md5": "d6004acee5241873357aa964b6ad629a"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "size": 4349168,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_pretty/09.jpg",
+                    "md5": "ef87a231901e470c168ad0055831316a"
+                },
+                "jpg_plain": {
+                    "size": 3244354,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/jpg_plain/09.jpg",
+                    "md5": "bfe42a620682548aea6789e4c79ec75e"
+                },
+                "raw": {
+                    "size": 24117731,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/wrestling_gym/raw/09.NEF",
+                    "md5": "24028438e872e809004713ebfb328e17"
+                }
+            }
+        }
+    }
+}

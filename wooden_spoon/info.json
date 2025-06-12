@@ -1,0 +1,669 @@
+{
+    "donated": true,
+    "name": "Wooden Spoon",
+    "categories": [
+        "props",
+        "dishes"
+    ],
+    "type": 2,
+    "tags": [
+        "cutlery",
+        "spoon",
+        "kitchen",
+        "cookware",
+        "cooking",
+        "serving spoon",
+        "mixing spoon",
+        "culinary"
+    ],
+    "authors": {
+        "Ronnie Barter": "All"
+    },
+    "info": null,
+    "files_hash": "ee49504b7667bfb4288af79a1ed15ac34aebaf9d",
+    "date_published": 1699056000,
+    "max_resolution": [
+        4096,
+        4096
+    ],
+    "polycount": 6576,
+    "texel_density": 18796.739024725215,
+    "dimensions": [
+        86.66010573506355,
+        277.6350826025009,
+        25.113525800406933
+    ],
+    "download_count": 1496,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_spoon.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "4k": {
+                "jpg": {
+                    "size": 5232649,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/wooden_spoon/wooden_spoon_diff_4k.jpg",
+                    "md5": "fd2e42221805a623afec9cbfcd45702b"
+                },
+                "png": {
+                    "size": 32695703,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/wooden_spoon/wooden_spoon_diff_4k.png",
+                    "md5": "7dc46deae009ccd0dca80f586f66e233"
+                },
+                "exr": {
+                    "size": 10254134,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/wooden_spoon/wooden_spoon_diff_4k.exr",
+                    "md5": "ff2b8bb42a7fc3b7826b121531942efc"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1467757,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_spoon/wooden_spoon_diff_2k.jpg",
+                    "md5": "086e30b972c6cf0d435207e1be58289f"
+                },
+                "png": {
+                    "size": 12146360,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/wooden_spoon/wooden_spoon_diff_2k.png",
+                    "md5": "09f54c195748319fc7f60f0caa05ec46"
+                },
+                "exr": {
+                    "size": 2601354,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/wooden_spoon/wooden_spoon_diff_2k.exr",
+                    "md5": "c91feb93f3a167aeb4ea819ecc9bf815"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 416433,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_spoon/wooden_spoon_diff_1k.jpg",
+                    "md5": "1ba18740c602184511f4e0816ac3828b"
+                },
+                "png": {
+                    "size": 3471070,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/wooden_spoon/wooden_spoon_diff_1k.png",
+                    "md5": "c72d60e264fec81020a471a6c30bcf87"
+                },
+                "exr": {
+                    "size": 754440,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/wooden_spoon/wooden_spoon_diff_1k.exr",
+                    "md5": "87bbd7e33a69e6f2f977b23993dc56f8"
+                }
+            }
+        },
+        "nor_dx": {
+            "4k": {
+                "jpg": {
+                    "size": 16936889,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/wooden_spoon/wooden_spoon_nor_dx_4k.jpg",
+                    "md5": "90763e0d23db113eda3f2838ef08e4a6"
+                },
+                "png": {
+                    "size": 55052057,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/wooden_spoon/wooden_spoon_nor_dx_4k.png",
+                    "md5": "97a088c3a452c68bd498025bfe883dde"
+                },
+                "exr": {
+                    "size": 32042346,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/wooden_spoon/wooden_spoon_nor_dx_4k.exr",
+                    "md5": "ca25e442038a420b2dd7c923a149cd84"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3887605,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_spoon/wooden_spoon_nor_dx_2k.jpg",
+                    "md5": "2847cf8a237df04e8dbb1da1fd1d404b"
+                },
+                "png": {
+                    "size": 14525488,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/wooden_spoon/wooden_spoon_nor_dx_2k.png",
+                    "md5": "51bd7276c8282465adf5c7ce2003f55c"
+                },
+                "exr": {
+                    "size": 7955851,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/wooden_spoon/wooden_spoon_nor_dx_2k.exr",
+                    "md5": "17d935ef8ef6340a86c888683d62dc71"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 873366,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_spoon/wooden_spoon_nor_dx_1k.jpg",
+                    "md5": "ca97f4b08cdade7919f5fccc2a28b498"
+                },
+                "png": {
+                    "size": 3913926,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/wooden_spoon/wooden_spoon_nor_dx_1k.png",
+                    "md5": "2a57817825e4e44deaeff184675ca94d"
+                },
+                "exr": {
+                    "size": 1914947,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/wooden_spoon/wooden_spoon_nor_dx_1k.exr",
+                    "md5": "acb5c01b79cccdcdafd5288f7a070f3e"
+                }
+            }
+        },
+        "nor_gl": {
+            "4k": {
+                "jpg": {
+                    "size": 15910543,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/wooden_spoon/wooden_spoon_nor_gl_4k.jpg",
+                    "md5": "7d9237e10483b68d057d5d092709cac6"
+                },
+                "png": {
+                    "size": 55052512,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/wooden_spoon/wooden_spoon_nor_gl_4k.png",
+                    "md5": "ec1e8a3f08194723f6c9e5e321546bf9"
+                },
+                "exr": {
+                    "size": 32043828,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/wooden_spoon/wooden_spoon_nor_gl_4k.exr",
+                    "md5": "eac744c3647fca2d4863293c6a416eb7"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 3763297,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_spoon/wooden_spoon_nor_gl_2k.jpg",
+                    "md5": "cd699e60b1dbe4c007c471eb645ae8a0"
+                },
+                "png": {
+                    "size": 14527671,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/wooden_spoon/wooden_spoon_nor_gl_2k.png",
+                    "md5": "15b36a26f6473feb4e57099ded5f999c"
+                },
+                "exr": {
+                    "size": 7949492,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/wooden_spoon/wooden_spoon_nor_gl_2k.exr",
+                    "md5": "2c299645383c3a796cf474c19f217012"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 851908,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_spoon/wooden_spoon_nor_gl_1k.jpg",
+                    "md5": "58102c37108c8220bc1c6346e8eebeba"
+                },
+                "png": {
+                    "size": 3915336,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/wooden_spoon/wooden_spoon_nor_gl_1k.png",
+                    "md5": "f03c75562a30c06db1bbf3eedada8730"
+                },
+                "exr": {
+                    "size": 1913013,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/wooden_spoon/wooden_spoon_nor_gl_1k.exr",
+                    "md5": "361587f79f76578350d0586cd2322190"
+                }
+            }
+        },
+        "blend": {
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/wooden_spoon_diff_4k.jpg": {
+                            "size": 5232649,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/wooden_spoon/wooden_spoon_diff_4k.jpg",
+                            "md5": "fd2e42221805a623afec9cbfcd45702b"
+                        },
+                        "textures/wooden_spoon_nor_gl_4k.exr": {
+                            "size": 32043828,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/wooden_spoon/wooden_spoon_nor_gl_4k.exr",
+                            "md5": "eac744c3647fca2d4863293c6a416eb7"
+                        },
+                        "textures/wooden_spoon_rough_4k.exr": {
+                            "size": 8087307,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/wooden_spoon/wooden_spoon_rough_4k.exr",
+                            "md5": "2d2c38fcbaa18038ebe638f92eb9f11c"
+                        }
+                    },
+                    "size": 272080,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/wooden_spoon/wooden_spoon_4k.blend",
+                    "md5": "55270055fe6c705b88ccc7e71f70730e"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/wooden_spoon_diff_2k.jpg": {
+                            "size": 1467757,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_spoon/wooden_spoon_diff_2k.jpg",
+                            "md5": "086e30b972c6cf0d435207e1be58289f"
+                        },
+                        "textures/wooden_spoon_rough_2k.exr": {
+                            "size": 2708258,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/wooden_spoon/wooden_spoon_rough_2k.exr",
+                            "md5": "09df4e5668cee0d448be6378a66628c6"
+                        },
+                        "textures/wooden_spoon_nor_gl_2k.exr": {
+                            "size": 7949492,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/wooden_spoon/wooden_spoon_nor_gl_2k.exr",
+                            "md5": "2c299645383c3a796cf474c19f217012"
+                        }
+                    },
+                    "size": 279172,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/wooden_spoon/wooden_spoon_2k.blend",
+                    "md5": "28abc6d5c93e3e1f2f2aef203159e616"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/wooden_spoon_nor_gl_1k.exr": {
+                            "size": 1913013,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/wooden_spoon/wooden_spoon_nor_gl_1k.exr",
+                            "md5": "361587f79f76578350d0586cd2322190"
+                        },
+                        "textures/wooden_spoon_diff_1k.jpg": {
+                            "size": 416433,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_spoon/wooden_spoon_diff_1k.jpg",
+                            "md5": "1ba18740c602184511f4e0816ac3828b"
+                        },
+                        "textures/wooden_spoon_rough_1k.exr": {
+                            "size": 821824,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/wooden_spoon/wooden_spoon_rough_1k.exr",
+                            "md5": "0c0538fb94ec62b21ef71fadbb72dde2"
+                        }
+                    },
+                    "size": 278792,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/wooden_spoon/wooden_spoon_1k.blend",
+                    "md5": "c8a37cd83853eeccd0a44a1ef037c1aa"
+                }
+            }
+        },
+        "gltf": {
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/wooden_spoon_arm_4k.jpg": {
+                            "size": 7172647,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/wooden_spoon/wooden_spoon_arm_4k.jpg",
+                            "md5": "56cf1fcc1a2769706892845c7ec801a9"
+                        },
+                        "textures/wooden_spoon_diff_4k.jpg": {
+                            "size": 5232649,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/wooden_spoon/wooden_spoon_diff_4k.jpg",
+                            "md5": "fd2e42221805a623afec9cbfcd45702b"
+                        },
+                        "textures/wooden_spoon_nor_gl_4k.jpg": {
+                            "size": 15910543,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/wooden_spoon/wooden_spoon_nor_gl_4k.jpg",
+                            "md5": "7d9237e10483b68d057d5d092709cac6"
+                        },
+                        "wooden_spoon.bin": {
+                            "size": 153184,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/wooden_spoon/wooden_spoon.bin",
+                            "md5": "defca1acf4e04ea5587fd4e5a2bf5bad"
+                        }
+                    },
+                    "size": 2773,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/wooden_spoon/wooden_spoon_4k.gltf",
+                    "md5": "c2e66a4a959152878e85dc8844a5b5fd"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/wooden_spoon_diff_2k.jpg": {
+                            "size": 1467757,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_spoon/wooden_spoon_diff_2k.jpg",
+                            "md5": "086e30b972c6cf0d435207e1be58289f"
+                        },
+                        "textures/wooden_spoon_nor_gl_2k.jpg": {
+                            "size": 3763297,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_spoon/wooden_spoon_nor_gl_2k.jpg",
+                            "md5": "cd699e60b1dbe4c007c471eb645ae8a0"
+                        },
+                        "wooden_spoon.bin": {
+                            "size": 153184,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/wooden_spoon/wooden_spoon.bin",
+                            "md5": "defca1acf4e04ea5587fd4e5a2bf5bad"
+                        },
+                        "textures/wooden_spoon_arm_2k.jpg": {
+                            "size": 2005583,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_spoon/wooden_spoon_arm_2k.jpg",
+                            "md5": "e06397bd9a22aef0632ecd6bca3e950c"
+                        }
+                    },
+                    "size": 2773,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/wooden_spoon/wooden_spoon_2k.gltf",
+                    "md5": "45f182b4632b8d1b359e073cd8c9ab3e"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/wooden_spoon_arm_1k.jpg": {
+                            "size": 550279,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_spoon/wooden_spoon_arm_1k.jpg",
+                            "md5": "bb1e09d3e3b9bb49b4297acd1c095cdd"
+                        },
+                        "textures/wooden_spoon_diff_1k.jpg": {
+                            "size": 416433,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_spoon/wooden_spoon_diff_1k.jpg",
+                            "md5": "1ba18740c602184511f4e0816ac3828b"
+                        },
+                        "wooden_spoon.bin": {
+                            "size": 153184,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/wooden_spoon/wooden_spoon.bin",
+                            "md5": "defca1acf4e04ea5587fd4e5a2bf5bad"
+                        },
+                        "textures/wooden_spoon_nor_gl_1k.jpg": {
+                            "size": 851908,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_spoon/wooden_spoon_nor_gl_1k.jpg",
+                            "md5": "58102c37108c8220bc1c6346e8eebeba"
+                        }
+                    },
+                    "size": 2773,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wooden_spoon/wooden_spoon_1k.gltf",
+                    "md5": "d79fe52951d9529c5aa0070ce19d1b9c"
+                }
+            }
+        },
+        "usd": {
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/wooden_spoon_diff_4k.jpg": {
+                            "size": 5232649,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/wooden_spoon/wooden_spoon_diff_4k.jpg",
+                            "md5": "fd2e42221805a623afec9cbfcd45702b"
+                        },
+                        "textures/wooden_spoon_nor_gl_4k.exr": {
+                            "size": 32043828,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/wooden_spoon/wooden_spoon_nor_gl_4k.exr",
+                            "md5": "eac744c3647fca2d4863293c6a416eb7"
+                        },
+                        "textures/wooden_spoon_rough_4k.exr": {
+                            "size": 8087307,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/wooden_spoon/wooden_spoon_rough_4k.exr",
+                            "md5": "2d2c38fcbaa18038ebe638f92eb9f11c"
+                        }
+                    },
+                    "size": 327462,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/wooden_spoon/wooden_spoon_4k.usdc",
+                    "md5": "1b4c214b3ea443d11063653e021b6d96"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/wooden_spoon_diff_2k.jpg": {
+                            "size": 1467757,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_spoon/wooden_spoon_diff_2k.jpg",
+                            "md5": "086e30b972c6cf0d435207e1be58289f"
+                        },
+                        "textures/wooden_spoon_rough_2k.exr": {
+                            "size": 2708258,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/wooden_spoon/wooden_spoon_rough_2k.exr",
+                            "md5": "09df4e5668cee0d448be6378a66628c6"
+                        },
+                        "textures/wooden_spoon_nor_gl_2k.exr": {
+                            "size": 7949492,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/wooden_spoon/wooden_spoon_nor_gl_2k.exr",
+                            "md5": "2c299645383c3a796cf474c19f217012"
+                        }
+                    },
+                    "size": 327462,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/wooden_spoon/wooden_spoon_2k.usdc",
+                    "md5": "b4442f8a087e08c4b0dbbf25855a3e28"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/wooden_spoon_nor_gl_1k.exr": {
+                            "size": 1913013,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/wooden_spoon/wooden_spoon_nor_gl_1k.exr",
+                            "md5": "361587f79f76578350d0586cd2322190"
+                        },
+                        "textures/wooden_spoon_diff_1k.jpg": {
+                            "size": 416433,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_spoon/wooden_spoon_diff_1k.jpg",
+                            "md5": "1ba18740c602184511f4e0816ac3828b"
+                        },
+                        "textures/wooden_spoon_rough_1k.exr": {
+                            "size": 821824,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/wooden_spoon/wooden_spoon_rough_1k.exr",
+                            "md5": "0c0538fb94ec62b21ef71fadbb72dde2"
+                        }
+                    },
+                    "size": 327462,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/wooden_spoon/wooden_spoon_1k.usdc",
+                    "md5": "172280d3d8cd37835ccf143b279c82ae"
+                }
+            }
+        },
+        "arm": {
+            "4k": {
+                "jpg": {
+                    "size": 7172647,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/wooden_spoon/wooden_spoon_arm_4k.jpg",
+                    "md5": "56cf1fcc1a2769706892845c7ec801a9"
+                },
+                "png": {
+                    "size": 20962184,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/wooden_spoon/wooden_spoon_arm_4k.png",
+                    "md5": "528e9160838c0fc46c98d1becc565153"
+                },
+                "exr": {
+                    "size": 13319918,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/wooden_spoon/wooden_spoon_arm_4k.exr",
+                    "md5": "f52181d136c950c197e2bb8e73e87ab1"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2005583,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_spoon/wooden_spoon_arm_2k.jpg",
+                    "md5": "e06397bd9a22aef0632ecd6bca3e950c"
+                },
+                "png": {
+                    "size": 7700849,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/wooden_spoon/wooden_spoon_arm_2k.png",
+                    "md5": "2c27b10ca586077247fdb821da603a9b"
+                },
+                "exr": {
+                    "size": 3928171,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/wooden_spoon/wooden_spoon_arm_2k.exr",
+                    "md5": "695a25da62175baf0eb9f47516e7b43d"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 550279,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_spoon/wooden_spoon_arm_1k.jpg",
+                    "md5": "bb1e09d3e3b9bb49b4297acd1c095cdd"
+                },
+                "png": {
+                    "size": 2409430,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/wooden_spoon/wooden_spoon_arm_1k.png",
+                    "md5": "08acea8185cd861bd202017daeca47c9"
+                },
+                "exr": {
+                    "size": 1114044,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/wooden_spoon/wooden_spoon_arm_1k.exr",
+                    "md5": "4b7fb59f55a364e8c3caf42997abd43a"
+                }
+            }
+        },
+        "fbx": {
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/wooden_spoon_diff_4k.jpg": {
+                            "size": 5232649,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/wooden_spoon/wooden_spoon_diff_4k.jpg",
+                            "md5": "fd2e42221805a623afec9cbfcd45702b"
+                        },
+                        "textures/wooden_spoon_nor_gl_4k.exr": {
+                            "size": 32043828,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/wooden_spoon/wooden_spoon_nor_gl_4k.exr",
+                            "md5": "eac744c3647fca2d4863293c6a416eb7"
+                        },
+                        "textures/wooden_spoon_rough_4k.exr": {
+                            "size": 8087307,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/wooden_spoon/wooden_spoon_rough_4k.exr",
+                            "md5": "2d2c38fcbaa18038ebe638f92eb9f11c"
+                        }
+                    },
+                    "size": 220572,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/wooden_spoon/wooden_spoon_4k.fbx",
+                    "md5": "b3270e27966dbaa59d74fd85226a158b"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/wooden_spoon_diff_2k.jpg": {
+                            "size": 1467757,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_spoon/wooden_spoon_diff_2k.jpg",
+                            "md5": "086e30b972c6cf0d435207e1be58289f"
+                        },
+                        "textures/wooden_spoon_rough_2k.exr": {
+                            "size": 2708258,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/wooden_spoon/wooden_spoon_rough_2k.exr",
+                            "md5": "09df4e5668cee0d448be6378a66628c6"
+                        },
+                        "textures/wooden_spoon_nor_gl_2k.exr": {
+                            "size": 7949492,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/wooden_spoon/wooden_spoon_nor_gl_2k.exr",
+                            "md5": "2c299645383c3a796cf474c19f217012"
+                        }
+                    },
+                    "size": 220572,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/wooden_spoon/wooden_spoon_2k.fbx",
+                    "md5": "dceeb4c777396a5ebcef10b1ee1532d3"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/wooden_spoon_nor_gl_1k.exr": {
+                            "size": 1913013,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/wooden_spoon/wooden_spoon_nor_gl_1k.exr",
+                            "md5": "361587f79f76578350d0586cd2322190"
+                        },
+                        "textures/wooden_spoon_diff_1k.jpg": {
+                            "size": 416433,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_spoon/wooden_spoon_diff_1k.jpg",
+                            "md5": "1ba18740c602184511f4e0816ac3828b"
+                        },
+                        "textures/wooden_spoon_rough_1k.exr": {
+                            "size": 821824,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/wooden_spoon/wooden_spoon_rough_1k.exr",
+                            "md5": "0c0538fb94ec62b21ef71fadbb72dde2"
+                        }
+                    },
+                    "size": 220572,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/wooden_spoon/wooden_spoon_1k.fbx",
+                    "md5": "5293407b8a3957c9fed9fada72ae9315"
+                }
+            }
+        },
+        "AO": {
+            "4k": {
+                "jpg": {
+                    "size": 1237354,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/wooden_spoon/wooden_spoon_ao_4k.jpg",
+                    "md5": "64deefac98cd77dc2ca31b5472b64a3f"
+                },
+                "png": {
+                    "size": 7647738,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/wooden_spoon/wooden_spoon_ao_4k.png",
+                    "md5": "88c524119b13419c3c2d1c0963bacbbf"
+                },
+                "exr": {
+                    "size": 3320018,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/wooden_spoon/wooden_spoon_ao_4k.exr",
+                    "md5": "207555e60a7da9805fb84a54d3fde70d"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 431200,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_spoon/wooden_spoon_ao_2k.jpg",
+                    "md5": "df60c34aae1f2ca522dd23f45183ae43"
+                },
+                "png": {
+                    "size": 2185543,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/wooden_spoon/wooden_spoon_ao_2k.png",
+                    "md5": "6c35411e5159fdbd61e63d0109d7693c"
+                },
+                "exr": {
+                    "size": 1130910,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/wooden_spoon/wooden_spoon_ao_2k.exr",
+                    "md5": "23e4db7cfe6a3ed67a443984d6edd976"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 175208,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_spoon/wooden_spoon_ao_1k.jpg",
+                    "md5": "a5e4e7d5d5a94fb7157cf7f398af810e"
+                },
+                "png": {
+                    "size": 739818,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/wooden_spoon/wooden_spoon_ao_1k.png",
+                    "md5": "c2571d18f143db8764deab05af77772a"
+                },
+                "exr": {
+                    "size": 404723,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/wooden_spoon/wooden_spoon_ao_1k.exr",
+                    "md5": "f60eb2a6d114a342dd4cf69cacf4710c"
+                }
+            }
+        },
+        "Rough": {
+            "4k": {
+                "jpg": {
+                    "size": 6277521,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/wooden_spoon/wooden_spoon_rough_4k.jpg",
+                    "md5": "a01b2000dd955c2f9dbe3d699de5cb09"
+                },
+                "png": {
+                    "size": 7144336,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/wooden_spoon/wooden_spoon_rough_4k.png",
+                    "md5": "6b1f2225b3f67941644fd8aae2d41c59"
+                },
+                "exr": {
+                    "size": 8087307,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/wooden_spoon/wooden_spoon_rough_4k.exr",
+                    "md5": "2d2c38fcbaa18038ebe638f92eb9f11c"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1721456,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_spoon/wooden_spoon_rough_2k.jpg",
+                    "md5": "aae0b24d0cb5832b43fbd19dd99322fa"
+                },
+                "png": {
+                    "size": 3574263,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/wooden_spoon/wooden_spoon_rough_2k.png",
+                    "md5": "2b21cd8ccf7a79e5422720e37ce5afa6"
+                },
+                "exr": {
+                    "size": 2708258,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/wooden_spoon/wooden_spoon_rough_2k.exr",
+                    "md5": "09df4e5668cee0d448be6378a66628c6"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 458597,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_spoon/wooden_spoon_rough_1k.jpg",
+                    "md5": "36655b835740093ff4e40b86afd29819"
+                },
+                "png": {
+                    "size": 1197382,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/wooden_spoon/wooden_spoon_rough_1k.png",
+                    "md5": "0222cfaab1074722d448e7922a220e60"
+                },
+                "exr": {
+                    "size": 821824,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/wooden_spoon/wooden_spoon_rough_1k.exr",
+                    "md5": "0c0538fb94ec62b21ef71fadbb72dde2"
+                }
+            }
+        }
+    }
+}

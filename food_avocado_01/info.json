@@ -1,0 +1,872 @@
+{
+    "donated": true,
+    "date_published": 1625619600,
+    "name": "Food Avocado 01",
+    "categories": [
+        "food",
+        "nature"
+    ],
+    "type": 2,
+    "authors": {
+        "Oliver Harries": "All"
+    },
+    "tags": [
+        "fruit",
+        "food",
+        "fruitbowl",
+        "avo",
+        "dark",
+        "ripe"
+    ],
+    "files_hash": "183a63a418bc2b3c9ba41483afe500393fea08a8",
+    "sponsors": [
+        "42579608"
+    ],
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "polycount": 7743,
+    "texel_density": 29908.239663588272,
+    "dimensions": [
+        95.18590942025185,
+        94.56679597496986,
+        143.23448191862553
+    ],
+    "download_count": 8724,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/food_avocado_01.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 5638885,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_avocado_01/food_avocado_01_diff_8k.jpg",
+                    "md5": "50f9c9dc6aa92d5b0ab946dade6a1547"
+                },
+                "png": {
+                    "size": 67594792,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_avocado_01/food_avocado_01_diff_8k.png",
+                    "md5": "e5c074af5d2fa682e8481bff07afe767"
+                },
+                "exr": {
+                    "size": 57768639,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_avocado_01/food_avocado_01_diff_8k.exr",
+                    "md5": "2176eaf61c34454b5b865af889cd3655"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1757122,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_avocado_01/food_avocado_01_diff_4k.jpg",
+                    "md5": "ecbf619ddd09d3972a7eba0296d0faf2"
+                },
+                "png": {
+                    "size": 37445608,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_avocado_01/food_avocado_01_diff_4k.png",
+                    "md5": "c1a2347a354ee9d5e6ac4e9cc4cff373"
+                },
+                "exr": {
+                    "size": 14652741,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_avocado_01/food_avocado_01_diff_4k.exr",
+                    "md5": "f87bc2d7eb65d7c5f1ffe36089454efa"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 501576,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_avocado_01/food_avocado_01_diff_2k.jpg",
+                    "md5": "aa5ee38f43eacf9b352913757324eab0"
+                },
+                "png": {
+                    "size": 11166490,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_avocado_01/food_avocado_01_diff_2k.png",
+                    "md5": "eac54f4463ac624285e10c4b961a9b15"
+                },
+                "exr": {
+                    "size": 3956764,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_avocado_01/food_avocado_01_diff_2k.exr",
+                    "md5": "c4189f37261a5b579fed9140d3236af4"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 120451,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_avocado_01/food_avocado_01_diff_1k.jpg",
+                    "md5": "7a1efff7e58bdf40b784f0e1734ae950"
+                },
+                "png": {
+                    "size": 2894709,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_avocado_01/food_avocado_01_diff_1k.png",
+                    "md5": "e72c32dcb179be5f886b2185e6ea1296"
+                },
+                "exr": {
+                    "size": 1118158,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_avocado_01/food_avocado_01_diff_1k.exr",
+                    "md5": "777d13da87fd7b59e6d017212c129b94"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 4416920,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_avocado_01/food_avocado_01_nor_dx_8k.jpg",
+                    "md5": "0016692f8b04e24f1140c56a65d37e0e"
+                },
+                "png": {
+                    "size": 154191097,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_avocado_01/food_avocado_01_nor_dx_8k.png",
+                    "md5": "53fcc4afaf96b9374b6728e477a69aa5"
+                },
+                "exr": {
+                    "size": 23698365,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_avocado_01/food_avocado_01_nor_dx_8k.exr",
+                    "md5": "23a88f4a35520fd27107ce77ee770f59"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1538091,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_avocado_01/food_avocado_01_nor_dx_4k.jpg",
+                    "md5": "e37e81e149b24902dbe60c65ae571180"
+                },
+                "png": {
+                    "size": 42501967,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_avocado_01/food_avocado_01_nor_dx_4k.png",
+                    "md5": "3f911357cf04dc03c3c4eeaf40263894"
+                },
+                "exr": {
+                    "size": 9181333,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_avocado_01/food_avocado_01_nor_dx_4k.exr",
+                    "md5": "2f532f4f7160d208428975a382dd5ba7"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 506917,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_avocado_01/food_avocado_01_nor_dx_2k.jpg",
+                    "md5": "697e8d13d4f68da53ba8ca848dec3f62"
+                },
+                "png": {
+                    "size": 11213425,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_avocado_01/food_avocado_01_nor_dx_2k.png",
+                    "md5": "09b8de08491d2451433e75f167d079c6"
+                },
+                "exr": {
+                    "size": 3451034,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_avocado_01/food_avocado_01_nor_dx_2k.exr",
+                    "md5": "dfedf5bcc4fad280b16c93b15fab9689"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 147441,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_avocado_01/food_avocado_01_nor_dx_1k.jpg",
+                    "md5": "075d85db27859a6aabb522192f5bdbd9"
+                },
+                "png": {
+                    "size": 2919187,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_avocado_01/food_avocado_01_nor_dx_1k.png",
+                    "md5": "4a1a3b0f91ba51200c50e4500f4ee718"
+                },
+                "exr": {
+                    "size": 1111483,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_avocado_01/food_avocado_01_nor_dx_1k.exr",
+                    "md5": "0fd4d07806e91336f3d8dc9f1d1523c3"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 4403125,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_avocado_01/food_avocado_01_nor_gl_8k.jpg",
+                    "md5": "fb3e3810f3ee344864563565b9a14234"
+                },
+                "png": {
+                    "size": 163812039,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_avocado_01/food_avocado_01_nor_gl_8k.png",
+                    "md5": "7a4cd773974f6fa7dc679531ba7ee5c9"
+                },
+                "exr": {
+                    "size": 23722818,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_avocado_01/food_avocado_01_nor_gl_8k.exr",
+                    "md5": "91280e3b7966bbb2e3e88bd2aab3924d"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1531753,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_avocado_01/food_avocado_01_nor_gl_4k.jpg",
+                    "md5": "f74f9730f8ddd13ea793165dfd7fbd23"
+                },
+                "png": {
+                    "size": 42501984,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_avocado_01/food_avocado_01_nor_gl_4k.png",
+                    "md5": "04e091bd5fc08291f5dbd6301d5ab1b3"
+                },
+                "exr": {
+                    "size": 9188665,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_avocado_01/food_avocado_01_nor_gl_4k.exr",
+                    "md5": "8a612a5b6cd574271f5404c348659f92"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 506122,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_avocado_01/food_avocado_01_nor_gl_2k.jpg",
+                    "md5": "c2ddb9acb97e910bcef2211284e5e624"
+                },
+                "png": {
+                    "size": 11214078,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_avocado_01/food_avocado_01_nor_gl_2k.png",
+                    "md5": "5e02db01e4eb0387b9cd1f7bd9cec28f"
+                },
+                "exr": {
+                    "size": 3449723,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_avocado_01/food_avocado_01_nor_gl_2k.exr",
+                    "md5": "abe33d6d3bdad3003cf0968a245827ad"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 148148,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_avocado_01/food_avocado_01_nor_gl_1k.jpg",
+                    "md5": "ea3b6376ea9e7573ad91b67b2c970491"
+                },
+                "png": {
+                    "size": 2918453,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_avocado_01/food_avocado_01_nor_gl_1k.png",
+                    "md5": "adbe7e925524d3de87d235d20cf5cef7"
+                },
+                "exr": {
+                    "size": 1111399,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_avocado_01/food_avocado_01_nor_gl_1k.exr",
+                    "md5": "87fe144b287f3f97aa8c02f1dfe6398f"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/food_avocado_01_rough_8k.jpg": {
+                            "size": 3200818,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_avocado_01/food_avocado_01_rough_8k.jpg",
+                            "md5": "d30f31d03f3f70a6b15d930636deb2bc"
+                        },
+                        "textures/food_avocado_01_diff_8k.jpg": {
+                            "size": 5638885,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_avocado_01/food_avocado_01_diff_8k.jpg",
+                            "md5": "50f9c9dc6aa92d5b0ab946dade6a1547"
+                        },
+                        "textures/food_avocado_01_nor_gl_8k.exr": {
+                            "size": 23722818,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_avocado_01/food_avocado_01_nor_gl_8k.exr",
+                            "md5": "91280e3b7966bbb2e3e88bd2aab3924d"
+                        }
+                    },
+                    "size": 3894438,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/food_avocado_01/food_avocado_01_8k.blend",
+                    "md5": "055a1ce82baa90893cfbfa72a1359653"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/food_avocado_01_diff_4k.jpg": {
+                            "size": 1757122,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_avocado_01/food_avocado_01_diff_4k.jpg",
+                            "md5": "ecbf619ddd09d3972a7eba0296d0faf2"
+                        },
+                        "textures/food_avocado_01_nor_gl_4k.exr": {
+                            "size": 9188665,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_avocado_01/food_avocado_01_nor_gl_4k.exr",
+                            "md5": "8a612a5b6cd574271f5404c348659f92"
+                        },
+                        "textures/food_avocado_01_rough_4k.jpg": {
+                            "size": 1143062,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_avocado_01/food_avocado_01_rough_4k.jpg",
+                            "md5": "c1a0d783123825b59e2a0c13074770e9"
+                        }
+                    },
+                    "size": 3894518,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/food_avocado_01/food_avocado_01_4k.blend",
+                    "md5": "f5b5281336fd533557f2f991dce85454"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/food_avocado_01_rough_2k.jpg": {
+                            "size": 403688,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_avocado_01/food_avocado_01_rough_2k.jpg",
+                            "md5": "b004c21ccba19e1040dd65a65a164d63"
+                        },
+                        "textures/food_avocado_01_nor_gl_2k.exr": {
+                            "size": 3449723,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_avocado_01/food_avocado_01_nor_gl_2k.exr",
+                            "md5": "abe33d6d3bdad3003cf0968a245827ad"
+                        },
+                        "textures/food_avocado_01_diff_2k.jpg": {
+                            "size": 501576,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_avocado_01/food_avocado_01_diff_2k.jpg",
+                            "md5": "aa5ee38f43eacf9b352913757324eab0"
+                        }
+                    },
+                    "size": 3894495,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/food_avocado_01/food_avocado_01_2k.blend",
+                    "md5": "e099f1a3280cedad037b04124e5f9f7a"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/food_avocado_01_diff_1k.jpg": {
+                            "size": 120451,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_avocado_01/food_avocado_01_diff_1k.jpg",
+                            "md5": "7a1efff7e58bdf40b784f0e1734ae950"
+                        },
+                        "textures/food_avocado_01_rough_1k.jpg": {
+                            "size": 133935,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_avocado_01/food_avocado_01_rough_1k.jpg",
+                            "md5": "c482520f5a75512d347ea20dbfe52beb"
+                        },
+                        "textures/food_avocado_01_nor_gl_1k.exr": {
+                            "size": 1111399,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_avocado_01/food_avocado_01_nor_gl_1k.exr",
+                            "md5": "87fe144b287f3f97aa8c02f1dfe6398f"
+                        }
+                    },
+                    "size": 3894517,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/food_avocado_01/food_avocado_01_1k.blend",
+                    "md5": "6291a9ae9b69dd907f4df5f93e332975"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "textures/food_avocado_01_rough_8k.jpg": {
+                            "size": 3200818,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_avocado_01/food_avocado_01_rough_8k.jpg",
+                            "md5": "d30f31d03f3f70a6b15d930636deb2bc"
+                        },
+                        "textures/food_avocado_01_diff_8k.jpg": {
+                            "size": 5638885,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_avocado_01/food_avocado_01_diff_8k.jpg",
+                            "md5": "50f9c9dc6aa92d5b0ab946dade6a1547"
+                        },
+                        "food_avocado_01.bin": {
+                            "size": 179900,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_avocado_01/food_avocado_01.bin",
+                            "md5": "d0f8e04587f9befd36f7e74af8adc136"
+                        },
+                        "textures/food_avocado_01_nor_gl_8k.jpg": {
+                            "size": 4403125,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_avocado_01/food_avocado_01_nor_gl_8k.jpg",
+                            "md5": "fb3e3810f3ee344864563565b9a14234"
+                        }
+                    },
+                    "size": 2735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_avocado_01/food_avocado_01_8k.gltf",
+                    "md5": "b133792dbea37f53a0fab384c9ca7d90"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/food_avocado_01_diff_4k.jpg": {
+                            "size": 1757122,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_avocado_01/food_avocado_01_diff_4k.jpg",
+                            "md5": "ecbf619ddd09d3972a7eba0296d0faf2"
+                        },
+                        "textures/food_avocado_01_rough_4k.jpg": {
+                            "size": 1143062,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_avocado_01/food_avocado_01_rough_4k.jpg",
+                            "md5": "c1a0d783123825b59e2a0c13074770e9"
+                        },
+                        "textures/food_avocado_01_nor_gl_4k.jpg": {
+                            "size": 1531753,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_avocado_01/food_avocado_01_nor_gl_4k.jpg",
+                            "md5": "f74f9730f8ddd13ea793165dfd7fbd23"
+                        },
+                        "food_avocado_01.bin": {
+                            "size": 179900,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_avocado_01/food_avocado_01.bin",
+                            "md5": "d0f8e04587f9befd36f7e74af8adc136"
+                        }
+                    },
+                    "size": 2735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/food_avocado_01/food_avocado_01_4k.gltf",
+                    "md5": "30808bbcd87c804ced52e7868313e3d8"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/food_avocado_01_rough_2k.jpg": {
+                            "size": 403688,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_avocado_01/food_avocado_01_rough_2k.jpg",
+                            "md5": "b004c21ccba19e1040dd65a65a164d63"
+                        },
+                        "textures/food_avocado_01_nor_gl_2k.jpg": {
+                            "size": 506122,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_avocado_01/food_avocado_01_nor_gl_2k.jpg",
+                            "md5": "c2ddb9acb97e910bcef2211284e5e624"
+                        },
+                        "food_avocado_01.bin": {
+                            "size": 179900,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_avocado_01/food_avocado_01.bin",
+                            "md5": "d0f8e04587f9befd36f7e74af8adc136"
+                        },
+                        "textures/food_avocado_01_diff_2k.jpg": {
+                            "size": 501576,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_avocado_01/food_avocado_01_diff_2k.jpg",
+                            "md5": "aa5ee38f43eacf9b352913757324eab0"
+                        }
+                    },
+                    "size": 2735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/food_avocado_01/food_avocado_01_2k.gltf",
+                    "md5": "9f423df81a566e712a679345635ab850"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/food_avocado_01_diff_1k.jpg": {
+                            "size": 120451,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_avocado_01/food_avocado_01_diff_1k.jpg",
+                            "md5": "7a1efff7e58bdf40b784f0e1734ae950"
+                        },
+                        "textures/food_avocado_01_nor_gl_1k.jpg": {
+                            "size": 148148,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_avocado_01/food_avocado_01_nor_gl_1k.jpg",
+                            "md5": "ea3b6376ea9e7573ad91b67b2c970491"
+                        },
+                        "textures/food_avocado_01_rough_1k.jpg": {
+                            "size": 133935,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_avocado_01/food_avocado_01_rough_1k.jpg",
+                            "md5": "c482520f5a75512d347ea20dbfe52beb"
+                        },
+                        "food_avocado_01.bin": {
+                            "size": 179900,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/food_avocado_01/food_avocado_01.bin",
+                            "md5": "d0f8e04587f9befd36f7e74af8adc136"
+                        }
+                    },
+                    "size": 2735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/food_avocado_01/food_avocado_01_1k.gltf",
+                    "md5": "e4054137d65bf850cf455b65a186a5d2"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/food_avocado_01_rough_8k.jpg": {
+                            "size": 3200818,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_avocado_01/food_avocado_01_rough_8k.jpg",
+                            "md5": "d30f31d03f3f70a6b15d930636deb2bc"
+                        },
+                        "textures/food_avocado_01_diff_8k.jpg": {
+                            "size": 5638885,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_avocado_01/food_avocado_01_diff_8k.jpg",
+                            "md5": "50f9c9dc6aa92d5b0ab946dade6a1547"
+                        },
+                        "textures/food_avocado_01_nor_gl_8k.exr": {
+                            "size": 23722818,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_avocado_01/food_avocado_01_nor_gl_8k.exr",
+                            "md5": "91280e3b7966bbb2e3e88bd2aab3924d"
+                        }
+                    },
+                    "size": 548646,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/food_avocado_01/food_avocado_01_8k.usdc",
+                    "md5": "d1687ba88173e974a1afd808308a9e9f"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/food_avocado_01_diff_4k.jpg": {
+                            "size": 1757122,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_avocado_01/food_avocado_01_diff_4k.jpg",
+                            "md5": "ecbf619ddd09d3972a7eba0296d0faf2"
+                        },
+                        "textures/food_avocado_01_nor_gl_4k.exr": {
+                            "size": 9188665,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_avocado_01/food_avocado_01_nor_gl_4k.exr",
+                            "md5": "8a612a5b6cd574271f5404c348659f92"
+                        },
+                        "textures/food_avocado_01_rough_4k.jpg": {
+                            "size": 1143062,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_avocado_01/food_avocado_01_rough_4k.jpg",
+                            "md5": "c1a0d783123825b59e2a0c13074770e9"
+                        }
+                    },
+                    "size": 548646,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/food_avocado_01/food_avocado_01_4k.usdc",
+                    "md5": "a6bad70b394c6f871153cfa539b984b5"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/food_avocado_01_rough_2k.jpg": {
+                            "size": 403688,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_avocado_01/food_avocado_01_rough_2k.jpg",
+                            "md5": "b004c21ccba19e1040dd65a65a164d63"
+                        },
+                        "textures/food_avocado_01_nor_gl_2k.exr": {
+                            "size": 3449723,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_avocado_01/food_avocado_01_nor_gl_2k.exr",
+                            "md5": "abe33d6d3bdad3003cf0968a245827ad"
+                        },
+                        "textures/food_avocado_01_diff_2k.jpg": {
+                            "size": 501576,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_avocado_01/food_avocado_01_diff_2k.jpg",
+                            "md5": "aa5ee38f43eacf9b352913757324eab0"
+                        }
+                    },
+                    "size": 548646,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/food_avocado_01/food_avocado_01_2k.usdc",
+                    "md5": "d70a7631d5f5369800ca7cabb6285606"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/food_avocado_01_diff_1k.jpg": {
+                            "size": 120451,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_avocado_01/food_avocado_01_diff_1k.jpg",
+                            "md5": "7a1efff7e58bdf40b784f0e1734ae950"
+                        },
+                        "textures/food_avocado_01_rough_1k.jpg": {
+                            "size": 133935,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_avocado_01/food_avocado_01_rough_1k.jpg",
+                            "md5": "c482520f5a75512d347ea20dbfe52beb"
+                        },
+                        "textures/food_avocado_01_nor_gl_1k.exr": {
+                            "size": 1111399,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_avocado_01/food_avocado_01_nor_gl_1k.exr",
+                            "md5": "87fe144b287f3f97aa8c02f1dfe6398f"
+                        }
+                    },
+                    "size": 548646,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/food_avocado_01/food_avocado_01_1k.usdc",
+                    "md5": "7afe889d8c26b9246a46b063ba7762d3"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 3326573,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_avocado_01/food_avocado_01_arm_8k.jpg",
+                    "md5": "f8bf54af59c5de13fa3103fce1bb6017"
+                },
+                "png": {
+                    "size": 26925256,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_avocado_01/food_avocado_01_arm_8k.png",
+                    "md5": "725781c4b316dc65e002a194a47dcfa0"
+                },
+                "exr": {
+                    "size": 20313078,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_avocado_01/food_avocado_01_arm_8k.exr",
+                    "md5": "c5c04c6c892fb0742d164ed64094d3d0"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1182455,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_avocado_01/food_avocado_01_arm_4k.jpg",
+                    "md5": "56757115352783f1682082c2da4da3f7"
+                },
+                "png": {
+                    "size": 7709725,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_avocado_01/food_avocado_01_arm_4k.png",
+                    "md5": "7a14a954697bcee522c606d2b41f34c5"
+                },
+                "exr": {
+                    "size": 7004541,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_avocado_01/food_avocado_01_arm_4k.exr",
+                    "md5": "3cdf25048bf94da3f3a6c2df4d17e957"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 419640,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_avocado_01/food_avocado_01_arm_2k.jpg",
+                    "md5": "d49359bed53e22c60a091372e9cab429"
+                },
+                "png": {
+                    "size": 2151156,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_avocado_01/food_avocado_01_arm_2k.png",
+                    "md5": "4428a96700e910e1812908e8f816b937"
+                },
+                "exr": {
+                    "size": 2714874,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_avocado_01/food_avocado_01_arm_2k.exr",
+                    "md5": "05d54367e5220507c6da05cc75975dde"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 144373,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_avocado_01/food_avocado_01_arm_1k.jpg",
+                    "md5": "7fcf0c57e25e467117ac123ca4d58ed6"
+                },
+                "png": {
+                    "size": 648795,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_avocado_01/food_avocado_01_arm_1k.png",
+                    "md5": "e26e2fbcf3ff3195f5967392bd42a5d4"
+                },
+                "exr": {
+                    "size": 1003059,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_avocado_01/food_avocado_01_arm_1k.exr",
+                    "md5": "95671210d8587851091df5bf31bbfe51"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/food_avocado_01_rough_8k.jpg": {
+                            "size": 3200818,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_avocado_01/food_avocado_01_rough_8k.jpg",
+                            "md5": "d30f31d03f3f70a6b15d930636deb2bc"
+                        },
+                        "textures/food_avocado_01_diff_8k.jpg": {
+                            "size": 5638885,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_avocado_01/food_avocado_01_diff_8k.jpg",
+                            "md5": "50f9c9dc6aa92d5b0ab946dade6a1547"
+                        },
+                        "textures/food_avocado_01_nor_gl_8k.exr": {
+                            "size": 23722818,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_avocado_01/food_avocado_01_nor_gl_8k.exr",
+                            "md5": "91280e3b7966bbb2e3e88bd2aab3924d"
+                        }
+                    },
+                    "size": 384060,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/food_avocado_01/food_avocado_01_8k.fbx",
+                    "md5": "16eca035b05dfcd04aafa0382d7df268"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/food_avocado_01_diff_4k.jpg": {
+                            "size": 1757122,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_avocado_01/food_avocado_01_diff_4k.jpg",
+                            "md5": "ecbf619ddd09d3972a7eba0296d0faf2"
+                        },
+                        "textures/food_avocado_01_nor_gl_4k.exr": {
+                            "size": 9188665,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_avocado_01/food_avocado_01_nor_gl_4k.exr",
+                            "md5": "8a612a5b6cd574271f5404c348659f92"
+                        },
+                        "textures/food_avocado_01_rough_4k.jpg": {
+                            "size": 1143062,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_avocado_01/food_avocado_01_rough_4k.jpg",
+                            "md5": "c1a0d783123825b59e2a0c13074770e9"
+                        }
+                    },
+                    "size": 384060,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/food_avocado_01/food_avocado_01_4k.fbx",
+                    "md5": "41d82ba29c55bc81514730e384dc345a"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/food_avocado_01_rough_2k.jpg": {
+                            "size": 403688,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_avocado_01/food_avocado_01_rough_2k.jpg",
+                            "md5": "b004c21ccba19e1040dd65a65a164d63"
+                        },
+                        "textures/food_avocado_01_nor_gl_2k.exr": {
+                            "size": 3449723,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_avocado_01/food_avocado_01_nor_gl_2k.exr",
+                            "md5": "abe33d6d3bdad3003cf0968a245827ad"
+                        },
+                        "textures/food_avocado_01_diff_2k.jpg": {
+                            "size": 501576,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_avocado_01/food_avocado_01_diff_2k.jpg",
+                            "md5": "aa5ee38f43eacf9b352913757324eab0"
+                        }
+                    },
+                    "size": 384060,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/food_avocado_01/food_avocado_01_2k.fbx",
+                    "md5": "ed518b3ea2782e830582e58d28681dab"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/food_avocado_01_diff_1k.jpg": {
+                            "size": 120451,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_avocado_01/food_avocado_01_diff_1k.jpg",
+                            "md5": "7a1efff7e58bdf40b784f0e1734ae950"
+                        },
+                        "textures/food_avocado_01_rough_1k.jpg": {
+                            "size": 133935,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_avocado_01/food_avocado_01_rough_1k.jpg",
+                            "md5": "c482520f5a75512d347ea20dbfe52beb"
+                        },
+                        "textures/food_avocado_01_nor_gl_1k.exr": {
+                            "size": 1111399,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_avocado_01/food_avocado_01_nor_gl_1k.exr",
+                            "md5": "87fe144b287f3f97aa8c02f1dfe6398f"
+                        }
+                    },
+                    "size": 384060,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/food_avocado_01/food_avocado_01_1k.fbx",
+                    "md5": "ec5c05be3adf13a8abb81df73f2673e5"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 2252169,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_avocado_01/food_avocado_01_ao_8k.jpg",
+                    "md5": "da9e6a033fb61f6c96a27cbf69acd530"
+                },
+                "png": {
+                    "size": 21058778,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_avocado_01/food_avocado_01_ao_8k.png",
+                    "md5": "26374d6d873b7766b3806b3a4df8e142"
+                },
+                "exr": {
+                    "size": 9561121,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_avocado_01/food_avocado_01_ao_8k.exr",
+                    "md5": "b5876fba5b121645ac2188b13c4a11a0"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 538823,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_avocado_01/food_avocado_01_ao_4k.jpg",
+                    "md5": "57d77065ec6b1373ff173b5d6ded62da"
+                },
+                "png": {
+                    "size": 3951358,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_avocado_01/food_avocado_01_ao_4k.png",
+                    "md5": "c23d6486956c68494d1be724dec8e55a"
+                },
+                "exr": {
+                    "size": 2120761,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_avocado_01/food_avocado_01_ao_4k.exr",
+                    "md5": "42fc37fe23e9662eda19ff1f5604b28e"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 180172,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_avocado_01/food_avocado_01_ao_2k.jpg",
+                    "md5": "444275a4734ddad4b3267c416271080a"
+                },
+                "png": {
+                    "size": 875505,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_avocado_01/food_avocado_01_ao_2k.png",
+                    "md5": "9d64fe587ef78879046ac05359e3bdeb"
+                },
+                "exr": {
+                    "size": 619057,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_avocado_01/food_avocado_01_ao_2k.exr",
+                    "md5": "6ba5659f978572c01823f80b26584924"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 66208,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_avocado_01/food_avocado_01_ao_1k.jpg",
+                    "md5": "150065ac2f08f7bb5a7e2eabacf0a507"
+                },
+                "png": {
+                    "size": 265230,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_avocado_01/food_avocado_01_ao_1k.png",
+                    "md5": "869bfba47e01a0998691748bdd0b662a"
+                },
+                "exr": {
+                    "size": 234074,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_avocado_01/food_avocado_01_ao_1k.exr",
+                    "md5": "ba8236300fb6064e8370cf59dedcc69e"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 3200818,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/food_avocado_01/food_avocado_01_rough_8k.jpg",
+                    "md5": "d30f31d03f3f70a6b15d930636deb2bc"
+                },
+                "png": {
+                    "size": 19598453,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/food_avocado_01/food_avocado_01_rough_8k.png",
+                    "md5": "f8243108f6eaa0a50eed3d599e4e6346"
+                },
+                "exr": {
+                    "size": 10209036,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/food_avocado_01/food_avocado_01_rough_8k.exr",
+                    "md5": "a06b54ed3c37ad50f1275238e2a742af"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1143062,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/food_avocado_01/food_avocado_01_rough_4k.jpg",
+                    "md5": "c1a0d783123825b59e2a0c13074770e9"
+                },
+                "png": {
+                    "size": 5231791,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/food_avocado_01/food_avocado_01_rough_4k.png",
+                    "md5": "67ea614ce5448a49e75c0a8c9d6ae3e8"
+                },
+                "exr": {
+                    "size": 3647132,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/food_avocado_01/food_avocado_01_rough_4k.exr",
+                    "md5": "cd791f718642c5ae46f3467ec947d600"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 403688,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/food_avocado_01/food_avocado_01_rough_2k.jpg",
+                    "md5": "b004c21ccba19e1040dd65a65a164d63"
+                },
+                "png": {
+                    "size": 1779057,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/food_avocado_01/food_avocado_01_rough_2k.png",
+                    "md5": "f95bc893f7395367c6e2958c98210697"
+                },
+                "exr": {
+                    "size": 1333680,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/food_avocado_01/food_avocado_01_rough_2k.exr",
+                    "md5": "6ef15ccdfe0f737c51f861e9ffd58fd1"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 133935,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/food_avocado_01/food_avocado_01_rough_1k.jpg",
+                    "md5": "c482520f5a75512d347ea20dbfe52beb"
+                },
+                "png": {
+                    "size": 554702,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/food_avocado_01/food_avocado_01_rough_1k.png",
+                    "md5": "a267500fa9be707e091ee2a8d12be9ef"
+                },
+                "exr": {
+                    "size": 463106,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/food_avocado_01/food_avocado_01_rough_1k.exr",
+                    "md5": "782d6f74a77f9b3282e20c6ddaae38fe"
+                }
+            }
+        }
+    }
+}

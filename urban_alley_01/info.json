@@ -1,0 +1,121 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "alley",
+        "city",
+        "narrow",
+        "europe",
+        "asphalt"
+    ],
+    "date_published": 1594332000,
+    "name": "Urban Alley 01",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "clear",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        38.117961,
+        13.357968
+    ],
+    "date_taken": 1568882280,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "13450515",
+        "3237733"
+    ],
+    "files_hash": "0ff39a58e7a211c5cc726eeea10b7d860abd0000",
+    "max_resolution": [
+        18500,
+        9250
+    ],
+    "download_count": 55099,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/urban_alley_01.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6695740,
+            "md5": "2bce292239350f9f2f57e87615d2a545",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/urban_alley_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103425353,
+                    "md5": "2b1ead7def7222e54e7afd42ff2d3d36",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/urban_alley_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 97083848,
+                    "md5": "d6c2b3886d09e66e54b26f6dbc5946a9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/urban_alley_01_8k.exr"
+                }
+            },
+            "18k": {
+                "hdr": {
+                    "size": 501457905,
+                    "md5": "a5edfefa70d4cf1611980f9fe4380e35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/urban_alley_01_18k.hdr"
+                },
+                "exr": {
+                    "size": 447748116,
+                    "md5": "9543a7165978e0b9cf8eadbe35f74637",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/urban_alley_01_18k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 396513781,
+                    "md5": "bee58b808cad6fe9efc7dd6da5b28807",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/urban_alley_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 356601588,
+                    "md5": "b84e827795dd0e2d5e5003dbc0c05d0b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/urban_alley_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26550348,
+                    "md5": "0578da98dd759811e447375378fe2416",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/urban_alley_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 25535933,
+                    "md5": "99793afd8fc251742364a66e70ece872",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/urban_alley_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6748962,
+                    "md5": "eae5fa592104e2aa22e9221973bb31a8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/urban_alley_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 6595290,
+                    "md5": "e5156e0c468262880d55dc1b085def58",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/urban_alley_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1708553,
+                    "md5": "9715c38fea5725219c64ba312cced80a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/urban_alley_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1692095,
+                    "md5": "930025040f3adacb7cf0dda47185ccd0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/urban_alley_01_1k.exr"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,461 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1515711600,
+    "name": "Tiber 1",
+    "categories": [
+        "outdoor",
+        "nature",
+        "urban",
+        "midday",
+        "clear",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1510133820,
+    "coords": [
+        41.8894,
+        12.4799
+    ],
+    "sponsors": [
+        {
+            "name": "3DLux"
+        }
+    ],
+    "backplates": true,
+    "tags": [
+        "tree",
+        "autumn",
+        "architecture",
+        "river",
+        "europe",
+        "rome",
+        "bridge",
+        "underpass",
+        "graffiti",
+        "backplates"
+    ],
+    "files_hash": "c1c0a264723e8960f839fa9c4d63bbc56110efd1",
+    "authors": {
+        "Greg Zaal": "All",
+        "Rico Cilliers": "Backplates"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 20577,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/tiber_1.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 8677651,
+            "md5": "838b7ddc8145215a23ea3934f1cda756",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/tiber_1.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103448241,
+                    "md5": "c3ea8e6921ba406b915056c8738bd95d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/tiber_1_8k.hdr"
+                },
+                "exr": {
+                    "size": 105579319,
+                    "md5": "64267898e879e98f53c4f9de3a598fe0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/tiber_1_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 386756399,
+                    "md5": "af7f5beff730c6c1ea64024b3c7612f8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/tiber_1_16k.hdr"
+                },
+                "exr": {
+                    "size": 376782338,
+                    "md5": "e40a86a288fa9262822f75924d1a3a62",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/tiber_1_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26975442,
+                    "md5": "d0e89f341a7c62a76757dd62a3ddf086",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/tiber_1_4k.hdr"
+                },
+                "exr": {
+                    "size": 28175304,
+                    "md5": "f99586e7b4eb7dcbf45b783e5294acc8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/tiber_1_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6916507,
+                    "md5": "ab35deefae1510cad4eb2edf4da9d57b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/tiber_1_2k.hdr"
+                },
+                "exr": {
+                    "size": 7334021,
+                    "md5": "d5d5b141f94b74d8d0216ceaa694a15a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/tiber_1_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1761277,
+                    "md5": "66e25378afc6941427d317ac0e0b89bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/tiber_1_1k.hdr"
+                },
+                "exr": {
+                    "size": 1887574,
+                    "md5": "67c9696df5166b979673fde57c484792",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/tiber_1_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC07814": {
+                "jpg_pretty": {
+                    "size": 24885629,
+                    "md5": "de70b55f591741fd20cd0e9782ccbb7d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07814.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16546137,
+                    "md5": "420d70afd9c3a34828ae5b8e510a41c9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07814.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "84bc21b56f40c3a5ebb6ef33507a5c03",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07814.ARW"
+                }
+            },
+            "DSC07825": {
+                "jpg_pretty": {
+                    "size": 31273953,
+                    "md5": "37ab1ad8e754bf9a088eed877645d95c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07825.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18936265,
+                    "md5": "97a58f6e312871ad7e8dcd9eeaffbea3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07825.jpg"
+                },
+                "raw": {
+                    "size": 37486592,
+                    "md5": "1181fda446e7dc5d425a11ec5acac481",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07825.ARW"
+                }
+            },
+            "DSC07815": {
+                "jpg_pretty": {
+                    "size": 27118107,
+                    "md5": "39dae0a62de7a77f2a162d0ba53d65a0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07815.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17729625,
+                    "md5": "f35459db56f8e91c88a7cee4c0c3fc51",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07815.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "2611a27f062aefbeb00b18152040275c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07815.ARW"
+                }
+            },
+            "DSC07805": {
+                "jpg_pretty": {
+                    "size": 29445862,
+                    "md5": "27de737fb75ba0230d8722bb2090d747",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07805.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12921880,
+                    "md5": "9af6d70948d1038dc75aa4c87c498ab7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07805.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "b1f62803093bf5295a3ceea0cf3edaa5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07805.ARW"
+                }
+            },
+            "DSC07827": {
+                "jpg_pretty": {
+                    "size": 32961624,
+                    "md5": "4eb39b8909b319c53a828f46748e0583",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07827.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18808651,
+                    "md5": "2207dbffc159b97ea7812bb3a7c6f83e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07827.jpg"
+                },
+                "raw": {
+                    "size": 37486592,
+                    "md5": "351b4f0e318e217c8962dce92563ded9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07827.ARW"
+                }
+            },
+            "DSC07806": {
+                "jpg_pretty": {
+                    "size": 31427612,
+                    "md5": "9842f734d3b0ae3c66973730eb9f8b35",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07806.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14919712,
+                    "md5": "6862e116efc192d75a970ca05a933aac",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07806.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "1045d50292e95e074da74537add66f2a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07806.ARW"
+                }
+            },
+            "DSC07828": {
+                "jpg_pretty": {
+                    "size": 30609027,
+                    "md5": "8917f1bb75602c7f5975d6c57b8f4c84",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07828.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20502111,
+                    "md5": "03e3036127303b325053a5ddd2b10bd7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07828.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "6c07f98b9a5bb12723775b3b96f4e368",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07828.ARW"
+                }
+            },
+            "DSC07807": {
+                "jpg_pretty": {
+                    "size": 23831922,
+                    "md5": "bfff2b042f3acd089a05b5046829b766",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07807.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13809911,
+                    "md5": "cfcbc7f230cccce4c4f1389e56424951",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07807.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "08174faa26beb619dc619f9eebc3120d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07807.ARW"
+                }
+            },
+            "DSC07818": {
+                "jpg_pretty": {
+                    "size": 18936662,
+                    "md5": "c18adafd18046d7eaf37e659d673c0f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07818.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10456713,
+                    "md5": "138b3ffa588f8d4c6087df96cece5bbc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07818.jpg"
+                },
+                "raw": {
+                    "size": 36995072,
+                    "md5": "66106fd2d07cee5a5c0b3f0f8f8a697e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07818.ARW"
+                }
+            },
+            "DSC07808": {
+                "jpg_pretty": {
+                    "size": 16449750,
+                    "md5": "a5bb71b1f08b37e6ef8bc8de54bf5cda",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07808.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11567989,
+                    "md5": "430656fd9bc449c8114dd7a4ae390842",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07808.jpg"
+                },
+                "raw": {
+                    "size": 37027840,
+                    "md5": "dfcc48878a58eca0c2097f7798995227",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07808.ARW"
+                }
+            },
+            "DSC07819": {
+                "jpg_pretty": {
+                    "size": 17449927,
+                    "md5": "345c363f71774e566e0b13bafcf8e594",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07819.jpg"
+                },
+                "jpg_plain": {
+                    "size": 12033915,
+                    "md5": "fac03ab65d4c3112ef5bade87ddcc513",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07819.jpg"
+                },
+                "raw": {
+                    "size": 37060608,
+                    "md5": "33a462345e7f56995fc536bc74f4b021",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07819.ARW"
+                }
+            },
+            "DSC07809": {
+                "jpg_pretty": {
+                    "size": 33443820,
+                    "md5": "1e259939a7d79834eee7def91581d78f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07809.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20436587,
+                    "md5": "9cd0820fa61feb6e2e6dbad3d0426c9e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07809.jpg"
+                },
+                "raw": {
+                    "size": 37617664,
+                    "md5": "e884753c7717af5c4b2d2398042171b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07809.ARW"
+                }
+            },
+            "DSC07820": {
+                "jpg_pretty": {
+                    "size": 32644848,
+                    "md5": "abefa2902f6bec1d5fb7f129407cc7c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07820.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19893173,
+                    "md5": "7878a20676b1c4230adf5dba84957ab5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07820.jpg"
+                },
+                "raw": {
+                    "size": 37617664,
+                    "md5": "b810e5849de2044719ad0f455c589b69",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07820.ARW"
+                }
+            },
+            "DSC07831": {
+                "jpg_pretty": {
+                    "size": 28683744,
+                    "md5": "02dd74179bd463fe3b24f41431dcf534",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07831.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13342957,
+                    "md5": "3f6f9ba17aba924c4519135c4ef46ce6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07831.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "1560f06d269b6170c3e146c62d95a250",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07831.ARW"
+                }
+            },
+            "DSC07832": {
+                "jpg_pretty": {
+                    "size": 30289664,
+                    "md5": "b64f0a378165184cf94885a9f4803346",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07832.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14476480,
+                    "md5": "8af30a74dbdab808a9f14eaec12ee0c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07832.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "207741488a9642ee7b40957126c99ac1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07832.ARW"
+                }
+            },
+            "DSC07811": {
+                "jpg_pretty": {
+                    "size": 31106177,
+                    "md5": "5214ab8b1aa22e127d2b4eb029f65b91",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07811.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20193517,
+                    "md5": "d02cfd589d91287e56b1d59712f3231d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07811.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "5290bec54ab39c9fe19ee0f585c063e8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07811.ARW"
+                }
+            },
+            "DSC07812": {
+                "jpg_pretty": {
+                    "size": 31371666,
+                    "md5": "6a1133e01dda2b387f4ca0f5d64bee36",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07812.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19237146,
+                    "md5": "3e64bb487b67f6827f6965f66dbd3802",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07812.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "db75282f9cf4c0a11056428e403ea756",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07812.ARW"
+                }
+            },
+            "DSC07823": {
+                "jpg_pretty": {
+                    "size": 31958552,
+                    "md5": "e43c27c54f979d9c83247aa3691063fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07823.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19117978,
+                    "md5": "bed5aeac4b8029013e3f1f8c061da35d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07823.jpg"
+                },
+                "raw": {
+                    "size": 37552128,
+                    "md5": "2c07828abf16863b5b49cb112eb4d91a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07823.ARW"
+                }
+            },
+            "DSC07813": {
+                "jpg_pretty": {
+                    "size": 24688924,
+                    "md5": "d4bfb8fcd158c2aa3539e904e812314e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07813.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15559735,
+                    "md5": "6871b22ca2a4ab20b240ce3f46792c78",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07813.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "f3dfcd0f562d35e750a047bddda5765f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07813.ARW"
+                }
+            },
+            "DSC07824": {
+                "jpg_pretty": {
+                    "size": 30542558,
+                    "md5": "f013a050fbb95fd6c0fd0f6c9d6ecb0a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_pretty/DSC07824.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18514791,
+                    "md5": "7d761ca3722f14b8b91e67decae5da12",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/jpg_plain/DSC07824.jpg"
+                },
+                "raw": {
+                    "size": 37519360,
+                    "md5": "af19093f527724d759883c277dfcc8b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tiber_1/raw/DSC07824.ARW"
+                }
+            }
+        }
+    }
+}

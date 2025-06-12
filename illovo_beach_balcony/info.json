@@ -1,0 +1,126 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5313,
+    "tags": [
+        "sun",
+        "balcony",
+        "view",
+        "ocean",
+        "railing",
+        "wave",
+        "table",
+        "beach"
+    ],
+    "name": "Illovo Beach Balcony",
+    "categories": [
+        "outdoor",
+        "urban",
+        "natural light",
+        "morning-afternoon",
+        "high contrast",
+        "clear"
+    ],
+    "date_taken": 1717665600,
+    "coords": [
+        -30.114514878723096,
+        30.850318546371746
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "d6de613a3c684e6b03f4c565d52531d32d56d06a",
+    "date_published": 1719792000,
+    "download_count": 23400,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/illovo_beach_balcony.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 40489798,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/illovo_beach_balcony.jpg",
+            "md5": "842bcd05fe9a8f929f3a9608144cd48e"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97726489,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/illovo_beach_balcony_8k.hdr",
+                    "md5": "f0ae2654036ca8bbd63bbd319a3b498b"
+                },
+                "exr": {
+                    "size": 322360835,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/illovo_beach_balcony_8k.exr",
+                    "md5": "7670e2df5c2afed144356bd4ac2d0639"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 363926212,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/illovo_beach_balcony_16k.hdr",
+                    "md5": "02f298c089cfb25925c2cf6c2a59cebf"
+                },
+                "exr": {
+                    "size": 1213667990,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/illovo_beach_balcony_16k.exr",
+                    "md5": "3e1e732918b6cc68937bbb479b727e84"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24589156,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/illovo_beach_balcony_4k.hdr",
+                    "md5": "159bc12b1f313655bd16e524bd3f1bbd"
+                },
+                "exr": {
+                    "size": 82648022,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/illovo_beach_balcony_4k.exr",
+                    "md5": "2b5d210302708769cc1c7ce5e0fcee00"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 802889597,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/illovo_beach_balcony_24k.hdr",
+                    "md5": "9e4d3f3179a08db25cae7b8421381feb"
+                },
+                "exr": {
+                    "size": 2735671381,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/illovo_beach_balcony_24k.exr",
+                    "md5": "939a3346cc034c6b6e7ee7c76d8783b5"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6028693,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/illovo_beach_balcony_2k.hdr",
+                    "md5": "6392a9865506f3c8e20e6c3c1fec6532"
+                },
+                "exr": {
+                    "size": 21547997,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/illovo_beach_balcony_2k.exr",
+                    "md5": "138b0c19f24e73b78838dcb90af15da6"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1479791,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/illovo_beach_balcony_1k.hdr",
+                    "md5": "a5a9de262d128d5dba9f64d82f876bb1"
+                },
+                "exr": {
+                    "size": 5788562,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/illovo_beach_balcony_1k.exr",
+                    "md5": "b8c7f8b60b8c2ce5aa9b678ae829b075"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 805944809,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/illovo_beach_balcony.zip",
+            "md5": "de3097a172988d9c7d9feaedd15a14c7"
+        }
+    }
+}

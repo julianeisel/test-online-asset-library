@@ -1,0 +1,126 @@
+{
+    "donated": true,
+    "evs_cap": 11,
+    "type": 0,
+    "whitebalance": 6504,
+    "tags": [
+        "harbour",
+        "harbor",
+        "crane",
+        "concrete",
+        "dock",
+        "river",
+        "jetty"
+    ],
+    "name": "Petit Port",
+    "categories": [
+        "outdoor",
+        "urban",
+        "natural light",
+        "low contrast",
+        "morning-afternoon",
+        "overcast"
+    ],
+    "date_taken": 1669981920,
+    "coords": [
+        46.517041,
+        6.57797
+    ],
+    "authors": {
+        "Alexander Scholten": "All"
+    },
+    "max_resolution": [
+        21860,
+        10930
+    ],
+    "files_hash": "14f4d77eefa4f40ea797f600562b4ee8e25bf693",
+    "date_published": 1724803200,
+    "download_count": 2876,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/petit_port.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 40279144,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/petit_port.jpg",
+            "md5": "114efd31c473dc7ca0be9b16ff6be9ec"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99680818,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/petit_port_8k.hdr",
+                    "md5": "bdfe90962e3b9aeda15530b781403eed"
+                },
+                "exr": {
+                    "size": 322028727,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/petit_port_8k.exr",
+                    "md5": "f0743da46ef3e538a523abdb8ebec1bd"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 384863219,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/petit_port_16k.hdr",
+                    "md5": "bc22b3addd44822d7384c7ff8051978d"
+                },
+                "exr": {
+                    "size": 1254042902,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/petit_port_16k.exr",
+                    "md5": "d63ee8d481be9a29aa80c503b1874ea5"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25280374,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/petit_port_4k.hdr",
+                    "md5": "74a20a54e10cf24e9348aeb6abbc130e"
+                },
+                "exr": {
+                    "size": 82572952,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/petit_port_4k.exr",
+                    "md5": "56b22b5160da9e7fe71d72b22e5e5858"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6344068,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/petit_port_2k.hdr",
+                    "md5": "6c3df32b401a051527d4c377ee2fee7b"
+                },
+                "exr": {
+                    "size": 21507883,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/petit_port_2k.exr",
+                    "md5": "32b863f6f5bf93c9bf24ded65637e22c"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1599573,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/petit_port_1k.hdr",
+                    "md5": "39043ed300ebe1e7373e8a4001d6613a"
+                },
+                "exr": {
+                    "size": 5771278,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/petit_port_1k.exr",
+                    "md5": "5722dd20cce386d24f0ce0d77a0918a0"
+                }
+            },
+            "21k": {
+                "hdr": {
+                    "size": 669761799,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/petit_port_21k.hdr",
+                    "md5": "91c827681e223bea53fd2432a73e68c7"
+                },
+                "exr": {
+                    "size": 2198857834,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/petit_port_21k.exr",
+                    "md5": "54fa28a609caf04228a8fd0e9b964416"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 398083399,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/petit_port.zip",
+            "md5": "6c18e8b6115b99facd626619dc6f9b43"
+        }
+    }
+}

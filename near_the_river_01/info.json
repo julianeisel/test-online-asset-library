@@ -1,0 +1,114 @@
+{
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 5250,
+    "tags": [
+        "path",
+        "river",
+        "dam",
+        "tree",
+        "grass",
+        "field",
+        "water",
+        "lake"
+    ],
+    "name": "Near The River 01",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast"
+    ],
+    "date_taken": 1699968420,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "files_hash": "46e7f04ff8bcbd366a9ef2087a32c6c0525a30cf",
+    "date_published": 1706054400,
+    "sponsors": [
+        "37678923"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 11391,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/near_the_river_01.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 45141714,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/near_the_river_01.jpg",
+            "md5": "e2d31d81742a7da2711355f3c9181054"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104288334,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/near_the_river_01_8k.hdr",
+                    "md5": "52f4227431fa685159a3b5818bb66d58"
+                },
+                "exr": {
+                    "size": 87226151,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/near_the_river_01_8k.exr",
+                    "md5": "67b2d45b78723e16ba41acf5cd3b6b36"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 390879189,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/near_the_river_01_16k.hdr",
+                    "md5": "66b91ec0c75650e50f667befaa80ef7a"
+                },
+                "exr": {
+                    "size": 323250043,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/near_the_river_01_16k.exr",
+                    "md5": "fec147a42ec50721a5791fd005ac497b"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26515734,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/near_the_river_01_4k.hdr",
+                    "md5": "62f370151bc34020f194e0e6c2b2e986"
+                },
+                "exr": {
+                    "size": 22055929,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/near_the_river_01_4k.exr",
+                    "md5": "a637fffacac678f980280a72f1602c21"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6542461,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/near_the_river_01_2k.hdr",
+                    "md5": "8ad8c398a386909f557e9d7ed3cf0ecd"
+                },
+                "exr": {
+                    "size": 5524299,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/near_the_river_01_2k.exr",
+                    "md5": "d4732c67719215f857f7ecfaa0069f7e"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1619912,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/near_the_river_01_1k.hdr",
+                    "md5": "7edc7e243c17ac61a64e7bd38e77415e"
+                },
+                "exr": {
+                    "size": 1398676,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/near_the_river_01_1k.exr",
+                    "md5": "c9f17d4493d53444a69ffb581633cd20"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 99459172,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/near_the_river_01.zip",
+            "md5": "959e3952e8446d5ea65a00a4fb177e8a"
+        }
+    }
+}

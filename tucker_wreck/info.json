@@ -1,0 +1,441 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1511996400,
+    "name": "Tucker Wreck",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1464609180,
+    "coords": [
+        -34.273291,
+        18.380259
+    ],
+    "sponsors": [
+        {
+            "name": "Lorie Loeb"
+        }
+    ],
+    "backplates": true,
+    "tags": [
+        "ocean",
+        "rock",
+        "ship",
+        "wreck",
+        "iron",
+        "seaweed",
+        "rust",
+        "backplates"
+    ],
+    "files_hash": "3db89197660ab7a55becfbe8d7c0579b927eeac2",
+    "authors": {
+        "Greg Zaal": "All",
+        "Rico Cilliers": "Backplates"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 26844,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/tucker_wreck.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4063490,
+            "md5": "17f029d5999377487d553fc9894be0cd",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/tucker_wreck.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97465834,
+                    "md5": "8dc4a0f973fcecae947ece5008220ca7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/tucker_wreck_8k.hdr"
+                },
+                "exr": {
+                    "size": 78983718,
+                    "md5": "bdbb1d2088d2dd9706af6f51c3678064",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/tucker_wreck_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 348707112,
+                    "md5": "0c81215c166d4b64adb69232a3698389",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/tucker_wreck_16k.hdr"
+                },
+                "exr": {
+                    "size": 277503509,
+                    "md5": "3d3e28b36bee846d97dfe326f356da4e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/tucker_wreck_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25376642,
+                    "md5": "28d615107325d9cb70d0785a98b84ad8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/tucker_wreck_4k.hdr"
+                },
+                "exr": {
+                    "size": 21394810,
+                    "md5": "41fdaa36a0216f4c399e86e449ae9857",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/tucker_wreck_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6533416,
+                    "md5": "a2d9141d7b81f1b810ce936bcf152450",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/tucker_wreck_2k.hdr"
+                },
+                "exr": {
+                    "size": 5788860,
+                    "md5": "000e66be4e8df3aace48cea15c78e8f5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/tucker_wreck_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1679016,
+                    "md5": "360ef3ea7092aba875e997a517c5fbb8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/tucker_wreck_1k.hdr"
+                },
+                "exr": {
+                    "size": 1568607,
+                    "md5": "fcef2054b86d3fa36b6e6bb9ccf294db",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/tucker_wreck_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "IMG_0409": {
+                "jpg_pretty": {
+                    "size": 4803849,
+                    "md5": "a4e5481cf1420e5eee1e5a0a10caa88c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0409.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5044750,
+                    "md5": "73e16a9c7da20593e24aefac2220b601",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0409.jpg"
+                },
+                "raw": {
+                    "size": 21637968,
+                    "md5": "f29811ed8702edc8c73960b4964f4615",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0409.dng"
+                }
+            },
+            "IMG_0408": {
+                "jpg_pretty": {
+                    "size": 4339616,
+                    "md5": "782cff3c3e761d4d31e75829b8cb7b0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0408.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4374389,
+                    "md5": "eb4a1b0bb224988c1bff0272ee88d14f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0408.jpg"
+                },
+                "raw": {
+                    "size": 22928050,
+                    "md5": "5fd757873561e5247f8e8ee01cb2b6eb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0408.dng"
+                }
+            },
+            "IMG_0418": {
+                "jpg_pretty": {
+                    "size": 3914540,
+                    "md5": "e29e0b41f635539d1b81dd4839694e9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0418.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3898714,
+                    "md5": "d0be2c9c95fc3d98a6e20775990893ab",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0418.jpg"
+                },
+                "raw": {
+                    "size": 23247530,
+                    "md5": "06b106f8632148cabeafea6c5d71ce38",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0418.dng"
+                }
+            },
+            "IMG_0406": {
+                "jpg_pretty": {
+                    "size": 4728178,
+                    "md5": "a961d42d4adecaf253e49398e11d566c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0406.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4669259,
+                    "md5": "044eb442cb26a3ee701fa6f2dca182d7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0406.jpg"
+                },
+                "raw": {
+                    "size": 23131972,
+                    "md5": "662111f797ba821624f60eff25e6bd11",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0406.dng"
+                }
+            },
+            "IMG_0417": {
+                "jpg_pretty": {
+                    "size": 3135782,
+                    "md5": "ec2c2abdffad384f6e5df12d42e05fb5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0417.jpg"
+                },
+                "jpg_plain": {
+                    "size": 3483032,
+                    "md5": "51b7268a7acfbbca69f24dfdee243590",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0417.jpg"
+                },
+                "raw": {
+                    "size": 21489132,
+                    "md5": "d8d40dde35e9f0e9f01016af3b718b0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0417.dng"
+                }
+            },
+            "IMG_0405": {
+                "jpg_pretty": {
+                    "size": 5044556,
+                    "md5": "fe4065ad8e0fe47b7905b20147df0a8b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0405.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4918481,
+                    "md5": "be969ce408bb71483858d0209ab4b6d2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0405.jpg"
+                },
+                "raw": {
+                    "size": 22117516,
+                    "md5": "5ee6038d7509a9e9ccfba86fde483a25",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0405.dng"
+                }
+            },
+            "IMG_0415": {
+                "jpg_pretty": {
+                    "size": 4700700,
+                    "md5": "0b5e5f96c37dc999a9395c91456f15b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0415.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4703631,
+                    "md5": "9513f1fe6fcadd5e65dbe2f393bfe9e4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0415.jpg"
+                },
+                "raw": {
+                    "size": 22200426,
+                    "md5": "b416f94d98b377476030f6184c1f05c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0415.dng"
+                }
+            },
+            "IMG_0414": {
+                "jpg_pretty": {
+                    "size": 4088630,
+                    "md5": "2236c8353f62ac51527f99d0636e1bbc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0414.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4146520,
+                    "md5": "a7226789ab45cdc24cdaa8fa5ea54765",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0414.jpg"
+                },
+                "raw": {
+                    "size": 22375874,
+                    "md5": "a1a8178774dbd9e9d6b129d3f83f3554",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0414.dng"
+                }
+            },
+            "IMG_0413": {
+                "jpg_pretty": {
+                    "size": 5234871,
+                    "md5": "0176ff8740b5ebd173ccafa02455942e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0413.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5166001,
+                    "md5": "9d3993df27b2c9ed715a67a9a00da4f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0413.jpg"
+                },
+                "raw": {
+                    "size": 22335252,
+                    "md5": "2c4b22ea2515379d2dc9a22cd95f1af8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0413.dng"
+                }
+            },
+            "IMG_0401": {
+                "jpg_pretty": {
+                    "size": 5481067,
+                    "md5": "156093cab5e7af8020d64f9316f1c1ce",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0401.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5491458,
+                    "md5": "5a10824e779875ec9020399c9fb4d613",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0401.jpg"
+                },
+                "raw": {
+                    "size": 21138694,
+                    "md5": "817a763d0cfdacf869c73cc4e945c4dc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0401.dng"
+                }
+            },
+            "IMG_0412": {
+                "jpg_pretty": {
+                    "size": 5579689,
+                    "md5": "23aea08feceb7b507ee24f3869fe8c16",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0412.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5549144,
+                    "md5": "baa01efaf81d5a4ea68dd4c7296ebcfd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0412.jpg"
+                },
+                "raw": {
+                    "size": 21896230,
+                    "md5": "c6cfa014e6ecff668d9e8b55f6afbba4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0412.dng"
+                }
+            },
+            "IMG_0400": {
+                "jpg_pretty": {
+                    "size": 5071754,
+                    "md5": "5b7cb35dcbc16cf6a64a21a35a0bcf5a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0400.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5381254,
+                    "md5": "a4e51e52d8f2c1078379d72d6227eb6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0400.jpg"
+                },
+                "raw": {
+                    "size": 22305520,
+                    "md5": "e9324a950672165a4a16c5b947767aa1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0400.dng"
+                }
+            },
+            "IMG_0411": {
+                "jpg_pretty": {
+                    "size": 5918103,
+                    "md5": "2d3c8d9cbca9d507eb88bec55ddec2d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0411.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5225242,
+                    "md5": "343c8294ac58b9dab9b585264f4b6f20",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0411.jpg"
+                },
+                "raw": {
+                    "size": 20658820,
+                    "md5": "e327b468529905268ee67ca4952de80e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0411.dng"
+                }
+            },
+            "IMG_0399": {
+                "jpg_pretty": {
+                    "size": 5567425,
+                    "md5": "19c3c8d4526dc8f89965604e2ff55fe7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0399.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5387352,
+                    "md5": "968475cae6676e37a4f12e1d503cce43",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0399.jpg"
+                },
+                "raw": {
+                    "size": 21958872,
+                    "md5": "0d1589fdca39ad8c118b0c6f7d4c46d6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0399.dng"
+                }
+            },
+            "IMG_0410": {
+                "jpg_pretty": {
+                    "size": 4715634,
+                    "md5": "e307155f2d455df9ad3c42e578f2c598",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0410.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4448946,
+                    "md5": "fa7ebae066a72b8d444a418997d35e07",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0410.jpg"
+                },
+                "raw": {
+                    "size": 22517002,
+                    "md5": "fb1090e2f7b54168d6929279f3645ffd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0410.dng"
+                }
+            },
+            "IMG_0398": {
+                "jpg_pretty": {
+                    "size": 5398989,
+                    "md5": "694abb377aeaf9d6405082c4405a8e09",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0398.jpg"
+                },
+                "jpg_plain": {
+                    "size": 4987043,
+                    "md5": "86de72d04b6d1a75b3c29202df1819bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0398.jpg"
+                },
+                "raw": {
+                    "size": 21647450,
+                    "md5": "52547fb9f4c2afcca106b3b524c05a7b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0398.dng"
+                }
+            },
+            "IMG_0397": {
+                "jpg_pretty": {
+                    "size": 5068072,
+                    "md5": "645467b561a0b26917457b03ac3ca8f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0397.jpg"
+                },
+                "jpg_plain": {
+                    "size": 5283271,
+                    "md5": "035e72a566683c9e6213fbd35aecf51e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0397.jpg"
+                },
+                "raw": {
+                    "size": 22594200,
+                    "md5": "ad27136de98c5e9a794ded5f23d4256f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0397.dng"
+                }
+            },
+            "IMG_0396": {
+                "jpg_pretty": {
+                    "size": 6240543,
+                    "md5": "96a7d0528023a46337124627600f00b4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0396.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6069014,
+                    "md5": "0ea7889f92db214cc382e62edd7078bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0396.jpg"
+                },
+                "raw": {
+                    "size": 21374646,
+                    "md5": "45cf761e2381e9cd4186d5028357b69f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0396.dng"
+                }
+            },
+            "IMG_0395": {
+                "jpg_pretty": {
+                    "size": 6715707,
+                    "md5": "7e6ae6acf8d7f97fa6601bf8da7bf728",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_pretty/IMG_0395.jpg"
+                },
+                "jpg_plain": {
+                    "size": 6382264,
+                    "md5": "103c33f6560cc52371b3e271da1c72e9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/jpg_plain/IMG_0395.jpg"
+                },
+                "raw": {
+                    "size": 21274794,
+                    "md5": "9fccdbd0232ebfa91f03f95ecbacc4fc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/tucker_wreck/raw/IMG_0395.dng"
+                }
+            }
+        }
+    }
+}

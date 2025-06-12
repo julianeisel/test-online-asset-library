@@ -1,0 +1,102 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "cave",
+        "forest",
+        "rock"
+    ],
+    "date_published": 1576191600,
+    "name": "Small Cave",
+    "categories": [
+        "indoor",
+        "nature",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.404942,
+        9.801136
+    ],
+    "date_taken": 1572446760,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "files_hash": "5a47e670dcf9d8fd587296e4631bb549a2e0890e",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 33975,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/small_cave.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 10114330,
+            "md5": "d80e1f2d8bf336be4c3de78c99ffad6f",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/small_cave.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 111121298,
+                    "md5": "c515997b56437ae9041cc220dce90ccf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/small_cave_8k.hdr"
+                },
+                "exr": {
+                    "size": 111436704,
+                    "md5": "829fe65b53ee210fcdb2ea3267d6ac9a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/small_cave_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 429144392,
+                    "md5": "986cd037e5343bbe3dd8eee0fd0a1457",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/small_cave_16k.hdr"
+                },
+                "exr": {
+                    "size": 419619180,
+                    "md5": "330e48a88151d11568db93486a131e5a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/small_cave_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 28490380,
+                    "md5": "32ccb333cb28e70319f335a7b2c748c4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/small_cave_4k.hdr"
+                },
+                "exr": {
+                    "size": 28907301,
+                    "md5": "ce757570a440df456e06e9127ebe9b19",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/small_cave_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 7250896,
+                    "md5": "2e0db5b2b5559ef77159b7fd29aec1a6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/small_cave_2k.hdr"
+                },
+                "exr": {
+                    "size": 7400397,
+                    "md5": "9054d653f5d3d9f3a8779578fd5752ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/small_cave_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1836366,
+                    "md5": "d2ea8554ee085472e17b24e64a3d5590",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/small_cave_1k.hdr"
+                },
+                "exr": {
+                    "size": 1884457,
+                    "md5": "af323f52db5787b0420328444bbe7a85",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/small_cave_1k.exr"
+                }
+            }
+        }
+    }
+}

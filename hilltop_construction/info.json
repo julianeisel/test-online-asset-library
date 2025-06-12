@@ -1,0 +1,111 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "tags": [
+        "sun",
+        "grass",
+        "truck",
+        "view",
+        "vista",
+        "valley",
+        "hill"
+    ],
+    "date_published": 1511996400,
+    "name": "Hilltop Construction",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        -28.553687,
+        29.077162
+    ],
+    "date_taken": 1460713500,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3567764"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "27277ccf4244121fdf1d9587c19fd10b1e7ad26e",
+    "download_count": 37019,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hilltop_construction.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 7542816,
+            "md5": "0b7efa1069afd4065d76fab2a7f1fe29",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hilltop_construction.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hilltop_construction_8k.hdr",
+                    "size": 107571873,
+                    "md5": "4775e0cb5d24e209c1d6de20dda37c62"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hilltop_construction_8k.exr",
+                    "size": 92995521,
+                    "md5": "fc0266a018b5e46ff07c92fdc9a18666"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hilltop_construction_16k.hdr",
+                    "size": 411862663,
+                    "md5": "56da59d02deb1beaf2b6d633edca86cb"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hilltop_construction_16k.exr",
+                    "size": 358023409,
+                    "md5": "fa6449326cd4169621c135e4e846d838"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hilltop_construction_4k.hdr",
+                    "size": 27212515,
+                    "md5": "406ffed95d5d21288c3698f906914774"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hilltop_construction_4k.exr",
+                    "size": 22815268,
+                    "md5": "edfa85a1963faaf9ef1da44a7831f432"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hilltop_construction_2k.hdr",
+                    "size": 6675377,
+                    "md5": "3f5d1a65200f42b627d6f59d2da83213"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hilltop_construction_2k.exr",
+                    "size": 5552659,
+                    "md5": "3d5f4de7c8b561d8405f3057f9093fc2"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hilltop_construction_1k.hdr",
+                    "size": 1629799,
+                    "md5": "5d0de2455461347ffb782e3e83b32134"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hilltop_construction_1k.exr",
+                    "size": 1384472,
+                    "md5": "c5f57347367388c97d026f7bf3e52566"
+                }
+            }
+        }
+    }
+}

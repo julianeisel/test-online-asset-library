@@ -1,0 +1,105 @@
+{
+    "evs_cap": 11,
+    "type": 0,
+    "tags": [
+        "tunnel",
+        "rubble",
+        "concrete",
+        "forest",
+        "arch",
+        "sand",
+        "abandoned"
+    ],
+    "date_published": 1543901069,
+    "name": "Missile Launch Facility 01",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        50.5505329,
+        34.4373803
+    ],
+    "date_taken": 1540116000,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "max_resolution": [
+        16500,
+        8250
+    ],
+    "files_hash": "3eba3bc752c1edb299131fb4b524065ef37903de",
+    "download_count": 15064,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/missile_launch_facility_01.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6139706,
+            "md5": "7e63329e8b6ad238521154434a9276e5",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/missile_launch_facility_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/missile_launch_facility_01_8k.hdr",
+                    "size": 103129269,
+                    "md5": "2cdc95e05954442a2f0cb8b7e2223098"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/missile_launch_facility_01_8k.exr",
+                    "size": 91553482,
+                    "md5": "6d66ae5631b8dd41179f42f6aa7c3a6e"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/missile_launch_facility_01_16k.hdr",
+                    "size": 406866767,
+                    "md5": "4a38586153b2032cda7fab9ff093dfbe"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/missile_launch_facility_01_16k.exr",
+                    "size": 352164649,
+                    "md5": "0a3d1ab8b712e7b6f407354f5e496df5"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/missile_launch_facility_01_4k.hdr",
+                    "size": 26104699,
+                    "md5": "4778de48d12d0ba8a7057ef272251f73"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/missile_launch_facility_01_4k.exr",
+                    "size": 23304854,
+                    "md5": "bb6804bd8fb9cd3bb9c4fe0796feb250"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/missile_launch_facility_01_2k.hdr",
+                    "size": 6580395,
+                    "md5": "4d92907028fb82a3db96a7afecc07661"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/missile_launch_facility_01_2k.exr",
+                    "size": 5984883,
+                    "md5": "334ae3282f7486505e4878265e96f128"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/missile_launch_facility_01_1k.hdr",
+                    "size": 1660327,
+                    "md5": "2ee0d0df5123ffd384f607d9d8cbfc32"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/missile_launch_facility_01_1k.exr",
+                    "size": 1558266,
+                    "md5": "ee7e9769cafe250c49523c80d1835d45"
+                }
+            }
+        }
+    }
+}

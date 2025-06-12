@@ -1,0 +1,391 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1514502000,
+    "name": "Vatican Road",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "clear",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        41.9024,
+        12.4621
+    ],
+    "date_taken": 1510149720,
+    "backplates": true,
+    "tags": [
+        "road",
+        "building",
+        "architecture",
+        "europe",
+        "rome",
+        "church",
+        "car",
+        "street",
+        "city",
+        "backplates"
+    ],
+    "files_hash": "69f1886068bda281bb76f24892c5049404bc4763",
+    "authors": {
+        "Greg Zaal": "All",
+        "Rico Cilliers": "Backplates"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "sponsors": [
+        "9910225",
+        "128081732"
+    ],
+    "download_count": 50737,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/vatican_road.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6698109,
+            "md5": "ddee808d510d694a0831b9d693628685",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/vatican_road.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 96581067,
+                    "md5": "242afa64fe4cedd0874844be52872ae7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/vatican_road_8k.hdr"
+                },
+                "exr": {
+                    "size": 91309224,
+                    "md5": "8d1df02aa70c422b45474992f81a8e09",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/vatican_road_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 353167066,
+                    "md5": "c8b2cc30548c5f72e5979e60b001f784",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/vatican_road_16k.hdr"
+                },
+                "exr": {
+                    "size": 323864969,
+                    "md5": "2cb4dd4c776dc7282f8e908a1d6f00fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/vatican_road_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24931087,
+                    "md5": "10be546ddf17a32881f2d8e42bc3120f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/vatican_road_4k.hdr"
+                },
+                "exr": {
+                    "size": 24136851,
+                    "md5": "3b4e9db725be1a58aba5e9ab1980af39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/vatican_road_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6291674,
+                    "md5": "818894cf949158d0e58c0a699360c30b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/vatican_road_2k.hdr"
+                },
+                "exr": {
+                    "size": 6230849,
+                    "md5": "e103f0cbf35297be8b0ff5105f9b58b2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/vatican_road_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1589760,
+                    "md5": "a4d0ccfef6070c24f7661d55ac10b236",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/vatican_road_1k.hdr"
+                },
+                "exr": {
+                    "size": 1599031,
+                    "md5": "3499478666b41f052b5b6c8f790ac27b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/vatican_road_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC07979": {
+                "jpg_pretty": {
+                    "size": 13972298,
+                    "md5": "fb642c2962497870246ca7c7855f9b1b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07979.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10252453,
+                    "md5": "ccafd47e14ef61d1812e3facb439401f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07979.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "04fe3f443798be81edb7c1899a913325",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07979.ARW"
+                }
+            },
+            "DSC07969": {
+                "jpg_pretty": {
+                    "size": 15507237,
+                    "md5": "a9db2b635de20da2ab976e440d3f433b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07969.jpg"
+                },
+                "jpg_plain": {
+                    "size": 11933710,
+                    "md5": "7083e89c48d037a76b62177043016e26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07969.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "dbbda6b9dd6800b73243487daa142a36",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07969.ARW"
+                }
+            },
+            "DSC07948": {
+                "jpg_pretty": {
+                    "size": 26605476,
+                    "md5": "16302415a052c89f1731aebe75d56d63",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07948.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16099255,
+                    "md5": "241d427450223cdc943acc04848bf04e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07948.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "01414774a11115ccb9eb95883bc7bb7a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07948.ARW"
+                }
+            },
+            "DSC07959": {
+                "jpg_pretty": {
+                    "size": 22722554,
+                    "md5": "b362db28e35ffcb6c19e9bac26d93bc3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07959.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14811080,
+                    "md5": "1d33d97d1f4052bc10f5c3e4c23a36b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07959.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "6edce8e62609aa529b538718d0b15b9c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07959.ARW"
+                }
+            },
+            "DSC07949": {
+                "jpg_pretty": {
+                    "size": 22424267,
+                    "md5": "1833b558715cf22c2fc158123d9aeff8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07949.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16097919,
+                    "md5": "c22b2dc0c9bd9be43653039a1d4973a4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07949.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "c2aa23270109875f16e08d49b2d59589",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07949.ARW"
+                }
+            },
+            "DSC07982": {
+                "jpg_pretty": {
+                    "size": 17445864,
+                    "md5": "3e69212a837f93c57120a2f9824c9669",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07982.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8395882,
+                    "md5": "6bc59cfdd849b033a2c7f9ffd133287d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07982.jpg"
+                },
+                "raw": {
+                    "size": 36962304,
+                    "md5": "16c67c49cdb9d70030c19091a0bc0b41",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07982.ARW"
+                }
+            },
+            "DSC07961": {
+                "jpg_pretty": {
+                    "size": 18256264,
+                    "md5": "5e2d042e89f3bf1316bb712cc502dd30",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07961.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13791202,
+                    "md5": "5b43c688453d3af1640cca7e30ead9a1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07961.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "98dd4c2137d370575cf37ab797bf0c15",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07961.ARW"
+                }
+            },
+            "DSC07984": {
+                "jpg_pretty": {
+                    "size": 20490367,
+                    "md5": "23f300cd89d118422b019fcca6943620",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07984.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13349939,
+                    "md5": "473100d5d435f9915ef0c6a10e28184f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07984.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "6a196ea3d39d0e85d3eef3e1985d6119",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07984.ARW"
+                }
+            },
+            "DSC07952": {
+                "jpg_pretty": {
+                    "size": 12666254,
+                    "md5": "18b1917bf00879e95200b778201ced20",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07952.jpg"
+                },
+                "jpg_plain": {
+                    "size": 8700163,
+                    "md5": "80d75b94e23a0809f9e6aa768d914803",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07952.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "8285cce798626ad66d876721a6bdc045",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07952.ARW"
+                }
+            },
+            "DSC07963": {
+                "jpg_pretty": {
+                    "size": 24213402,
+                    "md5": "394f9efe3531673be2f5ac0961c31696",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07963.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16283926,
+                    "md5": "bd02705eddf521ca66542fe934611266",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07963.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "81298df6efaca5cd225928c22d0de89a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07963.ARW"
+                }
+            },
+            "DSC07974": {
+                "jpg_pretty": {
+                    "size": 22623156,
+                    "md5": "018a2c16fc758eed9ed88548227588bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07974.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16069766,
+                    "md5": "cf03ee68e61070d0938bda2f1ad6548c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07974.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "5d499c9474c70cff95920c9eebe3c773",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07974.ARW"
+                }
+            },
+            "DSC07976": {
+                "jpg_pretty": {
+                    "size": 15237914,
+                    "md5": "124f0993d3065951fc22719cf76fd839",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07976.jpg"
+                },
+                "jpg_plain": {
+                    "size": 9891746,
+                    "md5": "82c66e79d978e1d44401613a492668d8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07976.jpg"
+                },
+                "raw": {
+                    "size": 36962304,
+                    "md5": "fccdbfafd820120926d1d69921c3cb02",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07976.ARW"
+                }
+            },
+            "DSC07966": {
+                "jpg_pretty": {
+                    "size": 25974286,
+                    "md5": "e173572946bde1ca877dbf4f9a5aa9af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07966.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17602960,
+                    "md5": "e85d402403e9193da9fc6c856d7b8813",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07966.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "b32f42fcb4a6902d2a684edd67e458ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07966.ARW"
+                }
+            },
+            "DSC07978": {
+                "jpg_pretty": {
+                    "size": 15243824,
+                    "md5": "89a5125d4dc66c22ae9488e4e9450729",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07978.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10977864,
+                    "md5": "4fcc11f1e869d4319640527ac70b4e71",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07978.jpg"
+                },
+                "raw": {
+                    "size": 36962304,
+                    "md5": "c2ffe167e4d890239aa23349c4f57e73",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07978.ARW"
+                }
+            },
+            "DSC07980": {
+                "jpg_pretty": {
+                    "size": 13597955,
+                    "md5": "d4d4ac2a32030c9d225c7bc6be7617b3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07980.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10767146,
+                    "md5": "3f8a7a1901248b86068d3faa6bc8ea3b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07980.jpg"
+                },
+                "raw": {
+                    "size": 36896768,
+                    "md5": "18957688abbb826c658f92eeec7624fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07980.ARW"
+                }
+            },
+            "DSC07981": {
+                "jpg_pretty": {
+                    "size": 14470604,
+                    "md5": "7366100af67483c3379986c01a02ce4b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_pretty/DSC07981.jpg"
+                },
+                "jpg_plain": {
+                    "size": 10137232,
+                    "md5": "59539849c30cd0aba6fbc1830f5611b9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/jpg_plain/DSC07981.jpg"
+                },
+                "raw": {
+                    "size": 36929536,
+                    "md5": "474cd330e4d84567f51dd0a3f9e21843",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/vatican_road/raw/DSC07981.ARW"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "evs_cap": 16,
+    "type": 0,
+    "whitebalance": 4200,
+    "tags": [
+        "studio",
+        "bed",
+        "fabric",
+        "wood",
+        "wooden floor",
+        "white",
+        "windows",
+        "chair"
+    ],
+    "name": "Brown Photostudio 07",
+    "categories": [
+        "natural light",
+        "studio",
+        "indoor",
+        "medium contrast",
+        "urban"
+    ],
+    "coords": [
+        49.237264,
+        28.40647
+    ],
+    "date_taken": 1650032640,
+    "info": null,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "date_published": 1665705600,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "4acd588b8e34fb7baff28821eac191c9f61c7268",
+    "download_count": 40611,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/brown_photostudio_07.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 45000935,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/brown_photostudio_07.jpg",
+            "md5": "aeb977c8be20a1061a919484c0bfa941"
+        },
+        "colorchart": {
+            "size": 96633333,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/brown_photostudio_07.zip",
+            "md5": "96a6d3bc3cb44e357cbfeda3150c1461"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/brown_photostudio_07_8k.hdr",
+                    "size": 100299843,
+                    "md5": "a7a7ce02363a28a86d0ee4024072b6ba"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/brown_photostudio_07_8k.exr",
+                    "size": 83980166,
+                    "md5": "0533c161f5f5e05bf2e3bddd58999383"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/brown_photostudio_07_16k.hdr",
+                    "size": 378322660,
+                    "md5": "13f2313bb9ced8669bb886695625199f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/brown_photostudio_07_16k.exr",
+                    "size": 298251370,
+                    "md5": "bf26c40aea02546b565dc973b5e4e97b"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/brown_photostudio_07_4k.hdr",
+                    "size": 25863459,
+                    "md5": "4da30ab680e28c0c8fe4390faf8f6d09"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/brown_photostudio_07_4k.exr",
+                    "size": 22238131,
+                    "md5": "4e6e552188df9c43a5c563986bfa3375"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/brown_photostudio_07_2k.hdr",
+                    "size": 6576816,
+                    "md5": "ce8a16424cf1304b6701b6f808d1a446"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/brown_photostudio_07_2k.exr",
+                    "size": 5740098,
+                    "md5": "0a92fb3bcad6fcae2ce574b92210a951"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/brown_photostudio_07_1k.hdr",
+                    "size": 1664165,
+                    "md5": "7a793561ec0e89b13878be4799c99513"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/brown_photostudio_07_1k.exr",
+                    "size": 1475045,
+                    "md5": "c71a5e05584a2b2ecc0ff8a226f05405"
+                }
+            }
+        }
+    }
+}

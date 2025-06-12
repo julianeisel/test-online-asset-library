@@ -1,0 +1,124 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5303,
+    "tags": [
+        "industrial",
+        "warehouse",
+        "workshop",
+        "machine",
+        "tools"
+    ],
+    "date_published": 1668124800,
+    "name": "Industrial Workshop Foundry",
+    "categories": [
+        "indoor",
+        "medium contrast",
+        "artificial light",
+        "natural light",
+        "urban"
+    ],
+    "coords": [
+        -26.124047643545016,
+        28.211903706781133
+    ],
+    "date_taken": 1658923020,
+    "info": null,
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "3353c78f743e53a70c8228eab121a0f52f27a9dd",
+    "download_count": 20110,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/industrial_workshop_foundry.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 46352151,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/industrial_workshop_foundry.jpg",
+            "md5": "d868982b8c40355fb31cbf93ae8f41ec"
+        },
+        "colorchart": {
+            "size": 223009838,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/industrial_workshop_foundry.zip",
+            "md5": "07a2f69de1b701b1c2bc594a0d6008bf"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/industrial_workshop_foundry_8k.hdr",
+                    "size": 100545087,
+                    "md5": "79b01c47d37908f5cdd0ad867f4d87f2"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/industrial_workshop_foundry_8k.exr",
+                    "size": 385173331,
+                    "md5": "945df0e4a494ecf14248f120b95650f8"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/industrial_workshop_foundry_16k.hdr",
+                    "size": 379892696,
+                    "md5": "ac61db2b88b0f68b153bec683008682c"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/industrial_workshop_foundry_16k.exr",
+                    "size": 1523078381,
+                    "md5": "c59286083e59624b48c943fa8ccddc5d"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/industrial_workshop_foundry_4k.hdr",
+                    "size": 25896818,
+                    "md5": "88b3a40a05ad29da7e7e060513c139af"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/industrial_workshop_foundry_4k.exr",
+                    "size": 96804645,
+                    "md5": "f5d968b2695e0f6ed88514d5ea41325b"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/industrial_workshop_foundry_24k.hdr",
+                    "size": 834482498,
+                    "md5": "8f2cd8a6c4bc41c70e9b3d12fb634c71"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/industrial_workshop_foundry_24k.exr",
+                    "size": 3397277402,
+                    "md5": "4875e3c421f5cfc8329de535da401f4f"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/industrial_workshop_foundry_2k.hdr",
+                    "size": 6636267,
+                    "md5": "b32ccf18584d284cead88d36ec617c8c"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/industrial_workshop_foundry_2k.exr",
+                    "size": 24322929,
+                    "md5": "e16847ea9d4dbf230ca8ef14aacf7688"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/industrial_workshop_foundry_1k.hdr",
+                    "size": 1701301,
+                    "md5": "d65e13e0b4aff7fd0a2fa32a7c0fd4e3"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/industrial_workshop_foundry_1k.exr",
+                    "size": 6116565,
+                    "md5": "5608160096047c54d1359698cba57789"
+                }
+            }
+        }
+    }
+}

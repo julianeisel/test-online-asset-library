@@ -1,0 +1,122 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "tiles",
+        "architecture",
+        "roman",
+        "hall",
+        "dome",
+        "pantheon",
+        "circular"
+    ],
+    "date_published": 1633996800,
+    "name": "Sepulchral Chapel Rotunda",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1632044040,
+    "coords": [
+        48.78208166581991,
+        9.268558913051681
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "max_resolution": [
+        19842,
+        9921
+    ],
+    "files_hash": "6acac9c2ca14629b49fd3f8d983b9467a59697b9",
+    "download_count": 30152,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sepulchral_chapel_rotunda.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 41415698,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/sepulchral_chapel_rotunda.jpg",
+            "md5": "b3b048972436b0d2e07389ae98695403"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 582920890,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/sepulchral_chapel_rotunda_19k.hdr",
+                    "md5": "e0ee790bf05b057da8788e47f9d08583"
+                },
+                "exr": {
+                    "size": 1029389021,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/sepulchral_chapel_rotunda_19k.exr",
+                    "md5": "5f2948f27cff6b48e282653498b4fd32"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 103178655,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/sepulchral_chapel_rotunda_8k.hdr",
+                    "md5": "87cdd6d8fcdcd7047b0b0ebbf8efef6d"
+                },
+                "exr": {
+                    "size": 234786065,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/sepulchral_chapel_rotunda_8k.exr",
+                    "md5": "da8663de49061fa5906b41f1ef5f95a0"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 401569488,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/sepulchral_chapel_rotunda_16k.hdr",
+                    "md5": "4899b25ba7c7afd478be1ad3e79051de"
+                },
+                "exr": {
+                    "size": 826735787,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/sepulchral_chapel_rotunda_16k.exr",
+                    "md5": "cba52d97209bdd62e073c6ffe987088b"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26166126,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/sepulchral_chapel_rotunda_4k.hdr",
+                    "md5": "ccc42768c9e3a3138f5f24cd2955628b"
+                },
+                "exr": {
+                    "size": 63838376,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/sepulchral_chapel_rotunda_4k.exr",
+                    "md5": "82cb7156e2ad1b6960d28f8683bd469f"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6597992,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/sepulchral_chapel_rotunda_2k.hdr",
+                    "md5": "61113c874f54b820bae2fd7084b17209"
+                },
+                "exr": {
+                    "size": 17741177,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/sepulchral_chapel_rotunda_2k.exr",
+                    "md5": "a44ae5205c8f8010ce7397fc6dad5084"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1673712,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/sepulchral_chapel_rotunda_1k.hdr",
+                    "md5": "4c3f3ba46ad171cc4f863258d536fb8e"
+                },
+                "exr": {
+                    "size": 5536921,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/sepulchral_chapel_rotunda_1k.exr",
+                    "md5": "bd97cf39e1fa74e7f8a45ca7b38d157b"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 139758502,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/sepulchral_chapel_rotunda.zip",
+            "md5": "2bcad8581e9a3505964756354a5e58ae"
+        }
+    }
+}

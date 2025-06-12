@@ -1,0 +1,1788 @@
+{
+    "date_published": 1585605600,
+    "name": "Cash Register 01",
+    "categories": [
+        "appliances",
+        "props"
+    ],
+    "type": 2,
+    "tags": [
+        "commercial",
+        "store",
+        "vintage",
+        "cash",
+        "transaction",
+        "register",
+        "money",
+        "sales",
+        "convenience store",
+        "cashier",
+        "retail",
+        "business"
+    ],
+    "authors": {
+        "Joe Seabuhr": "All"
+    },
+    "files_hash": "4665ea339d5c6b0ee788222976b68ba8cb871c5f",
+    "sponsors": [
+        "42579608",
+        "297038"
+    ],
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "polycount": 9927,
+    "texel_density": 5156.575013122558,
+    "dimensions": [
+        600.4907041788101,
+        624.2051124572754,
+        621.3557496666908
+    ],
+    "download_count": 17978,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/CashRegister_01.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 3190594,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_diff_8k.jpg",
+                    "md5": "20f4598b6f1aab7efe4fecab690dd553"
+                },
+                "png": {
+                    "size": 19446300,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_diff_8k.png",
+                    "md5": "7eacea392f5ee34222fbc8e15899b433"
+                },
+                "exr": {
+                    "size": 15722788,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_diff_8k.exr",
+                    "md5": "879108633533f0cd2aafd0c98129b9b8"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1154806,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_diff_4k.jpg",
+                    "md5": "6563f1bec5815f1cbc4976460c89ac86"
+                },
+                "png": {
+                    "size": 7268883,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_diff_4k.png",
+                    "md5": "b0c37c69d140a1973403f40478685cef"
+                },
+                "exr": {
+                    "size": 5527568,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_diff_4k.exr",
+                    "md5": "9796e18d8792b7cef66c76d7cce5d883"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 400846,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_diff_2k.jpg",
+                    "md5": "8171ef1f26724ab891ffce1894d50283"
+                },
+                "png": {
+                    "size": 2788275,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_diff_2k.png",
+                    "md5": "a531a3504d66041042e14eb3a4f17f48"
+                },
+                "exr": {
+                    "size": 2016289,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_diff_2k.exr",
+                    "md5": "699e4c852a40592f6b7d837228f6da75"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 133109,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_diff_1k.jpg",
+                    "md5": "bfa598c754195bfd8e639f169c58a379"
+                },
+                "png": {
+                    "size": 855974,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_diff_1k.png",
+                    "md5": "06da664d1752cb08f97508a88b457375"
+                },
+                "exr": {
+                    "size": 665625,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_diff_1k.exr",
+                    "md5": "2c3866308f956e43e20e021634497a69"
+                }
+            }
+        },
+        "glass_nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 1049269,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_glass_nor_dx_8k.jpg",
+                    "md5": "980b3e8719f2363b0d445eaedcca1e5a"
+                },
+                "png": {
+                    "size": 216220,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_nor_dx_8k.png",
+                    "md5": "2c233132ea404245a1689b82a0e42ea4"
+                },
+                "exr": {
+                    "size": 70582,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_glass_nor_dx_8k.exr",
+                    "md5": "b6c1b89119a9a11cc4ec826e90155993"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 262837,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_glass_nor_dx_4k.jpg",
+                    "md5": "533dc0389451cf917b46db030529c184"
+                },
+                "png": {
+                    "size": 58808,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_nor_dx_4k.png",
+                    "md5": "d6d4c043ab247306c91f9963baf0e582"
+                },
+                "exr": {
+                    "size": 30006,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_glass_nor_dx_4k.exr",
+                    "md5": "3b1f5f401908b47713160d0fc53c7348"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 66229,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_glass_nor_dx_2k.jpg",
+                    "md5": "6e1da7a258742893595766d7ba050c69"
+                },
+                "png": {
+                    "size": 16922,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_nor_dx_2k.png",
+                    "md5": "d7c52e8ee21b3ac32c737841ba96d695"
+                },
+                "exr": {
+                    "size": 13750,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_glass_nor_dx_2k.exr",
+                    "md5": "9236c01637df157b43435403749adac2"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 17077,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_glass_nor_dx_1k.jpg",
+                    "md5": "b487da64181c500852ee514b8ae5e4a3"
+                },
+                "png": {
+                    "size": 5376,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_nor_dx_1k.png",
+                    "md5": "31825caf0194972b7a935888afeed366"
+                },
+                "exr": {
+                    "size": 6774,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_glass_nor_dx_1k.exr",
+                    "md5": "c0ac3f39dd12af93702c2ef65935c41b"
+                }
+            }
+        },
+        "glass_metallic": {
+            "8k": {
+                "jpg": {
+                    "size": 786828,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_glass_metallic_8k.jpg",
+                    "md5": "5f26c2cf9864f606a385079105582ab9"
+                },
+                "png": {
+                    "size": 65408,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_metallic_8k.png",
+                    "md5": "202c765cf53ae1b04635a5ec99af69c7"
+                },
+                "exr": {
+                    "size": 150384,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_glass_metallic_8k.exr",
+                    "md5": "8139a6843f67bdf9fec3db3e095a3c1e"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 197004,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_glass_metallic_4k.jpg",
+                    "md5": "921d904a81bd79b20edf344db2775b2c"
+                },
+                "png": {
+                    "size": 16432,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_metallic_4k.png",
+                    "md5": "df8ab9679c470bb69b185cfc565b2bef"
+                },
+                "exr": {
+                    "size": 42864,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_glass_metallic_4k.exr",
+                    "md5": "526a17797bdeebc75fe197297885d2ae"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 49548,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_glass_metallic_2k.jpg",
+                    "md5": "55a2f4c6c290ccc7dca012bae0d5413e"
+                },
+                "png": {
+                    "size": 4187,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_metallic_2k.png",
+                    "md5": "12f0d8cf69c8a3427fbdfaaffe7978a5"
+                },
+                "exr": {
+                    "size": 13296,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_glass_metallic_2k.exr",
+                    "md5": "8a3708178a6e1815ec1df9351d11fad9"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 12684,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_glass_metallic_1k.jpg",
+                    "md5": "e8c0e6464de97eac1caa382a44a2682f"
+                },
+                "png": {
+                    "size": 1139,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_metallic_1k.png",
+                    "md5": "14c604b27ea726bc5b38e48671f77ce0"
+                },
+                "exr": {
+                    "size": 4784,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_glass_metallic_1k.exr",
+                    "md5": "ea82a480f8547c6a761e67e218809e69"
+                }
+            }
+        },
+        "glass_roughness": {
+            "8k": {
+                "jpg": {
+                    "size": 1509076,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_glass_roughness_8k.jpg",
+                    "md5": "6fc5c87127bb3eb9a1fb4c7e54ef8e02"
+                },
+                "png": {
+                    "size": 3180473,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_roughness_8k.png",
+                    "md5": "535a17ca3de4737a0518a37e0b77cae0"
+                },
+                "exr": {
+                    "size": 7201631,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_glass_roughness_8k.exr",
+                    "md5": "df5135a236a14c028cb92f2f3640b234"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 553094,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_glass_roughness_4k.jpg",
+                    "md5": "146615d980e0f1f1b3bd3e31d43cbc96"
+                },
+                "png": {
+                    "size": 1135078,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_roughness_4k.png",
+                    "md5": "8639d05eb7a20345515584d77686b6e5"
+                },
+                "exr": {
+                    "size": 2453344,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_glass_roughness_4k.exr",
+                    "md5": "0220bef1cb76f63af4bd40baa17080da"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 185670,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_glass_roughness_2k.jpg",
+                    "md5": "f462915657e7a2ea5c1cce9e7f013bf8"
+                },
+                "png": {
+                    "size": 404532,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_roughness_2k.png",
+                    "md5": "2e030182df95b9292d9483014c38b8f8"
+                },
+                "exr": {
+                    "size": 884520,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_glass_roughness_2k.exr",
+                    "md5": "583997d4c6c351fc711f652e17b05f05"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 66587,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_glass_roughness_1k.jpg",
+                    "md5": "9b70e5da4e7cef0503578684c1361d4b"
+                },
+                "png": {
+                    "size": 144801,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_roughness_1k.png",
+                    "md5": "764840d1e2b2ac56b7bc6fe626392fe8"
+                },
+                "exr": {
+                    "size": 313977,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_glass_roughness_1k.exr",
+                    "md5": "032eff8b47fcb93043a5e60247ccfca6"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 3073151,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_nor_dx_8k.jpg",
+                    "md5": "18d26c348a03f5c341767b368cf3aa1a"
+                },
+                "png": {
+                    "size": 13237457,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_nor_dx_8k.png",
+                    "md5": "4117b9fc209aa05fbdd2e0244d7fe2ae"
+                },
+                "exr": {
+                    "size": 19502817,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_nor_dx_8k.exr",
+                    "md5": "332487548c0b27a39e1ed9bc1aa7a1c2"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1096010,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_nor_dx_4k.jpg",
+                    "md5": "0460cd6cfe7609457ce0b26513027238"
+                },
+                "png": {
+                    "size": 5227106,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_nor_dx_4k.png",
+                    "md5": "addcf5495c831b3721bddc8b8a693db2"
+                },
+                "exr": {
+                    "size": 7179629,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_nor_dx_4k.exr",
+                    "md5": "205deffee877bd6147f6ce636863985c"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 413011,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_nor_dx_2k.jpg",
+                    "md5": "e86fdab415bb417bff4d6763cd4912c1"
+                },
+                "png": {
+                    "size": 2198551,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_nor_dx_2k.png",
+                    "md5": "0b8d35b44aa5ef21b1860b5792163e89"
+                },
+                "exr": {
+                    "size": 2557181,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_nor_dx_2k.exr",
+                    "md5": "bd7f21f862c1f4566b05da0e094dde64"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 146221,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_nor_dx_1k.jpg",
+                    "md5": "5aee8721bf520b9bc0fb090bb77eecd4"
+                },
+                "png": {
+                    "size": 704111,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_nor_dx_1k.png",
+                    "md5": "ae0eed66b95ced36877b01ffb6838544"
+                },
+                "exr": {
+                    "size": 908497,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_nor_dx_1k.exr",
+                    "md5": "4d2836ce9a67980ff1cd895e793e462a"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/CashRegister_01_glass_diff_8k.png": {
+                            "size": 19014359,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_diff_8k.png",
+                            "md5": "bce3bb3bb1acff8512696a446db968e2"
+                        },
+                        "textures/CashRegister_01_glass_roughness_8k.png": {
+                            "size": 3180473,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_roughness_8k.png",
+                            "md5": "535a17ca3de4737a0518a37e0b77cae0"
+                        },
+                        "textures/CashRegister_01_nor_gl_8k.exr": {
+                            "size": 19644053,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_nor_gl_8k.exr",
+                            "md5": "1fe07fe514af1fd8629480a2913f7094"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_8k.png": {
+                            "size": 216221,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_nor_gl_8k.png",
+                            "md5": "10e1d5a0f5a11767b67f09dd1b25066b"
+                        },
+                        "textures/CashRegister_01_roughness_8k.jpg": {
+                            "size": 3912177,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_roughness_8k.jpg",
+                            "md5": "fc480e1af234a96aa59f37f98bdc24d1"
+                        },
+                        "textures/CashRegister_01_glass_opacity_8k.png": {
+                            "size": 4249535,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_opacity_8k.png",
+                            "md5": "6547c6abe91daf5d7c9f4bfdabe5518d"
+                        },
+                        "textures/CashRegister_01_metallic_8k.exr": {
+                            "size": 6560360,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_metallic_8k.exr",
+                            "md5": "06d6bcf5e812131ae08cdda9c3d773fb"
+                        },
+                        "textures/CashRegister_01_glass_metallic_8k.png": {
+                            "size": 65408,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_metallic_8k.png",
+                            "md5": "202c765cf53ae1b04635a5ec99af69c7"
+                        },
+                        "textures/CashRegister_01_diff_8k.jpg": {
+                            "size": 3190594,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_diff_8k.jpg",
+                            "md5": "20f4598b6f1aab7efe4fecab690dd553"
+                        }
+                    },
+                    "size": 465870,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/CashRegister_01/CashRegister_01_8k.blend",
+                    "md5": "ebb7e2f35a42db68fc47d19893ff5040"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/CashRegister_01_glass_opacity_4k.png": {
+                            "size": 1517997,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_opacity_4k.png",
+                            "md5": "88429f82704c741b5ab0b0ed4293d932"
+                        },
+                        "textures/CashRegister_01_roughness_4k.jpg": {
+                            "size": 1438017,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_roughness_4k.jpg",
+                            "md5": "2cd1de84abd583de0645e42f25ae1f11"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_4k.png": {
+                            "size": 58809,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_nor_gl_4k.png",
+                            "md5": "21ab707a446811f35143a69971b77602"
+                        },
+                        "textures/CashRegister_01_nor_gl_4k.exr": {
+                            "size": 7186955,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_nor_gl_4k.exr",
+                            "md5": "dd57d683525850bd621a24f70f1886bb"
+                        },
+                        "textures/CashRegister_01_glass_roughness_4k.png": {
+                            "size": 1135078,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_roughness_4k.png",
+                            "md5": "8639d05eb7a20345515584d77686b6e5"
+                        },
+                        "textures/CashRegister_01_glass_diff_4k.png": {
+                            "size": 6331222,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_diff_4k.png",
+                            "md5": "b691a0beb13990da3e47392e4a30e157"
+                        },
+                        "textures/CashRegister_01_glass_metallic_4k.png": {
+                            "size": 16432,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_metallic_4k.png",
+                            "md5": "df8ab9679c470bb69b185cfc565b2bef"
+                        },
+                        "textures/CashRegister_01_diff_4k.jpg": {
+                            "size": 1154806,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_diff_4k.jpg",
+                            "md5": "6563f1bec5815f1cbc4976460c89ac86"
+                        },
+                        "textures/CashRegister_01_metallic_4k.exr": {
+                            "size": 2329657,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_metallic_4k.exr",
+                            "md5": "88ebe60b00fffbc5a946c32786920cd2"
+                        }
+                    },
+                    "size": 465990,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/CashRegister_01/CashRegister_01_4k.blend",
+                    "md5": "bd633919bf6c7023f136757bceb506f0"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/CashRegister_01_glass_metallic_2k.png": {
+                            "size": 4187,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_metallic_2k.png",
+                            "md5": "12f0d8cf69c8a3427fbdfaaffe7978a5"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_2k.png": {
+                            "size": 16923,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_nor_gl_2k.png",
+                            "md5": "c7ce60bf0c0b4a3513e3cf6a5c063e50"
+                        },
+                        "textures/CashRegister_01_glass_diff_2k.png": {
+                            "size": 2086091,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_diff_2k.png",
+                            "md5": "66db9a59b5b2155fb936d519f090e36e"
+                        },
+                        "textures/CashRegister_01_metallic_2k.exr": {
+                            "size": 1034131,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_metallic_2k.exr",
+                            "md5": "2acd8450475a632dfa80096785779962"
+                        },
+                        "textures/CashRegister_01_diff_2k.jpg": {
+                            "size": 400846,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_diff_2k.jpg",
+                            "md5": "8171ef1f26724ab891ffce1894d50283"
+                        },
+                        "textures/CashRegister_01_nor_gl_2k.exr": {
+                            "size": 2554681,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_nor_gl_2k.exr",
+                            "md5": "c495f31544ef0032c4787421daf1ff79"
+                        },
+                        "textures/CashRegister_01_glass_opacity_2k.png": {
+                            "size": 549173,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_opacity_2k.png",
+                            "md5": "5cebd2273fc9a57a69946fefbb910071"
+                        },
+                        "textures/CashRegister_01_roughness_2k.jpg": {
+                            "size": 499200,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_roughness_2k.jpg",
+                            "md5": "40639dc2977bea3cb65f526c55b6af2a"
+                        },
+                        "textures/CashRegister_01_glass_roughness_2k.png": {
+                            "size": 404532,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_roughness_2k.png",
+                            "md5": "2e030182df95b9292d9483014c38b8f8"
+                        }
+                    },
+                    "size": 465907,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/CashRegister_01/CashRegister_01_2k.blend",
+                    "md5": "493cbf5866763d24d562a784b2af0a96"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/CashRegister_01_diff_1k.jpg": {
+                            "size": 133109,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_diff_1k.jpg",
+                            "md5": "bfa598c754195bfd8e639f169c58a379"
+                        },
+                        "textures/CashRegister_01_nor_gl_1k.exr": {
+                            "size": 908852,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_nor_gl_1k.exr",
+                            "md5": "1807f06507e8267e94c169f662c40dcf"
+                        },
+                        "textures/CashRegister_01_glass_roughness_1k.png": {
+                            "size": 144801,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_roughness_1k.png",
+                            "md5": "764840d1e2b2ac56b7bc6fe626392fe8"
+                        },
+                        "textures/CashRegister_01_glass_metallic_1k.png": {
+                            "size": 1139,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_metallic_1k.png",
+                            "md5": "14c604b27ea726bc5b38e48671f77ce0"
+                        },
+                        "textures/CashRegister_01_glass_diff_1k.png": {
+                            "size": 651378,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_diff_1k.png",
+                            "md5": "d66a450eb5573325db686d9e6c7d2ff8"
+                        },
+                        "textures/CashRegister_01_metallic_1k.exr": {
+                            "size": 349722,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_metallic_1k.exr",
+                            "md5": "01062afe4bbd05b71486fcba06d52e9f"
+                        },
+                        "textures/CashRegister_01_glass_opacity_1k.png": {
+                            "size": 196144,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_opacity_1k.png",
+                            "md5": "e79d5d89f44c31b04ee18ec269238ecc"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_1k.png": {
+                            "size": 5377,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_nor_gl_1k.png",
+                            "md5": "a824b4f1ae03e13ec56c9b2dc2a33d20"
+                        },
+                        "textures/CashRegister_01_roughness_1k.jpg": {
+                            "size": 155480,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_roughness_1k.jpg",
+                            "md5": "99cadf40ceafedf2099473e3344b4fbb"
+                        }
+                    },
+                    "size": 465919,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/CashRegister_01/CashRegister_01_1k.blend",
+                    "md5": "a9ac5b9071864967149d51460c52eed8"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "textures/CashRegister_01_glass_arm_8k.jpg": {
+                            "size": 1828218,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_glass_arm_8k.jpg",
+                            "md5": "318d316a8d17ddedf70f0b9f1ee74182"
+                        },
+                        "CashRegister_01.bin": {
+                            "size": 356396,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/CashRegister_01/CashRegister_01.bin",
+                            "md5": "49c3cfeaf3b53d89cadab7875ffbd28a"
+                        },
+                        "textures/CashRegister_01_nor_gl_8k.jpg": {
+                            "size": 3058243,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_nor_gl_8k.jpg",
+                            "md5": "c981a8ffb1f9efe1448898d74567d5c0"
+                        },
+                        "textures/CashRegister_01_glass_diff_8k.jpg": {
+                            "size": 2257880,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_glass_diff_8k.jpg",
+                            "md5": "ed4ecd39d71d0e9f90eb2f332186e954"
+                        },
+                        "textures/CashRegister_01_arm_8k.jpg": {
+                            "size": 5158833,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_arm_8k.jpg",
+                            "md5": "7e4f2b145ffb3457b50be21dc0978489"
+                        },
+                        "textures/CashRegister_01_diff_8k.jpg": {
+                            "size": 3190594,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_diff_8k.jpg",
+                            "md5": "20f4598b6f1aab7efe4fecab690dd553"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_8k.jpg": {
+                            "size": 1049269,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_glass_nor_gl_8k.jpg",
+                            "md5": "6fece76bb82b66924d51e4872beb1ed9"
+                        }
+                    },
+                    "size": 6300,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/CashRegister_01/CashRegister_01_8k.gltf",
+                    "md5": "b1e6e3abb8a1eeaf3b17b43641864e5c"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/CashRegister_01_glass_diff_4k.jpg": {
+                            "size": 839310,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_glass_diff_4k.jpg",
+                            "md5": "fa652cb67ffd2450e3cd48cd7a3acf61"
+                        },
+                        "textures/CashRegister_01_arm_4k.jpg": {
+                            "size": 1799397,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_arm_4k.jpg",
+                            "md5": "f429e6e3f9238f9b4e22ce99a6e6cbbe"
+                        },
+                        "textures/CashRegister_01_glass_arm_4k.jpg": {
+                            "size": 615645,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_glass_arm_4k.jpg",
+                            "md5": "feb4dc86fbd64986fe27df5c46877b16"
+                        },
+                        "CashRegister_01.bin": {
+                            "size": 356396,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/CashRegister_01/CashRegister_01.bin",
+                            "md5": "49c3cfeaf3b53d89cadab7875ffbd28a"
+                        },
+                        "textures/CashRegister_01_nor_gl_4k.jpg": {
+                            "size": 1094699,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_nor_gl_4k.jpg",
+                            "md5": "037c28f7882e076fdb76750dce7776f5"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_4k.jpg": {
+                            "size": 262837,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_glass_nor_gl_4k.jpg",
+                            "md5": "5f3eff401383ac1e807d884d1c403ad9"
+                        },
+                        "textures/CashRegister_01_diff_4k.jpg": {
+                            "size": 1154806,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_diff_4k.jpg",
+                            "md5": "6563f1bec5815f1cbc4976460c89ac86"
+                        }
+                    },
+                    "size": 6300,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/CashRegister_01/CashRegister_01_4k.gltf",
+                    "md5": "dde523a4d09957c562678a92a5a85d6d"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/CashRegister_01_glass_arm_2k.jpg": {
+                            "size": 202947,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_glass_arm_2k.jpg",
+                            "md5": "00d52b0709445dad680b9568731a4075"
+                        },
+                        "CashRegister_01.bin": {
+                            "size": 356396,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/CashRegister_01/CashRegister_01.bin",
+                            "md5": "49c3cfeaf3b53d89cadab7875ffbd28a"
+                        },
+                        "textures/CashRegister_01_diff_2k.jpg": {
+                            "size": 400846,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_diff_2k.jpg",
+                            "md5": "8171ef1f26724ab891ffce1894d50283"
+                        },
+                        "textures/CashRegister_01_nor_gl_2k.jpg": {
+                            "size": 414931,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_nor_gl_2k.jpg",
+                            "md5": "917ba485b1629cd64478f955bcce9375"
+                        },
+                        "textures/CashRegister_01_arm_2k.jpg": {
+                            "size": 626244,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_arm_2k.jpg",
+                            "md5": "5d0feba6337dc463633d9ccd2c3c344d"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_2k.jpg": {
+                            "size": 66229,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_glass_nor_gl_2k.jpg",
+                            "md5": "88c76297e561700f3a87fb7eb12438e7"
+                        },
+                        "textures/CashRegister_01_glass_diff_2k.jpg": {
+                            "size": 288714,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_glass_diff_2k.jpg",
+                            "md5": "d79f87843aad7ce79c0dbf6162d448ea"
+                        }
+                    },
+                    "size": 6300,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/CashRegister_01/CashRegister_01_2k.gltf",
+                    "md5": "bf674ab218a199becaec24283992bdb1"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/CashRegister_01_arm_1k.jpg": {
+                            "size": 207527,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_arm_1k.jpg",
+                            "md5": "8f3266ec573baa42e166bf8f21062539"
+                        },
+                        "textures/CashRegister_01_nor_gl_1k.jpg": {
+                            "size": 146745,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_nor_gl_1k.jpg",
+                            "md5": "c45f9c81b08964a27f62e20b142a4fd9"
+                        },
+                        "textures/CashRegister_01_diff_1k.jpg": {
+                            "size": 133109,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_diff_1k.jpg",
+                            "md5": "bfa598c754195bfd8e639f169c58a379"
+                        },
+                        "textures/CashRegister_01_glass_arm_1k.jpg": {
+                            "size": 72642,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_glass_arm_1k.jpg",
+                            "md5": "daf5fe84e6ef58508d6527088248609c"
+                        },
+                        "CashRegister_01.bin": {
+                            "size": 356396,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/CashRegister_01/CashRegister_01.bin",
+                            "md5": "49c3cfeaf3b53d89cadab7875ffbd28a"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_1k.jpg": {
+                            "size": 17077,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_glass_nor_gl_1k.jpg",
+                            "md5": "6f835dd387298bbd5094706384e88a9e"
+                        },
+                        "textures/CashRegister_01_glass_diff_1k.jpg": {
+                            "size": 99676,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_glass_diff_1k.jpg",
+                            "md5": "1bf914670750e0a77cb21a84e0109807"
+                        }
+                    },
+                    "size": 6300,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/CashRegister_01/CashRegister_01_1k.gltf",
+                    "md5": "8fdef843898a54d6638f140b9737873b"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/CashRegister_01_glass_diff_8k.png": {
+                            "size": 19014359,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_diff_8k.png",
+                            "md5": "bce3bb3bb1acff8512696a446db968e2"
+                        },
+                        "textures/CashRegister_01_glass_roughness_8k.png": {
+                            "size": 3180473,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_roughness_8k.png",
+                            "md5": "535a17ca3de4737a0518a37e0b77cae0"
+                        },
+                        "textures/CashRegister_01_nor_gl_8k.exr": {
+                            "size": 19644053,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_nor_gl_8k.exr",
+                            "md5": "1fe07fe514af1fd8629480a2913f7094"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_8k.png": {
+                            "size": 216221,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_nor_gl_8k.png",
+                            "md5": "10e1d5a0f5a11767b67f09dd1b25066b"
+                        },
+                        "textures/CashRegister_01_roughness_8k.jpg": {
+                            "size": 3912177,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_roughness_8k.jpg",
+                            "md5": "fc480e1af234a96aa59f37f98bdc24d1"
+                        },
+                        "textures/CashRegister_01_glass_opacity_8k.png": {
+                            "size": 4249535,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_opacity_8k.png",
+                            "md5": "6547c6abe91daf5d7c9f4bfdabe5518d"
+                        },
+                        "textures/CashRegister_01_metallic_8k.exr": {
+                            "size": 6560360,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_metallic_8k.exr",
+                            "md5": "06d6bcf5e812131ae08cdda9c3d773fb"
+                        },
+                        "textures/CashRegister_01_glass_metallic_8k.png": {
+                            "size": 65408,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_metallic_8k.png",
+                            "md5": "202c765cf53ae1b04635a5ec99af69c7"
+                        },
+                        "textures/CashRegister_01_diff_8k.jpg": {
+                            "size": 3190594,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_diff_8k.jpg",
+                            "md5": "20f4598b6f1aab7efe4fecab690dd553"
+                        }
+                    },
+                    "size": 685423,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/CashRegister_01/CashRegister_01_8k.usdc",
+                    "md5": "9549bc2bdfc053bd8af6688498bcaf6b"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/CashRegister_01_glass_opacity_4k.png": {
+                            "size": 1517997,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_opacity_4k.png",
+                            "md5": "88429f82704c741b5ab0b0ed4293d932"
+                        },
+                        "textures/CashRegister_01_roughness_4k.jpg": {
+                            "size": 1438017,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_roughness_4k.jpg",
+                            "md5": "2cd1de84abd583de0645e42f25ae1f11"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_4k.png": {
+                            "size": 58809,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_nor_gl_4k.png",
+                            "md5": "21ab707a446811f35143a69971b77602"
+                        },
+                        "textures/CashRegister_01_nor_gl_4k.exr": {
+                            "size": 7186955,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_nor_gl_4k.exr",
+                            "md5": "dd57d683525850bd621a24f70f1886bb"
+                        },
+                        "textures/CashRegister_01_glass_roughness_4k.png": {
+                            "size": 1135078,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_roughness_4k.png",
+                            "md5": "8639d05eb7a20345515584d77686b6e5"
+                        },
+                        "textures/CashRegister_01_glass_diff_4k.png": {
+                            "size": 6331222,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_diff_4k.png",
+                            "md5": "b691a0beb13990da3e47392e4a30e157"
+                        },
+                        "textures/CashRegister_01_glass_metallic_4k.png": {
+                            "size": 16432,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_metallic_4k.png",
+                            "md5": "df8ab9679c470bb69b185cfc565b2bef"
+                        },
+                        "textures/CashRegister_01_diff_4k.jpg": {
+                            "size": 1154806,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_diff_4k.jpg",
+                            "md5": "6563f1bec5815f1cbc4976460c89ac86"
+                        },
+                        "textures/CashRegister_01_metallic_4k.exr": {
+                            "size": 2329657,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_metallic_4k.exr",
+                            "md5": "88ebe60b00fffbc5a946c32786920cd2"
+                        }
+                    },
+                    "size": 685419,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/CashRegister_01/CashRegister_01_4k.usdc",
+                    "md5": "93aa88aff6377ceb2fa9791048524fb1"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/CashRegister_01_glass_metallic_2k.png": {
+                            "size": 4187,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_metallic_2k.png",
+                            "md5": "12f0d8cf69c8a3427fbdfaaffe7978a5"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_2k.png": {
+                            "size": 16923,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_nor_gl_2k.png",
+                            "md5": "c7ce60bf0c0b4a3513e3cf6a5c063e50"
+                        },
+                        "textures/CashRegister_01_glass_diff_2k.png": {
+                            "size": 2086091,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_diff_2k.png",
+                            "md5": "66db9a59b5b2155fb936d519f090e36e"
+                        },
+                        "textures/CashRegister_01_metallic_2k.exr": {
+                            "size": 1034131,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_metallic_2k.exr",
+                            "md5": "2acd8450475a632dfa80096785779962"
+                        },
+                        "textures/CashRegister_01_diff_2k.jpg": {
+                            "size": 400846,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_diff_2k.jpg",
+                            "md5": "8171ef1f26724ab891ffce1894d50283"
+                        },
+                        "textures/CashRegister_01_nor_gl_2k.exr": {
+                            "size": 2554681,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_nor_gl_2k.exr",
+                            "md5": "c495f31544ef0032c4787421daf1ff79"
+                        },
+                        "textures/CashRegister_01_glass_opacity_2k.png": {
+                            "size": 549173,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_opacity_2k.png",
+                            "md5": "5cebd2273fc9a57a69946fefbb910071"
+                        },
+                        "textures/CashRegister_01_roughness_2k.jpg": {
+                            "size": 499200,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_roughness_2k.jpg",
+                            "md5": "40639dc2977bea3cb65f526c55b6af2a"
+                        },
+                        "textures/CashRegister_01_glass_roughness_2k.png": {
+                            "size": 404532,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_roughness_2k.png",
+                            "md5": "2e030182df95b9292d9483014c38b8f8"
+                        }
+                    },
+                    "size": 685419,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/CashRegister_01/CashRegister_01_2k.usdc",
+                    "md5": "91c735b89d695b115d0992b45d67bf06"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/CashRegister_01_diff_1k.jpg": {
+                            "size": 133109,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_diff_1k.jpg",
+                            "md5": "bfa598c754195bfd8e639f169c58a379"
+                        },
+                        "textures/CashRegister_01_nor_gl_1k.exr": {
+                            "size": 908852,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_nor_gl_1k.exr",
+                            "md5": "1807f06507e8267e94c169f662c40dcf"
+                        },
+                        "textures/CashRegister_01_glass_roughness_1k.png": {
+                            "size": 144801,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_roughness_1k.png",
+                            "md5": "764840d1e2b2ac56b7bc6fe626392fe8"
+                        },
+                        "textures/CashRegister_01_glass_metallic_1k.png": {
+                            "size": 1139,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_metallic_1k.png",
+                            "md5": "14c604b27ea726bc5b38e48671f77ce0"
+                        },
+                        "textures/CashRegister_01_glass_diff_1k.png": {
+                            "size": 651378,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_diff_1k.png",
+                            "md5": "d66a450eb5573325db686d9e6c7d2ff8"
+                        },
+                        "textures/CashRegister_01_metallic_1k.exr": {
+                            "size": 349722,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_metallic_1k.exr",
+                            "md5": "01062afe4bbd05b71486fcba06d52e9f"
+                        },
+                        "textures/CashRegister_01_glass_opacity_1k.png": {
+                            "size": 196144,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_opacity_1k.png",
+                            "md5": "e79d5d89f44c31b04ee18ec269238ecc"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_1k.png": {
+                            "size": 5377,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_nor_gl_1k.png",
+                            "md5": "a824b4f1ae03e13ec56c9b2dc2a33d20"
+                        },
+                        "textures/CashRegister_01_roughness_1k.jpg": {
+                            "size": 155480,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_roughness_1k.jpg",
+                            "md5": "99cadf40ceafedf2099473e3344b4fbb"
+                        }
+                    },
+                    "size": 685419,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/CashRegister_01/CashRegister_01_1k.usdc",
+                    "md5": "19a963f12725ca724e840f06ae21f200"
+                }
+            }
+        },
+        "Metal": {
+            "8k": {
+                "jpg": {
+                    "size": 1891043,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_metallic_8k.jpg",
+                    "md5": "c4d91d0fb854d3da3f0a67cb9bf258f3"
+                },
+                "png": {
+                    "size": 2872886,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_metallic_8k.png",
+                    "md5": "3a25d536dc2e0bc690e64d632e4c81ac"
+                },
+                "exr": {
+                    "size": 6560360,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_metallic_8k.exr",
+                    "md5": "06d6bcf5e812131ae08cdda9c3d773fb"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 652372,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_metallic_4k.jpg",
+                    "md5": "0df9454ac121cf165aa9a243752f4ed4"
+                },
+                "png": {
+                    "size": 1106539,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_metallic_4k.png",
+                    "md5": "2f66d0497eb222795d75f64a5cab1278"
+                },
+                "exr": {
+                    "size": 2329657,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_metallic_4k.exr",
+                    "md5": "88ebe60b00fffbc5a946c32786920cd2"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 241677,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_metallic_2k.jpg",
+                    "md5": "ca4f9389a26f09311a82c92a796b702a"
+                },
+                "png": {
+                    "size": 522168,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_metallic_2k.png",
+                    "md5": "86f458baee6f6fedb1c1702233e50547"
+                },
+                "exr": {
+                    "size": 1034131,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_metallic_2k.exr",
+                    "md5": "2acd8450475a632dfa80096785779962"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 89387,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_metallic_1k.jpg",
+                    "md5": "03dab7911c96256dfcae7b70e04bcba5"
+                },
+                "png": {
+                    "size": 176987,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_metallic_1k.png",
+                    "md5": "0ba8de82e3d576612f54598f1e2f4b4d"
+                },
+                "exr": {
+                    "size": 349722,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_metallic_1k.exr",
+                    "md5": "01062afe4bbd05b71486fcba06d52e9f"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 3912177,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_roughness_8k.jpg",
+                    "md5": "fc480e1af234a96aa59f37f98bdc24d1"
+                },
+                "png": {
+                    "size": 12238732,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_roughness_8k.png",
+                    "md5": "55f6b5ed62e6f0590b384889ba688f19"
+                },
+                "exr": {
+                    "size": 20696809,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_roughness_8k.exr",
+                    "md5": "93a3820ea4c6b8f6c45da8947919e14c"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1438017,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_roughness_4k.jpg",
+                    "md5": "2cd1de84abd583de0645e42f25ae1f11"
+                },
+                "png": {
+                    "size": 4498038,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_roughness_4k.png",
+                    "md5": "3e0f0712cbf43b7d1dffbf092b84e8d0"
+                },
+                "exr": {
+                    "size": 7524753,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_roughness_4k.exr",
+                    "md5": "59d614a61526642547ae491fe2dfb8e5"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 499200,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_roughness_2k.jpg",
+                    "md5": "40639dc2977bea3cb65f526c55b6af2a"
+                },
+                "png": {
+                    "size": 1629996,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_roughness_2k.png",
+                    "md5": "91fd9dd03d2b122b50c8886f428a121c"
+                },
+                "exr": {
+                    "size": 2652122,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_roughness_2k.exr",
+                    "md5": "fcb91574b7330af63d96af06c70d8c6f"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 155480,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_roughness_1k.jpg",
+                    "md5": "99cadf40ceafedf2099473e3344b4fbb"
+                },
+                "png": {
+                    "size": 482645,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_roughness_1k.png",
+                    "md5": "84463072d012f779761c6717a9380787"
+                },
+                "exr": {
+                    "size": 800903,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_roughness_1k.exr",
+                    "md5": "492b95d25c47055ef02913c2f06995c6"
+                }
+            }
+        },
+        "glass_nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 1049269,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_glass_nor_gl_8k.jpg",
+                    "md5": "6fece76bb82b66924d51e4872beb1ed9"
+                },
+                "png": {
+                    "size": 216221,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_nor_gl_8k.png",
+                    "md5": "10e1d5a0f5a11767b67f09dd1b25066b"
+                },
+                "exr": {
+                    "size": 70582,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_glass_nor_gl_8k.exr",
+                    "md5": "7d7f96db402a30cfcd2800b7ddd8b3d7"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 262837,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_glass_nor_gl_4k.jpg",
+                    "md5": "5f3eff401383ac1e807d884d1c403ad9"
+                },
+                "png": {
+                    "size": 58809,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_nor_gl_4k.png",
+                    "md5": "21ab707a446811f35143a69971b77602"
+                },
+                "exr": {
+                    "size": 30006,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_glass_nor_gl_4k.exr",
+                    "md5": "0186e43bc760f771ec3be56f65e9c31b"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 66229,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_glass_nor_gl_2k.jpg",
+                    "md5": "88c76297e561700f3a87fb7eb12438e7"
+                },
+                "png": {
+                    "size": 16923,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_nor_gl_2k.png",
+                    "md5": "c7ce60bf0c0b4a3513e3cf6a5c063e50"
+                },
+                "exr": {
+                    "size": 13750,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_glass_nor_gl_2k.exr",
+                    "md5": "873fa563b0a418abff36942e16d5bce1"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 17077,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_glass_nor_gl_1k.jpg",
+                    "md5": "6f835dd387298bbd5094706384e88a9e"
+                },
+                "png": {
+                    "size": 5377,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_nor_gl_1k.png",
+                    "md5": "a824b4f1ae03e13ec56c9b2dc2a33d20"
+                },
+                "exr": {
+                    "size": 6774,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_glass_nor_gl_1k.exr",
+                    "md5": "f7c9f23bc87700da0c0dec51c5aef31f"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 3058243,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_nor_gl_8k.jpg",
+                    "md5": "c981a8ffb1f9efe1448898d74567d5c0"
+                },
+                "png": {
+                    "size": 12908980,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_nor_gl_8k.png",
+                    "md5": "035b646b07422eb232d3f5ae382f1bf3"
+                },
+                "exr": {
+                    "size": 19644053,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_nor_gl_8k.exr",
+                    "md5": "1fe07fe514af1fd8629480a2913f7094"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1094699,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_nor_gl_4k.jpg",
+                    "md5": "037c28f7882e076fdb76750dce7776f5"
+                },
+                "png": {
+                    "size": 5280873,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_nor_gl_4k.png",
+                    "md5": "b10010ad694a36f2ae6bf5aba88b3807"
+                },
+                "exr": {
+                    "size": 7186955,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_nor_gl_4k.exr",
+                    "md5": "dd57d683525850bd621a24f70f1886bb"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 414931,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_nor_gl_2k.jpg",
+                    "md5": "917ba485b1629cd64478f955bcce9375"
+                },
+                "png": {
+                    "size": 2209836,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_nor_gl_2k.png",
+                    "md5": "8d7548b6b44df90d6c5afc1e84e2ec63"
+                },
+                "exr": {
+                    "size": 2554681,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_nor_gl_2k.exr",
+                    "md5": "c495f31544ef0032c4787421daf1ff79"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 146745,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_nor_gl_1k.jpg",
+                    "md5": "c45f9c81b08964a27f62e20b142a4fd9"
+                },
+                "png": {
+                    "size": 713867,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_nor_gl_1k.png",
+                    "md5": "e10b351de51d5a005dcefeca250c3061"
+                },
+                "exr": {
+                    "size": 908852,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_nor_gl_1k.exr",
+                    "md5": "1807f06507e8267e94c169f662c40dcf"
+                }
+            }
+        },
+        "glass_diff": {
+            "8k": {
+                "jpg": {
+                    "size": 2257880,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_glass_diff_8k.jpg",
+                    "md5": "ed4ecd39d71d0e9f90eb2f332186e954"
+                },
+                "png": {
+                    "size": 19014359,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_diff_8k.png",
+                    "md5": "bce3bb3bb1acff8512696a446db968e2"
+                },
+                "exr": {
+                    "size": 20664860,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_glass_diff_8k.exr",
+                    "md5": "cc35e71f72c7ca9b9db2596896721a21"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 839310,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_glass_diff_4k.jpg",
+                    "md5": "fa652cb67ffd2450e3cd48cd7a3acf61"
+                },
+                "png": {
+                    "size": 6331222,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_diff_4k.png",
+                    "md5": "b691a0beb13990da3e47392e4a30e157"
+                },
+                "exr": {
+                    "size": 7116121,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_glass_diff_4k.exr",
+                    "md5": "5df9fbb51efab4c681231581ff284aac"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 288714,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_glass_diff_2k.jpg",
+                    "md5": "d79f87843aad7ce79c0dbf6162d448ea"
+                },
+                "png": {
+                    "size": 2086091,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_diff_2k.png",
+                    "md5": "66db9a59b5b2155fb936d519f090e36e"
+                },
+                "exr": {
+                    "size": 2489927,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_glass_diff_2k.exr",
+                    "md5": "cdc1c885219dbef2a20d9e35664b46b6"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 99676,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_glass_diff_1k.jpg",
+                    "md5": "1bf914670750e0a77cb21a84e0109807"
+                },
+                "png": {
+                    "size": 651378,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_diff_1k.png",
+                    "md5": "d66a450eb5573325db686d9e6c7d2ff8"
+                },
+                "exr": {
+                    "size": 837210,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_glass_diff_1k.exr",
+                    "md5": "6779ad28b3bee6e1fc626be664a759d8"
+                }
+            }
+        },
+        "glass_arm": {
+            "8k": {
+                "jpg": {
+                    "size": 1828218,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_glass_arm_8k.jpg",
+                    "md5": "318d316a8d17ddedf70f0b9f1ee74182"
+                },
+                "png": {
+                    "size": 10626568,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_arm_8k.png",
+                    "md5": "b30a4cae8c5cc0c04086a9d8a52458b6"
+                },
+                "exr": {
+                    "size": 13823147,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_glass_arm_8k.exr",
+                    "md5": "efb97accd25a1e2b0e72ba0b9c9cf22b"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 615645,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_glass_arm_4k.jpg",
+                    "md5": "feb4dc86fbd64986fe27df5c46877b16"
+                },
+                "png": {
+                    "size": 2655732,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_arm_4k.png",
+                    "md5": "3f2a0091e67e075385c6fbcc8e3a49d2"
+                },
+                "exr": {
+                    "size": 4212428,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_glass_arm_4k.exr",
+                    "md5": "8893244236a2d5c41fc08a429f9cb41c"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 202947,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_glass_arm_2k.jpg",
+                    "md5": "00d52b0709445dad680b9568731a4075"
+                },
+                "png": {
+                    "size": 724826,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_arm_2k.png",
+                    "md5": "9856e9525e50bf813265e35b2eeac477"
+                },
+                "exr": {
+                    "size": 1504502,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_glass_arm_2k.exr",
+                    "md5": "e5c7f1726265357c1bc49e37cc1b446d"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 72642,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_glass_arm_1k.jpg",
+                    "md5": "daf5fe84e6ef58508d6527088248609c"
+                },
+                "png": {
+                    "size": 221856,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_arm_1k.png",
+                    "md5": "21986153503f73263cd9de86cb472194"
+                },
+                "exr": {
+                    "size": 549698,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_glass_arm_1k.exr",
+                    "md5": "89011fb8c5679479fc98663593c84382"
+                }
+            }
+        },
+        "glass_opacity": {
+            "8k": {
+                "jpg": {
+                    "size": 2040037,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_glass_opacity_8k.jpg",
+                    "md5": "5467055a6689fa263c5823a4bdeb6a0c"
+                },
+                "png": {
+                    "size": 4249535,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_opacity_8k.png",
+                    "md5": "6547c6abe91daf5d7c9f4bfdabe5518d"
+                },
+                "exr": {
+                    "size": 7451516,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_glass_opacity_8k.exr",
+                    "md5": "9ed6c06c0331db32665951ddd178e2e2"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 833100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_glass_opacity_4k.jpg",
+                    "md5": "25ae444636d20745bd7fd9de0dc907e5"
+                },
+                "png": {
+                    "size": 1517997,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_opacity_4k.png",
+                    "md5": "88429f82704c741b5ab0b0ed4293d932"
+                },
+                "exr": {
+                    "size": 2586547,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_glass_opacity_4k.exr",
+                    "md5": "eccdeafaabb103c3d5ba9e0eb51dd481"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 299244,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_glass_opacity_2k.jpg",
+                    "md5": "63127895911c1919e220895992b826d2"
+                },
+                "png": {
+                    "size": 549173,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_opacity_2k.png",
+                    "md5": "5cebd2273fc9a57a69946fefbb910071"
+                },
+                "exr": {
+                    "size": 997148,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_glass_opacity_2k.exr",
+                    "md5": "87b402adf36b39682528f45fe9f1ccfd"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 104610,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_glass_opacity_1k.jpg",
+                    "md5": "60389b2e6370d763117bc1e701afff7a"
+                },
+                "png": {
+                    "size": 196144,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_opacity_1k.png",
+                    "md5": "e79d5d89f44c31b04ee18ec269238ecc"
+                },
+                "exr": {
+                    "size": 355455,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_glass_opacity_1k.exr",
+                    "md5": "622d6ad96e1f3a99357620ff28448ba9"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/CashRegister_01_glass_diff_8k.png": {
+                            "size": 19014359,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_diff_8k.png",
+                            "md5": "bce3bb3bb1acff8512696a446db968e2"
+                        },
+                        "textures/CashRegister_01_nor_gl_8k.exr": {
+                            "size": 19644053,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_nor_gl_8k.exr",
+                            "md5": "1fe07fe514af1fd8629480a2913f7094"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_8k.png": {
+                            "size": 216221,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_nor_gl_8k.png",
+                            "md5": "10e1d5a0f5a11767b67f09dd1b25066b"
+                        },
+                        "textures/CashRegister_01_glass_roughness_8k.png": {
+                            "size": 3180473,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_roughness_8k.png",
+                            "md5": "535a17ca3de4737a0518a37e0b77cae0"
+                        },
+                        "textures/CashRegister_01_roughness_8k.jpg": {
+                            "size": 3912177,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_roughness_8k.jpg",
+                            "md5": "fc480e1af234a96aa59f37f98bdc24d1"
+                        },
+                        "textures/CashRegister_01_glass_opacity_8k.png": {
+                            "size": 4249535,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_opacity_8k.png",
+                            "md5": "6547c6abe91daf5d7c9f4bfdabe5518d"
+                        },
+                        "textures/CashRegister_01_glass_metallic_8k.png": {
+                            "size": 65408,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_glass_metallic_8k.png",
+                            "md5": "202c765cf53ae1b04635a5ec99af69c7"
+                        },
+                        "textures/CashRegister_01_metallic_8k.exr": {
+                            "size": 6560360,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_metallic_8k.exr",
+                            "md5": "06d6bcf5e812131ae08cdda9c3d773fb"
+                        },
+                        "textures/CashRegister_01_diff_8k.jpg": {
+                            "size": 3190594,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_diff_8k.jpg",
+                            "md5": "20f4598b6f1aab7efe4fecab690dd553"
+                        }
+                    },
+                    "size": 393100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/CashRegister_01/CashRegister_01_8k.fbx",
+                    "md5": "ff2c6af9ab5d33cfd39063533274d991"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/CashRegister_01_glass_opacity_4k.png": {
+                            "size": 1517997,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_opacity_4k.png",
+                            "md5": "88429f82704c741b5ab0b0ed4293d932"
+                        },
+                        "textures/CashRegister_01_roughness_4k.jpg": {
+                            "size": 1438017,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_roughness_4k.jpg",
+                            "md5": "2cd1de84abd583de0645e42f25ae1f11"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_4k.png": {
+                            "size": 58809,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_nor_gl_4k.png",
+                            "md5": "21ab707a446811f35143a69971b77602"
+                        },
+                        "textures/CashRegister_01_nor_gl_4k.exr": {
+                            "size": 7186955,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_nor_gl_4k.exr",
+                            "md5": "dd57d683525850bd621a24f70f1886bb"
+                        },
+                        "textures/CashRegister_01_glass_roughness_4k.png": {
+                            "size": 1135078,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_roughness_4k.png",
+                            "md5": "8639d05eb7a20345515584d77686b6e5"
+                        },
+                        "textures/CashRegister_01_glass_diff_4k.png": {
+                            "size": 6331222,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_diff_4k.png",
+                            "md5": "b691a0beb13990da3e47392e4a30e157"
+                        },
+                        "textures/CashRegister_01_glass_metallic_4k.png": {
+                            "size": 16432,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_glass_metallic_4k.png",
+                            "md5": "df8ab9679c470bb69b185cfc565b2bef"
+                        },
+                        "textures/CashRegister_01_diff_4k.jpg": {
+                            "size": 1154806,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_diff_4k.jpg",
+                            "md5": "6563f1bec5815f1cbc4976460c89ac86"
+                        },
+                        "textures/CashRegister_01_metallic_4k.exr": {
+                            "size": 2329657,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_metallic_4k.exr",
+                            "md5": "88ebe60b00fffbc5a946c32786920cd2"
+                        }
+                    },
+                    "size": 393100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/CashRegister_01/CashRegister_01_4k.fbx",
+                    "md5": "f3a219fa6929d88381900792e54a1a0b"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/CashRegister_01_glass_metallic_2k.png": {
+                            "size": 4187,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_metallic_2k.png",
+                            "md5": "12f0d8cf69c8a3427fbdfaaffe7978a5"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_2k.png": {
+                            "size": 16923,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_nor_gl_2k.png",
+                            "md5": "c7ce60bf0c0b4a3513e3cf6a5c063e50"
+                        },
+                        "textures/CashRegister_01_glass_diff_2k.png": {
+                            "size": 2086091,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_diff_2k.png",
+                            "md5": "66db9a59b5b2155fb936d519f090e36e"
+                        },
+                        "textures/CashRegister_01_metallic_2k.exr": {
+                            "size": 1034131,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_metallic_2k.exr",
+                            "md5": "2acd8450475a632dfa80096785779962"
+                        },
+                        "textures/CashRegister_01_diff_2k.jpg": {
+                            "size": 400846,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_diff_2k.jpg",
+                            "md5": "8171ef1f26724ab891ffce1894d50283"
+                        },
+                        "textures/CashRegister_01_nor_gl_2k.exr": {
+                            "size": 2554681,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_nor_gl_2k.exr",
+                            "md5": "c495f31544ef0032c4787421daf1ff79"
+                        },
+                        "textures/CashRegister_01_glass_opacity_2k.png": {
+                            "size": 549173,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_opacity_2k.png",
+                            "md5": "5cebd2273fc9a57a69946fefbb910071"
+                        },
+                        "textures/CashRegister_01_roughness_2k.jpg": {
+                            "size": 499200,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_roughness_2k.jpg",
+                            "md5": "40639dc2977bea3cb65f526c55b6af2a"
+                        },
+                        "textures/CashRegister_01_glass_roughness_2k.png": {
+                            "size": 404532,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_glass_roughness_2k.png",
+                            "md5": "2e030182df95b9292d9483014c38b8f8"
+                        }
+                    },
+                    "size": 393100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/CashRegister_01/CashRegister_01_2k.fbx",
+                    "md5": "0f12f80ee08dded198d0d146de397200"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/CashRegister_01_diff_1k.jpg": {
+                            "size": 133109,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_diff_1k.jpg",
+                            "md5": "bfa598c754195bfd8e639f169c58a379"
+                        },
+                        "textures/CashRegister_01_glass_roughness_1k.png": {
+                            "size": 144801,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_roughness_1k.png",
+                            "md5": "764840d1e2b2ac56b7bc6fe626392fe8"
+                        },
+                        "textures/CashRegister_01_nor_gl_1k.exr": {
+                            "size": 908852,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_nor_gl_1k.exr",
+                            "md5": "1807f06507e8267e94c169f662c40dcf"
+                        },
+                        "textures/CashRegister_01_glass_metallic_1k.png": {
+                            "size": 1139,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_metallic_1k.png",
+                            "md5": "14c604b27ea726bc5b38e48671f77ce0"
+                        },
+                        "textures/CashRegister_01_glass_diff_1k.png": {
+                            "size": 651378,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_diff_1k.png",
+                            "md5": "d66a450eb5573325db686d9e6c7d2ff8"
+                        },
+                        "textures/CashRegister_01_metallic_1k.exr": {
+                            "size": 349722,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_metallic_1k.exr",
+                            "md5": "01062afe4bbd05b71486fcba06d52e9f"
+                        },
+                        "textures/CashRegister_01_glass_opacity_1k.png": {
+                            "size": 196144,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_opacity_1k.png",
+                            "md5": "e79d5d89f44c31b04ee18ec269238ecc"
+                        },
+                        "textures/CashRegister_01_glass_nor_gl_1k.png": {
+                            "size": 5377,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_glass_nor_gl_1k.png",
+                            "md5": "a824b4f1ae03e13ec56c9b2dc2a33d20"
+                        },
+                        "textures/CashRegister_01_roughness_1k.jpg": {
+                            "size": 155480,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_roughness_1k.jpg",
+                            "md5": "99cadf40ceafedf2099473e3344b4fbb"
+                        }
+                    },
+                    "size": 393100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/CashRegister_01/CashRegister_01_1k.fbx",
+                    "md5": "5837b972368eb10faef9faf3467b10dc"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 5158833,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/CashRegister_01/CashRegister_01_arm_8k.jpg",
+                    "md5": "7e4f2b145ffb3457b50be21dc0978489"
+                },
+                "png": {
+                    "size": 43628385,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/CashRegister_01/CashRegister_01_arm_8k.png",
+                    "md5": "afe36fd6fce2396b23417a49c001290e"
+                },
+                "exr": {
+                    "size": 52313808,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/CashRegister_01/CashRegister_01_arm_8k.exr",
+                    "md5": "487f89d5cc189e7bb973a7e79a6a1de0"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1799397,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CashRegister_01/CashRegister_01_arm_4k.jpg",
+                    "md5": "f429e6e3f9238f9b4e22ce99a6e6cbbe"
+                },
+                "png": {
+                    "size": 12635460,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CashRegister_01/CashRegister_01_arm_4k.png",
+                    "md5": "d7cdc5731d792fb2aa579dabec1a33b9"
+                },
+                "exr": {
+                    "size": 14776267,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CashRegister_01/CashRegister_01_arm_4k.exr",
+                    "md5": "cb8cfddc2eccb10e6ada122ba2c84478"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 626244,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CashRegister_01/CashRegister_01_arm_2k.jpg",
+                    "md5": "5d0feba6337dc463633d9ccd2c3c344d"
+                },
+                "png": {
+                    "size": 3739526,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CashRegister_01/CashRegister_01_arm_2k.png",
+                    "md5": "ca6ddc2a26587838e85df99caae1af5b"
+                },
+                "exr": {
+                    "size": 5318352,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CashRegister_01/CashRegister_01_arm_2k.exr",
+                    "md5": "16b651be0519c41695d9c3317dbf2935"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 207527,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CashRegister_01/CashRegister_01_arm_1k.jpg",
+                    "md5": "8f3266ec573baa42e166bf8f21062539"
+                },
+                "png": {
+                    "size": 1079296,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CashRegister_01/CashRegister_01_arm_1k.png",
+                    "md5": "462ce92a7f071dddb33aab8e9bf4af6f"
+                },
+                "exr": {
+                    "size": 1688282,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CashRegister_01/CashRegister_01_arm_1k.exr",
+                    "md5": "e33f5c2c82a74001ea6382e1a0707577"
+                }
+            }
+        }
+    }
+}

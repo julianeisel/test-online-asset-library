@@ -1,0 +1,999 @@
+{
+    "donated": true,
+    "type": 2,
+    "name": "Korean Public Payphone 01",
+    "categories": [
+        "props"
+    ],
+    "authors": {
+        "UM JOORIN": "All"
+    },
+    "date_published": 1623767617,
+    "files_hash": "bcf1340ba48ca48b583111418028840145058a21",
+    "tags": [
+        "pay",
+        "phone",
+        "public",
+        "korean",
+        "old",
+        "utility",
+        "infrastructure"
+    ],
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "polycount": 48132,
+    "texel_density": 65.46221510639543,
+    "dimensions": [
+        400.56978166103363,
+        301.2158125638962,
+        739.7327136714011
+    ],
+    "download_count": 10130,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/korean_public_payphone_01.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 6433316,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_diff_8k.jpg",
+                    "md5": "5a851e54fe28d95713024377727c25a2"
+                },
+                "png": {
+                    "size": 42921853,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/korean_public_payphone_01/korean_public_payphone_01_diff_8k.png",
+                    "md5": "9e3ddfb588d027c8571c42183f6623f2"
+                },
+                "exr": {
+                    "size": 32836485,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/korean_public_payphone_01/korean_public_payphone_01_diff_8k.exr",
+                    "md5": "295deaabc545abded1085b14e93b4716"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1916890,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_diff_4k.jpg",
+                    "md5": "0494535fd261e201139d3f431c0fc3f8"
+                },
+                "png": {
+                    "size": 12264080,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/korean_public_payphone_01/korean_public_payphone_01_diff_4k.png",
+                    "md5": "a56c085a8f9263319ed84cc2a9ea0c0a"
+                },
+                "exr": {
+                    "size": 9599537,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/korean_public_payphone_01/korean_public_payphone_01_diff_4k.exr",
+                    "md5": "a14846ea6f798320f2c473d321872a11"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 570755,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_diff_2k.jpg",
+                    "md5": "77e966ea774a7fb02d45dee748b08fe3"
+                },
+                "png": {
+                    "size": 3476039,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/korean_public_payphone_01/korean_public_payphone_01_diff_2k.png",
+                    "md5": "fba37c9591ca3a5539f5f5172e5a5191"
+                },
+                "exr": {
+                    "size": 2800885,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/korean_public_payphone_01/korean_public_payphone_01_diff_2k.exr",
+                    "md5": "29543ba695b0c62398eda2fded82500a"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 172169,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_diff_1k.jpg",
+                    "md5": "2891a4a7cd1aa3ba59a19808d661597a"
+                },
+                "png": {
+                    "size": 980864,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/korean_public_payphone_01/korean_public_payphone_01_diff_1k.png",
+                    "md5": "147d14907e70439c388a20ccd85dc287"
+                },
+                "exr": {
+                    "size": 824146,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/korean_public_payphone_01/korean_public_payphone_01_diff_1k.exr",
+                    "md5": "c71ca3f0d3dac767acd4e4e497e7edcd"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 2384577,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_nor_dx_8k.jpg",
+                    "md5": "2dbebcbb9545a15bd70d774592b13246"
+                },
+                "png": {
+                    "size": 13058713,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/korean_public_payphone_01/korean_public_payphone_01_nor_dx_8k.png",
+                    "md5": "e147f8940ba069a223bbabbb3c6140d7"
+                },
+                "exr": {
+                    "size": 14377132,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/korean_public_payphone_01/korean_public_payphone_01_nor_dx_8k.exr",
+                    "md5": "1ed4e61a2a7dc43e55f258a44406f5df"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 743602,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_nor_dx_4k.jpg",
+                    "md5": "088ce5c260f79d40fd16dfb0bca28de2"
+                },
+                "png": {
+                    "size": 4684172,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/korean_public_payphone_01/korean_public_payphone_01_nor_dx_4k.png",
+                    "md5": "0412d514b2536a3cce8ef9028dc16d91"
+                },
+                "exr": {
+                    "size": 5044584,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/korean_public_payphone_01/korean_public_payphone_01_nor_dx_4k.exr",
+                    "md5": "477e83e261239d94a6b2633c8a8b3153"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 228065,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_nor_dx_2k.jpg",
+                    "md5": "d7fe14c98cd7bd9c0c7324e4b7b648da"
+                },
+                "png": {
+                    "size": 1439006,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/korean_public_payphone_01/korean_public_payphone_01_nor_dx_2k.png",
+                    "md5": "10a549f10cf9eef9c0565cd873b47e4b"
+                },
+                "exr": {
+                    "size": 1600619,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/korean_public_payphone_01/korean_public_payphone_01_nor_dx_2k.exr",
+                    "md5": "5c656787c8b67631fa2b8f9df218fc0b"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 70040,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_nor_dx_1k.jpg",
+                    "md5": "222ff241ff324de872802f51de384b6b"
+                },
+                "png": {
+                    "size": 428534,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/korean_public_payphone_01/korean_public_payphone_01_nor_dx_1k.png",
+                    "md5": "9f0c4e1c4ce392bad85dffdcba92ec44"
+                },
+                "exr": {
+                    "size": 518562,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/korean_public_payphone_01/korean_public_payphone_01_nor_dx_1k.exr",
+                    "md5": "eea4a69fc05df8684f178459f404346b"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 2387120,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_8k.jpg",
+                    "md5": "81b517df06e17f677cb82258a962fa6a"
+                },
+                "png": {
+                    "size": 13044018,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_8k.png",
+                    "md5": "c2c0fef796c5524e839059d1b5c57c8b"
+                },
+                "exr": {
+                    "size": 14344117,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_8k.exr",
+                    "md5": "7c04aef4c631173c4b77dd1703faddbd"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 743793,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_4k.jpg",
+                    "md5": "70f5504527bf3250677e21ee6725e7f5"
+                },
+                "png": {
+                    "size": 4682427,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_4k.png",
+                    "md5": "0510ec2b19519be72cd099215c83492a"
+                },
+                "exr": {
+                    "size": 5033823,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_4k.exr",
+                    "md5": "736570f4148491487a9f3c9ec5ea1090"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 227346,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_2k.jpg",
+                    "md5": "03a4df1e2217cf6c8ef718024bb64545"
+                },
+                "png": {
+                    "size": 1440724,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_2k.png",
+                    "md5": "c22c201c6e73a2bb5ad06e959006996b"
+                },
+                "exr": {
+                    "size": 1598225,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_2k.exr",
+                    "md5": "09def34a4dde070615d59c31275c3766"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 69473,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_1k.jpg",
+                    "md5": "3799cdc793960f3f690d5ed32e5a2a90"
+                },
+                "png": {
+                    "size": 428939,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_1k.png",
+                    "md5": "54971cc6fc52e7db05d13bb9363da03c"
+                },
+                "exr": {
+                    "size": 519070,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_1k.exr",
+                    "md5": "bc8b505921b1be62cee639f72ca544df"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/korean_public_payphone_01_diff_8k.jpg": {
+                            "size": 6433316,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_diff_8k.jpg",
+                            "md5": "5a851e54fe28d95713024377727c25a2"
+                        },
+                        "textures/korean_public_payphone_01_metal_8k.exr": {
+                            "size": 1253302,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/korean_public_payphone_01/korean_public_payphone_01_metal_8k.exr",
+                            "md5": "93281da0559a7aae5bdb7076f3f676be"
+                        },
+                        "textures/korean_public_payphone_01_rough_8k.jpg": {
+                            "size": 6021099,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_rough_8k.jpg",
+                            "md5": "5e211931678cf0ea3975130b64f85b77"
+                        },
+                        "textures/korean_public_payphone_01_nor_gl_8k.exr": {
+                            "size": 14344117,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_8k.exr",
+                            "md5": "7c04aef4c631173c4b77dd1703faddbd"
+                        }
+                    },
+                    "size": 2020882,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/korean_public_payphone_01/korean_public_payphone_01_8k.blend",
+                    "md5": "e7be3195990277883049f8d8b20e0873"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/korean_public_payphone_01_rough_4k.jpg": {
+                            "size": 1752497,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_rough_4k.jpg",
+                            "md5": "77622ad98f9e6f052f1402d32fad6742"
+                        },
+                        "textures/korean_public_payphone_01_diff_4k.jpg": {
+                            "size": 1916890,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_diff_4k.jpg",
+                            "md5": "0494535fd261e201139d3f431c0fc3f8"
+                        },
+                        "textures/korean_public_payphone_01_metal_4k.exr": {
+                            "size": 477405,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/korean_public_payphone_01/korean_public_payphone_01_metal_4k.exr",
+                            "md5": "bacea368fa92a5d045021a2151b0ccfc"
+                        },
+                        "textures/korean_public_payphone_01_nor_gl_4k.exr": {
+                            "size": 5033823,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_4k.exr",
+                            "md5": "736570f4148491487a9f3c9ec5ea1090"
+                        }
+                    },
+                    "size": 2020921,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/korean_public_payphone_01/korean_public_payphone_01_4k.blend",
+                    "md5": "73f9ce37165dc331222a24e13460e2ff"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/korean_public_payphone_01_diff_2k.jpg": {
+                            "size": 570755,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_diff_2k.jpg",
+                            "md5": "77e966ea774a7fb02d45dee748b08fe3"
+                        },
+                        "textures/korean_public_payphone_01_rough_2k.jpg": {
+                            "size": 498607,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_rough_2k.jpg",
+                            "md5": "9a8b3ee16ba3c8839e019480105fc10c"
+                        },
+                        "textures/korean_public_payphone_01_nor_gl_2k.exr": {
+                            "size": 1598225,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_2k.exr",
+                            "md5": "09def34a4dde070615d59c31275c3766"
+                        },
+                        "textures/korean_public_payphone_01_metal_2k.exr": {
+                            "size": 192606,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/korean_public_payphone_01/korean_public_payphone_01_metal_2k.exr",
+                            "md5": "909510dcaa17abe50d196a264334299f"
+                        }
+                    },
+                    "size": 2020867,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/korean_public_payphone_01/korean_public_payphone_01_2k.blend",
+                    "md5": "1e8fdebe3446bb6020fac51a66ec176e"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/korean_public_payphone_01_rough_1k.jpg": {
+                            "size": 140380,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_rough_1k.jpg",
+                            "md5": "ca0868b2c1aa845efa11cc08802e8ecb"
+                        },
+                        "textures/korean_public_payphone_01_nor_gl_1k.exr": {
+                            "size": 519070,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_1k.exr",
+                            "md5": "bc8b505921b1be62cee639f72ca544df"
+                        },
+                        "textures/korean_public_payphone_01_metal_1k.exr": {
+                            "size": 79995,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/korean_public_payphone_01/korean_public_payphone_01_metal_1k.exr",
+                            "md5": "a0f2cc4de27d2fa120c5370917d074de"
+                        },
+                        "textures/korean_public_payphone_01_diff_1k.jpg": {
+                            "size": 172169,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_diff_1k.jpg",
+                            "md5": "2891a4a7cd1aa3ba59a19808d661597a"
+                        }
+                    },
+                    "size": 2020735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/korean_public_payphone_01/korean_public_payphone_01_1k.blend",
+                    "md5": "404f5123d42aa8a29e9cb61a3a47ac10"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "textures/korean_public_payphone_01_diff_8k.jpg": {
+                            "size": 6433316,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_diff_8k.jpg",
+                            "md5": "5a851e54fe28d95713024377727c25a2"
+                        },
+                        "korean_public_payphone_01.bin": {
+                            "size": 5152208,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/korean_public_payphone_01/korean_public_payphone_01.bin",
+                            "md5": "8e227190c38b50d059e464517140a7fa"
+                        },
+                        "textures/korean_public_payphone_01_nor_gl_8k.jpg": {
+                            "size": 2387120,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_8k.jpg",
+                            "md5": "81b517df06e17f677cb82258a962fa6a"
+                        },
+                        "textures/korean_public_payphone_01_arm_8k.jpg": {
+                            "size": 6154217,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_arm_8k.jpg",
+                            "md5": "d84c40fc0f0fc8d656d3cbf4b4431851"
+                        }
+                    },
+                    "size": 2929,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/korean_public_payphone_01/korean_public_payphone_01_8k.gltf",
+                    "md5": "0f5488f5210a60a5c3ad50263b290dbf"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/korean_public_payphone_01_diff_4k.jpg": {
+                            "size": 1916890,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_diff_4k.jpg",
+                            "md5": "0494535fd261e201139d3f431c0fc3f8"
+                        },
+                        "textures/korean_public_payphone_01_nor_gl_4k.jpg": {
+                            "size": 743793,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_4k.jpg",
+                            "md5": "70f5504527bf3250677e21ee6725e7f5"
+                        },
+                        "textures/korean_public_payphone_01_arm_4k.jpg": {
+                            "size": 1894307,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_arm_4k.jpg",
+                            "md5": "d920ccef944f57600fe7d0d5a47234a2"
+                        },
+                        "korean_public_payphone_01.bin": {
+                            "size": 5152208,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/korean_public_payphone_01/korean_public_payphone_01.bin",
+                            "md5": "8e227190c38b50d059e464517140a7fa"
+                        }
+                    },
+                    "size": 2929,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/korean_public_payphone_01/korean_public_payphone_01_4k.gltf",
+                    "md5": "028f22d68efecb27d4cd7364ac5b705b"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/korean_public_payphone_01_diff_2k.jpg": {
+                            "size": 570755,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_diff_2k.jpg",
+                            "md5": "77e966ea774a7fb02d45dee748b08fe3"
+                        },
+                        "textures/korean_public_payphone_01_arm_2k.jpg": {
+                            "size": 581217,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_arm_2k.jpg",
+                            "md5": "753276d1a4d60fcab7833f89adff3e5e"
+                        },
+                        "textures/korean_public_payphone_01_nor_gl_2k.jpg": {
+                            "size": 227346,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_2k.jpg",
+                            "md5": "03a4df1e2217cf6c8ef718024bb64545"
+                        },
+                        "korean_public_payphone_01.bin": {
+                            "size": 5152208,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/korean_public_payphone_01/korean_public_payphone_01.bin",
+                            "md5": "8e227190c38b50d059e464517140a7fa"
+                        }
+                    },
+                    "size": 2929,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/korean_public_payphone_01/korean_public_payphone_01_2k.gltf",
+                    "md5": "d1676491504c2285c452e4df622bbe1f"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/korean_public_payphone_01_nor_gl_1k.jpg": {
+                            "size": 69473,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_1k.jpg",
+                            "md5": "3799cdc793960f3f690d5ed32e5a2a90"
+                        },
+                        "textures/korean_public_payphone_01_diff_1k.jpg": {
+                            "size": 172169,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_diff_1k.jpg",
+                            "md5": "2891a4a7cd1aa3ba59a19808d661597a"
+                        },
+                        "korean_public_payphone_01.bin": {
+                            "size": 5152208,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/korean_public_payphone_01/korean_public_payphone_01.bin",
+                            "md5": "8e227190c38b50d059e464517140a7fa"
+                        },
+                        "textures/korean_public_payphone_01_arm_1k.jpg": {
+                            "size": 179791,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_arm_1k.jpg",
+                            "md5": "253742a7b6135ef8fa645919eb9c5e84"
+                        }
+                    },
+                    "size": 2929,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/korean_public_payphone_01/korean_public_payphone_01_1k.gltf",
+                    "md5": "5a7561a8727669c9421eab9693c4dec2"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/korean_public_payphone_01_diff_8k.jpg": {
+                            "size": 6433316,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_diff_8k.jpg",
+                            "md5": "5a851e54fe28d95713024377727c25a2"
+                        },
+                        "textures/korean_public_payphone_01_metal_8k.exr": {
+                            "size": 1253302,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/korean_public_payphone_01/korean_public_payphone_01_metal_8k.exr",
+                            "md5": "93281da0559a7aae5bdb7076f3f676be"
+                        },
+                        "textures/korean_public_payphone_01_rough_8k.jpg": {
+                            "size": 6021099,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_rough_8k.jpg",
+                            "md5": "5e211931678cf0ea3975130b64f85b77"
+                        },
+                        "textures/korean_public_payphone_01_nor_gl_8k.exr": {
+                            "size": 14344117,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_8k.exr",
+                            "md5": "7c04aef4c631173c4b77dd1703faddbd"
+                        }
+                    },
+                    "size": 3346296,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/korean_public_payphone_01/korean_public_payphone_01_8k.usdc",
+                    "md5": "a754144c37ef0edbfa19b6b942124033"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/korean_public_payphone_01_rough_4k.jpg": {
+                            "size": 1752497,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_rough_4k.jpg",
+                            "md5": "77622ad98f9e6f052f1402d32fad6742"
+                        },
+                        "textures/korean_public_payphone_01_diff_4k.jpg": {
+                            "size": 1916890,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_diff_4k.jpg",
+                            "md5": "0494535fd261e201139d3f431c0fc3f8"
+                        },
+                        "textures/korean_public_payphone_01_metal_4k.exr": {
+                            "size": 477405,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/korean_public_payphone_01/korean_public_payphone_01_metal_4k.exr",
+                            "md5": "bacea368fa92a5d045021a2151b0ccfc"
+                        },
+                        "textures/korean_public_payphone_01_nor_gl_4k.exr": {
+                            "size": 5033823,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_4k.exr",
+                            "md5": "736570f4148491487a9f3c9ec5ea1090"
+                        }
+                    },
+                    "size": 3346296,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/korean_public_payphone_01/korean_public_payphone_01_4k.usdc",
+                    "md5": "7f429d8bf6eabb4513818f231c5e41d7"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/korean_public_payphone_01_diff_2k.jpg": {
+                            "size": 570755,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_diff_2k.jpg",
+                            "md5": "77e966ea774a7fb02d45dee748b08fe3"
+                        },
+                        "textures/korean_public_payphone_01_rough_2k.jpg": {
+                            "size": 498607,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_rough_2k.jpg",
+                            "md5": "9a8b3ee16ba3c8839e019480105fc10c"
+                        },
+                        "textures/korean_public_payphone_01_nor_gl_2k.exr": {
+                            "size": 1598225,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_2k.exr",
+                            "md5": "09def34a4dde070615d59c31275c3766"
+                        },
+                        "textures/korean_public_payphone_01_metal_2k.exr": {
+                            "size": 192606,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/korean_public_payphone_01/korean_public_payphone_01_metal_2k.exr",
+                            "md5": "909510dcaa17abe50d196a264334299f"
+                        }
+                    },
+                    "size": 3346296,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/korean_public_payphone_01/korean_public_payphone_01_2k.usdc",
+                    "md5": "83fc6e05f9b30feddc3ecaf8262e0e1c"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/korean_public_payphone_01_rough_1k.jpg": {
+                            "size": 140380,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_rough_1k.jpg",
+                            "md5": "ca0868b2c1aa845efa11cc08802e8ecb"
+                        },
+                        "textures/korean_public_payphone_01_nor_gl_1k.exr": {
+                            "size": 519070,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_1k.exr",
+                            "md5": "bc8b505921b1be62cee639f72ca544df"
+                        },
+                        "textures/korean_public_payphone_01_metal_1k.exr": {
+                            "size": 79995,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/korean_public_payphone_01/korean_public_payphone_01_metal_1k.exr",
+                            "md5": "a0f2cc4de27d2fa120c5370917d074de"
+                        },
+                        "textures/korean_public_payphone_01_diff_1k.jpg": {
+                            "size": 172169,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_diff_1k.jpg",
+                            "md5": "2891a4a7cd1aa3ba59a19808d661597a"
+                        }
+                    },
+                    "size": 3346296,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/korean_public_payphone_01/korean_public_payphone_01_1k.usdc",
+                    "md5": "8a6d457874304142ef9ca1186962b40a"
+                }
+            }
+        },
+        "Metal": {
+            "8k": {
+                "jpg": {
+                    "size": 1424476,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_metal_8k.jpg",
+                    "md5": "e561b127d85faff43a24f8c1dea5a7f9"
+                },
+                "png": {
+                    "size": 650553,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/korean_public_payphone_01/korean_public_payphone_01_metal_8k.png",
+                    "md5": "a685431d3a62535d029d543676678a19"
+                },
+                "exr": {
+                    "size": 1253302,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/korean_public_payphone_01/korean_public_payphone_01_metal_8k.exr",
+                    "md5": "93281da0559a7aae5bdb7076f3f676be"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 455092,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_metal_4k.jpg",
+                    "md5": "4955505276cfb84cdadfce60075d70d0"
+                },
+                "png": {
+                    "size": 240645,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/korean_public_payphone_01/korean_public_payphone_01_metal_4k.png",
+                    "md5": "b9e96d79bcf66b2e7bff3d406967debf"
+                },
+                "exr": {
+                    "size": 477405,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/korean_public_payphone_01/korean_public_payphone_01_metal_4k.exr",
+                    "md5": "bacea368fa92a5d045021a2151b0ccfc"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 159753,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_metal_2k.jpg",
+                    "md5": "05dbd9f7abfb0cd5016e86247e4641c8"
+                },
+                "png": {
+                    "size": 95072,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/korean_public_payphone_01/korean_public_payphone_01_metal_2k.png",
+                    "md5": "189f5a5b0dbfbfec0158c46223f19ec6"
+                },
+                "exr": {
+                    "size": 192606,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/korean_public_payphone_01/korean_public_payphone_01_metal_2k.exr",
+                    "md5": "909510dcaa17abe50d196a264334299f"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 62148,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_metal_1k.jpg",
+                    "md5": "5c52e78f56b75b83d9293647d943d52c"
+                },
+                "png": {
+                    "size": 39701,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/korean_public_payphone_01/korean_public_payphone_01_metal_1k.png",
+                    "md5": "7d11a8617758e25eb2ef7206ed53887f"
+                },
+                "exr": {
+                    "size": 79995,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/korean_public_payphone_01/korean_public_payphone_01_metal_1k.exr",
+                    "md5": "a0f2cc4de27d2fa120c5370917d074de"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 6154217,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_arm_8k.jpg",
+                    "md5": "d84c40fc0f0fc8d656d3cbf4b4431851"
+                },
+                "png": {
+                    "size": 41181626,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/korean_public_payphone_01/korean_public_payphone_01_arm_8k.png",
+                    "md5": "4618ae157edff6a0586e5c254758206a"
+                },
+                "exr": {
+                    "size": 58922576,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/korean_public_payphone_01/korean_public_payphone_01_arm_8k.exr",
+                    "md5": "15a32dc668d58a1c9b00f0d05cb6978c"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1894307,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_arm_4k.jpg",
+                    "md5": "d920ccef944f57600fe7d0d5a47234a2"
+                },
+                "png": {
+                    "size": 12957391,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/korean_public_payphone_01/korean_public_payphone_01_arm_4k.png",
+                    "md5": "5902b02648b6a4947f53c5d7007ae94a"
+                },
+                "exr": {
+                    "size": 17809338,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/korean_public_payphone_01/korean_public_payphone_01_arm_4k.exr",
+                    "md5": "6bd34e217d9e0b064bfa96f65cbe6f18"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 581217,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_arm_2k.jpg",
+                    "md5": "753276d1a4d60fcab7833f89adff3e5e"
+                },
+                "png": {
+                    "size": 3619841,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/korean_public_payphone_01/korean_public_payphone_01_arm_2k.png",
+                    "md5": "f00034378ce9acc3119c7428a12baf4c"
+                },
+                "exr": {
+                    "size": 5242325,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/korean_public_payphone_01/korean_public_payphone_01_arm_2k.exr",
+                    "md5": "17548f426d49dba7f93b06ba5a89ca9c"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 179791,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_arm_1k.jpg",
+                    "md5": "253742a7b6135ef8fa645919eb9c5e84"
+                },
+                "png": {
+                    "size": 1009110,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/korean_public_payphone_01/korean_public_payphone_01_arm_1k.png",
+                    "md5": "a3809656395f267e8ce15d0736f757ab"
+                },
+                "exr": {
+                    "size": 1520736,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/korean_public_payphone_01/korean_public_payphone_01_arm_1k.exr",
+                    "md5": "f305358f7269b1166083c71196cad851"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/korean_public_payphone_01_diff_8k.jpg": {
+                            "size": 6433316,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_diff_8k.jpg",
+                            "md5": "5a851e54fe28d95713024377727c25a2"
+                        },
+                        "textures/korean_public_payphone_01_metal_8k.exr": {
+                            "size": 1253302,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/korean_public_payphone_01/korean_public_payphone_01_metal_8k.exr",
+                            "md5": "93281da0559a7aae5bdb7076f3f676be"
+                        },
+                        "textures/korean_public_payphone_01_rough_8k.jpg": {
+                            "size": 6021099,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_rough_8k.jpg",
+                            "md5": "5e211931678cf0ea3975130b64f85b77"
+                        },
+                        "textures/korean_public_payphone_01_nor_gl_8k.exr": {
+                            "size": 14344117,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_8k.exr",
+                            "md5": "7c04aef4c631173c4b77dd1703faddbd"
+                        }
+                    },
+                    "size": 2608460,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/korean_public_payphone_01/korean_public_payphone_01_8k.fbx",
+                    "md5": "483f9505a1aafd4ff20dd4a6c61064ff"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/korean_public_payphone_01_rough_4k.jpg": {
+                            "size": 1752497,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_rough_4k.jpg",
+                            "md5": "77622ad98f9e6f052f1402d32fad6742"
+                        },
+                        "textures/korean_public_payphone_01_diff_4k.jpg": {
+                            "size": 1916890,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_diff_4k.jpg",
+                            "md5": "0494535fd261e201139d3f431c0fc3f8"
+                        },
+                        "textures/korean_public_payphone_01_metal_4k.exr": {
+                            "size": 477405,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/korean_public_payphone_01/korean_public_payphone_01_metal_4k.exr",
+                            "md5": "bacea368fa92a5d045021a2151b0ccfc"
+                        },
+                        "textures/korean_public_payphone_01_nor_gl_4k.exr": {
+                            "size": 5033823,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_4k.exr",
+                            "md5": "736570f4148491487a9f3c9ec5ea1090"
+                        }
+                    },
+                    "size": 2608460,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/korean_public_payphone_01/korean_public_payphone_01_4k.fbx",
+                    "md5": "8a866c87f9afdcac3b382f3d32dce094"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/korean_public_payphone_01_diff_2k.jpg": {
+                            "size": 570755,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_diff_2k.jpg",
+                            "md5": "77e966ea774a7fb02d45dee748b08fe3"
+                        },
+                        "textures/korean_public_payphone_01_rough_2k.jpg": {
+                            "size": 498607,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_rough_2k.jpg",
+                            "md5": "9a8b3ee16ba3c8839e019480105fc10c"
+                        },
+                        "textures/korean_public_payphone_01_nor_gl_2k.exr": {
+                            "size": 1598225,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_2k.exr",
+                            "md5": "09def34a4dde070615d59c31275c3766"
+                        },
+                        "textures/korean_public_payphone_01_metal_2k.exr": {
+                            "size": 192606,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/korean_public_payphone_01/korean_public_payphone_01_metal_2k.exr",
+                            "md5": "909510dcaa17abe50d196a264334299f"
+                        }
+                    },
+                    "size": 2608460,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/korean_public_payphone_01/korean_public_payphone_01_2k.fbx",
+                    "md5": "d7a5ab25acd3a59373c8dd927c6c2d84"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/korean_public_payphone_01_rough_1k.jpg": {
+                            "size": 140380,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_rough_1k.jpg",
+                            "md5": "ca0868b2c1aa845efa11cc08802e8ecb"
+                        },
+                        "textures/korean_public_payphone_01_nor_gl_1k.exr": {
+                            "size": 519070,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/korean_public_payphone_01/korean_public_payphone_01_nor_gl_1k.exr",
+                            "md5": "bc8b505921b1be62cee639f72ca544df"
+                        },
+                        "textures/korean_public_payphone_01_metal_1k.exr": {
+                            "size": 79995,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/korean_public_payphone_01/korean_public_payphone_01_metal_1k.exr",
+                            "md5": "a0f2cc4de27d2fa120c5370917d074de"
+                        },
+                        "textures/korean_public_payphone_01_diff_1k.jpg": {
+                            "size": 172169,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_diff_1k.jpg",
+                            "md5": "2891a4a7cd1aa3ba59a19808d661597a"
+                        }
+                    },
+                    "size": 2608460,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/korean_public_payphone_01/korean_public_payphone_01_1k.fbx",
+                    "md5": "3d9bd6985c766ab95e235eaef98c6e80"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 6021099,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_rough_8k.jpg",
+                    "md5": "5e211931678cf0ea3975130b64f85b77"
+                },
+                "png": {
+                    "size": 22849582,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/korean_public_payphone_01/korean_public_payphone_01_rough_8k.png",
+                    "md5": "f0c4953cadfe1d9de51745c557094580"
+                },
+                "exr": {
+                    "size": 35222042,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/korean_public_payphone_01/korean_public_payphone_01_rough_8k.exr",
+                    "md5": "c25fad7a2bc14d5e087bc24a1770ebeb"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1752497,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_rough_4k.jpg",
+                    "md5": "77622ad98f9e6f052f1402d32fad6742"
+                },
+                "png": {
+                    "size": 6495710,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/korean_public_payphone_01/korean_public_payphone_01_rough_4k.png",
+                    "md5": "06e64f844b035b0ad66f1874617dead1"
+                },
+                "exr": {
+                    "size": 10125360,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/korean_public_payphone_01/korean_public_payphone_01_rough_4k.exr",
+                    "md5": "c8fe863fcac4d0caa24ecd340b75a6b0"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 498607,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_rough_2k.jpg",
+                    "md5": "9a8b3ee16ba3c8839e019480105fc10c"
+                },
+                "png": {
+                    "size": 1815794,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/korean_public_payphone_01/korean_public_payphone_01_rough_2k.png",
+                    "md5": "941a662977ffada5f7723574b49acd28"
+                },
+                "exr": {
+                    "size": 2864906,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/korean_public_payphone_01/korean_public_payphone_01_rough_2k.exr",
+                    "md5": "f7193c93e4b08ce17b9432b30c28aa66"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 140380,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_rough_1k.jpg",
+                    "md5": "ca0868b2c1aa845efa11cc08802e8ecb"
+                },
+                "png": {
+                    "size": 499977,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/korean_public_payphone_01/korean_public_payphone_01_rough_1k.png",
+                    "md5": "152abc627a1f080a2c035e0a2d521cbc"
+                },
+                "exr": {
+                    "size": 811530,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/korean_public_payphone_01/korean_public_payphone_01_rough_1k.exr",
+                    "md5": "485958dac70cc107b0bf0b7c7b43c10f"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 2854000,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/korean_public_payphone_01/korean_public_payphone_01_ao_8k.jpg",
+                    "md5": "5aefa6c3d4e6fd623d24b1064432f2f0"
+                },
+                "png": {
+                    "size": 10080647,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/korean_public_payphone_01/korean_public_payphone_01_ao_8k.png",
+                    "md5": "0a8b76c7a9e71ce9ef71409f3ac8501e"
+                },
+                "exr": {
+                    "size": 16735577,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/korean_public_payphone_01/korean_public_payphone_01_ao_8k.exr",
+                    "md5": "6ce5d55c2035cd6d95fcd67d7f3a0a84"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 950584,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/korean_public_payphone_01/korean_public_payphone_01_ao_4k.jpg",
+                    "md5": "d16d900737da4aed970398254f7aa6a1"
+                },
+                "png": {
+                    "size": 3600899,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/korean_public_payphone_01/korean_public_payphone_01_ao_4k.png",
+                    "md5": "4bac5bc234fc9eb3044fd0bf96ed624d"
+                },
+                "exr": {
+                    "size": 5697197,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/korean_public_payphone_01/korean_public_payphone_01_ao_4k.exr",
+                    "md5": "711f3f8abdc039e1fb94f4e2826eeaf3"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 335369,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/korean_public_payphone_01/korean_public_payphone_01_ao_2k.jpg",
+                    "md5": "96e904b2ada67907c90b5fac99500484"
+                },
+                "png": {
+                    "size": 991223,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/korean_public_payphone_01/korean_public_payphone_01_ao_2k.png",
+                    "md5": "3d7ad431ec7582606451995cbfd7d054"
+                },
+                "exr": {
+                    "size": 1663541,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/korean_public_payphone_01/korean_public_payphone_01_ao_2k.exr",
+                    "md5": "81802cadd255b2fc2e229cdc7b7d0586"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 120799,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/korean_public_payphone_01/korean_public_payphone_01_ao_1k.jpg",
+                    "md5": "e9ebd61cd03bb643ac86125e86a8eee5"
+                },
+                "png": {
+                    "size": 278985,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/korean_public_payphone_01/korean_public_payphone_01_ao_1k.png",
+                    "md5": "2c3d864961c94a8a915dc97f0d694eaf"
+                },
+                "exr": {
+                    "size": 493987,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/korean_public_payphone_01/korean_public_payphone_01_ao_1k.exr",
+                    "md5": "7a6a754930c906f8ce57448b7e60fd0b"
+                }
+            }
+        }
+    }
+}

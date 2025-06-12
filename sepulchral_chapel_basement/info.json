@@ -1,0 +1,120 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "tiles",
+        "architecture",
+        "dome",
+        "circular"
+    ],
+    "name": "Sepulchral Chapel Basement",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "natural light",
+        "artificial light"
+    ],
+    "coords": [
+        48.78207644829301,
+        9.268748929384417
+    ],
+    "date_taken": 1632044580,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1637625600,
+    "files_hash": "628f00cb963f71cee662bd3700c58051bf555d6c",
+    "max_resolution": [
+        22732,
+        11366
+    ],
+    "download_count": 14209,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sepulchral_chapel_basement.png?width=256&height=256",
+    "files": {
+        "hdri": {
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/sepulchral_chapel_basement_16k.hdr",
+                    "size": 402300423,
+                    "md5": "5eef26bad7d0cf63c7d7d332f13e7085"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/sepulchral_chapel_basement_16k.exr",
+                    "size": 2147615671,
+                    "md5": "e7632adf48932614d2257e29c024261b"
+                }
+            },
+            "22k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/sepulchral_chapel_basement_22k.hdr",
+                    "size": 762667447,
+                    "md5": "b2d3187bd1230d9ee5aff64679b12fe9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/sepulchral_chapel_basement_22k.exr",
+                    "size": 4134133399,
+                    "md5": "e1f55cef4f494f5b2965bfea67edb268"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/sepulchral_chapel_basement_8k.hdr",
+                    "size": 102462967,
+                    "md5": "b1ac3d232582ce28d836fbb7685708fd"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/sepulchral_chapel_basement_8k.exr",
+                    "size": 536937399,
+                    "md5": "c88b55f2e157931e0704e1636bbe8062"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/sepulchral_chapel_basement_4k.hdr",
+                    "size": 25881664,
+                    "md5": "a7989b421f5a2362afd9867825fa24cb"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/sepulchral_chapel_basement_4k.exr",
+                    "size": 134251447,
+                    "md5": "6e2e62a8cb9f0958db7262c92de1373d"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/sepulchral_chapel_basement_2k.hdr",
+                    "size": 6515317,
+                    "md5": "d30485d30356212a0125906f2fdd4aeb"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/sepulchral_chapel_basement_2k.exr",
+                    "size": 33571767,
+                    "md5": "92ad218d72cbc8647b2ce398dda0994d"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/sepulchral_chapel_basement_1k.hdr",
+                    "size": 1633435,
+                    "md5": "5b78d3f04456adc5315d8300f4301d27"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/sepulchral_chapel_basement_1k.exr",
+                    "size": 8397751,
+                    "md5": "a1b3577a7f12fb6d41ff1ab29fb4ddad"
+                }
+            }
+        },
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/sepulchral_chapel_basement.zip",
+            "size": 56930157,
+            "md5": "f74777812deba5705b442ab7ee864f3f"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/sepulchral_chapel_basement.jpg",
+            "size": 46883458,
+            "md5": "162bb6abe4723112ca55f6f835cae4fa"
+        }
+    }
+}

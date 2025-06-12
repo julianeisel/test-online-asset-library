@@ -1,0 +1,131 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "chair",
+        "table",
+        "bench",
+        "grass",
+        "brick",
+        "stairs",
+        "lawn",
+        "restaurant",
+        "courtyard",
+        "terrace"
+    ],
+    "name": "Medieval Cafe",
+    "categories": [
+        "outdoor",
+        "urban",
+        "natural light",
+        "low contrast",
+        "nature",
+        "partly cloudy",
+        "morning-afternoon"
+    ],
+    "date_taken": 1706717520,
+    "coords": [
+        -26.032361,
+        27.716593
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "files_hash": "48610126a99e2c4424d813833295d13d8a6711d8",
+    "date_published": 1709683200,
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "download_count": 20529,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/medieval_cafe.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 45460815,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/medieval_cafe.jpg",
+            "md5": "807a23b4208fbcdc1aeceed72592bdeb"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101032107,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/medieval_cafe_8k.hdr",
+                    "md5": "d343ac96986f57a3da03ca23393f7c83"
+                },
+                "exr": {
+                    "size": 385210910,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/medieval_cafe_8k.exr",
+                    "md5": "481abf966705f872dd1f374cae86ac37"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 375834241,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/medieval_cafe_16k.hdr",
+                    "md5": "58755f3586aa26582ce9f06eb2e96e5a"
+                },
+                "exr": {
+                    "size": 1527823574,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/medieval_cafe_16k.exr",
+                    "md5": "df98bde79a3f7001d718ddcfa4f94499"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26341274,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/medieval_cafe_4k.hdr",
+                    "md5": "a3638e453667b58b25c50f473a86ad9e"
+                },
+                "exr": {
+                    "size": 96786347,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/medieval_cafe_4k.exr",
+                    "md5": "4d4531b872b33eb27784ac80094996b8"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6696109,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/medieval_cafe_2k.hdr",
+                    "md5": "2ca9c5a6a2daa69a1663f1530f0e54c5"
+                },
+                "exr": {
+                    "size": 24325191,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/medieval_cafe_2k.exr",
+                    "md5": "2606264043c4431787909c4990b6ea1a"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1680651,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/medieval_cafe_1k.hdr",
+                    "md5": "ed8d0d6ca9b501f35337a6d557c42721"
+                },
+                "exr": {
+                    "size": 6111422,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/medieval_cafe_1k.exr",
+                    "md5": "4019edfa4a6ade26698c593ed9198e08"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 571592986,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/medieval_cafe_20k.hdr",
+                    "md5": "44e4620802c4cf4de699c9ba249448d6"
+                },
+                "exr": {
+                    "size": 2365734079,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/medieval_cafe_20k.exr",
+                    "md5": "01a6247406e2ee5d9e74962efefdd516"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 214195831,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/medieval_cafe.zip",
+            "md5": "b4b913ed76a5b7ca27cc077083c00b65"
+        }
+    }
+}

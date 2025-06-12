@@ -1,0 +1,131 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 2449,
+    "tags": [
+        "europe",
+        "architecture",
+        "germany",
+        "street",
+        "restaurant",
+        "city",
+        "square",
+        "building",
+        "town",
+        "arch"
+    ],
+    "name": "Rostock Arches",
+    "categories": [
+        "indoor",
+        "artificial light",
+        "night",
+        "urban",
+        "low contrast"
+    ],
+    "date_taken": 1697665980,
+    "coords": [
+        54.0885697,
+        12.1408521
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "info": null,
+    "files_hash": "956cc46414c4bad85ab2265f59c406e01dceb59b",
+    "date_published": 1706832000,
+    "sponsors": [
+        "82322099"
+    ],
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "download_count": 14462,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rostock_arches.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 46106801,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rostock_arches.jpg",
+            "md5": "d3a39462c1c8b35cbf2a1eed8ee7b9ed"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 103269232,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rostock_arches_8k.hdr",
+                    "md5": "b3cfa57c5c8c3164962db09320bd76fe"
+                },
+                "exr": {
+                    "size": 311632661,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rostock_arches_8k.exr",
+                    "md5": "f7162d5b88c135b2449b253e6c75a171"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 396387071,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rostock_arches_16k.hdr",
+                    "md5": "6347543b108457e54a0638e1d0e112fd"
+                },
+                "exr": {
+                    "size": 1191885910,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rostock_arches_16k.exr",
+                    "md5": "a4ccc20b9aaee011570e1db4144386c7"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26189839,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rostock_arches_4k.hdr",
+                    "md5": "1733ee4b5d840a853119c3dcc235cb46"
+                },
+                "exr": {
+                    "size": 79749325,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rostock_arches_4k.exr",
+                    "md5": "2bd2a4138aaf424246cbbba1f7eaee56"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 876438017,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rostock_arches_24k.hdr",
+                    "md5": "1124ed05a37a829a7a5e1a80c3d2d16c"
+                },
+                "exr": {
+                    "size": 2694900006,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rostock_arches_24k.exr",
+                    "md5": "f92424022981e7594bdf052cec40460b"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6598965,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rostock_arches_2k.hdr",
+                    "md5": "2e59feafb6fdd26e04272199288c7889"
+                },
+                "exr": {
+                    "size": 20796464,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rostock_arches_2k.exr",
+                    "md5": "f8d88f80610e01f9453deca1585eb244"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1660086,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rostock_arches_1k.hdr",
+                    "md5": "8a178df0f990cab06459229754c24dae"
+                },
+                "exr": {
+                    "size": 5592062,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rostock_arches_1k.exr",
+                    "md5": "7a767043d1839332bce64d25509e74aa"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 1065406561,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rostock_arches.zip",
+            "md5": "a160fd4bad13825fb548a18e23087cf4"
+        }
+    }
+}

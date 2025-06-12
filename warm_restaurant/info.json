@@ -1,0 +1,130 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5303,
+    "name": "Warm Restaurant",
+    "categories": [
+        "indoor",
+        "medium contrast",
+        "natural light",
+        "urban",
+        "morning-afternoon"
+    ],
+    "date_taken": 1724250600,
+    "coords": [
+        -28.4903051363233,
+        29.00596356759008
+    ],
+    "authors": {
+        "Greg Zaal": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "36c5e400a0a0b7edd784232a853ac241f1740220",
+    "date_published": 1726790400,
+    "tags": [
+        "window",
+        "table",
+        "restaurant",
+        "chair",
+        "tiles",
+        "bench",
+        "animal skin",
+        "rafters",
+        "dining",
+        "cozy",
+        "fireplace",
+        "seat"
+    ],
+    "download_count": 3998,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/warm_restaurant.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 47868653,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/warm_restaurant.jpg",
+            "md5": "8b09508cfac91b9c1291c5130e02c603"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98398503,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/warm_restaurant_8k.hdr",
+                    "md5": "ec534c618360ac68acf40394e5f147b6"
+                },
+                "exr": {
+                    "size": 336086893,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/warm_restaurant_8k.exr",
+                    "md5": "f28963d7ad7dababa0c5383465e831e2"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 362851224,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/warm_restaurant_16k.hdr",
+                    "md5": "4cf3241a14b143c4545d27ccf14f2348"
+                },
+                "exr": {
+                    "size": 1279546096,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/warm_restaurant_16k.exr",
+                    "md5": "3364130b05a8f4a9e7db437e5ab3b0e9"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25484283,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/warm_restaurant_4k.hdr",
+                    "md5": "61d44615da982bb70ca36a710bc4966e"
+                },
+                "exr": {
+                    "size": 86785163,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/warm_restaurant_4k.exr",
+                    "md5": "6c6219702eecba23ec081949252e0533"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 791533964,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/warm_restaurant_24k.hdr",
+                    "md5": "8ee217bfe68d46515b392199dc128e8e"
+                },
+                "exr": {
+                    "size": 2878863724,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/warm_restaurant_24k.exr",
+                    "md5": "078bfe311a0f9c5dd19cc5f6234245d4"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6517786,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/warm_restaurant_2k.hdr",
+                    "md5": "3f971acf11ccf70a65807544d91ae71e"
+                },
+                "exr": {
+                    "size": 22723509,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/warm_restaurant_2k.exr",
+                    "md5": "a57e0876b49d4119b0861378b2ee62b7"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1662018,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/warm_restaurant_1k.hdr",
+                    "md5": "0c59f97f387dbc027452bbb9330183a8"
+                },
+                "exr": {
+                    "size": 6091303,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/warm_restaurant_1k.exr",
+                    "md5": "00db670bc6afc6c27c8c0214a5e4374d"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 249251694,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/warm_restaurant.zip",
+            "md5": "b29e9d8636a19b7b5ccf89270197855e"
+        }
+    }
+}

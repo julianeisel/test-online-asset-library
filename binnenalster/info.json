@@ -1,0 +1,110 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "lake",
+        "park",
+        "tree",
+        "bench"
+    ],
+    "date_published": 1522879200,
+    "name": "Binnenalster",
+    "categories": [
+        "outdoor",
+        "urban",
+        "morning-afternoon",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1478189760,
+    "coords": [
+        53.556961,
+        9.995409
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://www.youtube.com/cggeek",
+            "name": "CG Geek"
+        }
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "f90e35e1b4cebe69d065f43fd7a895bf71a2fc65",
+    "download_count": 22956,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/binnenalster.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5531653,
+            "md5": "15ed06091ec8100576f0d5bec4834025",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/binnenalster.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/binnenalster_8k.hdr",
+                    "size": 96985664,
+                    "md5": "98e9059b6de965977d65cf56f3ab356f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/binnenalster_8k.exr",
+                    "size": 84942180,
+                    "md5": "3f17b120eea8a2872c78ccb5a20b01ac"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/binnenalster_16k.hdr",
+                    "size": 356087776,
+                    "md5": "c0cd489e2fa6117ab60d9e3803044d16"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/binnenalster_16k.exr",
+                    "size": 308031825,
+                    "md5": "e968e6987ba948d99ff6c2bd61b9e7e5"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/binnenalster_4k.hdr",
+                    "size": 24941295,
+                    "md5": "4046210927afeab213a648946318f3b1"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/binnenalster_4k.exr",
+                    "size": 22070922,
+                    "md5": "c71f924abf6e5d52dd4bd57989db16ff"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/binnenalster_2k.hdr",
+                    "size": 6259364,
+                    "md5": "86c8c6d91402d1f290d29c3834d31d90"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/binnenalster_2k.exr",
+                    "size": 5616641,
+                    "md5": "47bafaa1f179decce83fb9372a3e910f"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/binnenalster_1k.hdr",
+                    "size": 1564865,
+                    "md5": "68f95c30ba311f5cd88bff9749af469a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/binnenalster_1k.exr",
+                    "size": 1431161,
+                    "md5": "e68874b2411e7293f890f59263f5ec08"
+                }
+            }
+        }
+    }
+}

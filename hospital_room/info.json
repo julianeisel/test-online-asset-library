@@ -1,0 +1,115 @@
+{
+    "evs_cap": 8,
+    "type": 0,
+    "tags": [
+        "bed",
+        "table",
+        "hospital",
+        "lamp",
+        "medical",
+        "operation"
+    ],
+    "date_published": 1558044000,
+    "name": "Hospital Room",
+    "categories": [
+        "indoor",
+        "urban",
+        "medium contrast",
+        "artificial light"
+    ],
+    "date_taken": 1551371340,
+    "authors": {
+        "Oliksiy Yakovlyev": "All"
+    },
+    "sponsors": [
+        "77433244"
+    ],
+    "max_resolution": [
+        17000,
+        8500
+    ],
+    "files_hash": "352d63dedfcbac5507b381c146e65ddea1e3fde8",
+    "download_count": 29603,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/hospital_room.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 1490560,
+            "md5": "7d95cfb71fc4594115d2929efb9b0da6",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hospital_room.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/hospital_room_8k.hdr",
+                    "size": 87300793,
+                    "md5": "e2a1929465d41d3bb73b6cbefea866fd"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/hospital_room_8k.exr",
+                    "size": 56424148,
+                    "md5": "250a8c57456b532dae26aef075e5537d"
+                }
+            },
+            "17k": {
+                "hdr": {
+                    "size": 349576425,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hospital_room_17k.hdr",
+                    "md5": "7c5ca941878e468b1ba034a8c0f8e6f4"
+                },
+                "exr": {
+                    "size": 236877420,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hospital_room_17k.exr",
+                    "md5": "f77da2e603c4eac48bf92ddf6802e0dd"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/hospital_room_16k.hdr",
+                    "size": 326358603,
+                    "md5": "f6ca98f22150f1acbd61fe013d9d61ab"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/hospital_room_16k.exr",
+                    "size": 225723771,
+                    "md5": "83242999139356d8db469212da0aa458"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/hospital_room_4k.hdr",
+                    "size": 21764968,
+                    "md5": "b83376f226eefce3e5a8bf28d2fe236d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/hospital_room_4k.exr",
+                    "size": 13769891,
+                    "md5": "17b8b6c1589315e164428596c9121854"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/hospital_room_2k.hdr",
+                    "size": 5323237,
+                    "md5": "ad5478c7018508b5c47b54e8b0e1354a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/hospital_room_2k.exr",
+                    "size": 3597247,
+                    "md5": "ea70fa978526504f1f6e3db768b49277"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/hospital_room_1k.hdr",
+                    "size": 1343726,
+                    "md5": "07b6bd6a9113bb89bd4c85540e413f1b"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/hospital_room_1k.exr",
+                    "size": 1004019,
+                    "md5": "17f0840b09f0f0b2aa9707b1c2ce4e4e"
+                }
+            }
+        }
+    }
+}

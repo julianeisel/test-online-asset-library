@@ -1,0 +1,103 @@
+{
+    "evs_cap": 13,
+    "prepaid": true,
+    "type": 0,
+    "tags": [
+        "hangar",
+        "plane",
+        "industrial",
+        "europe"
+    ],
+    "date_published": 1540504800,
+    "name": "Small Hangar 02",
+    "categories": [
+        "indoor",
+        "urban",
+        "morning-afternoon",
+        "medium contrast",
+        "natural light"
+    ],
+    "date_taken": 1535752800,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "sponsors": [
+        "7947474"
+    ],
+    "max_resolution": [
+        16500,
+        8250
+    ],
+    "files_hash": "c725e75fe488f36c7b8b35ce1a19d6fbcb6b4fd9",
+    "download_count": 15795,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/small_hangar_02.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6615420,
+            "md5": "574bbbefa8827fdf6e4976495f93b3f4",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/small_hangar_02.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/small_hangar_02_8k.hdr",
+                    "size": 101983457,
+                    "md5": "87ff13ceb5d3dfb6241c03527fe8b46d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/small_hangar_02_8k.exr",
+                    "size": 92345595,
+                    "md5": "f5d7b1c233ce34b3d1b6903fb00daa24"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/small_hangar_02_16k.hdr",
+                    "size": 389741800,
+                    "md5": "595a7da50d7127291f5fa273a99a8d2c"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/small_hangar_02_16k.exr",
+                    "size": 331701760,
+                    "md5": "211be0ecb8991716b164a06b4cb0bd79"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/small_hangar_02_4k.hdr",
+                    "size": 26332813,
+                    "md5": "5a94f771c035e040ba5907a6a1123f4d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/small_hangar_02_4k.exr",
+                    "size": 24512666,
+                    "md5": "9011a610831de694bdf899e941315198"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/small_hangar_02_2k.hdr",
+                    "size": 6697527,
+                    "md5": "bb97214b4f1ba4ef1660bd73e7cec2bc"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/small_hangar_02_2k.exr",
+                    "size": 6305392,
+                    "md5": "c2ac51f2e603db69c7bd88d62a0d041e"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/small_hangar_02_1k.hdr",
+                    "size": 1697607,
+                    "md5": "4ab25c8ea4057a2d47584fe6cbec9210"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/small_hangar_02_1k.exr",
+                    "size": 1615706,
+                    "md5": "b557997d3af4a1aaa6dc0b028ad32e21"
+                }
+            }
+        }
+    }
+}

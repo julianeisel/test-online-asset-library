@@ -1,0 +1,588 @@
+{
+    "evs_cap": 27,
+    "type": 0,
+    "whitebalance": 4800,
+    "tags": [
+        "sun",
+        "grass",
+        "tree",
+        "dirt road",
+        "green",
+        "backplates"
+    ],
+    "name": "Rural Crossroads",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "clear",
+        "high contrast",
+        "morning-afternoon"
+    ],
+    "backplates": true,
+    "date_taken": 1692382620,
+    "authors": {
+        "Sergej Majboroda": "All"
+    },
+    "info": null,
+    "files_hash": "d581f3eab595b4d4d45f853b8f570182bf854974",
+    "date_published": 1695168000,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 22393,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rural_crossroads.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 44975830,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rural_crossroads.jpg",
+            "md5": "83c0eacf6a365a7f25b6bb6ba22d06d8"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 98880854,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rural_crossroads_8k.hdr",
+                    "md5": "43a7c1f29fb19117c077c2d5317d229f"
+                },
+                "exr": {
+                    "size": 82968984,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rural_crossroads_8k.exr",
+                    "md5": "5baf1e03b9726fc95c41e94603f5e15e"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 370251222,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rural_crossroads_16k.hdr",
+                    "md5": "7b737d7ae79ee28dc868ed01fb5cb1c4"
+                },
+                "exr": {
+                    "size": 307498714,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rural_crossroads_16k.exr",
+                    "md5": "74e759de2e80d373f678f7095705196d"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24740749,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rural_crossroads_4k.hdr",
+                    "md5": "4b9f6913b283e2d2876bbc7ccb6f0a12"
+                },
+                "exr": {
+                    "size": 21335447,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rural_crossroads_4k.exr",
+                    "md5": "101bdeab26e9ed902de5bbd0f6e3f9e0"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6010519,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rural_crossroads_2k.hdr",
+                    "md5": "767dc32a87af8d2d80167d877c08e499"
+                },
+                "exr": {
+                    "size": 5425044,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rural_crossroads_2k.exr",
+                    "md5": "a695e9e7b926eefbe63a3f258451b132"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1497201,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rural_crossroads_1k.hdr",
+                    "md5": "0ae19b0159be5b3134ea51b1d9352052"
+                },
+                "exr": {
+                    "size": 1395198,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rural_crossroads_1k.exr",
+                    "md5": "74714bd958069f8ebc8638a160a1e3f2"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 98601649,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/rural_crossroads.zip",
+            "md5": "5dbce9d3d654d49be19e44c14711a932"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "size": 8643264,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/10.jpg",
+                    "md5": "678f73a1f13b56576e9c136bb6bbc1ee"
+                },
+                "jpg_plain": {
+                    "size": 4929966,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/10.jpg",
+                    "md5": "efa04c95a1446ceb4d132132ca1d98c9"
+                },
+                "raw": {
+                    "size": 24222147,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/10.NEF",
+                    "md5": "458f8b6475ad3986e95ee21d48cbf461"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "size": 8359817,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/11.jpg",
+                    "md5": "2a15d87dcb3c88a8609d64c857371b60"
+                },
+                "jpg_plain": {
+                    "size": 4547574,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/11.jpg",
+                    "md5": "ef47333eec0cbf99a6eea25d0f4052ca"
+                },
+                "raw": {
+                    "size": 24380580,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/11.NEF",
+                    "md5": "71f5f8da8ec5c5f98169ef6ec0eca85e"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "size": 10776588,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/12.jpg",
+                    "md5": "33f764ea4156478bb187d3b750b36fd2"
+                },
+                "jpg_plain": {
+                    "size": 5362012,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/12.jpg",
+                    "md5": "8b4832fd4da9b2b29740677e95bb9942"
+                },
+                "raw": {
+                    "size": 25434003,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/12.NEF",
+                    "md5": "d583a904f15221a2cebd4ebdf9f42556"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "size": 7849310,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/13.jpg",
+                    "md5": "8bde9e5c4da3c2a517ae007c43429834"
+                },
+                "jpg_plain": {
+                    "size": 3631380,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/13.jpg",
+                    "md5": "8840043b62e52cd365e5ab9f3c46b3e4"
+                },
+                "raw": {
+                    "size": 24019815,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/13.NEF",
+                    "md5": "4a9dc63eb69a2efe44f8fef50b21826e"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "size": 10160796,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/14.jpg",
+                    "md5": "9e40e3652a80c1e5c72db3fa2f023995"
+                },
+                "jpg_plain": {
+                    "size": 4632159,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/14.jpg",
+                    "md5": "73529f9c191efb89b8624f13868a2c8a"
+                },
+                "raw": {
+                    "size": 23971273,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/14.NEF",
+                    "md5": "af18941294ebf31add72582706f5db4a"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "size": 13013366,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/15.jpg",
+                    "md5": "457cc19e7061ee5616a5dd05a3869869"
+                },
+                "jpg_plain": {
+                    "size": 7287754,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/15.jpg",
+                    "md5": "4c42275c4e1667238d4f0ac7014ea6f8"
+                },
+                "raw": {
+                    "size": 27344765,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/15.NEF",
+                    "md5": "841e2cbc7ee16f2db514949056f74717"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "size": 10701168,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/16.jpg",
+                    "md5": "7c4c34baacb82dcdcedf5914c197ac9b"
+                },
+                "jpg_plain": {
+                    "size": 7810112,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/16.jpg",
+                    "md5": "66d56dc2501040a9ad9908d76317e1c2"
+                },
+                "raw": {
+                    "size": 28087715,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/16.NEF",
+                    "md5": "afc40445d26f76a13be0ab8ba2759a64"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "size": 10780830,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/17.jpg",
+                    "md5": "13ce4cc955ebd8a0a9b02fd45ca9c659"
+                },
+                "jpg_plain": {
+                    "size": 6870242,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/17.jpg",
+                    "md5": "4ca10e8c869f8b3575ff87c38573b672"
+                },
+                "raw": {
+                    "size": 27216096,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/17.NEF",
+                    "md5": "41349ea8710ea3cf0df9f82b153cb792"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "size": 8259230,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/18.jpg",
+                    "md5": "acbf464e4487674e617d4630e6d69894"
+                },
+                "jpg_plain": {
+                    "size": 5056900,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/18.jpg",
+                    "md5": "7bb82de62a7c16c2817bd7c5b2ea6654"
+                },
+                "raw": {
+                    "size": 26075351,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/18.NEF",
+                    "md5": "f2d90999f53208701030c99bb325139f"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "size": 10322693,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/19.jpg",
+                    "md5": "a22d461fbb67ad337afe6ac4f5c6f2aa"
+                },
+                "jpg_plain": {
+                    "size": 7023869,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/19.jpg",
+                    "md5": "b8fc069ea5e9e202de397e0ed1ce9636"
+                },
+                "raw": {
+                    "size": 27117882,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/19.NEF",
+                    "md5": "6421117e3e60d18fff22b55c75cf3674"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "size": 11272201,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/20.jpg",
+                    "md5": "4b190c2c9b3e1b9f0d2f32f2b6ac7ef6"
+                },
+                "jpg_plain": {
+                    "size": 6679455,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/20.jpg",
+                    "md5": "9e95036b9eba439eb5d1c2042de2e181"
+                },
+                "raw": {
+                    "size": 26646609,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/20.NEF",
+                    "md5": "fa56569df2fc47fc81fe73fa514f4fcb"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "size": 10160899,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/21.jpg",
+                    "md5": "467caebff5cfe0c33a604f74d1499ec1"
+                },
+                "jpg_plain": {
+                    "size": 6093260,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/21.jpg",
+                    "md5": "adadbd148187de9cefdda22176f1c270"
+                },
+                "raw": {
+                    "size": 26082439,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/21.NEF",
+                    "md5": "09ecb25c55048522f4f9e22955d190a0"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "size": 11419534,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/22.jpg",
+                    "md5": "2e3b52fcbe184ad2cdd2d21d6707fb25"
+                },
+                "jpg_plain": {
+                    "size": 6324848,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/22.jpg",
+                    "md5": "15dbf017dfd34cc83b8833c22b695b40"
+                },
+                "raw": {
+                    "size": 26067061,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/22.NEF",
+                    "md5": "c00dde55263ee4a8fdcfffc652794e4e"
+                }
+            },
+            "23": {
+                "jpg_pretty": {
+                    "size": 10889775,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/23.jpg",
+                    "md5": "ae1af1c929848332585bce8412505e93"
+                },
+                "jpg_plain": {
+                    "size": 6907701,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/23.jpg",
+                    "md5": "05d279bf8bd48a9bfa27db8a72e15465"
+                },
+                "raw": {
+                    "size": 26519168,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/23.NEF",
+                    "md5": "e3f12b9e9ff3aab88d3681c55def1354"
+                }
+            },
+            "24": {
+                "jpg_pretty": {
+                    "size": 9058581,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/24.jpg",
+                    "md5": "2512f9c640122fce970b01b4a148b637"
+                },
+                "jpg_plain": {
+                    "size": 5566207,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/24.jpg",
+                    "md5": "c504f30933a4f9b173d8d1ca0a9ae49c"
+                },
+                "raw": {
+                    "size": 25428503,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/24.NEF",
+                    "md5": "f39b56769d8e2ec82e2e361019141f02"
+                }
+            },
+            "25": {
+                "jpg_pretty": {
+                    "size": 10321984,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/25.jpg",
+                    "md5": "91cb0e48b56c47b2eed45eb38a314110"
+                },
+                "jpg_plain": {
+                    "size": 7255746,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/25.jpg",
+                    "md5": "d5cc12e38528a85b762e348705cc24c7"
+                },
+                "raw": {
+                    "size": 27210899,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/25.NEF",
+                    "md5": "8c763758804aedfd8e920c10927910dd"
+                }
+            },
+            "26": {
+                "jpg_pretty": {
+                    "size": 10237953,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/26.jpg",
+                    "md5": "ebac0af7ab75d977853ba3cd5124d15e"
+                },
+                "jpg_plain": {
+                    "size": 6526121,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/26.jpg",
+                    "md5": "4cd87e4de266ec41279edf5f2343fdf4"
+                },
+                "raw": {
+                    "size": 26687511,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/26.NEF",
+                    "md5": "29dca74dfb9fa17bbb937eb170b48cd2"
+                }
+            },
+            "27": {
+                "jpg_pretty": {
+                    "size": 8513613,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/27.jpg",
+                    "md5": "1825d0224c1be3e428a315ea359960a5"
+                },
+                "jpg_plain": {
+                    "size": 5297894,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/27.jpg",
+                    "md5": "b11d6fef7b9a7f1507760cdbe5a78c81"
+                },
+                "raw": {
+                    "size": 26164130,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/27.NEF",
+                    "md5": "a9d831c78bae29521eb86dcb3562ee8e"
+                }
+            },
+            "28": {
+                "jpg_pretty": {
+                    "size": 9527612,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/28.jpg",
+                    "md5": "d70e993e89024de016f322e2915cc36e"
+                },
+                "jpg_plain": {
+                    "size": 6148240,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/28.jpg",
+                    "md5": "8f9fdb346c6e0b131ec21a1b4f5c0972"
+                },
+                "raw": {
+                    "size": 25463836,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/28.NEF",
+                    "md5": "b4309184eb13e96dd1f0b46f5087572d"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "size": 9004015,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/01.jpg",
+                    "md5": "90ed8bf600b37fc5c706bfde2cf08131"
+                },
+                "jpg_plain": {
+                    "size": 4892344,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/01.jpg",
+                    "md5": "ab80a403d9c84226ffb4db7ea1fcd848"
+                },
+                "raw": {
+                    "size": 25208076,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/01.NEF",
+                    "md5": "1b6238262bb170f4890e56ded4403445"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "size": 10594222,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/02.jpg",
+                    "md5": "2c4e01a39251259109502995835156af"
+                },
+                "jpg_plain": {
+                    "size": 6095884,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/02.jpg",
+                    "md5": "9471831eea48df611d571aa59fe9b28a"
+                },
+                "raw": {
+                    "size": 26070498,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/02.NEF",
+                    "md5": "08e78d38cde1c43e7dbc733076a82b16"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "size": 10567438,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/03.jpg",
+                    "md5": "b86fd6c718c0e39834d74c9435505f06"
+                },
+                "jpg_plain": {
+                    "size": 7298203,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/03.jpg",
+                    "md5": "7daa79ad2d195c34425659b1c51c9885"
+                },
+                "raw": {
+                    "size": 27736174,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/03.NEF",
+                    "md5": "f912df83f25e7d1be710ec665fdedff0"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "size": 9746335,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/04.jpg",
+                    "md5": "466462ba90cf60e2fdfff462913296cb"
+                },
+                "jpg_plain": {
+                    "size": 6123646,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/04.jpg",
+                    "md5": "e27f4dbc7c897a69579101adafa5486c"
+                },
+                "raw": {
+                    "size": 26780271,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/04.NEF",
+                    "md5": "011f458d590c39c58cd211ac2b13cab8"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "size": 9849392,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/05.jpg",
+                    "md5": "a3e1d8648ff0f0ef306d7e71b51f7881"
+                },
+                "jpg_plain": {
+                    "size": 6966501,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/05.jpg",
+                    "md5": "37484e55a06e2104fad1b2c6269a74b5"
+                },
+                "raw": {
+                    "size": 27141169,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/05.NEF",
+                    "md5": "2d9397d907bad9e1131b8386880f6633"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "size": 11792101,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/06.jpg",
+                    "md5": "557728e56eb9a22c28537ac4bcf29f78"
+                },
+                "jpg_plain": {
+                    "size": 7433327,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/06.jpg",
+                    "md5": "d5b539730dc163649a6ec47b3d2cecd5"
+                },
+                "raw": {
+                    "size": 27268852,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/06.NEF",
+                    "md5": "ebdacdaa7a63b9ae895dcb10bd675993"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "size": 10939985,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/07.jpg",
+                    "md5": "133ca50ce7b56d5ad3209e083018660b"
+                },
+                "jpg_plain": {
+                    "size": 8030796,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/07.jpg",
+                    "md5": "b31f080e6ff08107cea22be59b1b7f05"
+                },
+                "raw": {
+                    "size": 27496620,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/07.NEF",
+                    "md5": "bf552f17afb329ed52bb4f5da9e365a7"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "size": 9525469,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/08.jpg",
+                    "md5": "38bb4f299ab643cd8503c690a90f96d9"
+                },
+                "jpg_plain": {
+                    "size": 6454943,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/08.jpg",
+                    "md5": "de81f6a9fe55e0d6da16a1ef7aa031e6"
+                },
+                "raw": {
+                    "size": 26472741,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/08.NEF",
+                    "md5": "000d1784c93b1f0989312375d1345e0a"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "size": 9692789,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_pretty/09.jpg",
+                    "md5": "cf73807ce307a455447686444094e240"
+                },
+                "jpg_plain": {
+                    "size": 6500265,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/jpg_plain/09.jpg",
+                    "md5": "884a27ad0787a556a1d7c97f747e433f"
+                },
+                "raw": {
+                    "size": 27172007,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/rural_crossroads/raw/09.NEF",
+                    "md5": "06d5fdfddc4829e4822c0b3c71854784"
+                }
+            }
+        }
+    }
+}

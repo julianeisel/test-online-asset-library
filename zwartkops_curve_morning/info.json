@@ -1,0 +1,813 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "sun",
+        "road",
+        "track",
+        "asphalt",
+        "race",
+        "curve",
+        "barrier",
+        "circuit",
+        "sand",
+        "grass",
+        "backplates"
+    ],
+    "name": "Zwartkops Curve Morning",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "clear",
+        "high contrast",
+        "morning-afternoon",
+        "urban"
+    ],
+    "backplates": true,
+    "date_taken": 1713685140,
+    "coords": [
+        -25.810044808817782,
+        28.110051739066126
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "files_hash": "5275d392ca1311467fc5fecf376be81005f7c6aa",
+    "date_published": 1727827200,
+    "download_count": 1674,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/zwartkops_curve_morning.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 46214727,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/zwartkops_curve_morning.jpg",
+            "md5": "32a778971cd34a70aeda09a52d9d37d7"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 100846264,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/zwartkops_curve_morning_8k.hdr",
+                    "md5": "34e5d10f164b7b761777982d31845685"
+                },
+                "exr": {
+                    "size": 385190031,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/zwartkops_curve_morning_8k.exr",
+                    "md5": "4b4847f42c8accee7716fe96af809aee"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 379097373,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/zwartkops_curve_morning_16k.hdr",
+                    "md5": "066b107ee72a6493c1eba2c7cdad8c52"
+                },
+                "exr": {
+                    "size": 1527724132,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/zwartkops_curve_morning_16k.exr",
+                    "md5": "4f1fb4b083f59527dffb9c6efcced3c8"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25981684,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/zwartkops_curve_morning_4k.hdr",
+                    "md5": "f0f103abae26f3eb248f0d93746faa50"
+                },
+                "exr": {
+                    "size": 96546458,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/zwartkops_curve_morning_4k.exr",
+                    "md5": "8b11a1ce825070799940ba118300903b"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6474072,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/zwartkops_curve_morning_2k.hdr",
+                    "md5": "8b4b03d5e17acd3300ccd773e30c83b0"
+                },
+                "exr": {
+                    "size": 24222284,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/zwartkops_curve_morning_2k.exr",
+                    "md5": "b9b05a2a29580667b0f4f6986d1a634c"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1576017,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/zwartkops_curve_morning_1k.hdr",
+                    "md5": "3b5e2c040d7fae2867d70bb03bedc83c"
+                },
+                "exr": {
+                    "size": 6076753,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/zwartkops_curve_morning_1k.exr",
+                    "md5": "907e8fa83599d1022501d2d980148e40"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 580235411,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/zwartkops_curve_morning_20k.hdr",
+                    "md5": "2b12be619fc52114155348185e77d0a3"
+                },
+                "exr": {
+                    "size": 2367479206,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/zwartkops_curve_morning_20k.exr",
+                    "md5": "72b0e9fc153a3293f85da9969975bb6e"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 214048287,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/zwartkops_curve_morning.zip",
+            "md5": "4a5a9c471a62193e301cd1413d308bc2"
+        },
+        "backplates": {
+            "10": {
+                "jpg_pretty": {
+                    "size": 18584246,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/10.jpg",
+                    "md5": "cb38e34db3423fa4e9c85c446fcc649c"
+                },
+                "jpg_plain": {
+                    "size": 6132982,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/10.JPG",
+                    "md5": "aa0cd4c47e96d34ef5219f5e9b321340"
+                },
+                "raw": {
+                    "size": 35375317,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/10.CR2",
+                    "md5": "1f56ec28028cc0bb5bbb39a35accdd62"
+                }
+            },
+            "11": {
+                "jpg_pretty": {
+                    "size": 26274237,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/11.jpg",
+                    "md5": "c3fb1659477cd32d81d6640ffe70fac4"
+                },
+                "jpg_plain": {
+                    "size": 9405444,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/11.JPG",
+                    "md5": "4d59956fc0c501bdb18a8bac2280eac4"
+                },
+                "raw": {
+                    "size": 37472489,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/11.CR2",
+                    "md5": "5e7a3eb4ee465ea486c0e7fbeb2c7e39"
+                }
+            },
+            "12": {
+                "jpg_pretty": {
+                    "size": 24213252,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/12.jpg",
+                    "md5": "2910101de312e884b3278d34841f2d3a"
+                },
+                "jpg_plain": {
+                    "size": 9216894,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/12.JPG",
+                    "md5": "efe96fc454b8eb638c11c1e7aadc62fa"
+                },
+                "raw": {
+                    "size": 39727008,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/12.CR2",
+                    "md5": "92c8938df916d3e075e11df604e0892b"
+                }
+            },
+            "13": {
+                "jpg_pretty": {
+                    "size": 19160005,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/13.jpg",
+                    "md5": "1cbaf9eea09c9abb92bc84fa6f77eb56"
+                },
+                "jpg_plain": {
+                    "size": 6648349,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/13.JPG",
+                    "md5": "d00a49ff8ea84c180291f72ac47f772d"
+                },
+                "raw": {
+                    "size": 34067450,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/13.CR2",
+                    "md5": "0a5b378a168fd77c199f14cfacf0011f"
+                }
+            },
+            "14": {
+                "jpg_pretty": {
+                    "size": 27258319,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/14.jpg",
+                    "md5": "b7ee07fe76f9a1828aebde91f1570bf6"
+                },
+                "jpg_plain": {
+                    "size": 10444183,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/14.JPG",
+                    "md5": "bada25edb481c221a10bb38f545f5cf9"
+                },
+                "raw": {
+                    "size": 36953350,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/14.CR2",
+                    "md5": "7fe2c484b559bc885641937139e6cd98"
+                }
+            },
+            "15": {
+                "jpg_pretty": {
+                    "size": 25646913,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/15.jpg",
+                    "md5": "4b13797580bb7f140e9c31c4b45e5ba6"
+                },
+                "jpg_plain": {
+                    "size": 9112615,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/15.JPG",
+                    "md5": "c12c434e40f0b78c32eb8f2709426ab7"
+                },
+                "raw": {
+                    "size": 36511806,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/15.CR2",
+                    "md5": "13f87764a953dda349b1ed4c47310ce0"
+                }
+            },
+            "16": {
+                "jpg_pretty": {
+                    "size": 24667561,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/16.jpg",
+                    "md5": "3c6b4fac05a91389784a048bfc619895"
+                },
+                "jpg_plain": {
+                    "size": 8493168,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/16.JPG",
+                    "md5": "3e073b02b9eb95507fbe42ddd964bd06"
+                },
+                "raw": {
+                    "size": 35695275,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/16.CR2",
+                    "md5": "f6b024f478c85d6075ae0a088c97cec1"
+                }
+            },
+            "17": {
+                "jpg_pretty": {
+                    "size": 22590764,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/17.jpg",
+                    "md5": "082c2decac0128f8f9cea355382a0e57"
+                },
+                "jpg_plain": {
+                    "size": 7561225,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/17.JPG",
+                    "md5": "06d4d577699cc0f10ddd0dd4ccff27f2"
+                },
+                "raw": {
+                    "size": 34892842,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/17.CR2",
+                    "md5": "04b92ef2d19bd29d50a9afa7b248189c"
+                }
+            },
+            "18": {
+                "jpg_pretty": {
+                    "size": 26649124,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/18.jpg",
+                    "md5": "3a6771e0827e4c3fdc313561e0037cd5"
+                },
+                "jpg_plain": {
+                    "size": 8048863,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/18.JPG",
+                    "md5": "f341eb39b226db3c94260d7de03359d6"
+                },
+                "raw": {
+                    "size": 34244557,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/18.CR2",
+                    "md5": "52ea23462f46dfe35190d1ba441a8377"
+                }
+            },
+            "19": {
+                "jpg_pretty": {
+                    "size": 27137768,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/19.jpg",
+                    "md5": "bdd99f6369ea5fda7d1260c81a43f40d"
+                },
+                "jpg_plain": {
+                    "size": 7965226,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/19.JPG",
+                    "md5": "1b95daae2131b409d703aab710133a95"
+                },
+                "raw": {
+                    "size": 34079251,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/19.CR2",
+                    "md5": "161031bd79c2847319bca0673c899c11"
+                }
+            },
+            "20": {
+                "jpg_pretty": {
+                    "size": 27670339,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/20.jpg",
+                    "md5": "f53a06cf15dbcbbb9908a70888332ec1"
+                },
+                "jpg_plain": {
+                    "size": 8840737,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/20.JPG",
+                    "md5": "66172a04a4a3a82333caed3ca78d2f3c"
+                },
+                "raw": {
+                    "size": 35466070,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/20.CR2",
+                    "md5": "2302c4098fed26c2c07d12156c6ce6bc"
+                }
+            },
+            "21": {
+                "jpg_pretty": {
+                    "size": 20615797,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/21.JPG",
+                    "md5": "d79cc5ffabfc7e315b511433b4aa0b24"
+                },
+                "jpg_plain": {
+                    "size": 25023858,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/21.jpg",
+                    "md5": "bf32b2c6546b9df247d31c732002d6b2"
+                },
+                "raw": {
+                    "size": 86840320,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/21.RAF",
+                    "md5": "c990ef56aa4fbef1aebfab6abafbdbd6"
+                }
+            },
+            "22": {
+                "jpg_pretty": {
+                    "size": 21192013,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/22.JPG",
+                    "md5": "badd4d6aa16c671bf9a70e0f46db7a29"
+                },
+                "jpg_plain": {
+                    "size": 26866771,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/22.jpg",
+                    "md5": "035278c67bc591f7242b70c3546a9c97"
+                },
+                "raw": {
+                    "size": 86856704,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/22.RAF",
+                    "md5": "ba4595ce29198597799d3b38f267fb7e"
+                }
+            },
+            "23": {
+                "jpg_pretty": {
+                    "size": 22565438,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/23.JPG",
+                    "md5": "b3dd752e8db74f4e70e77a3fe1a8b0ac"
+                },
+                "jpg_plain": {
+                    "size": 33259695,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/23.jpg",
+                    "md5": "6e80473df267eaafb83c82a68a553b9d"
+                },
+                "raw": {
+                    "size": 87304192,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/23.RAF",
+                    "md5": "669298cae517bb016c5d4f539653abdd"
+                }
+            },
+            "24": {
+                "jpg_pretty": {
+                    "size": 25478282,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/24.JPG",
+                    "md5": "81c2894aa1ba8598a363275808e5d38f"
+                },
+                "jpg_plain": {
+                    "size": 32324413,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/24.jpg",
+                    "md5": "1d29546d468d7633c3abcb09fcc119d6"
+                },
+                "raw": {
+                    "size": 87508480,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/24.RAF",
+                    "md5": "d54e55c307e2d14daeb5362b33937333"
+                }
+            },
+            "25": {
+                "jpg_pretty": {
+                    "size": 21004807,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/25.JPG",
+                    "md5": "8d306c9119ca1ab0d9d94aa5602b7b45"
+                },
+                "jpg_plain": {
+                    "size": 27294274,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/25.jpg",
+                    "md5": "5417700ac756934a3d4a4421cfc192af"
+                },
+                "raw": {
+                    "size": 86858752,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/25.RAF",
+                    "md5": "cf714db8753b2cb9725f51bd677f959c"
+                }
+            },
+            "26": {
+                "jpg_pretty": {
+                    "size": 23222719,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/26.JPG",
+                    "md5": "7e9ab4e115abe12a57de329b744111cf"
+                },
+                "jpg_plain": {
+                    "size": 29845637,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/26.jpg",
+                    "md5": "97a6ff850bbe15016aa0cbbf38ddbea8"
+                },
+                "raw": {
+                    "size": 87647232,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/26.RAF",
+                    "md5": "682f59e869865d07d6f0f3c808b83fa2"
+                }
+            },
+            "27": {
+                "jpg_pretty": {
+                    "size": 22793393,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/27.JPG",
+                    "md5": "0b7a5aecbf636195f95068ea4492ee5b"
+                },
+                "jpg_plain": {
+                    "size": 33448924,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/27.jpg",
+                    "md5": "803423dcfd1195e574ac81ee6e26efbe"
+                },
+                "raw": {
+                    "size": 87261696,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/27.RAF",
+                    "md5": "840429e839731e5bcaee4b6de4443588"
+                }
+            },
+            "28": {
+                "jpg_pretty": {
+                    "size": 22608008,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/28.JPG",
+                    "md5": "55ca53b96e6e790350496d10b921d102"
+                },
+                "jpg_plain": {
+                    "size": 31951142,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/28.jpg",
+                    "md5": "d2af5cfe94a956d364740d22ae27b193"
+                },
+                "raw": {
+                    "size": 87145984,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/28.RAF",
+                    "md5": "e93892046a993f1c68aab5ec10cfd4e4"
+                }
+            },
+            "29": {
+                "jpg_pretty": {
+                    "size": 24752506,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/29.JPG",
+                    "md5": "994def450f90508188eabb9cbdd089e1"
+                },
+                "jpg_plain": {
+                    "size": 28973176,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/29.jpg",
+                    "md5": "fe58f8034185c896e9d2971384f4ed06"
+                },
+                "raw": {
+                    "size": 87567872,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/29.RAF",
+                    "md5": "30aa14fedc4f493200319dfaa085fc9c"
+                }
+            },
+            "30": {
+                "jpg_pretty": {
+                    "size": 22758973,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/30.JPG",
+                    "md5": "3111f34cd5a5e04367f6e7e47fc6d8c9"
+                },
+                "jpg_plain": {
+                    "size": 32301976,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/30.jpg",
+                    "md5": "bef7c15f116458abcbab0715f8383db9"
+                },
+                "raw": {
+                    "size": 87232000,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/30.RAF",
+                    "md5": "a7959558e183e67c373d3f1eb1e9e4dc"
+                }
+            },
+            "31": {
+                "jpg_pretty": {
+                    "size": 16764385,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/31.JPG",
+                    "md5": "dbd126602a2cd1d5885c60fc8e7a6f1c"
+                },
+                "jpg_plain": {
+                    "size": 17783177,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/31.jpg",
+                    "md5": "5ed30261e204e117ae5d87393f056fc3"
+                },
+                "raw": {
+                    "size": 85077504,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/31.RAF",
+                    "md5": "0c44fd1dcf9aec6f399322519380a91b"
+                }
+            },
+            "32": {
+                "jpg_pretty": {
+                    "size": 22177361,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/32.JPG",
+                    "md5": "4f7a88b06db61b9879f8359fdb297251"
+                },
+                "jpg_plain": {
+                    "size": 24687344,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/32.jpg",
+                    "md5": "17fdd748bff794e48114825ecb06d0e0"
+                },
+                "raw": {
+                    "size": 87434240,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/32.RAF",
+                    "md5": "a633e37f4950027ff705cddfa93cbea8"
+                }
+            },
+            "33": {
+                "jpg_pretty": {
+                    "size": 20904500,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/33.JPG",
+                    "md5": "a1a67851218fbfefe02f697803225387"
+                },
+                "jpg_plain": {
+                    "size": 23387281,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/33.jpg",
+                    "md5": "01e2810f07949ea52c26521d14546290"
+                },
+                "raw": {
+                    "size": 86880256,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/33.RAF",
+                    "md5": "d670a6626ad2b06becf672d17b5ff13a"
+                }
+            },
+            "34": {
+                "jpg_pretty": {
+                    "size": 23126180,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/34.JPG",
+                    "md5": "e570305a83095fba3dd9b423710c72d9"
+                },
+                "jpg_plain": {
+                    "size": 24092627,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/34.jpg",
+                    "md5": "d065dd6cf9d3af27e247f768dc448537"
+                },
+                "raw": {
+                    "size": 87633408,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/34.RAF",
+                    "md5": "8abce6694edc8f5609c3d16d7d0f149e"
+                }
+            },
+            "35": {
+                "jpg_pretty": {
+                    "size": 24012629,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/35.JPG",
+                    "md5": "68efb45249b9fc06f8e80e431ebeeedf"
+                },
+                "jpg_plain": {
+                    "size": 27556533,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/35.jpg",
+                    "md5": "d130409237099fa2217d5872105336ac"
+                },
+                "raw": {
+                    "size": 87508992,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/35.RAF",
+                    "md5": "255246fb07a21e5f5e40cad86d7dfe44"
+                }
+            },
+            "36": {
+                "jpg_pretty": {
+                    "size": 22532931,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/36.JPG",
+                    "md5": "b6241d147e531991e3eae475c9e092a9"
+                },
+                "jpg_plain": {
+                    "size": 31865271,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/36.jpg",
+                    "md5": "13b0fcb76ec4986ff4e5af796eca9994"
+                },
+                "raw": {
+                    "size": 87279616,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/36.RAF",
+                    "md5": "c31aea99001cb216d8f440a21983fe42"
+                }
+            },
+            "37": {
+                "jpg_pretty": {
+                    "size": 24192000,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/37.JPG",
+                    "md5": "3eb22e68be0b5485d63863748d230547"
+                },
+                "jpg_plain": {
+                    "size": 28579261,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/37.jpg",
+                    "md5": "a73709254c1e2a5246261541352ef02b"
+                },
+                "raw": {
+                    "size": 87516160,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/37.RAF",
+                    "md5": "23502993820ec164ad470eaa225ef4fa"
+                }
+            },
+            "38": {
+                "jpg_pretty": {
+                    "size": 22592219,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/38.JPG",
+                    "md5": "247c05453b8752967e716669eb2b334f"
+                },
+                "jpg_plain": {
+                    "size": 26327276,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/38.jpg",
+                    "md5": "094de6a0c8ced7adf424b77a7b11ce8a"
+                },
+                "raw": {
+                    "size": 87486976,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/38.RAF",
+                    "md5": "05758cb4bfb00c0654bc613febb0f8b2"
+                }
+            },
+            "39": {
+                "jpg_pretty": {
+                    "size": 26019037,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/39.JPG",
+                    "md5": "857a92fa33586aca56e71090331a06c1"
+                },
+                "jpg_plain": {
+                    "size": 30869638,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/39.jpg",
+                    "md5": "95b63655759dd72725c6aefabe2d3830"
+                },
+                "raw": {
+                    "size": 87357440,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/39.RAF",
+                    "md5": "398108fd6152a4163c784ddc36b259d3"
+                }
+            },
+            "40": {
+                "jpg_pretty": {
+                    "size": 23972678,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/40.JPG",
+                    "md5": "80508b7bc1b38d8362afda2c65c07dde"
+                },
+                "jpg_plain": {
+                    "size": 26472481,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/40.jpg",
+                    "md5": "fbb478f068748c03085aae3423849615"
+                },
+                "raw": {
+                    "size": 87454208,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/40.RAF",
+                    "md5": "525f5be661a6ae4fbb75fae8a35ef822"
+                }
+            },
+            "01": {
+                "jpg_pretty": {
+                    "size": 26336031,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/01.jpg",
+                    "md5": "03f18b73d3811aaae426b783bda7d9d4"
+                },
+                "jpg_plain": {
+                    "size": 8576425,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/01.JPG",
+                    "md5": "4c6a4afd56e5060b6d46f3c7d98baa48"
+                },
+                "raw": {
+                    "size": 36503449,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/01.CR2",
+                    "md5": "7279c585a078073b7167c31858099d9d"
+                }
+            },
+            "02": {
+                "jpg_pretty": {
+                    "size": 24857487,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/02.jpg",
+                    "md5": "237d51e4e19f202c2f2589198c4c1896"
+                },
+                "jpg_plain": {
+                    "size": 9675787,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/02.JPG",
+                    "md5": "d62497e8644f0facbe179602d6f9610d"
+                },
+                "raw": {
+                    "size": 41071450,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/02.CR2",
+                    "md5": "58a9a283c995e4ec6262e394aee4955e"
+                }
+            },
+            "03": {
+                "jpg_pretty": {
+                    "size": 27398519,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/03.jpg",
+                    "md5": "f280829e8d0b7879e22f2762437a4e14"
+                },
+                "jpg_plain": {
+                    "size": 9705213,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/03.JPG",
+                    "md5": "2a92e370273e99d272316d07ae382d88"
+                },
+                "raw": {
+                    "size": 43250749,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/03.CR2",
+                    "md5": "1ab125572413414209cff8635c44518f"
+                }
+            },
+            "04": {
+                "jpg_pretty": {
+                    "size": 24405797,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/04.jpg",
+                    "md5": "5d2ebf3189be34b8becf4f4373da41a0"
+                },
+                "jpg_plain": {
+                    "size": 8405213,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/04.JPG",
+                    "md5": "34281bb24530664724abac4ff35f34ce"
+                },
+                "raw": {
+                    "size": 43139693,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/04.CR2",
+                    "md5": "a0a3192785952b7a072dd91292ac545e"
+                }
+            },
+            "05": {
+                "jpg_pretty": {
+                    "size": 26044837,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/05.jpg",
+                    "md5": "ab695c6c735a90f4a3c4794f92850efb"
+                },
+                "jpg_plain": {
+                    "size": 9171855,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/05.JPG",
+                    "md5": "bac36d5ac2d3379248e152c596209415"
+                },
+                "raw": {
+                    "size": 37194304,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/05.CR2",
+                    "md5": "a37317e19f54554f99994de88a48bbf8"
+                }
+            },
+            "06": {
+                "jpg_pretty": {
+                    "size": 25913492,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/06.jpg",
+                    "md5": "b11543d3f41c8fcb767744c2c797023d"
+                },
+                "jpg_plain": {
+                    "size": 8262882,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/06.JPG",
+                    "md5": "3d51e43099d9d05a04b33c3084103cca"
+                },
+                "raw": {
+                    "size": 35689901,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/06.CR2",
+                    "md5": "dbe827f95024bc1b3bb216aa1b72f306"
+                }
+            },
+            "07": {
+                "jpg_pretty": {
+                    "size": 20235149,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/07.jpg",
+                    "md5": "99c68e3f56e775fa44e1e94c0be2095a"
+                },
+                "jpg_plain": {
+                    "size": 7444053,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/07.JPG",
+                    "md5": "1b2b7bd99e87831c4216257e0168d360"
+                },
+                "raw": {
+                    "size": 39527176,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/07.CR2",
+                    "md5": "88bb9d23e88da9b96cb16883016601a7"
+                }
+            },
+            "08": {
+                "jpg_pretty": {
+                    "size": 24936569,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/08.jpg",
+                    "md5": "211ae0ca133b98f0c4ea86078baf73a6"
+                },
+                "jpg_plain": {
+                    "size": 10032776,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/08.JPG",
+                    "md5": "edfe16888801c26fb9b916ac89140939"
+                },
+                "raw": {
+                    "size": 42196426,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/08.CR2",
+                    "md5": "09363d419e6f92c7b3d03eb149cc0335"
+                }
+            },
+            "09": {
+                "jpg_pretty": {
+                    "size": 16917815,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_pretty/09.jpg",
+                    "md5": "8a67cc004f8c70787b0070742411ee3a"
+                },
+                "jpg_plain": {
+                    "size": 5244497,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/jpg_plain/09.JPG",
+                    "md5": "a19e5ebe7f3da1992fd5c6152d3e7fe8"
+                },
+                "raw": {
+                    "size": 36300226,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/zwartkops_curve_morning/raw/09.CR2",
+                    "md5": "32ed22c637289f423370d61cafe58b9b"
+                }
+            }
+        }
+    }
+}

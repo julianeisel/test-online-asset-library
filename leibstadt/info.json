@@ -1,0 +1,118 @@
+{
+    "donated": true,
+    "type": 0,
+    "tags": [
+        "road",
+        "autumn",
+        "asphalt",
+        "highway",
+        "curve"
+    ],
+    "name": "Leibstadt",
+    "categories": [
+        "outdoor",
+        "nature",
+        "sunrise-sunset",
+        "natural light",
+        "partly cloudy",
+        "low contrast"
+    ],
+    "date_taken": 1508436780,
+    "authors": {
+        "Adrian Kubasa": "All"
+    },
+    "info": null,
+    "files_hash": "bcba6a40a6840cbac3c7971aa856de0f0b4b2426",
+    "evs_cap": 0,
+    "date_published": 1703376000,
+    "sponsors": [
+        "37678923"
+    ],
+    "max_resolution": [
+        18432,
+        9216
+    ],
+    "download_count": 31052,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/leibstadt.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 44172358,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/leibstadt.jpg",
+            "md5": "0783b16f7a1ae9b2475890742e7915c6"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105305655,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/leibstadt_8k.hdr",
+                    "md5": "239e823fb1173a6dccb1a29da2c3027e"
+                },
+                "exr": {
+                    "size": 89179433,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/leibstadt_8k.exr",
+                    "md5": "864e2b5aba09e2b166e72ad83685956a"
+                }
+            },
+            "18k": {
+                "hdr": {
+                    "size": 493308937,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/leibstadt_18k.hdr",
+                    "md5": "563667e71a779b29f6cb208afeb92035"
+                },
+                "exr": {
+                    "size": 404802443,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/leibstadt_18k.exr",
+                    "md5": "f0e207bc94ebc01b5144d9abe06a2e76"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 395549401,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/leibstadt_16k.hdr",
+                    "md5": "cee3d3fd8ed46983d0084792aa4a165b"
+                },
+                "exr": {
+                    "size": 333735758,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/leibstadt_16k.exr",
+                    "md5": "6e1f863fd66f6203bb55ccd33f78bb81"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26987474,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/leibstadt_4k.hdr",
+                    "md5": "72a757a074031b4d4417d3e2dff7aefb"
+                },
+                "exr": {
+                    "size": 23075053,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/leibstadt_4k.exr",
+                    "md5": "e91f9f4d98a971dd8dd43b8f6056cd90"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6710637,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/leibstadt_2k.hdr",
+                    "md5": "b0368a594b6d5d88d702da74191f6fbc"
+                },
+                "exr": {
+                    "size": 5770356,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/leibstadt_2k.exr",
+                    "md5": "0e8648d594ebcc660770e6bf3abf0236"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1653149,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/leibstadt_1k.hdr",
+                    "md5": "b2fa9a9c3a5ce4047048b25c45be6603"
+                },
+                "exr": {
+                    "size": 1462346,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/leibstadt_1k.exr",
+                    "md5": "dc4c032f023f4e452203210e58764e43"
+                }
+            }
+        }
+    }
+}

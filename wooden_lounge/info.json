@@ -1,0 +1,105 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "tags": [
+        "couch",
+        "wood",
+        "lamp",
+        "table"
+    ],
+    "date_published": 1522879200,
+    "name": "Wooden Lounge",
+    "categories": [
+        "indoor",
+        "urban",
+        "high contrast",
+        "artificial light"
+    ],
+    "coords": [
+        -28.509263,
+        28.562972
+    ],
+    "date_taken": 1471939020,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "8571269"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "8e8f94e0bc67b5ad442d8f78cda7b6ae1480652d",
+    "download_count": 88725,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/wooden_lounge.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4557177,
+            "md5": "ebcf0bdbabe9ec013091caa4c1535601",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/wooden_lounge.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/wooden_lounge_8k.hdr",
+                    "size": 97565100,
+                    "md5": "ddc27f639ad20f1803c0bcb2bfc743f5"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/wooden_lounge_8k.exr",
+                    "size": 79251673,
+                    "md5": "9c8cf04bc0769fccac20aa9d6eb5754e"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/wooden_lounge_16k.hdr",
+                    "size": 360182208,
+                    "md5": "7d01b77c4f9a9808d13531cfead58289"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/wooden_lounge_16k.exr",
+                    "size": 282488035,
+                    "md5": "efbe0cdd64d8539d06cd08a0fd07f070"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/wooden_lounge_4k.hdr",
+                    "size": 25195971,
+                    "md5": "34784f3d0c88c56a319bdfd66f0b072d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/wooden_lounge_4k.exr",
+                    "size": 21023312,
+                    "md5": "cfdde12d8c758276019a611fe9d511a2"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/wooden_lounge_2k.hdr",
+                    "size": 6418235,
+                    "md5": "78cf3ef839f3683fbc762f2e84bfe287"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/wooden_lounge_2k.exr",
+                    "size": 5520723,
+                    "md5": "bfce26f4b4251b31276440a47fd84d50"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/wooden_lounge_1k.hdr",
+                    "size": 1631135,
+                    "md5": "6ef153599d22f74d01e96aa91b77d132"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/wooden_lounge_1k.exr",
+                    "size": 1455474,
+                    "md5": "e746144df062bb3bcc655e7487245fc5"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "evs_cap": 9,
+    "type": 0,
+    "tags": [
+        "tree",
+        "path",
+        "garden",
+        "london",
+        "europe",
+        "architecture"
+    ],
+    "date_published": 1566511200,
+    "name": "Roof Garden",
+    "categories": [
+        "outdoor",
+        "nature",
+        "urban",
+        "morning-afternoon",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1558283580,
+    "coords": [
+        51.506111,
+        -0.017444
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        {
+            "name": "Jeremiah Cook"
+        }
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "a2751586ef5969bd2811937f6a43efe5b9f09c1d",
+    "download_count": 32237,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/roof_garden.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6649209,
+            "md5": "a846342c9c2cc69b6bdd40c533421930",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/roof_garden.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/roof_garden_8k.hdr",
+                    "size": 104014452,
+                    "md5": "3459e7d2334f0391dd5cfc0d88bd7cef"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/roof_garden_8k.exr",
+                    "size": 96363509,
+                    "md5": "df6acb5ea76f778893aa0f080cdabfba"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/roof_garden_16k.hdr",
+                    "size": 384761376,
+                    "md5": "17c55b9c610775c28afbdc7b2be02ce8"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/roof_garden_16k.exr",
+                    "size": 344112887,
+                    "md5": "7098ccac511368b82c683e8b11a7ab94"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/roof_garden_4k.hdr",
+                    "size": 26965558,
+                    "md5": "81f9cc6a7beb92b67ca71ff51a8de2c0"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/roof_garden_4k.exr",
+                    "size": 25600343,
+                    "md5": "c4a89b30352fa8730a39a08541dd8112"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/roof_garden_2k.hdr",
+                    "size": 6881809,
+                    "md5": "7c52e613ad5c08ce1dfb5aa53f920413"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/roof_garden_2k.exr",
+                    "size": 6641592,
+                    "md5": "d0c4d392482a7b6d8117ba5da1497469"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/roof_garden_1k.hdr",
+                    "size": 1746853,
+                    "md5": "ebe50384742ee677817ee441774486a3"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/roof_garden_1k.exr",
+                    "size": 1707143,
+                    "md5": "8f88d702ca0b0f340b7d4531f2e9eef9"
+                }
+            }
+        }
+    }
+}

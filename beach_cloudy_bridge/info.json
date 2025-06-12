@@ -1,0 +1,128 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "beach",
+        "sand",
+        "river",
+        "ocean",
+        "bridge",
+        "underpass",
+        "concrete",
+        "water"
+    ],
+    "name": "Beach Cloudy Bridge",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "urban",
+        "low contrast",
+        "overcast",
+        "midday"
+    ],
+    "date_taken": 1712486640,
+    "coords": [
+        -30.199796,
+        30.802556
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "files_hash": "d8cb7b4b9081c2f8caf4cae11ecb45e6c498b860",
+    "date_published": 1714521600,
+    "download_count": 7993,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/beach_cloudy_bridge.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 45356892,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/beach_cloudy_bridge.jpg",
+            "md5": "7c8203a0bb982566c1a7a7c514af7964"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 102436741,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/beach_cloudy_bridge_8k.hdr",
+                    "md5": "e9f4fec6770cb21bc2c8f465623d3c28"
+                },
+                "exr": {
+                    "size": 384809916,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/beach_cloudy_bridge_8k.exr",
+                    "md5": "96ab2441eed15807b5aced1fae2c771a"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 390616694,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/beach_cloudy_bridge_16k.hdr",
+                    "md5": "8dbcdbd56c8c5ecfd463dc4082e9039c"
+                },
+                "exr": {
+                    "size": 1525057535,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/beach_cloudy_bridge_16k.exr",
+                    "md5": "34e7744ab27ea2c22d950817cf958457"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26392856,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/beach_cloudy_bridge_4k.hdr",
+                    "md5": "4a22acc0e208ad2adef317565fded606"
+                },
+                "exr": {
+                    "size": 96531446,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/beach_cloudy_bridge_4k.exr",
+                    "md5": "5fe97382495a5f1cb014115cfa29252f"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6670382,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/beach_cloudy_bridge_2k.hdr",
+                    "md5": "1a502f1c8be45073d9c89744f408be1e"
+                },
+                "exr": {
+                    "size": 24231262,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/beach_cloudy_bridge_2k.exr",
+                    "md5": "a6e80ddb0cc53f5052f7a4f800470bf2"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1670882,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/beach_cloudy_bridge_1k.hdr",
+                    "md5": "7a59206f8d400049f3c960ffac07a2f5"
+                },
+                "exr": {
+                    "size": 6092907,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/beach_cloudy_bridge_1k.exr",
+                    "md5": "8108e8e971ac50f33a6721689d089ad0"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 600683798,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/beach_cloudy_bridge_20k.hdr",
+                    "md5": "8e9d937b86959ef552882db040f112b4"
+                },
+                "exr": {
+                    "size": 2359182465,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/beach_cloudy_bridge_20k.exr",
+                    "md5": "1bc50c5e9c2a3fbd6cd412d0b42381b3"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 217021964,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/beach_cloudy_bridge.zip",
+            "md5": "d7b2556205d1728174551f0d5f9f494c"
+        }
+    }
+}

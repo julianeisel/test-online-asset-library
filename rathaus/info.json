@@ -1,0 +1,108 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "tags": [
+        "building",
+        "architecture",
+        "europe",
+        "square",
+        "lamp"
+    ],
+    "date_published": 1511996400,
+    "name": "Rathaus",
+    "categories": [
+        "outdoor",
+        "urban",
+        "night",
+        "overcast",
+        "medium contrast",
+        "natural light"
+    ],
+    "coords": [
+        53.550692,
+        9.992974
+    ],
+    "date_taken": 1478207160,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "3267566"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "59c64e54b4037b1ca77b3cadd926bce615ac9a1c",
+    "download_count": 66956,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/rathaus.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6126748,
+            "md5": "df0ab19fd92fa37d1c80dcd887747211",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/rathaus.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/rathaus_8k.hdr",
+                    "size": 104539169,
+                    "md5": "12ac5183c2dbdafb413dd1d94fe33838"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/rathaus_8k.exr",
+                    "size": 92862444,
+                    "md5": "d4c154076db4a81f931ce003483110d2"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/rathaus_16k.hdr",
+                    "size": 394471472,
+                    "md5": "ffd15353d92f2c9f67b52608513dc22f"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/rathaus_16k.exr",
+                    "size": 343507483,
+                    "md5": "761ccc1e56f36645179513c19ad053c7"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/rathaus_4k.hdr",
+                    "size": 26813424,
+                    "md5": "35ce159c30a2405e59ca6643b08c782c"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/rathaus_4k.exr",
+                    "size": 23900825,
+                    "md5": "b6c183d365a57d8ed4331c5e0301982c"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/rathaus_2k.hdr",
+                    "size": 6778404,
+                    "md5": "472b0207a42a85fac7ee2ad0892ddedd"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/rathaus_2k.exr",
+                    "size": 6043237,
+                    "md5": "ff73930e71b609ad1b546d4554f81c36"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rathaus_1k.hdr",
+                    "size": 1701038,
+                    "md5": "b9132d8cecde8d2415722a18d76d3634"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/rathaus_1k.exr",
+                    "size": 1534537,
+                    "md5": "27a53600579a9d990de9593cb8df7f24"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5400,
+    "tags": [
+        "lamp",
+        "studio",
+        "photo"
+    ],
+    "date_published": 1521759600,
+    "name": "Studio Small 02",
+    "date_taken": 1521021180,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "categories": [
+        "indoor",
+        "urban",
+        "studio",
+        "high contrast",
+        "artificial light"
+    ],
+    "sponsors": [
+        "11164276",
+        "3237733"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "b79a592c8bc373cc2537c369180974e36716bff1",
+    "download_count": 164881,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/studio_small_02.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 3732993,
+            "md5": "cac1d54bdbd68fbbcaabf51aa077dfd6",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/studio_small_02.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/studio_small_02_8k.hdr",
+                    "size": 100800631,
+                    "md5": "fbeb84da48f6ccba8ce34f2694158705"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/studio_small_02_8k.exr",
+                    "size": 82711988,
+                    "md5": "bac9d49ef71ce8121ffe618506755726"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/studio_small_02_16k.hdr",
+                    "size": 378889362,
+                    "md5": "08061999093194f5cd64c381510e81b3"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/studio_small_02_16k.exr",
+                    "size": 306304848,
+                    "md5": "18114cc40ea7d473515473da3655e209"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/studio_small_02_4k.hdr",
+                    "size": 26179602,
+                    "md5": "918f83b16f908f92e0641d136ee0f8e8"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/studio_small_02_4k.exr",
+                    "size": 21716191,
+                    "md5": "77af7fa89a64b6b71739dcbb398acbae"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/studio_small_02_2k.hdr",
+                    "size": 6713781,
+                    "md5": "dc2ff545ed0dfb1ebf2271397c48f139"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/studio_small_02_2k.exr",
+                    "size": 5647736,
+                    "md5": "6c65756fa4acd88b1ef9461669731987"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/studio_small_02_1k.hdr",
+                    "size": 1701272,
+                    "md5": "4485d3e4af57d136e7d3ffe0e92b9c85"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/studio_small_02_1k.exr",
+                    "size": 1473750,
+                    "md5": "e30c5ac3eadbdd23fa02d9a06a0f8081"
+                }
+            }
+        }
+    }
+}

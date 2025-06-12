@@ -1,0 +1,121 @@
+{
+    "evs_cap": 25,
+    "files_hash": "da886432206e84f714ce131b72b7c08bc851a7f8",
+    "type": 0,
+    "date_published": 1580425200,
+    "sponsors": [
+        "3267566"
+    ],
+    "name": "Spiaggia di Mondello",
+    "date_taken": 1569847200,
+    "coords": [
+        38.199191,
+        13.329368
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "clear",
+        "high contrast",
+        "natural light",
+        "collection: smugglers_cove"
+    ],
+    "tags": [
+        "tree",
+        "sun",
+        "beach",
+        "sand"
+    ],
+    "max_resolution": [
+        20000,
+        10000
+    ],
+    "download_count": 281989,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/spiaggia_di_mondello.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 3907991,
+            "md5": "ae13689e3fe92ef57f0e09f220bf97cb",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/spiaggia_di_mondello.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 97193287,
+                    "md5": "36577fb45e326e13232410cec8a8a2f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/spiaggia_di_mondello_8k.hdr"
+                },
+                "exr": {
+                    "size": 73790361,
+                    "md5": "5bbbdb74f78a59d0a3c464c65043c5bb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/spiaggia_di_mondello_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 367061574,
+                    "md5": "3ec243c408d54555c7a992131fae0085",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/spiaggia_di_mondello_16k.hdr"
+                },
+                "exr": {
+                    "size": 267224213,
+                    "md5": "f37794a08c64a89e8516e88b6245394a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/spiaggia_di_mondello_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24922166,
+                    "md5": "7403bedf13eade20b105ef4743f4dceb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/spiaggia_di_mondello_4k.hdr"
+                },
+                "exr": {
+                    "size": 19488681,
+                    "md5": "50e5b8dde8ed2a3098f49e22d4891b79",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/spiaggia_di_mondello_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6230981,
+                    "md5": "c73bdbbb5558c6c02114764b9260dcad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/spiaggia_di_mondello_2k.hdr"
+                },
+                "exr": {
+                    "size": 5022703,
+                    "md5": "52aa64805c3f8a917302070bd86481f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/spiaggia_di_mondello_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1533242,
+                    "md5": "999d56c0ca639ea58f1d795aaa6b39d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/spiaggia_di_mondello_1k.hdr"
+                },
+                "exr": {
+                    "size": 1309634,
+                    "md5": "681a950699a3955104d748e4eec275c0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/spiaggia_di_mondello_1k.exr"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 534319116,
+                    "md5": "8f239c03a71cc43eaaffa9b8395f1e39",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/spiaggia_di_mondello_20k.hdr"
+                },
+                "exr": {
+                    "size": 385580657,
+                    "md5": "6bc6052d038c0cd6b51afa0f42bc1443",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/spiaggia_di_mondello_20k.exr"
+                }
+            }
+        }
+    }
+}

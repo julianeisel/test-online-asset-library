@@ -1,0 +1,119 @@
+{
+    "donated": true,
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "tree",
+        "grass",
+        "field"
+    ],
+    "date_published": 1603317600,
+    "name": "Suburban Field 01",
+    "categories": [
+        "outdoor",
+        "nature",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1601545800,
+    "coords": [
+        45.422772,
+        12.150504
+    ],
+    "authors": {
+        "Jacopo Voltolina": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "files_hash": "2287333bae8f60d89720ff2c313649245512ae8a",
+    "max_resolution": [
+        20000,
+        10000
+    ],
+    "download_count": 25161,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/suburban_field_01.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4861168,
+            "md5": "9820b590bbd22e8118e59d383ab30a01",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/suburban_field_01.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101472716,
+                    "md5": "1d96bcd17b1843aa5e1eec40b36f28af",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/suburban_field_01_8k.hdr"
+                },
+                "exr": {
+                    "size": 82640492,
+                    "md5": "bb85da620bd281be48a3ae928bf7d8fe",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/suburban_field_01_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 390202026,
+                    "md5": "1674447c0c281b9de24221ca63e99f0f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/suburban_field_01_16k.hdr"
+                },
+                "exr": {
+                    "size": 308716659,
+                    "md5": "37cccdce7c9312ddce5c088ee4157d0d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/suburban_field_01_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25856076,
+                    "md5": "a2e34bb68d949d10dbd6fe217e723886",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/suburban_field_01_4k.hdr"
+                },
+                "exr": {
+                    "size": 21124093,
+                    "md5": "d654cbb5df67bf8aadb2a549adfde2d3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/suburban_field_01_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6477867,
+                    "md5": "e7416ec979aac8195e0d13b843471efa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/suburban_field_01_2k.hdr"
+                },
+                "exr": {
+                    "size": 5367205,
+                    "md5": "cda010112691117c43a68bfa38ab4bb4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/suburban_field_01_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1622022,
+                    "md5": "6beed8498a87b72302dfd84cba528ce5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/suburban_field_01_1k.hdr"
+                },
+                "exr": {
+                    "size": 1386197,
+                    "md5": "ffe3fef9a9d9de2fc8406a20a7a9a47b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/suburban_field_01_1k.exr"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 572706260,
+                    "md5": "197d30a1c5b0fc5f733d10350df2e887",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/suburban_field_01_20k.hdr"
+                },
+                "exr": {
+                    "size": 447931692,
+                    "md5": "5775473ddb2412e35360c0b51b38eddf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/suburban_field_01_20k.exr"
+                }
+            }
+        }
+    }
+}

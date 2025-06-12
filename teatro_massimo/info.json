@@ -1,0 +1,106 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "europe",
+        "square",
+        "architecture"
+    ],
+    "date_published": 1578610800,
+    "name": "Teatro Massimo",
+    "categories": [
+        "outdoor",
+        "urban",
+        "sunrise-sunset",
+        "partly cloudy",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1569816600,
+    "coords": [
+        38.120852,
+        13.357715
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "16608220"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "61e5b5b5408da6e0e4119c1e74891fd5c7efce58",
+    "download_count": 39680,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/teatro_massimo.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 5585847,
+            "md5": "667b799014f977adfa105e06b59a951c",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/teatro_massimo.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/teatro_massimo_8k.hdr",
+                    "size": 101865608,
+                    "md5": "ab54bc0973da0f26815d11e81c2746a9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/teatro_massimo_8k.exr",
+                    "size": 85699359,
+                    "md5": "999391bbb2a2d14ee19caa5de4c4c82a"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/teatro_massimo_16k.hdr",
+                    "size": 384139401,
+                    "md5": "24c992e2e8db55236472ddc0cb37d6dd"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/teatro_massimo_16k.exr",
+                    "size": 313531757,
+                    "md5": "6afb29a4836128d69d376137b3e1816a"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/teatro_massimo_4k.hdr",
+                    "size": 26107461,
+                    "md5": "88153152bc2cededb959514b4a26c23a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/teatro_massimo_4k.exr",
+                    "size": 22109777,
+                    "md5": "2bbc082e5820b3d9acc3d50fbebfdb23"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/teatro_massimo_2k.hdr",
+                    "size": 6563499,
+                    "md5": "ee5e4655741570323ba2656f19e4b061"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/teatro_massimo_2k.exr",
+                    "size": 5575093,
+                    "md5": "d67988f5fc827b8649a3defcdf2ab4d1"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/teatro_massimo_1k.hdr",
+                    "size": 1618894,
+                    "md5": "b90b17db1d10902e8d8cfd7b18abaa0e"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/teatro_massimo_1k.exr",
+                    "size": 1403008,
+                    "md5": "8a3592ee18a7387d8df584e2775558c6"
+                }
+            }
+        }
+    }
+}

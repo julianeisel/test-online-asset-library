@@ -1,0 +1,105 @@
+{
+    "donated": true,
+    "type": 0,
+    "tags": [
+        "bridge",
+        "railing",
+        "dam",
+        "pillar",
+        "concrete",
+        "column",
+        "industrial",
+        "steel"
+    ],
+    "name": "Dam Bridge",
+    "categories": [
+        "overcast",
+        "natural light",
+        "outdoor",
+        "urban",
+        "low contrast"
+    ],
+    "date_taken": 1487508660,
+    "authors": {
+        "Adrian Kubasa": "All"
+    },
+    "info": null,
+    "files_hash": "125dc4778ff26701d70cfee459314a647eda27ff",
+    "evs_cap": 0,
+    "date_published": 1699747200,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 12885,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dam_bridge.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 37782985,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/dam_bridge.jpg",
+            "md5": "b71f6caaa016c0e189cd7e49bfadaf97"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104452124,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/dam_bridge_8k.hdr",
+                    "md5": "f18e7ca193c70cf4ca344ecffd2fe157"
+                },
+                "exr": {
+                    "size": 85964617,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/dam_bridge_8k.exr",
+                    "md5": "5611b4b8ec5e671016fd7720d76f2e25"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 400335726,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/dam_bridge_16k.hdr",
+                    "md5": "49f951c02c9760c5987eedf3f0cc8616"
+                },
+                "exr": {
+                    "size": 320132305,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/dam_bridge_16k.exr",
+                    "md5": "64b49a927b54f5b88ca1bd687fb745d1"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26612034,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/dam_bridge_4k.hdr",
+                    "md5": "7e3592acc44859458a7a486fe45908fc"
+                },
+                "exr": {
+                    "size": 21513912,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/dam_bridge_4k.exr",
+                    "md5": "c12e68585d3ffa49445e416b1d36ff4a"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6607932,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/dam_bridge_2k.hdr",
+                    "md5": "a94fc7b1227a8ded13873b732d8058d9"
+                },
+                "exr": {
+                    "size": 5313571,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/dam_bridge_2k.exr",
+                    "md5": "4b27d51f88ef05058208abb76ac6be29"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1600426,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/dam_bridge_1k.hdr",
+                    "md5": "d73021ca92be527f73dd1f07592c140c"
+                },
+                "exr": {
+                    "size": 1336142,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/dam_bridge_1k.exr",
+                    "md5": "211e6ad516e6f356139b01bbf6d906cf"
+                }
+            }
+        }
+    }
+}

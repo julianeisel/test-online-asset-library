@@ -1,0 +1,510 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "whitebalance": 5400,
+    "date_published": 1518483651,
+    "name": "Venetian Crossroads",
+    "categories": [
+        "outdoor",
+        "urban",
+        "midday",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        45.4312,
+        12.3571
+    ],
+    "date_taken": 1509704040,
+    "sponsors": [
+        {
+            "name": "Karonis"
+        }
+    ],
+    "backplates": true,
+    "tags": [
+        "sun",
+        "europe",
+        "building",
+        "architecture",
+        "street",
+        "town",
+        "brick",
+        "intersection",
+        "backplates"
+    ],
+    "files_hash": "fa2e22848b0ec031b56ac2fce78faa18fc0df6bf",
+    "authors": {
+        "Greg Zaal": "All",
+        "Rico Cilliers": "Backplates"
+    },
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 63263,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/venetian_crossroads.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4516831,
+            "md5": "d5b575ac38d6822e6ff86d522c06c56d",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/venetian_crossroads.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 92041023,
+                    "md5": "c013561bc297d4789e5308fd07ff6e58",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/venetian_crossroads_8k.hdr"
+                },
+                "exr": {
+                    "size": 77549032,
+                    "md5": "451210315fbe370a537067002b1c1ae5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/venetian_crossroads_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 332198656,
+                    "md5": "47c2c2a039db426a77b9be0712347633",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/venetian_crossroads_16k.hdr"
+                },
+                "exr": {
+                    "size": 264911307,
+                    "md5": "a1fb93950bc0030de6fcdbcbb07ada6b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/venetian_crossroads_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24168577,
+                    "md5": "cb488872f6912a747049757100a9cd07",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/venetian_crossroads_4k.hdr"
+                },
+                "exr": {
+                    "size": 21469914,
+                    "md5": "71b0cbf0bc7c89485bb1dddc84323889",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/venetian_crossroads_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6207874,
+                    "md5": "a4842cdbc4ff38da8bd34d01148d9837",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/venetian_crossroads_2k.hdr"
+                },
+                "exr": {
+                    "size": 5751995,
+                    "md5": "45c311fd708b35d385440446f573e78e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/venetian_crossroads_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1594539,
+                    "md5": "1fcd49b8f1cce9e36c5f974ea48444fd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/venetian_crossroads_1k.hdr"
+                },
+                "exr": {
+                    "size": 1522495,
+                    "md5": "84b87761ea06e847353b0de17de4ce7b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/venetian_crossroads_1k.exr"
+                }
+            }
+        },
+        "backplates": {
+            "DSC07319": {
+                "jpg_pretty": {
+                    "size": 26534157,
+                    "md5": "aca0cad6123a43cc7e5304dc26974ad2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07319.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15124007,
+                    "md5": "956871ea3453c2205edda8a587105ea4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07319.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "8cb662bbde4747fc81ecfb26f047d65a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07319.ARW"
+                }
+            },
+            "DSC07333": {
+                "jpg_pretty": {
+                    "size": 24780288,
+                    "md5": "9022210da8a18252a7dd5eabf4eb7a84",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07333.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16815430,
+                    "md5": "a655fda38f43495cbd0d55985f5f2658",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07333.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "29f766c3eab2609c89aaa21412ee67b8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07333.ARW"
+                }
+            },
+            "DSC07345": {
+                "jpg_pretty": {
+                    "size": 24124993,
+                    "md5": "3a431cbcbe39418be2b1484ce50d97b6",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07345.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18018916,
+                    "md5": "418f0e7d4f5dd792102e4e8f780bd967",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07345.jpg"
+                },
+                "raw": {
+                    "size": 37322752,
+                    "md5": "5529b07b303d519c17273afb73ef76d5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07345.ARW"
+                }
+            },
+            "DSC07313": {
+                "jpg_pretty": {
+                    "size": 25942582,
+                    "md5": "65b4bec4eca55ce4a508615eddacf7fb",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07313.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15639953,
+                    "md5": "889f0e4587e976e276878a78d8e9e32a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07313.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "3d17fd64622f662197257dc67cf92c75",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07313.ARW"
+                }
+            },
+            "DSC07335": {
+                "jpg_pretty": {
+                    "size": 28210169,
+                    "md5": "a432fb968adeb07c1acc89a0adc46c4c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07335.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17153550,
+                    "md5": "657ae9f25b3062900c9660765658af7e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07335.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "8811e4e4fb5b88231e162d9dc525ed68",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07335.ARW"
+                }
+            },
+            "DSC07346": {
+                "jpg_pretty": {
+                    "size": 22581623,
+                    "md5": "abd8bc315f268f709ddcb2c1cca90373",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07346.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16345098,
+                    "md5": "b0c027aa772a1e360dec6bbc4b9b583c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07346.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "be32e9e8b292699f66d63d7448f53537",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07346.ARW"
+                }
+            },
+            "DSC07325": {
+                "jpg_pretty": {
+                    "size": 24462457,
+                    "md5": "05347ea4a8c4417c65452ab642c5e6b4",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07325.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15170141,
+                    "md5": "3a2fef6b57bd7486268107bcdd44c87f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07325.jpg"
+                },
+                "raw": {
+                    "size": 37158912,
+                    "md5": "2b1059fe3fbcbd7030a8fd8983251a99",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07325.ARW"
+                }
+            },
+            "DSC07336": {
+                "jpg_pretty": {
+                    "size": 25894245,
+                    "md5": "d9f6bf0ae03d22a93e30b8a9ce33062c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07336.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16464336,
+                    "md5": "37edbe28e811c4a89484d8ee67c36c49",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07336.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "ca3f1dcb2d41bf405295a86732a20de0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07336.ARW"
+                }
+            },
+            "DSC07347": {
+                "jpg_pretty": {
+                    "size": 21898303,
+                    "md5": "8faaf2771aea5e741fa3771257c678f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07347.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15535756,
+                    "md5": "cb546cc1da7536332110ddbeb7b984bd",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07347.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "db18d2e2f793daf7b49bc3cc5b25b430",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07347.ARW"
+                }
+            },
+            "DSC07315": {
+                "jpg_pretty": {
+                    "size": 21755949,
+                    "md5": "cdf1c4ab5083acfaff22e06e0ff882d0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07315.jpg"
+                },
+                "jpg_plain": {
+                    "size": 14782722,
+                    "md5": "15aec1712d3b2447198469de39dac781",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07315.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "3a6bb563eaf44cf176f98a0469a87e65",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07315.ARW"
+                }
+            },
+            "DSC07348": {
+                "jpg_pretty": {
+                    "size": 23302204,
+                    "md5": "85788f458f6fd9a62d93e591e0b95550",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07348.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17933882,
+                    "md5": "b863b2e9359a183e24651336c0944b21",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07348.jpg"
+                },
+                "raw": {
+                    "size": 37126144,
+                    "md5": "8e42745f21dcc35c45df7f85b1502b26",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07348.ARW"
+                }
+            },
+            "DSC07327": {
+                "jpg_pretty": {
+                    "size": 34050193,
+                    "md5": "4ee6c21cc600a88d280260a91f64f875",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07327.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20431179,
+                    "md5": "302c892f65f6f384456a5f31ba62f681",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07327.jpg"
+                },
+                "raw": {
+                    "size": 37453824,
+                    "md5": "4a9ea1a885d1d4601e1d1c1f6c0c498d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07327.ARW"
+                }
+            },
+            "DSC07338": {
+                "jpg_pretty": {
+                    "size": 27983333,
+                    "md5": "b48a2b82a9ee8ecaf4de222d88d1c957",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07338.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17133606,
+                    "md5": "13577f26c53af553144cee93a0fdb1f7",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07338.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "56b302922cb85bf97b57a6b30436d7d9",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07338.ARW"
+                }
+            },
+            "DSC07317": {
+                "jpg_pretty": {
+                    "size": 23998261,
+                    "md5": "55d62451a5399de79206ec9f244f6668",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07317.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15941214,
+                    "md5": "e09d1e9ca78a9c1d550c4f0409553fc2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07317.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "e2e5eea3c60b24ab041569b7522b08ca",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07317.ARW"
+                }
+            },
+            "DSC07328": {
+                "jpg_pretty": {
+                    "size": 32694628,
+                    "md5": "6ca743ff812d7badccc2ec0a4d9bae96",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07328.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19565391,
+                    "md5": "682bcef88dc2078c90cdf00d2744a5ad",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07328.jpg"
+                },
+                "raw": {
+                    "size": 37421056,
+                    "md5": "7dd6ee3f95022d854ca7e40fa4592cc3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07328.ARW"
+                }
+            },
+            "DSC07339": {
+                "jpg_pretty": {
+                    "size": 27191405,
+                    "md5": "ec554832009e496c8c8412d224284418",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07339.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19872631,
+                    "md5": "976ea9a2838572ba03598aa594798547",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07339.jpg"
+                },
+                "raw": {
+                    "size": 37355520,
+                    "md5": "2b6041c319969d93769a1736b300d6c8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07339.ARW"
+                }
+            },
+            "DSC07340": {
+                "jpg_pretty": {
+                    "size": 28705021,
+                    "md5": "5eb14fd7e09d9e89d3c3a60e488a003b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07340.jpg"
+                },
+                "jpg_plain": {
+                    "size": 20553093,
+                    "md5": "24ac2fa9d64b80627fe7ff27184a2af8",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07340.jpg"
+                },
+                "raw": {
+                    "size": 37388288,
+                    "md5": "4fb136ac9dffb1fe61a6f082e0b0702a",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07340.ARW"
+                }
+            },
+            "DSC07341": {
+                "jpg_pretty": {
+                    "size": 23782221,
+                    "md5": "99d3bf5e6b504b6d5168e68f0c381bd3",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07341.jpg"
+                },
+                "jpg_plain": {
+                    "size": 17455668,
+                    "md5": "6499b1e326fe07d2e32d4399cd786ff5",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07341.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "0ce7e7ead0a7f77b8cc78a763b197691",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07341.ARW"
+                }
+            },
+            "DSC07320": {
+                "jpg_pretty": {
+                    "size": 26429702,
+                    "md5": "0d6137df9bc94d19234425912bf61ec2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07320.jpg"
+                },
+                "jpg_plain": {
+                    "size": 13527503,
+                    "md5": "0414307eeea1a54e37338f6c7bedd013",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07320.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "f76d6da88bf414fb3b739004a0afde21",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07320.ARW"
+                }
+            },
+            "DSC07331": {
+                "jpg_pretty": {
+                    "size": 23800095,
+                    "md5": "b69a68d302990d456d6ca04306c07912",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07331.jpg"
+                },
+                "jpg_plain": {
+                    "size": 18260393,
+                    "md5": "c6c2947fa69b8cfe169ff18f1696cc5d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07331.jpg"
+                },
+                "raw": {
+                    "size": 37224448,
+                    "md5": "cf79f25e1ffba8e4052533f538a4d779",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07331.ARW"
+                }
+            },
+            "DSC07342": {
+                "jpg_pretty": {
+                    "size": 27470147,
+                    "md5": "85b606c3ce84da2dc05d66b74f980354",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07342.jpg"
+                },
+                "jpg_plain": {
+                    "size": 19751441,
+                    "md5": "ca927b560e69769086dd203898f80998",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07342.jpg"
+                },
+                "raw": {
+                    "size": 37191680,
+                    "md5": "1da2d8bb71e88f85d5a1e766888696aa",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07342.ARW"
+                }
+            },
+            "DSC07332": {
+                "jpg_pretty": {
+                    "size": 24276060,
+                    "md5": "a24504947dcf5bb9dedaea64a4e13348",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07332.jpg"
+                },
+                "jpg_plain": {
+                    "size": 16475400,
+                    "md5": "4401d527d8300e238beb840748c9817b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07332.jpg"
+                },
+                "raw": {
+                    "size": 37257216,
+                    "md5": "a157a7311da506f18e0fc70e79d616d1",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07332.ARW"
+                }
+            },
+            "DSC07343": {
+                "jpg_pretty": {
+                    "size": 26690149,
+                    "md5": "2e342360f94243fa3fd0da68ff535868",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_pretty/DSC07343.jpg"
+                },
+                "jpg_plain": {
+                    "size": 15659073,
+                    "md5": "c8eaa8832351357f9a4be90de30d8789",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/jpg_plain/DSC07343.jpg"
+                },
+                "raw": {
+                    "size": 37289984,
+                    "md5": "5b8bc6b41c685e13d44c1f99bdb5f36b",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Backplates/venetian_crossroads/raw/DSC07343.ARW"
+                }
+            }
+        }
+    }
+}

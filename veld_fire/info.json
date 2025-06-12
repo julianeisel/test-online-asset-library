@@ -1,0 +1,111 @@
+{
+    "evs_cap": 24,
+    "type": 0,
+    "tags": [
+        "path",
+        "grass",
+        "fire",
+        "radio",
+        "tower",
+        "burnt",
+        "sun"
+    ],
+    "date_published": 1511996400,
+    "name": "Veld Fire",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "midday",
+        "clear",
+        "high contrast",
+        "natural light"
+    ],
+    "date_taken": 1439207880,
+    "coords": [
+        -25.711609,
+        27.883848
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "7934315"
+    ],
+    "files_hash": "f96e3e3cb0be8e1790d0e48d51fca44a3c26dc9e",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 22289,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/veld_fire.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6762822,
+            "md5": "4dd7780f22534b8440a757b8960a5eee",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/veld_fire.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 104778045,
+                    "md5": "25e4b42c808c58565216be134e52ec64",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/veld_fire_8k.hdr"
+                },
+                "exr": {
+                    "size": 88320428,
+                    "md5": "6044a3cecbb90eb116560c72c32ea399",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/veld_fire_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 395843513,
+                    "md5": "edb8ea4e414e61b946328c1c6854daaf",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/veld_fire_16k.hdr"
+                },
+                "exr": {
+                    "size": 328935124,
+                    "md5": "6d27cd701924a407ddcd2aca561fe769",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/veld_fire_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26754116,
+                    "md5": "e0a38e013772fdf628a9ab66daf19111",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/veld_fire_4k.hdr"
+                },
+                "exr": {
+                    "size": 22485451,
+                    "md5": "a463431b0d51214222afeb8b5e86591c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/veld_fire_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6714925,
+                    "md5": "103de0205909b6e8a96332a76b6b43ae",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/veld_fire_2k.hdr"
+                },
+                "exr": {
+                    "size": 5623446,
+                    "md5": "e1929c92cd18b4fecf0b3851c9c6e41e",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/veld_fire_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1670019,
+                    "md5": "acf150a74ec3bbc9dad124e8b2885848",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/veld_fire_1k.hdr"
+                },
+                "exr": {
+                    "size": 1413112,
+                    "md5": "a06767a63d24cc39784336f16258de68",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/veld_fire_1k.exr"
+                }
+            }
+        }
+    }
+}

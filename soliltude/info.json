@@ -1,0 +1,127 @@
+{
+    "evs_cap": 22,
+    "name": "Soliltude",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "urban",
+        "low contrast",
+        "overcast",
+        "morning-afternoon"
+    ],
+    "type": 0,
+    "date_taken": 1649581140,
+    "coords": [
+        48.787247,
+        9.084925
+    ],
+    "tags": [
+        "grass",
+        "field",
+        "europe",
+        "architecture",
+        "building"
+    ],
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1652400000,
+    "files_hash": "d1f5e911b1b5be63051de720846446dbaef3e3df",
+    "sponsors": [
+        "7934315",
+        "11167855"
+    ],
+    "max_resolution": [
+        22628,
+        11314
+    ],
+    "download_count": 65941,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/soliltude.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 48199024,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/soliltude.jpg",
+            "md5": "e86c62147a37ceca6c5f49aa209758ba"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 105818740,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/soliltude_8k.hdr",
+                    "md5": "10b979e1af203711d103a68642a62175"
+                },
+                "exr": {
+                    "size": 332049873,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/soliltude_8k.exr",
+                    "md5": "49f7000df8a66391fbfd9a946a5b7d01"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 408230957,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/soliltude_16k.hdr",
+                    "md5": "4df17a10836dd668461da6bfeb4dd31c"
+                },
+                "exr": {
+                    "size": 1299807390,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/soliltude_16k.exr",
+                    "md5": "26fc4ab96934cfa243abeeb65437f99a"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 26743710,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/soliltude_4k.hdr",
+                    "md5": "843233e66a0d77921949d34ffca8e44b"
+                },
+                "exr": {
+                    "size": 85285094,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/soliltude_4k.exr",
+                    "md5": "b5db7ffbbe71271e03c20ebfe365b2aa"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6683879,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/soliltude_2k.hdr",
+                    "md5": "091b9f31ec7e158e720c89b9c2d03d68"
+                },
+                "exr": {
+                    "size": 22281017,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/soliltude_2k.exr",
+                    "md5": "b445e82ede64a3700e31c80e12e8076a"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1666299,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/soliltude_1k.hdr",
+                    "md5": "3bfaff3a02eb4cc08673cd3cbcf96416"
+                },
+                "exr": {
+                    "size": 5963681,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/soliltude_1k.exr",
+                    "md5": "52e47bfb71dffa2b319931874333089b"
+                }
+            },
+            "22k": {
+                "hdr": {
+                    "size": 757087982,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/soliltude_22k.hdr",
+                    "md5": "19d16fa9cc17fcdc351d6ccb5b7c2c7e"
+                },
+                "exr": {
+                    "size": 2452740268,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/soliltude_22k.exr",
+                    "md5": "3ceb52bb89a9ce9039f3c9469e95dfc5"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 71295359,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/soliltude.zip",
+            "md5": "2d88149a204b1241addf8737d28ee49d"
+        }
+    }
+}

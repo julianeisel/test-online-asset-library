@@ -1,0 +1,109 @@
+{
+    "evs_cap": 6,
+    "type": 0,
+    "tags": [
+        "architecture",
+        "building",
+        "street"
+    ],
+    "date_published": 1522879200,
+    "name": "Schadowplatz",
+    "categories": [
+        "outdoor",
+        "urban",
+        "midday",
+        "overcast",
+        "low contrast",
+        "natural light"
+    ],
+    "date_taken": 1479038160,
+    "coords": [
+        51.226847,
+        6.780598
+    ],
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        {
+            "url": "https://dabarti.com/",
+            "name": "Tomasz Wyszolmirski"
+        }
+    ],
+    "files_hash": "b70df67834615028708d512886cfeee61e0bfe60",
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 110590,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/schadowplatz.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6122593,
+            "md5": "eae70ac77c81179e0f0aa3b2a1830665",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/schadowplatz.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 95966045,
+                    "md5": "c6876c86f5197948ec3c698fca7bd294",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/schadowplatz_8k.hdr"
+                },
+                "exr": {
+                    "size": 85378214,
+                    "md5": "3e6cc319a1b51f8b6968994ffe24cf8f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/schadowplatz_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 359960087,
+                    "md5": "3fc8de1dded3df8abb0943d2497d5bb0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/schadowplatz_16k.hdr"
+                },
+                "exr": {
+                    "size": 306887623,
+                    "md5": "be4af572047f810b0a558c19c8cf16f0",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/schadowplatz_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24735105,
+                    "md5": "e1048a0b29f7a93a3b90a3e970cf4634",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/schadowplatz_4k.hdr"
+                },
+                "exr": {
+                    "size": 22845376,
+                    "md5": "0b5d5c148542e8143d67987fe8271027",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/schadowplatz_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6283016,
+                    "md5": "2cc079fea3d6dd5eda8787f7730f132d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/schadowplatz_2k.hdr"
+                },
+                "exr": {
+                    "size": 5977648,
+                    "md5": "fc84194295d462623410eda64ec79e25",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/schadowplatz_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1599383,
+                    "md5": "148849f58f23e09d61dea0e6a3310b23",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/schadowplatz_1k.hdr"
+                },
+                "exr": {
+                    "size": 1549853,
+                    "md5": "8b0eeaa4d0efa5c9cd60395d093fef67",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/schadowplatz_1k.exr"
+                }
+            }
+        }
+    }
+}

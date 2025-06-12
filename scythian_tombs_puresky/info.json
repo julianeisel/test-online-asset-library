@@ -1,0 +1,106 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "whitebalance": 6000,
+    "tags": [
+        "pure skies"
+    ],
+    "name": "Scythian Tombs (Pure Sky)",
+    "categories": [
+        "natural light",
+        "outdoor",
+        "nature",
+        "partly cloudy",
+        "low contrast",
+        "skies",
+        "sunrise-sunset",
+        "pure skies"
+    ],
+    "coords": [
+        50.799222,
+        33.583327
+    ],
+    "date_taken": 1665331920,
+    "authors": {
+        "Jarod Guest": "Sky Edits",
+        "Sergej Majboroda": "Original"
+    },
+    "info": "Edited sky-only version of [Scythian Tombs](https://polyhaven.com/a/scythian_tombs).",
+    "files_hash": "9fd40374e76f8e52aeb1ea6edeec170bc7ddcdd5",
+    "date_published": 1677369600,
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "download_count": 24224,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/scythian_tombs_puresky.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 15632513,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/scythian_tombs_puresky.jpg",
+            "md5": "0c64fba4fc660020bae6faed42212e73"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 63789493,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/scythian_tombs_puresky_8k.hdr",
+                    "md5": "8efc3735ca07660b9095900e3fdfb36e"
+                },
+                "exr": {
+                    "size": 280378260,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/scythian_tombs_puresky_8k.exr",
+                    "md5": "dfc32341d918f52df1aae65b92d07577"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 219855709,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/scythian_tombs_puresky_16k.hdr",
+                    "md5": "564df1f4a413d60dbea675f7dafeee08"
+                },
+                "exr": {
+                    "size": 1087729300,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/scythian_tombs_puresky_16k.exr",
+                    "md5": "307ac95f993d914e75165350f04934a9"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 17770956,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/scythian_tombs_puresky_4k.hdr",
+                    "md5": "5cac2864223828da9b06121bba33a942"
+                },
+                "exr": {
+                    "size": 73088687,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/scythian_tombs_puresky_4k.exr",
+                    "md5": "f923f3e48d9bccb1f703bd758171d310"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 4828224,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/scythian_tombs_puresky_2k.hdr",
+                    "md5": "ae8f9cb675ccb21c85dcc9121b0a9a6a"
+                },
+                "exr": {
+                    "size": 19481958,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/scythian_tombs_puresky_2k.exr",
+                    "md5": "77cfb3c25288f8c5b8b616d9ba2c9882"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1300031,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/scythian_tombs_puresky_1k.hdr",
+                    "md5": "f8f7e437d949207ab5f431e55965599c"
+                },
+                "exr": {
+                    "size": 5354230,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/scythian_tombs_puresky_1k.exr",
+                    "md5": "e0fa89f66a5a910b2c0a93829578a9ff"
+                }
+            }
+        }
+    }
+}

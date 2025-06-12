@@ -1,0 +1,943 @@
+{
+    "name": "Dead Quiver Branch 01",
+    "categories": [
+        "nature",
+        "plants",
+        "ground cover",
+        "collection: namaqualand"
+    ],
+    "type": 2,
+    "tags": [
+        "karoo",
+        "south africa",
+        "desert",
+        "botanical",
+        "dried",
+        "stick",
+        "debris"
+    ],
+    "authors": {
+        "Jenelle van Heerden": "Model",
+        "Greg Zaal": "Photography"
+    },
+    "social_post_pending": true,
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "polycount": 14834,
+    "files_hash": "d37f1820193246525577c0aacdb335417789d8aa",
+    "texel_density": 17455.945991416207,
+    "dimensions": [
+        254.90505248308182,
+        226.9682064652443,
+        438.69500752771273
+    ],
+    "date_published": 1728345600,
+    "download_count": 5,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dead_quiver_branch_01.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 23185436,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dead_quiver_branch_01/dead_quiver_branch_01_diff_8k.jpg",
+                    "md5": "292874ebcd7880e63931a1ca3d562326"
+                },
+                "png": {
+                    "size": 172260522,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dead_quiver_branch_01/dead_quiver_branch_01_diff_8k.png",
+                    "md5": "e8ff55231a2a358d18a68eb40d26aabd"
+                },
+                "exr": {
+                    "size": 36539231,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dead_quiver_branch_01/dead_quiver_branch_01_diff_8k.exr",
+                    "md5": "6f9955ac5c25897df05671da236468fe"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 7654847,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dead_quiver_branch_01/dead_quiver_branch_01_diff_4k.jpg",
+                    "md5": "63ddf1f593b18791ee0db4a485ac01c4"
+                },
+                "png": {
+                    "size": 57850723,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dead_quiver_branch_01/dead_quiver_branch_01_diff_4k.png",
+                    "md5": "4c2a8825ea00afb7f9669a1b407b647d"
+                },
+                "exr": {
+                    "size": 12124345,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dead_quiver_branch_01/dead_quiver_branch_01_diff_4k.exr",
+                    "md5": "ffbf59e59c945e63ce84a092a1ed9354"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2429137,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_quiver_branch_01/dead_quiver_branch_01_diff_2k.jpg",
+                    "md5": "f771a916ed879c3471170d6b71a2bbf8"
+                },
+                "png": {
+                    "size": 16748900,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dead_quiver_branch_01/dead_quiver_branch_01_diff_2k.png",
+                    "md5": "36e7957a2256e1f5c4ba1b59a222340d"
+                },
+                "exr": {
+                    "size": 4067045,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dead_quiver_branch_01/dead_quiver_branch_01_diff_2k.exr",
+                    "md5": "a0e768d12968589401ac57251b30b58b"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 720703,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_quiver_branch_01/dead_quiver_branch_01_diff_1k.jpg",
+                    "md5": "c99cf6384238acd5655095dd9743a3aa"
+                },
+                "png": {
+                    "size": 4631028,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dead_quiver_branch_01/dead_quiver_branch_01_diff_1k.png",
+                    "md5": "c27d3e857ca589f019fb3978c678614d"
+                },
+                "exr": {
+                    "size": 1303994,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dead_quiver_branch_01/dead_quiver_branch_01_diff_1k.exr",
+                    "md5": "adce53a7fcae4f879133754fd47a5a2e"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 55028850,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dead_quiver_branch_01/dead_quiver_branch_01_nor_dx_8k.jpg",
+                    "md5": "53a515c1ddfc0594e939689718f64e79"
+                },
+                "png": {
+                    "size": 228248411,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dead_quiver_branch_01/dead_quiver_branch_01_nor_dx_8k.png",
+                    "md5": "7c172c81c80a43c747ba9048100ba6ff"
+                },
+                "exr": {
+                    "size": 109386864,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dead_quiver_branch_01/dead_quiver_branch_01_nor_dx_8k.exr",
+                    "md5": "577a4c9d410c707b9ec43fa8e2f8d522"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 15419227,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dead_quiver_branch_01/dead_quiver_branch_01_nor_dx_4k.jpg",
+                    "md5": "1f84c405ba246b1341f844f281fca5dc"
+                },
+                "png": {
+                    "size": 64379379,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dead_quiver_branch_01/dead_quiver_branch_01_nor_dx_4k.png",
+                    "md5": "ebfd46397612186bd23627c1f8866a50"
+                },
+                "exr": {
+                    "size": 31168408,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dead_quiver_branch_01/dead_quiver_branch_01_nor_dx_4k.exr",
+                    "md5": "7b9211a6d2734e031303424c00c666e4"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 4052333,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_quiver_branch_01/dead_quiver_branch_01_nor_dx_2k.jpg",
+                    "md5": "041ef0b04f03bbdeefc9b4fc6082472f"
+                },
+                "png": {
+                    "size": 18050756,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dead_quiver_branch_01/dead_quiver_branch_01_nor_dx_2k.png",
+                    "md5": "79ca8f0a258a03b2358a02b12d5cf429"
+                },
+                "exr": {
+                    "size": 8380401,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dead_quiver_branch_01/dead_quiver_branch_01_nor_dx_2k.exr",
+                    "md5": "3d6ef8416b260c45f7e0efdc6518827d"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1031654,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_quiver_branch_01/dead_quiver_branch_01_nor_dx_1k.jpg",
+                    "md5": "b9298eeb3e942921234af05dd6888466"
+                },
+                "png": {
+                    "size": 4868452,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dead_quiver_branch_01/dead_quiver_branch_01_nor_dx_1k.png",
+                    "md5": "5aba3385c7acfc1870945fceefe6a901"
+                },
+                "exr": {
+                    "size": 2194106,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dead_quiver_branch_01/dead_quiver_branch_01_nor_dx_1k.exr",
+                    "md5": "793f12adfff25d7a5bfff8e322539d02"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 52711655,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_8k.jpg",
+                    "md5": "54d89ea409ae07bc1fb4a4b5974b1de5"
+                },
+                "png": {
+                    "size": 228250005,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_8k.png",
+                    "md5": "e6c02fc40e9154a225f6abc373f789a9"
+                },
+                "exr": {
+                    "size": 108857551,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_8k.exr",
+                    "md5": "f59cacc7729f6769f15f55312050e1ff"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 15113460,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_4k.jpg",
+                    "md5": "461262dca40f645f29d56527c86e33cd"
+                },
+                "png": {
+                    "size": 64373757,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_4k.png",
+                    "md5": "350731e002562db3daaa0fe25ac5804d"
+                },
+                "exr": {
+                    "size": 31111733,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_4k.exr",
+                    "md5": "97c69dd3e720014408588d3073ca5fb2"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 4004946,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_2k.jpg",
+                    "md5": "4cdd79b636c2991fd324034b1e628eb0"
+                },
+                "png": {
+                    "size": 18052865,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_2k.png",
+                    "md5": "20129004fc4c30ceae9fcaae2836ddab"
+                },
+                "exr": {
+                    "size": 8374654,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_2k.exr",
+                    "md5": "d388ff21b9466f706b06aa5f0a198a31"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1023490,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_1k.jpg",
+                    "md5": "32e39448a04678618c9de25fb39bc9ea"
+                },
+                "png": {
+                    "size": 4868579,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_1k.png",
+                    "md5": "725d848edd5892f613cd4953cc9c8eaa"
+                },
+                "exr": {
+                    "size": 2193979,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_1k.exr",
+                    "md5": "a2e9e7a366df9f4213bdf47a6e42f903"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/dead_quiver_branch_01_rough_8k.exr": {
+                            "size": 14843618,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dead_quiver_branch_01/dead_quiver_branch_01_rough_8k.exr",
+                            "md5": "4d8ab3e212f66f4d166f18416e4ea3a4"
+                        },
+                        "textures/dead_quiver_branch_01_diff_8k.jpg": {
+                            "size": 23185436,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dead_quiver_branch_01/dead_quiver_branch_01_diff_8k.jpg",
+                            "md5": "292874ebcd7880e63931a1ca3d562326"
+                        },
+                        "textures/dead_quiver_branch_01_nor_gl_8k.exr": {
+                            "size": 108857551,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_8k.exr",
+                            "md5": "f59cacc7729f6769f15f55312050e1ff"
+                        }
+                    },
+                    "size": 599041,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/dead_quiver_branch_01/dead_quiver_branch_01_8k.blend",
+                    "md5": "ef8709213ce1358d6e6701bf4f99f583"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/dead_quiver_branch_01_rough_4k.exr": {
+                            "size": 5260023,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dead_quiver_branch_01/dead_quiver_branch_01_rough_4k.exr",
+                            "md5": "0d1ab2cd3db5869765740fe6e143680a"
+                        },
+                        "textures/dead_quiver_branch_01_diff_4k.jpg": {
+                            "size": 7654847,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dead_quiver_branch_01/dead_quiver_branch_01_diff_4k.jpg",
+                            "md5": "63ddf1f593b18791ee0db4a485ac01c4"
+                        },
+                        "textures/dead_quiver_branch_01_nor_gl_4k.exr": {
+                            "size": 31111733,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_4k.exr",
+                            "md5": "97c69dd3e720014408588d3073ca5fb2"
+                        }
+                    },
+                    "size": 598990,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/dead_quiver_branch_01/dead_quiver_branch_01_4k.blend",
+                    "md5": "93810ad76f521e9a7f079e7be41aa23b"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/dead_quiver_branch_01_rough_2k.exr": {
+                            "size": 1625971,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dead_quiver_branch_01/dead_quiver_branch_01_rough_2k.exr",
+                            "md5": "36a0738b4bce577ae30f5a112c6a6274"
+                        },
+                        "textures/dead_quiver_branch_01_nor_gl_2k.exr": {
+                            "size": 8374654,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_2k.exr",
+                            "md5": "d388ff21b9466f706b06aa5f0a198a31"
+                        },
+                        "textures/dead_quiver_branch_01_diff_2k.jpg": {
+                            "size": 2429137,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_quiver_branch_01/dead_quiver_branch_01_diff_2k.jpg",
+                            "md5": "f771a916ed879c3471170d6b71a2bbf8"
+                        }
+                    },
+                    "size": 599056,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/dead_quiver_branch_01/dead_quiver_branch_01_2k.blend",
+                    "md5": "23448fb3a9e85ef8209d79075b447c6a"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/dead_quiver_branch_01_diff_1k.jpg": {
+                            "size": 720703,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_quiver_branch_01/dead_quiver_branch_01_diff_1k.jpg",
+                            "md5": "c99cf6384238acd5655095dd9743a3aa"
+                        },
+                        "textures/dead_quiver_branch_01_nor_gl_1k.exr": {
+                            "size": 2193979,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_1k.exr",
+                            "md5": "a2e9e7a366df9f4213bdf47a6e42f903"
+                        },
+                        "textures/dead_quiver_branch_01_rough_1k.exr": {
+                            "size": 451964,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dead_quiver_branch_01/dead_quiver_branch_01_rough_1k.exr",
+                            "md5": "48dbbfe756b229d1bdb7125460219dde"
+                        }
+                    },
+                    "size": 598878,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/dead_quiver_branch_01/dead_quiver_branch_01_1k.blend",
+                    "md5": "8b971517a3e7c65f980a675ed6a44542"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "textures/dead_quiver_branch_01_arm_8k.jpg": {
+                            "size": 25592665,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dead_quiver_branch_01/dead_quiver_branch_01_arm_8k.jpg",
+                            "md5": "f6bbd3713f6c99f410a4ee001011e658"
+                        },
+                        "dead_quiver_branch_01.bin": {
+                            "size": 363116,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/dead_quiver_branch_01/dead_quiver_branch_01.bin",
+                            "md5": "a09e761f87363e1a453a1231d42e0cb1"
+                        },
+                        "textures/dead_quiver_branch_01_nor_gl_8k.jpg": {
+                            "size": 52711655,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_8k.jpg",
+                            "md5": "54d89ea409ae07bc1fb4a4b5974b1de5"
+                        },
+                        "textures/dead_quiver_branch_01_diff_8k.jpg": {
+                            "size": 23185436,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dead_quiver_branch_01/dead_quiver_branch_01_diff_8k.jpg",
+                            "md5": "292874ebcd7880e63931a1ca3d562326"
+                        }
+                    },
+                    "size": 2866,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/dead_quiver_branch_01/dead_quiver_branch_01_8k.gltf",
+                    "md5": "1cc3179e58d5b73377da146c92e4dcc5"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/dead_quiver_branch_01_nor_gl_4k.jpg": {
+                            "size": 15113460,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_4k.jpg",
+                            "md5": "461262dca40f645f29d56527c86e33cd"
+                        },
+                        "dead_quiver_branch_01.bin": {
+                            "size": 363116,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/dead_quiver_branch_01/dead_quiver_branch_01.bin",
+                            "md5": "a09e761f87363e1a453a1231d42e0cb1"
+                        },
+                        "textures/dead_quiver_branch_01_arm_4k.jpg": {
+                            "size": 7160649,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dead_quiver_branch_01/dead_quiver_branch_01_arm_4k.jpg",
+                            "md5": "a0823a3cf4d86b2840a96f120d14ae4c"
+                        },
+                        "textures/dead_quiver_branch_01_diff_4k.jpg": {
+                            "size": 7654847,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dead_quiver_branch_01/dead_quiver_branch_01_diff_4k.jpg",
+                            "md5": "63ddf1f593b18791ee0db4a485ac01c4"
+                        }
+                    },
+                    "size": 2866,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/dead_quiver_branch_01/dead_quiver_branch_01_4k.gltf",
+                    "md5": "98ee12b7027892bbce20dcc5a81b8b36"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "dead_quiver_branch_01.bin": {
+                            "size": 363116,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/dead_quiver_branch_01/dead_quiver_branch_01.bin",
+                            "md5": "a09e761f87363e1a453a1231d42e0cb1"
+                        },
+                        "textures/dead_quiver_branch_01_arm_2k.jpg": {
+                            "size": 2079334,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_quiver_branch_01/dead_quiver_branch_01_arm_2k.jpg",
+                            "md5": "a39765f41b545f3e13bf2306fa71701b"
+                        },
+                        "textures/dead_quiver_branch_01_diff_2k.jpg": {
+                            "size": 2429137,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_quiver_branch_01/dead_quiver_branch_01_diff_2k.jpg",
+                            "md5": "f771a916ed879c3471170d6b71a2bbf8"
+                        },
+                        "textures/dead_quiver_branch_01_nor_gl_2k.jpg": {
+                            "size": 4004946,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_2k.jpg",
+                            "md5": "4cdd79b636c2991fd324034b1e628eb0"
+                        }
+                    },
+                    "size": 2866,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/dead_quiver_branch_01/dead_quiver_branch_01_2k.gltf",
+                    "md5": "18231eb9192de7d226fbe69c00541330"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/dead_quiver_branch_01_nor_gl_1k.jpg": {
+                            "size": 1023490,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_1k.jpg",
+                            "md5": "32e39448a04678618c9de25fb39bc9ea"
+                        },
+                        "textures/dead_quiver_branch_01_diff_1k.jpg": {
+                            "size": 720703,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_quiver_branch_01/dead_quiver_branch_01_diff_1k.jpg",
+                            "md5": "c99cf6384238acd5655095dd9743a3aa"
+                        },
+                        "dead_quiver_branch_01.bin": {
+                            "size": 363116,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/dead_quiver_branch_01/dead_quiver_branch_01.bin",
+                            "md5": "a09e761f87363e1a453a1231d42e0cb1"
+                        },
+                        "textures/dead_quiver_branch_01_arm_1k.jpg": {
+                            "size": 595028,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_quiver_branch_01/dead_quiver_branch_01_arm_1k.jpg",
+                            "md5": "54febac298d6fa8789ae6132bd969377"
+                        }
+                    },
+                    "size": 2866,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/dead_quiver_branch_01/dead_quiver_branch_01_1k.gltf",
+                    "md5": "e8cf949bee8b828856a71d6486546504"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/dead_quiver_branch_01_rough_8k.exr": {
+                            "size": 14843618,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dead_quiver_branch_01/dead_quiver_branch_01_rough_8k.exr",
+                            "md5": "4d8ab3e212f66f4d166f18416e4ea3a4"
+                        },
+                        "textures/dead_quiver_branch_01_diff_8k.jpg": {
+                            "size": 23185436,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dead_quiver_branch_01/dead_quiver_branch_01_diff_8k.jpg",
+                            "md5": "292874ebcd7880e63931a1ca3d562326"
+                        },
+                        "textures/dead_quiver_branch_01_nor_gl_8k.exr": {
+                            "size": 108857551,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_8k.exr",
+                            "md5": "f59cacc7729f6769f15f55312050e1ff"
+                        }
+                    },
+                    "size": 1043516,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/dead_quiver_branch_01/dead_quiver_branch_01_8k.usdc",
+                    "md5": "8d95151eb00a46e42f7363a42a5e6c82"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/dead_quiver_branch_01_rough_4k.exr": {
+                            "size": 5260023,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dead_quiver_branch_01/dead_quiver_branch_01_rough_4k.exr",
+                            "md5": "0d1ab2cd3db5869765740fe6e143680a"
+                        },
+                        "textures/dead_quiver_branch_01_diff_4k.jpg": {
+                            "size": 7654847,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dead_quiver_branch_01/dead_quiver_branch_01_diff_4k.jpg",
+                            "md5": "63ddf1f593b18791ee0db4a485ac01c4"
+                        },
+                        "textures/dead_quiver_branch_01_nor_gl_4k.exr": {
+                            "size": 31111733,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_4k.exr",
+                            "md5": "97c69dd3e720014408588d3073ca5fb2"
+                        }
+                    },
+                    "size": 1043516,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/dead_quiver_branch_01/dead_quiver_branch_01_4k.usdc",
+                    "md5": "c791b1935e74695897a24abd9991f781"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/dead_quiver_branch_01_rough_2k.exr": {
+                            "size": 1625971,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dead_quiver_branch_01/dead_quiver_branch_01_rough_2k.exr",
+                            "md5": "36a0738b4bce577ae30f5a112c6a6274"
+                        },
+                        "textures/dead_quiver_branch_01_nor_gl_2k.exr": {
+                            "size": 8374654,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_2k.exr",
+                            "md5": "d388ff21b9466f706b06aa5f0a198a31"
+                        },
+                        "textures/dead_quiver_branch_01_diff_2k.jpg": {
+                            "size": 2429137,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_quiver_branch_01/dead_quiver_branch_01_diff_2k.jpg",
+                            "md5": "f771a916ed879c3471170d6b71a2bbf8"
+                        }
+                    },
+                    "size": 1043516,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/dead_quiver_branch_01/dead_quiver_branch_01_2k.usdc",
+                    "md5": "f4f4fcb8b7529c7875bb625c2d5709c8"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/dead_quiver_branch_01_diff_1k.jpg": {
+                            "size": 720703,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_quiver_branch_01/dead_quiver_branch_01_diff_1k.jpg",
+                            "md5": "c99cf6384238acd5655095dd9743a3aa"
+                        },
+                        "textures/dead_quiver_branch_01_nor_gl_1k.exr": {
+                            "size": 2193979,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_1k.exr",
+                            "md5": "a2e9e7a366df9f4213bdf47a6e42f903"
+                        },
+                        "textures/dead_quiver_branch_01_rough_1k.exr": {
+                            "size": 451964,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dead_quiver_branch_01/dead_quiver_branch_01_rough_1k.exr",
+                            "md5": "48dbbfe756b229d1bdb7125460219dde"
+                        }
+                    },
+                    "size": 1043516,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/dead_quiver_branch_01/dead_quiver_branch_01_1k.usdc",
+                    "md5": "6be814fc62a0b591e82e57a8ec1825b2"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 25592665,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dead_quiver_branch_01/dead_quiver_branch_01_arm_8k.jpg",
+                    "md5": "f6bbd3713f6c99f410a4ee001011e658"
+                },
+                "png": {
+                    "size": 140864986,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dead_quiver_branch_01/dead_quiver_branch_01_arm_8k.png",
+                    "md5": "5222dc4dfad6af56b3bdfe83b2d118c4"
+                },
+                "exr": {
+                    "size": 43121829,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dead_quiver_branch_01/dead_quiver_branch_01_arm_8k.exr",
+                    "md5": "17811caa70c27e1f58af5487936bed36"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 7160649,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dead_quiver_branch_01/dead_quiver_branch_01_arm_4k.jpg",
+                    "md5": "a0823a3cf4d86b2840a96f120d14ae4c"
+                },
+                "png": {
+                    "size": 42845253,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dead_quiver_branch_01/dead_quiver_branch_01_arm_4k.png",
+                    "md5": "905029da36ce42417af3c5305619ae50"
+                },
+                "exr": {
+                    "size": 12595212,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dead_quiver_branch_01/dead_quiver_branch_01_arm_4k.exr",
+                    "md5": "2faf29a15269a77a23b5696c64715b28"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2079334,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_quiver_branch_01/dead_quiver_branch_01_arm_2k.jpg",
+                    "md5": "a39765f41b545f3e13bf2306fa71701b"
+                },
+                "png": {
+                    "size": 12491730,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dead_quiver_branch_01/dead_quiver_branch_01_arm_2k.png",
+                    "md5": "1b1b2b38f9f42c1d45d63437313876b1"
+                },
+                "exr": {
+                    "size": 3879353,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dead_quiver_branch_01/dead_quiver_branch_01_arm_2k.exr",
+                    "md5": "270ca2a478b44d5c1603d63782012d07"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 595028,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_quiver_branch_01/dead_quiver_branch_01_arm_1k.jpg",
+                    "md5": "54febac298d6fa8789ae6132bd969377"
+                },
+                "png": {
+                    "size": 3466922,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dead_quiver_branch_01/dead_quiver_branch_01_arm_1k.png",
+                    "md5": "a962d41bf2fe27632c19c8ffea85c30b"
+                },
+                "exr": {
+                    "size": 1125171,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dead_quiver_branch_01/dead_quiver_branch_01_arm_1k.exr",
+                    "md5": "c2824d719967c34503cd150608044701"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/dead_quiver_branch_01_rough_8k.exr": {
+                            "size": 14843618,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dead_quiver_branch_01/dead_quiver_branch_01_rough_8k.exr",
+                            "md5": "4d8ab3e212f66f4d166f18416e4ea3a4"
+                        },
+                        "textures/dead_quiver_branch_01_diff_8k.jpg": {
+                            "size": 23185436,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dead_quiver_branch_01/dead_quiver_branch_01_diff_8k.jpg",
+                            "md5": "292874ebcd7880e63931a1ca3d562326"
+                        },
+                        "textures/dead_quiver_branch_01_nor_gl_8k.exr": {
+                            "size": 108857551,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_8k.exr",
+                            "md5": "f59cacc7729f6769f15f55312050e1ff"
+                        }
+                    },
+                    "size": 539116,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/dead_quiver_branch_01/dead_quiver_branch_01_8k.fbx",
+                    "md5": "a5981ab832c7a291ef965fc543824c99"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/dead_quiver_branch_01_rough_4k.exr": {
+                            "size": 5260023,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dead_quiver_branch_01/dead_quiver_branch_01_rough_4k.exr",
+                            "md5": "0d1ab2cd3db5869765740fe6e143680a"
+                        },
+                        "textures/dead_quiver_branch_01_diff_4k.jpg": {
+                            "size": 7654847,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dead_quiver_branch_01/dead_quiver_branch_01_diff_4k.jpg",
+                            "md5": "63ddf1f593b18791ee0db4a485ac01c4"
+                        },
+                        "textures/dead_quiver_branch_01_nor_gl_4k.exr": {
+                            "size": 31111733,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_4k.exr",
+                            "md5": "97c69dd3e720014408588d3073ca5fb2"
+                        }
+                    },
+                    "size": 539116,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/dead_quiver_branch_01/dead_quiver_branch_01_4k.fbx",
+                    "md5": "972242040e3a86dc5d63eda8a44ea801"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/dead_quiver_branch_01_rough_2k.exr": {
+                            "size": 1625971,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dead_quiver_branch_01/dead_quiver_branch_01_rough_2k.exr",
+                            "md5": "36a0738b4bce577ae30f5a112c6a6274"
+                        },
+                        "textures/dead_quiver_branch_01_nor_gl_2k.exr": {
+                            "size": 8374654,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_2k.exr",
+                            "md5": "d388ff21b9466f706b06aa5f0a198a31"
+                        },
+                        "textures/dead_quiver_branch_01_diff_2k.jpg": {
+                            "size": 2429137,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_quiver_branch_01/dead_quiver_branch_01_diff_2k.jpg",
+                            "md5": "f771a916ed879c3471170d6b71a2bbf8"
+                        }
+                    },
+                    "size": 539116,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/dead_quiver_branch_01/dead_quiver_branch_01_2k.fbx",
+                    "md5": "6928673d0d26690bb3d129b959e24ea5"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/dead_quiver_branch_01_diff_1k.jpg": {
+                            "size": 720703,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_quiver_branch_01/dead_quiver_branch_01_diff_1k.jpg",
+                            "md5": "c99cf6384238acd5655095dd9743a3aa"
+                        },
+                        "textures/dead_quiver_branch_01_nor_gl_1k.exr": {
+                            "size": 2193979,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dead_quiver_branch_01/dead_quiver_branch_01_nor_gl_1k.exr",
+                            "md5": "a2e9e7a366df9f4213bdf47a6e42f903"
+                        },
+                        "textures/dead_quiver_branch_01_rough_1k.exr": {
+                            "size": 451964,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dead_quiver_branch_01/dead_quiver_branch_01_rough_1k.exr",
+                            "md5": "48dbbfe756b229d1bdb7125460219dde"
+                        }
+                    },
+                    "size": 539116,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/dead_quiver_branch_01/dead_quiver_branch_01_1k.fbx",
+                    "md5": "1523103d42ab1ac95f10aab531102b2e"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 24377917,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dead_quiver_branch_01/dead_quiver_branch_01_ao_8k.jpg",
+                    "md5": "6a831b965f6f051b6df833ef2aaf5640"
+                },
+                "png": {
+                    "size": 29267537,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dead_quiver_branch_01/dead_quiver_branch_01_ao_8k.png",
+                    "md5": "8a37425cf09874e93b68b992c20a3f0a"
+                },
+                "exr": {
+                    "size": 24790912,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dead_quiver_branch_01/dead_quiver_branch_01_ao_8k.exr",
+                    "md5": "2a7bf0a135067b267b4fd441a0c306bc"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5743690,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dead_quiver_branch_01/dead_quiver_branch_01_ao_4k.jpg",
+                    "md5": "4835f6b29ec85d27a5d94c8005bf2668"
+                },
+                "png": {
+                    "size": 13130668,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dead_quiver_branch_01/dead_quiver_branch_01_ao_4k.png",
+                    "md5": "6456d77b9ffda301dfbbff1149a1802f"
+                },
+                "exr": {
+                    "size": 5672976,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dead_quiver_branch_01/dead_quiver_branch_01_ao_4k.exr",
+                    "md5": "1a2da7703fe924801d4a9fad1b3f9ef6"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1505284,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_quiver_branch_01/dead_quiver_branch_01_ao_2k.jpg",
+                    "md5": "388943464567420389c8a41f4bab15d3"
+                },
+                "png": {
+                    "size": 4691129,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dead_quiver_branch_01/dead_quiver_branch_01_ao_2k.png",
+                    "md5": "85ee2e1fd130affe87e284b6f036da39"
+                },
+                "exr": {
+                    "size": 1506017,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dead_quiver_branch_01/dead_quiver_branch_01_ao_2k.exr",
+                    "md5": "64636a1b67967ffe7af67083fc3b0cfb"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 443119,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_quiver_branch_01/dead_quiver_branch_01_ao_1k.jpg",
+                    "md5": "5fee45bba51a25571a988d7aaaf3c857"
+                },
+                "png": {
+                    "size": 1447585,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dead_quiver_branch_01/dead_quiver_branch_01_ao_1k.png",
+                    "md5": "6acf16d3d4ebe85d623d6ce9ba94bf5a"
+                },
+                "exr": {
+                    "size": 477728,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dead_quiver_branch_01/dead_quiver_branch_01_ao_1k.exr",
+                    "md5": "11575e248fe8a97203321585f91a1317"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 8385176,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dead_quiver_branch_01/dead_quiver_branch_01_disp_8k.jpg",
+                    "md5": "2b639dcac136a1b67ad04f17924a7ee6"
+                },
+                "png": {
+                    "size": 40168532,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dead_quiver_branch_01/dead_quiver_branch_01_disp_8k.png",
+                    "md5": "5673bc92876a36475089d13c2dbbb391"
+                },
+                "exr": {
+                    "size": 7574067,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dead_quiver_branch_01/dead_quiver_branch_01_disp_8k.exr",
+                    "md5": "b01ae4dc2e8335e1857e77c09a76559d"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2819379,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dead_quiver_branch_01/dead_quiver_branch_01_disp_4k.jpg",
+                    "md5": "9f4992df63af2bdfac925b319331c9e4"
+                },
+                "png": {
+                    "size": 15738336,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dead_quiver_branch_01/dead_quiver_branch_01_disp_4k.png",
+                    "md5": "ae4325535d76c56d6dc05533553124db"
+                },
+                "exr": {
+                    "size": 2657139,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dead_quiver_branch_01/dead_quiver_branch_01_disp_4k.exr",
+                    "md5": "cfe72b5726ebc64e074a12ce7142b6ac"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 907028,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_quiver_branch_01/dead_quiver_branch_01_disp_2k.jpg",
+                    "md5": "7672bbe882a5a4cfcb999892eee660ac"
+                },
+                "png": {
+                    "size": 4948001,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dead_quiver_branch_01/dead_quiver_branch_01_disp_2k.png",
+                    "md5": "9921f236fda51c108acc7595a868061e"
+                },
+                "exr": {
+                    "size": 870954,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dead_quiver_branch_01/dead_quiver_branch_01_disp_2k.exr",
+                    "md5": "dbf7efa610e504423425edb3d55464cb"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 273424,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_quiver_branch_01/dead_quiver_branch_01_disp_1k.jpg",
+                    "md5": "8be72098287de6e26016cd0cf76f823f"
+                },
+                "png": {
+                    "size": 1395239,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dead_quiver_branch_01/dead_quiver_branch_01_disp_1k.png",
+                    "md5": "d8d461c2d5ecd2812d6f32c1d8835a43"
+                },
+                "exr": {
+                    "size": 276461,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dead_quiver_branch_01/dead_quiver_branch_01_disp_1k.exr",
+                    "md5": "7ca919782f105bc0d749a42daf853876"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 15614233,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dead_quiver_branch_01/dead_quiver_branch_01_rough_8k.jpg",
+                    "md5": "74afc1f0337ed9a8aec7386a296b5af5"
+                },
+                "png": {
+                    "size": 76846009,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dead_quiver_branch_01/dead_quiver_branch_01_rough_8k.png",
+                    "md5": "92023b8001375a8eaa3b016d03b4f794"
+                },
+                "exr": {
+                    "size": 14843618,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dead_quiver_branch_01/dead_quiver_branch_01_rough_8k.exr",
+                    "md5": "4d8ab3e212f66f4d166f18416e4ea3a4"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5328767,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dead_quiver_branch_01/dead_quiver_branch_01_rough_4k.jpg",
+                    "md5": "73a292305b930c4b2e9273571c2be36f"
+                },
+                "png": {
+                    "size": 21228517,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dead_quiver_branch_01/dead_quiver_branch_01_rough_4k.png",
+                    "md5": "2c0b6048c2540e3b71282b52a2fdb5eb"
+                },
+                "exr": {
+                    "size": 5260023,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dead_quiver_branch_01/dead_quiver_branch_01_rough_4k.exr",
+                    "md5": "0d1ab2cd3db5869765740fe6e143680a"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1586555,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dead_quiver_branch_01/dead_quiver_branch_01_rough_2k.jpg",
+                    "md5": "e53cc2fff38a97249005fe05ee088582"
+                },
+                "png": {
+                    "size": 5727280,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dead_quiver_branch_01/dead_quiver_branch_01_rough_2k.png",
+                    "md5": "7de749345a5a7f7dd25bb5775f64a7b4"
+                },
+                "exr": {
+                    "size": 1625971,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dead_quiver_branch_01/dead_quiver_branch_01_rough_2k.exr",
+                    "md5": "36a0738b4bce577ae30f5a112c6a6274"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 426642,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dead_quiver_branch_01/dead_quiver_branch_01_rough_1k.jpg",
+                    "md5": "8680e912b017473601896be9da68da15"
+                },
+                "png": {
+                    "size": 1531785,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dead_quiver_branch_01/dead_quiver_branch_01_rough_1k.png",
+                    "md5": "35083b2155cb9b2a38471835bc52bf15"
+                },
+                "exr": {
+                    "size": 451964,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dead_quiver_branch_01/dead_quiver_branch_01_rough_1k.exr",
+                    "md5": "48dbbfe756b229d1bdb7125460219dde"
+                }
+            }
+        }
+    }
+}

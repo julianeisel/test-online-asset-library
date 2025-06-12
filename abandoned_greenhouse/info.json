@@ -1,0 +1,122 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "tags": [
+        "warehouse",
+        "concrete",
+        "greenhouse",
+        "abandoned",
+        "industrial",
+        "graffiti"
+    ],
+    "name": "Abandoned Greenhouse",
+    "categories": [
+        "low contrast",
+        "natural light",
+        "indoor",
+        "urban",
+        "overcast",
+        "midday"
+    ],
+    "date_taken": 1620907080,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "date_published": 1626962293,
+    "sponsors": [
+        "49655030"
+    ],
+    "max_resolution": [
+        20650,
+        10325
+    ],
+    "files_hash": "7c8dd04baa52d796b042460b63d2399d9eac3aed",
+    "download_count": 28709,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/abandoned_greenhouse.png?width=256&height=256",
+    "files": {
+        "colorchart": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/abandoned_greenhouse.zip",
+            "size": 68795069,
+            "md5": "f34d6e1db278e0e8066ec1ab9aed294d"
+        },
+        "tonemapped": {
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/abandoned_greenhouse.jpg",
+            "size": 48624241,
+            "md5": "f599d7d6945d2d347a11a8f8fb706d8e"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/abandoned_greenhouse_8k.hdr",
+                    "size": 105685456,
+                    "md5": "963920425e84ab5c0ecc9ff110e27eda"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/abandoned_greenhouse_8k.exr",
+                    "size": 271773569,
+                    "md5": "1d0c65e9546e5695fefe1d9ad09fb26a"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_greenhouse_16k.hdr",
+                    "size": 412308939,
+                    "md5": "7f19ade8cb9b2119af7989e4d799a2a2"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_greenhouse_16k.exr",
+                    "size": 782366432,
+                    "md5": "48b7030ec30581ba141b691aed74c986"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/abandoned_greenhouse_4k.hdr",
+                    "size": 26869758,
+                    "md5": "5c90f61febb6c32128bce172cbc54320"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/abandoned_greenhouse_4k.exr",
+                    "size": 88691334,
+                    "md5": "0b3fe49d1ccb445da2952c99ef2f23e0"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/abandoned_greenhouse_2k.hdr",
+                    "size": 6831460,
+                    "md5": "4aced5ed1134298efd06d04a721c87c3"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/abandoned_greenhouse_2k.exr",
+                    "size": 24126427,
+                    "md5": "1c5decbce0a677b81f1917404df4fb3e"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/abandoned_greenhouse_1k.hdr",
+                    "size": 1739912,
+                    "md5": "de07ab6778a2eb73b3d8ac826b23f5e2"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/abandoned_greenhouse_1k.exr",
+                    "size": 6115125,
+                    "md5": "b190c4a06d12ee0b641cfe6053aa6056"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/abandoned_greenhouse_20k.hdr",
+                    "size": 647796421,
+                    "md5": "8a371da7aa80383b5926a34ca544ac7a"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/abandoned_greenhouse_20k.exr",
+                    "size": 1088920855,
+                    "md5": "a1dcd2068ec47335674be93f7111d4b9"
+                }
+            }
+        }
+    }
+}

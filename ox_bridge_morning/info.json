@@ -1,0 +1,126 @@
+{
+    "evs_cap": 23,
+    "type": 0,
+    "whitebalance": 5539,
+    "tags": [
+        "rural",
+        "bridge",
+        "river",
+        "veld",
+        "steel"
+    ],
+    "name": "Ox Bridge Morning",
+    "categories": [
+        "outdoor",
+        "natural light",
+        "nature",
+        "clear",
+        "high contrast",
+        "midday",
+        "morning-afternoon"
+    ],
+    "date_taken": 1699863840,
+    "coords": [
+        -28.122833,
+        26.585417
+    ],
+    "authors": {
+        "Dimitrios Savva": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "info": null,
+    "files_hash": "f4d53614bc1a602b9b5cc9c9fc60eb0ebf70d5c8",
+    "date_published": 1704844800,
+    "max_resolution": [
+        20480,
+        10240
+    ],
+    "download_count": 6843,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/ox_bridge_morning.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 43150730,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/ox_bridge_morning.jpg",
+            "md5": "0c6b489f87d4ec066c2ca6d4efb89afe"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 99261287,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/ox_bridge_morning_8k.hdr",
+                    "md5": "43d97ae1bdf750e16eee33a38d386b98"
+                },
+                "exr": {
+                    "size": 383893883,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/ox_bridge_morning_8k.exr",
+                    "md5": "9f5a75bfa624a52afd84a1fec4be1c33"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 375642732,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/ox_bridge_morning_16k.hdr",
+                    "md5": "63b2ef768f8dda5b0868aa2388c52d41"
+                },
+                "exr": {
+                    "size": 1516255021,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/ox_bridge_morning_16k.exr",
+                    "md5": "aa31d08e25510fe9b2fc71d71c38e9cd"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25585532,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/ox_bridge_morning_4k.hdr",
+                    "md5": "c350d69d024cfbef2825cc7ae383bd84"
+                },
+                "exr": {
+                    "size": 96356627,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/ox_bridge_morning_4k.exr",
+                    "md5": "e1cbe9f14d8c5aa975e89620d31161af"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6459058,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/ox_bridge_morning_2k.hdr",
+                    "md5": "c8813910dbe7e78cd37065fe6a60bda5"
+                },
+                "exr": {
+                    "size": 24228312,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/ox_bridge_morning_2k.exr",
+                    "md5": "8fdfb7f2b0d0c56ef104910eda7f51d6"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1612025,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/ox_bridge_morning_1k.hdr",
+                    "md5": "26406d4f92167d8e2d11db770c17fcdc"
+                },
+                "exr": {
+                    "size": 6092400,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/ox_bridge_morning_1k.exr",
+                    "md5": "88576025c80ced5561c87f4860bd3b8f"
+                }
+            },
+            "20k": {
+                "hdr": {
+                    "size": 575352838,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/ox_bridge_morning_20k.hdr",
+                    "md5": "af893e0c95e836e43328b59a9e9b96e9"
+                },
+                "exr": {
+                    "size": 2336757388,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/ox_bridge_morning_20k.exr",
+                    "md5": "0fd89a486a38cd7a94fb2456384b7f09"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 193022403,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/ox_bridge_morning.zip",
+            "md5": "b7df0b9cbb7c229644fdbb9a525f5b0b"
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "evs_cap": 15,
+    "type": 0,
+    "whitebalance": 3413,
+    "tags": [
+        "tunnel",
+        "brick",
+        "concrete",
+        "lamp",
+        "bench"
+    ],
+    "date_published": 1548111600,
+    "name": "Concrete Tunnel",
+    "categories": [
+        "indoor",
+        "urban",
+        "high contrast",
+        "artificial light"
+    ],
+    "coords": [
+        -25.333009,
+        27.146161
+    ],
+    "date_taken": 1547455440,
+    "authors": {
+        "Greg Zaal": "All"
+    },
+    "sponsors": [
+        "7934315"
+    ],
+    "max_resolution": [
+        16384,
+        8192
+    ],
+    "files_hash": "775194ec96c49453080fb737f4df4a41d99a272c",
+    "download_count": 13085,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/concrete_tunnel.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 6498523,
+            "md5": "7f24af635095f4aa3e113ebfb063c3c2",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/concrete_tunnel.jpg"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/concrete_tunnel_8k.hdr",
+                    "size": 102585946,
+                    "md5": "b9a2824d6e63e11b3352a22c5c57df70"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/concrete_tunnel_8k.exr",
+                    "size": 94002954,
+                    "md5": "fb194ee1f848b4da0facbdbdf7db4eb7"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/concrete_tunnel_16k.hdr",
+                    "size": 388010344,
+                    "md5": "241e69bdbfc8b178cde30fb8cb3a4083"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/concrete_tunnel_16k.exr",
+                    "size": 347086467,
+                    "md5": "36946028c87de22cebe0a8d180949e30"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/concrete_tunnel_4k.hdr",
+                    "size": 26280390,
+                    "md5": "c4987a24181dbf4366bc225717dbbeb8"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/concrete_tunnel_4k.exr",
+                    "size": 24266480,
+                    "md5": "d6edd7f81c3ed4b7aed4aa60e5e742cb"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/concrete_tunnel_2k.hdr",
+                    "size": 6636076,
+                    "md5": "98dae925fd582a52b5b138c019584be9"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/concrete_tunnel_2k.exr",
+                    "size": 6155095,
+                    "md5": "1c8944d1567f509db6571d5e0e7d842f"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/concrete_tunnel_1k.hdr",
+                    "size": 1664097,
+                    "md5": "84f667aa4ae1f635ec029e2be57ca99d"
+                },
+                "exr": {
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/concrete_tunnel_1k.exr",
+                    "size": 1564686,
+                    "md5": "49321ef8164ab7ae9c513e657735ce4b"
+                }
+            }
+        }
+    }
+}

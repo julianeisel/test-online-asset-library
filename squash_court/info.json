@@ -1,0 +1,124 @@
+{
+    "evs_cap": 12,
+    "type": 0,
+    "whitebalance": 5303,
+    "name": "Squash Court",
+    "categories": [
+        "indoor",
+        "artificial light",
+        "urban",
+        "medium contrast"
+    ],
+    "date_taken": 1724055660,
+    "coords": [
+        -28.491087563379796,
+        29.005052372005014
+    ],
+    "authors": {
+        "Greg Zaal": "Photography",
+        "Jarod Guest": "Processing"
+    },
+    "max_resolution": [
+        24576,
+        12288
+    ],
+    "files_hash": "384ca979b9ec02fba47f68cbbd284460a32a0a18",
+    "date_published": 1727222400,
+    "tags": [
+        "sport",
+        "court",
+        "lines",
+        "ball game",
+        "arena",
+        "wooden floor",
+        "rafters"
+    ],
+    "download_count": 1319,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/squash_court.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 44595059,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/squash_court.jpg",
+            "md5": "a749ed4730136da7555e049ef184d3cd"
+        },
+        "hdri": {
+            "8k": {
+                "hdr": {
+                    "size": 101577884,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/squash_court_8k.hdr",
+                    "md5": "9260319eb47fbfd02fd337a4fc333f76"
+                },
+                "exr": {
+                    "size": 384236824,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/squash_court_8k.exr",
+                    "md5": "782d937ed5e6a5037f7d5144bbcf3771"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 391867659,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/squash_court_16k.hdr",
+                    "md5": "5ec65e30b44477a0b5b6c415290aa2bc"
+                },
+                "exr": {
+                    "size": 1527639698,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/squash_court_16k.exr",
+                    "md5": "9d2c58ae4ffb8aa270503869f18aff9e"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 25699592,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/squash_court_4k.hdr",
+                    "md5": "9c8c598f6ce15ce4b6f0fb42301ef9a6"
+                },
+                "exr": {
+                    "size": 96279186,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/squash_court_4k.exr",
+                    "md5": "476383a94e144f4718898d71f36c41f3"
+                }
+            },
+            "24k": {
+                "hdr": {
+                    "size": 866635603,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/squash_court_24k.hdr",
+                    "md5": "37c1169eb1e343507b1171a4f5723182"
+                },
+                "exr": {
+                    "size": 3401544923,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/squash_court_24k.exr",
+                    "md5": "2972811f5ec130ab5d57b7db8b83d0a3"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 6460560,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/squash_court_2k.hdr",
+                    "md5": "a399497ff66679a243f9cc1005ddee2d"
+                },
+                "exr": {
+                    "size": 24161305,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/squash_court_2k.exr",
+                    "md5": "5e530be4557e1132a7747bb63d885d0b"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1622268,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/squash_court_1k.hdr",
+                    "md5": "bfe00fdbb7e89aead28c5e24653f832b"
+                },
+                "exr": {
+                    "size": 6074639,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/squash_court_1k.exr",
+                    "md5": "e97acd70d3bc8384818c09f67112db00"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 157413258,
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/squash_court.zip",
+            "md5": "a9b97e4d921e39c7000907fb57c996d6"
+        }
+    }
+}

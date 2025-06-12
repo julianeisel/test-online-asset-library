@@ -1,0 +1,126 @@
+{
+    "evs_cap": 22,
+    "type": 0,
+    "tags": [
+        "tree",
+        "sun",
+        "snow",
+        "field",
+        "tracks"
+    ],
+    "date_published": 1619560800,
+    "name": "Snowy Field",
+    "categories": [
+        "outdoor",
+        "skies",
+        "nature",
+        "morning-afternoon",
+        "partly cloudy",
+        "high contrast",
+        "natural light"
+    ],
+    "coords": [
+        48.804556,
+        9.170392
+    ],
+    "date_taken": 1613048460,
+    "authors": {
+        "Andreas Mischok": "All"
+    },
+    "sponsors": [
+        "37678923"
+    ],
+    "files_hash": "bd6c271591498ecfde49b059511be64a1c14ff3b",
+    "max_resolution": [
+        19240,
+        9620
+    ],
+    "download_count": 122587,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/snowy_field.png?width=256&height=256",
+    "files": {
+        "tonemapped": {
+            "size": 4465689,
+            "md5": "73948685d81654b076fae53b7a0c8429",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/snowy_field.jpg"
+        },
+        "hdri": {
+            "19k": {
+                "hdr": {
+                    "size": 499446254,
+                    "md5": "777991ed80aeac58fa492ffd2282f394",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/snowy_field_19k.hdr"
+                },
+                "exr": {
+                    "size": 510204870,
+                    "md5": "0f4edea5614e586aac5a8fc033dc7ece",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/snowy_field_19k.exr"
+                }
+            },
+            "8k": {
+                "hdr": {
+                    "size": 95707650,
+                    "md5": "a847e9382c9b29a0dec7a163faeb3f69",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/snowy_field_8k.hdr"
+                },
+                "exr": {
+                    "size": 99957541,
+                    "md5": "39892555257c54c09a6d7aeb2797c1bc",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/8k/snowy_field_8k.exr"
+                }
+            },
+            "16k": {
+                "hdr": {
+                    "size": 367181066,
+                    "md5": "ae09863ca487ba296899b01019ed0294",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/16k%2B/snowy_field_16k.hdr"
+                },
+                "exr": {
+                    "size": 386864839,
+                    "md5": "5b3dca174a7454ddcde0448f9e162986",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/16k%2B/snowy_field_16k.exr"
+                }
+            },
+            "4k": {
+                "hdr": {
+                    "size": 24077862,
+                    "md5": "a0d36e02b3f0f71aea00a1d51474da5f",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/4k/snowy_field_4k.hdr"
+                },
+                "exr": {
+                    "size": 25313442,
+                    "md5": "89f48f006160e264bfa15a1acec3aa5d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/snowy_field_4k.exr"
+                }
+            },
+            "2k": {
+                "hdr": {
+                    "size": 5887999,
+                    "md5": "989f46696ca624a5f8516cde45cf504c",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/snowy_field_2k.hdr"
+                },
+                "exr": {
+                    "size": 6390268,
+                    "md5": "8be16850ab1e8f283c5490bd421f66df",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/2k/snowy_field_2k.exr"
+                }
+            },
+            "1k": {
+                "hdr": {
+                    "size": 1439902,
+                    "md5": "deb51a490ea44fd1c31fe4ea106088c2",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/snowy_field_1k.hdr"
+                },
+                "exr": {
+                    "size": 1647090,
+                    "md5": "6270d6937237225acd006574ce7ddf6d",
+                    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/1k/snowy_field_1k.exr"
+                }
+            }
+        },
+        "colorchart": {
+            "size": 19149195,
+            "md5": "5958da9da5bfa82a0bf1d14fa0f61b25",
+            "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Color%20Charts/snowy_field.zip"
+        }
+    }
+}

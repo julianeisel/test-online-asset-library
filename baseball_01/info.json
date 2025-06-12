@@ -1,0 +1,1130 @@
+{
+    "type": 2,
+    "tags": [
+        "ball",
+        "baseball",
+        "toy",
+        "kids",
+        "child",
+        "sport"
+    ],
+    "name": "Baseball 01",
+    "categories": [
+        "props"
+    ],
+    "date_published": 1623767596,
+    "authors": {
+        "Rico Cilliers": "All"
+    },
+    "sponsors": [
+        "11167855"
+    ],
+    "files_hash": "eb4ba0a52199414337c7f0f7b0b5c50d392de0ed",
+    "max_resolution": [
+        8192,
+        8192
+    ],
+    "polycount": 2712,
+    "texel_density": 42488.31012291544,
+    "dimensions": [
+        73.97906854748726,
+        75.37996023893356,
+        75.57932659983635
+    ],
+    "download_count": 20046,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/baseball_01.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 5954626,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_diff_8k.jpg",
+                    "md5": "d9228dbfca6ce5ba905eaecf1ace1ed4"
+                },
+                "png": {
+                    "size": 88327540,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/baseball_01/baseball_01_diff_8k.png",
+                    "md5": "a536129124bdb2cd8c93e7847950b510"
+                },
+                "exr": {
+                    "size": 33906189,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/baseball_01/baseball_01_diff_8k.exr",
+                    "md5": "fa51378804b4bba98bab384c5306d47a"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2035049,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_diff_4k.jpg",
+                    "md5": "268c170f0839108bc6c2007767d2c6f2"
+                },
+                "png": {
+                    "size": 34523323,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/baseball_01/baseball_01_diff_4k.png",
+                    "md5": "42f15496c5faff1b1e8e834ce19ae306"
+                },
+                "exr": {
+                    "size": 11230108,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/baseball_01/baseball_01_diff_4k.exr",
+                    "md5": "7206a3567abea98cc4b707bd86322b7c"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 687956,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_diff_2k.jpg",
+                    "md5": "1f7f4ecb86b8f7b9d08acf29bd8514f0"
+                },
+                "png": {
+                    "size": 11418547,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/baseball_01/baseball_01_diff_2k.png",
+                    "md5": "471927f26a37968f860f96d5f23c071c"
+                },
+                "exr": {
+                    "size": 3720517,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/baseball_01/baseball_01_diff_2k.exr",
+                    "md5": "15ec2be70b61ab21d68308e63677fe73"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 222950,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_diff_1k.jpg",
+                    "md5": "516deec9f6790472953f58b83f914266"
+                },
+                "png": {
+                    "size": 3413053,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/baseball_01/baseball_01_diff_1k.png",
+                    "md5": "529546fe26811f49955ed6a96db330e9"
+                },
+                "exr": {
+                    "size": 1198266,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/baseball_01/baseball_01_diff_1k.exr",
+                    "md5": "2414b620793abe8336c83a560fa75507"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 15127345,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_nor_dx_8k.jpg",
+                    "md5": "789e5c873596846f007e996ca640c483"
+                },
+                "png": {
+                    "size": 185368066,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/baseball_01/baseball_01_nor_dx_8k.png",
+                    "md5": "825be763476a179b22143eb9cfc87f25"
+                },
+                "exr": {
+                    "size": 94054972,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/baseball_01/baseball_01_nor_dx_8k.exr",
+                    "md5": "0520e7f7bc4bf62d27e162cdad47b1c4"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4385819,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_nor_dx_4k.jpg",
+                    "md5": "9f5ecbb731767d6f40be4578e1e80d9d"
+                },
+                "png": {
+                    "size": 49960397,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/baseball_01/baseball_01_nor_dx_4k.png",
+                    "md5": "49fd64bec7349fa3c78189b9046e9ae1"
+                },
+                "exr": {
+                    "size": 29119718,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/baseball_01/baseball_01_nor_dx_4k.exr",
+                    "md5": "b285df6c90cf77a44f12327b99e13a01"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1175162,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_nor_dx_2k.jpg",
+                    "md5": "d1555a31257b6e0a86f0cca0c2bb6afd"
+                },
+                "png": {
+                    "size": 13804182,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/baseball_01/baseball_01_nor_dx_2k.png",
+                    "md5": "ea1a10f3a7c77995ddf97f3db19cbefc"
+                },
+                "exr": {
+                    "size": 7894712,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/baseball_01/baseball_01_nor_dx_2k.exr",
+                    "md5": "e87305121046fd33cdb314c417e35922"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 296197,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_nor_dx_1k.jpg",
+                    "md5": "8effb3730bb8135dd7c2bdac8c054380"
+                },
+                "png": {
+                    "size": 3712168,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/baseball_01/baseball_01_nor_dx_1k.png",
+                    "md5": "6a2ab22d929ebd6cc7b9b60fbf083529"
+                },
+                "exr": {
+                    "size": 2072615,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/baseball_01/baseball_01_nor_dx_1k.exr",
+                    "md5": "ab08b6d395c07c44181f697b24f89266"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 15195788,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_nor_gl_8k.jpg",
+                    "md5": "8d6c39c45ef8db9119f7e0dc16ed06e6"
+                },
+                "png": {
+                    "size": 185367674,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/baseball_01/baseball_01_nor_gl_8k.png",
+                    "md5": "9d0ae8cd67b2bfd09b2432a766c80bd5"
+                },
+                "exr": {
+                    "size": 93818815,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/baseball_01/baseball_01_nor_gl_8k.exr",
+                    "md5": "63e989fc98ed4c9f53d2f2f3fdc6339b"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4408710,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_nor_gl_4k.jpg",
+                    "md5": "b239f6d5d6c6ed6f3acbe7683c3be86d"
+                },
+                "png": {
+                    "size": 49961422,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/baseball_01/baseball_01_nor_gl_4k.png",
+                    "md5": "925112ea2b7c79ae14d52ccc113e41c2"
+                },
+                "exr": {
+                    "size": 29057876,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/baseball_01/baseball_01_nor_gl_4k.exr",
+                    "md5": "977f3d5f23a5c06d53b350a857af9da8"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1184934,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_nor_gl_2k.jpg",
+                    "md5": "649810bcc0ab8a08568f247a5333062a"
+                },
+                "png": {
+                    "size": 13806862,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/baseball_01/baseball_01_nor_gl_2k.png",
+                    "md5": "9d256b4e83a5bd5c2e209147cd3b479e"
+                },
+                "exr": {
+                    "size": 7879804,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/baseball_01/baseball_01_nor_gl_2k.exr",
+                    "md5": "70c7d53ba1045390f7eee6eb87fb7215"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 304927,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_nor_gl_1k.jpg",
+                    "md5": "73b602ac7dcbd8c739cf5c6499e714ca"
+                },
+                "png": {
+                    "size": 3713393,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/baseball_01/baseball_01_nor_gl_1k.png",
+                    "md5": "3ff8000666814b4c73af59d78ca09d76"
+                },
+                "exr": {
+                    "size": 2069940,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/baseball_01/baseball_01_nor_gl_1k.exr",
+                    "md5": "abebf860c6fa1339080c198428388e7f"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/baseball_01_nor_gl_8k.exr": {
+                            "size": 93818815,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/baseball_01/baseball_01_nor_gl_8k.exr",
+                            "md5": "63e989fc98ed4c9f53d2f2f3fdc6339b"
+                        },
+                        "textures/baseball_01_mask_8k.png": {
+                            "size": 2700710,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/baseball_01/baseball_01_mask_8k.png",
+                            "md5": "2a2fe09cd736326aadc587b103aa3ce8"
+                        },
+                        "textures/baseball_01_diff_8k.jpg": {
+                            "size": 5954626,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_diff_8k.jpg",
+                            "md5": "d9228dbfca6ce5ba905eaecf1ace1ed4"
+                        },
+                        "textures/baseball_01_disp_8k.png": {
+                            "size": 40851671,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/baseball_01/baseball_01_disp_8k.png",
+                            "md5": "3b10620227f71d57ca2b9dc4cebca13a"
+                        },
+                        "textures/baseball_01_rough_8k.jpg": {
+                            "size": 7009054,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_rough_8k.jpg",
+                            "md5": "d5794e260d54546a156a190a12a2bcfc"
+                        }
+                    },
+                    "size": 230996,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/baseball_01/baseball_01_8k.blend",
+                    "md5": "27eb898c7fa4ded191386ecc4c34faed"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/baseball_01_rough_4k.jpg": {
+                            "size": 2425345,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_rough_4k.jpg",
+                            "md5": "9c6d6287673b507f88f895f961c030f0"
+                        },
+                        "textures/baseball_01_diff_4k.jpg": {
+                            "size": 2035049,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_diff_4k.jpg",
+                            "md5": "268c170f0839108bc6c2007767d2c6f2"
+                        },
+                        "textures/baseball_01_disp_4k.png": {
+                            "size": 13244524,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/baseball_01/baseball_01_disp_4k.png",
+                            "md5": "18b7e2546fe68ef361fbb4de4d99435a"
+                        },
+                        "textures/baseball_01_mask_4k.png": {
+                            "size": 934448,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/baseball_01/baseball_01_mask_4k.png",
+                            "md5": "386371295127687ba5d4eecf65b0a8e2"
+                        },
+                        "textures/baseball_01_nor_gl_4k.exr": {
+                            "size": 29057876,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/baseball_01/baseball_01_nor_gl_4k.exr",
+                            "md5": "977f3d5f23a5c06d53b350a857af9da8"
+                        }
+                    },
+                    "size": 231125,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/baseball_01/baseball_01_4k.blend",
+                    "md5": "5b239b0ed0b0d960fec865cacf62084b"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/baseball_01_rough_2k.jpg": {
+                            "size": 811453,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_rough_2k.jpg",
+                            "md5": "23cf52072c8a9d63d9925edc85d1014f"
+                        },
+                        "textures/baseball_01_nor_gl_2k.exr": {
+                            "size": 7879804,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/baseball_01/baseball_01_nor_gl_2k.exr",
+                            "md5": "70c7d53ba1045390f7eee6eb87fb7215"
+                        },
+                        "textures/baseball_01_disp_2k.png": {
+                            "size": 3931221,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/baseball_01/baseball_01_disp_2k.png",
+                            "md5": "8f726d0295fcb0bc6ab5ad5070e49f2a"
+                        },
+                        "textures/baseball_01_diff_2k.jpg": {
+                            "size": 687956,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_diff_2k.jpg",
+                            "md5": "1f7f4ecb86b8f7b9d08acf29bd8514f0"
+                        },
+                        "textures/baseball_01_mask_2k.png": {
+                            "size": 295905,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/baseball_01/baseball_01_mask_2k.png",
+                            "md5": "e291208c13a3d226e99b69b0ea3ccc67"
+                        }
+                    },
+                    "size": 230977,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/baseball_01/baseball_01_2k.blend",
+                    "md5": "62a4f6cecedee419b1cc5adb0a8accc3"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/baseball_01_rough_1k.jpg": {
+                            "size": 254055,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_rough_1k.jpg",
+                            "md5": "3afe9705ebbab77aba56016c04e9c141"
+                        },
+                        "textures/baseball_01_nor_gl_1k.exr": {
+                            "size": 2069940,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/baseball_01/baseball_01_nor_gl_1k.exr",
+                            "md5": "abebf860c6fa1339080c198428388e7f"
+                        },
+                        "textures/baseball_01_mask_1k.png": {
+                            "size": 99190,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/baseball_01/baseball_01_mask_1k.png",
+                            "md5": "8406537d97f12574fad938929d1a29fd"
+                        },
+                        "textures/baseball_01_diff_1k.jpg": {
+                            "size": 222950,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_diff_1k.jpg",
+                            "md5": "516deec9f6790472953f58b83f914266"
+                        },
+                        "textures/baseball_01_disp_1k.png": {
+                            "size": 1135007,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/baseball_01/baseball_01_disp_1k.png",
+                            "md5": "9eaa86da0e5a0798fe5e83a2faf9f115"
+                        }
+                    },
+                    "size": 230913,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/baseball_01/baseball_01_1k.blend",
+                    "md5": "6990e7e648d2745181a49a4bd631da53"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "baseball_01.bin": {
+                            "size": 294880,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/baseball_01/baseball_01.bin",
+                            "md5": "cef635f66cb787d13c6d55cf5d1fb701"
+                        },
+                        "textures/baseball_01_diff_8k.jpg": {
+                            "size": 5954626,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_diff_8k.jpg",
+                            "md5": "d9228dbfca6ce5ba905eaecf1ace1ed4"
+                        },
+                        "textures/baseball_01_nor_gl_8k.jpg": {
+                            "size": 15195788,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_nor_gl_8k.jpg",
+                            "md5": "8d6c39c45ef8db9119f7e0dc16ed06e6"
+                        },
+                        "textures/baseball_01_rough_8k.jpg": {
+                            "size": 7009054,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_rough_8k.jpg",
+                            "md5": "d5794e260d54546a156a190a12a2bcfc"
+                        }
+                    },
+                    "size": 2678,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/baseball_01/baseball_01_8k.gltf",
+                    "md5": "b4384a1336dbcca96b1452b0de0b2989"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "baseball_01.bin": {
+                            "size": 294880,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/baseball_01/baseball_01.bin",
+                            "md5": "cef635f66cb787d13c6d55cf5d1fb701"
+                        },
+                        "textures/baseball_01_rough_4k.jpg": {
+                            "size": 2425345,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_rough_4k.jpg",
+                            "md5": "9c6d6287673b507f88f895f961c030f0"
+                        },
+                        "textures/baseball_01_diff_4k.jpg": {
+                            "size": 2035049,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_diff_4k.jpg",
+                            "md5": "268c170f0839108bc6c2007767d2c6f2"
+                        },
+                        "textures/baseball_01_nor_gl_4k.jpg": {
+                            "size": 4408710,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_nor_gl_4k.jpg",
+                            "md5": "b239f6d5d6c6ed6f3acbe7683c3be86d"
+                        }
+                    },
+                    "size": 2678,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/baseball_01/baseball_01_4k.gltf",
+                    "md5": "7493406b059138f87bc04a311ac0678e"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "baseball_01.bin": {
+                            "size": 294880,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/baseball_01/baseball_01.bin",
+                            "md5": "cef635f66cb787d13c6d55cf5d1fb701"
+                        },
+                        "textures/baseball_01_rough_2k.jpg": {
+                            "size": 811453,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_rough_2k.jpg",
+                            "md5": "23cf52072c8a9d63d9925edc85d1014f"
+                        },
+                        "textures/baseball_01_diff_2k.jpg": {
+                            "size": 687956,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_diff_2k.jpg",
+                            "md5": "1f7f4ecb86b8f7b9d08acf29bd8514f0"
+                        },
+                        "textures/baseball_01_nor_gl_2k.jpg": {
+                            "size": 1184934,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_nor_gl_2k.jpg",
+                            "md5": "649810bcc0ab8a08568f247a5333062a"
+                        }
+                    },
+                    "size": 2678,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/baseball_01/baseball_01_2k.gltf",
+                    "md5": "c29d04e3cef0c4257208be16aa577baf"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/baseball_01_rough_1k.jpg": {
+                            "size": 254055,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_rough_1k.jpg",
+                            "md5": "3afe9705ebbab77aba56016c04e9c141"
+                        },
+                        "baseball_01.bin": {
+                            "size": 294880,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/baseball_01/baseball_01.bin",
+                            "md5": "cef635f66cb787d13c6d55cf5d1fb701"
+                        },
+                        "textures/baseball_01_nor_gl_1k.jpg": {
+                            "size": 304927,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_nor_gl_1k.jpg",
+                            "md5": "73b602ac7dcbd8c739cf5c6499e714ca"
+                        },
+                        "textures/baseball_01_diff_1k.jpg": {
+                            "size": 222950,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_diff_1k.jpg",
+                            "md5": "516deec9f6790472953f58b83f914266"
+                        }
+                    },
+                    "size": 2678,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/baseball_01/baseball_01_1k.gltf",
+                    "md5": "9af29589a0a73c8b3e3f4eb8a9b8b804"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/baseball_01_nor_gl_8k.exr": {
+                            "size": 93818815,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/baseball_01/baseball_01_nor_gl_8k.exr",
+                            "md5": "63e989fc98ed4c9f53d2f2f3fdc6339b"
+                        },
+                        "textures/baseball_01_mask_8k.png": {
+                            "size": 2700710,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/baseball_01/baseball_01_mask_8k.png",
+                            "md5": "2a2fe09cd736326aadc587b103aa3ce8"
+                        },
+                        "textures/baseball_01_diff_8k.jpg": {
+                            "size": 5954626,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_diff_8k.jpg",
+                            "md5": "d9228dbfca6ce5ba905eaecf1ace1ed4"
+                        },
+                        "textures/baseball_01_disp_8k.png": {
+                            "size": 40851671,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/baseball_01/baseball_01_disp_8k.png",
+                            "md5": "3b10620227f71d57ca2b9dc4cebca13a"
+                        },
+                        "textures/baseball_01_rough_8k.jpg": {
+                            "size": 7009054,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_rough_8k.jpg",
+                            "md5": "d5794e260d54546a156a190a12a2bcfc"
+                        }
+                    },
+                    "size": 2100931,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/baseball_01/baseball_01_8k.usdc",
+                    "md5": "096a88335099710ad74a0f1ebbb96653"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/baseball_01_rough_4k.jpg": {
+                            "size": 2425345,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_rough_4k.jpg",
+                            "md5": "9c6d6287673b507f88f895f961c030f0"
+                        },
+                        "textures/baseball_01_diff_4k.jpg": {
+                            "size": 2035049,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_diff_4k.jpg",
+                            "md5": "268c170f0839108bc6c2007767d2c6f2"
+                        },
+                        "textures/baseball_01_disp_4k.png": {
+                            "size": 13244524,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/baseball_01/baseball_01_disp_4k.png",
+                            "md5": "18b7e2546fe68ef361fbb4de4d99435a"
+                        },
+                        "textures/baseball_01_mask_4k.png": {
+                            "size": 934448,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/baseball_01/baseball_01_mask_4k.png",
+                            "md5": "386371295127687ba5d4eecf65b0a8e2"
+                        },
+                        "textures/baseball_01_nor_gl_4k.exr": {
+                            "size": 29057876,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/baseball_01/baseball_01_nor_gl_4k.exr",
+                            "md5": "977f3d5f23a5c06d53b350a857af9da8"
+                        }
+                    },
+                    "size": 2100931,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/baseball_01/baseball_01_4k.usdc",
+                    "md5": "c04e63d54aa9c4fe629e35fa94b6eb6b"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/baseball_01_rough_2k.jpg": {
+                            "size": 811453,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_rough_2k.jpg",
+                            "md5": "23cf52072c8a9d63d9925edc85d1014f"
+                        },
+                        "textures/baseball_01_nor_gl_2k.exr": {
+                            "size": 7879804,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/baseball_01/baseball_01_nor_gl_2k.exr",
+                            "md5": "70c7d53ba1045390f7eee6eb87fb7215"
+                        },
+                        "textures/baseball_01_disp_2k.png": {
+                            "size": 3931221,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/baseball_01/baseball_01_disp_2k.png",
+                            "md5": "8f726d0295fcb0bc6ab5ad5070e49f2a"
+                        },
+                        "textures/baseball_01_diff_2k.jpg": {
+                            "size": 687956,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_diff_2k.jpg",
+                            "md5": "1f7f4ecb86b8f7b9d08acf29bd8514f0"
+                        },
+                        "textures/baseball_01_mask_2k.png": {
+                            "size": 295905,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/baseball_01/baseball_01_mask_2k.png",
+                            "md5": "e291208c13a3d226e99b69b0ea3ccc67"
+                        }
+                    },
+                    "size": 2100931,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/baseball_01/baseball_01_2k.usdc",
+                    "md5": "6648dfb5084614f5a1ceb9d1e3ff0dfc"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/baseball_01_rough_1k.jpg": {
+                            "size": 254055,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_rough_1k.jpg",
+                            "md5": "3afe9705ebbab77aba56016c04e9c141"
+                        },
+                        "textures/baseball_01_nor_gl_1k.exr": {
+                            "size": 2069940,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/baseball_01/baseball_01_nor_gl_1k.exr",
+                            "md5": "abebf860c6fa1339080c198428388e7f"
+                        },
+                        "textures/baseball_01_mask_1k.png": {
+                            "size": 99190,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/baseball_01/baseball_01_mask_1k.png",
+                            "md5": "8406537d97f12574fad938929d1a29fd"
+                        },
+                        "textures/baseball_01_diff_1k.jpg": {
+                            "size": 222950,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_diff_1k.jpg",
+                            "md5": "516deec9f6790472953f58b83f914266"
+                        },
+                        "textures/baseball_01_disp_1k.png": {
+                            "size": 1135007,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/baseball_01/baseball_01_disp_1k.png",
+                            "md5": "9eaa86da0e5a0798fe5e83a2faf9f115"
+                        }
+                    },
+                    "size": 2100931,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/baseball_01/baseball_01_1k.usdc",
+                    "md5": "37d242402d8fa2f10a572e5fd38f560f"
+                }
+            }
+        },
+        "Mask": {
+            "8k": {
+                "jpg": {
+                    "size": 1289962,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_mask_8k.jpg",
+                    "md5": "73adaa3b0c9492043270ca0337fee93a"
+                },
+                "png": {
+                    "size": 2700710,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/baseball_01/baseball_01_mask_8k.png",
+                    "md5": "2a2fe09cd736326aadc587b103aa3ce8"
+                },
+                "exr": {
+                    "size": 2750468,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/baseball_01/baseball_01_mask_8k.exr",
+                    "md5": "755f6f053cd36fce23ec2a87d44e424e"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 480418,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_mask_4k.jpg",
+                    "md5": "c562313707ef0e2dd98e2025fe0bb2bf"
+                },
+                "png": {
+                    "size": 934448,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/baseball_01/baseball_01_mask_4k.png",
+                    "md5": "386371295127687ba5d4eecf65b0a8e2"
+                },
+                "exr": {
+                    "size": 960662,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/baseball_01/baseball_01_mask_4k.exr",
+                    "md5": "7270052537fd451c6445704584d2204e"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 188389,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_mask_2k.jpg",
+                    "md5": "d2f1ffdcce5e055fa9ba43ae72fb96c1"
+                },
+                "png": {
+                    "size": 295905,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/baseball_01/baseball_01_mask_2k.png",
+                    "md5": "e291208c13a3d226e99b69b0ea3ccc67"
+                },
+                "exr": {
+                    "size": 324552,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/baseball_01/baseball_01_mask_2k.exr",
+                    "md5": "43ee4b227c8d90e5b67e711d806c2d68"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 77580,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_mask_1k.jpg",
+                    "md5": "3893690ed20df28ae9ae1b1b7623353e"
+                },
+                "png": {
+                    "size": 99190,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/baseball_01/baseball_01_mask_1k.png",
+                    "md5": "8406537d97f12574fad938929d1a29fd"
+                },
+                "exr": {
+                    "size": 124200,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/baseball_01/baseball_01_mask_1k.exr",
+                    "md5": "d0a5ecb8226754b49d767ff4824ef610"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 8161053,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_arm_8k.jpg",
+                    "md5": "8e07d939a8fb12d89253c4a0f6121528"
+                },
+                "png": {
+                    "size": 42582171,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/baseball_01/baseball_01_arm_8k.png",
+                    "md5": "be2244388c5db460542ce502dd6894f0"
+                },
+                "exr": {
+                    "size": 60332682,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/baseball_01/baseball_01_arm_8k.exr",
+                    "md5": "ef2588e99e18965f51e691cd7b171d4f"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2707056,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_arm_4k.jpg",
+                    "md5": "bc5c3d195301b6a21a6133ef4ec76a2b"
+                },
+                "png": {
+                    "size": 13753828,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/baseball_01/baseball_01_arm_4k.png",
+                    "md5": "a80733b969892f08a52c51d56bac4c9b"
+                },
+                "exr": {
+                    "size": 19169695,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/baseball_01/baseball_01_arm_4k.exr",
+                    "md5": "3e4165e4d6aaa441d792302252bc9b72"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 871385,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_arm_2k.jpg",
+                    "md5": "58ebc9d7b460cf2700c1ac60ff052028"
+                },
+                "png": {
+                    "size": 4171333,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/baseball_01/baseball_01_arm_2k.png",
+                    "md5": "4c7f5bf062564662adbc465a1adfa5a4"
+                },
+                "exr": {
+                    "size": 6096167,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/baseball_01/baseball_01_arm_2k.exr",
+                    "md5": "3503a61acbe2911f388314134d3e483a"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 268636,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_arm_1k.jpg",
+                    "md5": "3a0882cf42aa1f64d872887057bfeb61"
+                },
+                "png": {
+                    "size": 1280328,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/baseball_01/baseball_01_arm_1k.png",
+                    "md5": "be6792af89b7deb5d9dbd7f2aaea2387"
+                },
+                "exr": {
+                    "size": 1813818,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/baseball_01/baseball_01_arm_1k.exr",
+                    "md5": "11b398c39633602283788584aafdd39a"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/baseball_01_nor_gl_8k.exr": {
+                            "size": 93818815,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/baseball_01/baseball_01_nor_gl_8k.exr",
+                            "md5": "63e989fc98ed4c9f53d2f2f3fdc6339b"
+                        },
+                        "textures/baseball_01_mask_8k.png": {
+                            "size": 2700710,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/baseball_01/baseball_01_mask_8k.png",
+                            "md5": "2a2fe09cd736326aadc587b103aa3ce8"
+                        },
+                        "textures/baseball_01_diff_8k.jpg": {
+                            "size": 5954626,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_diff_8k.jpg",
+                            "md5": "d9228dbfca6ce5ba905eaecf1ace1ed4"
+                        },
+                        "textures/baseball_01_disp_8k.png": {
+                            "size": 40851671,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/baseball_01/baseball_01_disp_8k.png",
+                            "md5": "3b10620227f71d57ca2b9dc4cebca13a"
+                        },
+                        "textures/baseball_01_rough_8k.jpg": {
+                            "size": 7009054,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_rough_8k.jpg",
+                            "md5": "d5794e260d54546a156a190a12a2bcfc"
+                        }
+                    },
+                    "size": 367980,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/baseball_01/baseball_01_8k.fbx",
+                    "md5": "6a1bc522a42f92f4297db70130f9e4f6"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/baseball_01_rough_4k.jpg": {
+                            "size": 2425345,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_rough_4k.jpg",
+                            "md5": "9c6d6287673b507f88f895f961c030f0"
+                        },
+                        "textures/baseball_01_diff_4k.jpg": {
+                            "size": 2035049,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_diff_4k.jpg",
+                            "md5": "268c170f0839108bc6c2007767d2c6f2"
+                        },
+                        "textures/baseball_01_disp_4k.png": {
+                            "size": 13244524,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/baseball_01/baseball_01_disp_4k.png",
+                            "md5": "18b7e2546fe68ef361fbb4de4d99435a"
+                        },
+                        "textures/baseball_01_mask_4k.png": {
+                            "size": 934448,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/baseball_01/baseball_01_mask_4k.png",
+                            "md5": "386371295127687ba5d4eecf65b0a8e2"
+                        },
+                        "textures/baseball_01_nor_gl_4k.exr": {
+                            "size": 29057876,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/baseball_01/baseball_01_nor_gl_4k.exr",
+                            "md5": "977f3d5f23a5c06d53b350a857af9da8"
+                        }
+                    },
+                    "size": 367980,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/baseball_01/baseball_01_4k.fbx",
+                    "md5": "709f8300b42f4294ddab84a1e3cb591f"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/baseball_01_rough_2k.jpg": {
+                            "size": 811453,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_rough_2k.jpg",
+                            "md5": "23cf52072c8a9d63d9925edc85d1014f"
+                        },
+                        "textures/baseball_01_nor_gl_2k.exr": {
+                            "size": 7879804,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/baseball_01/baseball_01_nor_gl_2k.exr",
+                            "md5": "70c7d53ba1045390f7eee6eb87fb7215"
+                        },
+                        "textures/baseball_01_disp_2k.png": {
+                            "size": 3931221,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/baseball_01/baseball_01_disp_2k.png",
+                            "md5": "8f726d0295fcb0bc6ab5ad5070e49f2a"
+                        },
+                        "textures/baseball_01_mask_2k.png": {
+                            "size": 295905,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/baseball_01/baseball_01_mask_2k.png",
+                            "md5": "e291208c13a3d226e99b69b0ea3ccc67"
+                        },
+                        "textures/baseball_01_diff_2k.jpg": {
+                            "size": 687956,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_diff_2k.jpg",
+                            "md5": "1f7f4ecb86b8f7b9d08acf29bd8514f0"
+                        }
+                    },
+                    "size": 367980,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/baseball_01/baseball_01_2k.fbx",
+                    "md5": "9ea07a78094e7e1849c457350bdd20a7"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/baseball_01_rough_1k.jpg": {
+                            "size": 254055,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_rough_1k.jpg",
+                            "md5": "3afe9705ebbab77aba56016c04e9c141"
+                        },
+                        "textures/baseball_01_nor_gl_1k.exr": {
+                            "size": 2069940,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/baseball_01/baseball_01_nor_gl_1k.exr",
+                            "md5": "abebf860c6fa1339080c198428388e7f"
+                        },
+                        "textures/baseball_01_diff_1k.jpg": {
+                            "size": 222950,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_diff_1k.jpg",
+                            "md5": "516deec9f6790472953f58b83f914266"
+                        },
+                        "textures/baseball_01_mask_1k.png": {
+                            "size": 99190,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/baseball_01/baseball_01_mask_1k.png",
+                            "md5": "8406537d97f12574fad938929d1a29fd"
+                        },
+                        "textures/baseball_01_disp_1k.png": {
+                            "size": 1135007,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/baseball_01/baseball_01_disp_1k.png",
+                            "md5": "9eaa86da0e5a0798fe5e83a2faf9f115"
+                        }
+                    },
+                    "size": 367980,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/baseball_01/baseball_01_1k.fbx",
+                    "md5": "be96f90ceb80911b96fa867f6c745ba7"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 7009054,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_rough_8k.jpg",
+                    "md5": "d5794e260d54546a156a190a12a2bcfc"
+                },
+                "png": {
+                    "size": 22480169,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/baseball_01/baseball_01_rough_8k.png",
+                    "md5": "ac7d6997a257421ea44391519200ede1"
+                },
+                "exr": {
+                    "size": 27731998,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/baseball_01/baseball_01_rough_8k.exr",
+                    "md5": "19553b80d578e94be19d74032c141f17"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2425345,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_rough_4k.jpg",
+                    "md5": "9c6d6287673b507f88f895f961c030f0"
+                },
+                "png": {
+                    "size": 12926863,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/baseball_01/baseball_01_rough_4k.png",
+                    "md5": "dbf3fd32f5f8abc6eb2c0dccbe897764"
+                },
+                "exr": {
+                    "size": 10363922,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/baseball_01/baseball_01_rough_4k.exr",
+                    "md5": "19808fe91fabd16c127ed18c64acb659"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 811453,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_rough_2k.jpg",
+                    "md5": "23cf52072c8a9d63d9925edc85d1014f"
+                },
+                "png": {
+                    "size": 4357103,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/baseball_01/baseball_01_rough_2k.png",
+                    "md5": "b6be1910860888f97acb1454336b4e2c"
+                },
+                "exr": {
+                    "size": 3233252,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/baseball_01/baseball_01_rough_2k.exr",
+                    "md5": "42f540762245f16285f863d40a8d9a3e"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 254055,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_rough_1k.jpg",
+                    "md5": "3afe9705ebbab77aba56016c04e9c141"
+                },
+                "png": {
+                    "size": 1295602,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/baseball_01/baseball_01_rough_1k.png",
+                    "md5": "c3d68a5e7338ec5b0272bf24d85db458"
+                },
+                "exr": {
+                    "size": 969090,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/baseball_01/baseball_01_rough_1k.exr",
+                    "md5": "3b8a4897eb9b284103a1d53427b9e000"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 8321052,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_ao_8k.jpg",
+                    "md5": "f5e343f8dc066e293d3341655c2bafc4"
+                },
+                "png": {
+                    "size": 28560983,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/baseball_01/baseball_01_ao_8k.png",
+                    "md5": "ec03035ddedda6339f93c2bb093582b3"
+                },
+                "exr": {
+                    "size": 28509318,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/baseball_01/baseball_01_ao_8k.exr",
+                    "md5": "1790225fd80cf3616dacfcddf65b8c7a"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2652757,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_ao_4k.jpg",
+                    "md5": "8bf2fed8a50ab2c4ad0e9be999ed52f0"
+                },
+                "png": {
+                    "size": 13355066,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/baseball_01/baseball_01_ao_4k.png",
+                    "md5": "831de2be98e1043d2ad4d02c9349fa40"
+                },
+                "exr": {
+                    "size": 10226699,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/baseball_01/baseball_01_ao_4k.exr",
+                    "md5": "c0c11173a8b01ef942e06c07b0d04410"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 842059,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_ao_2k.jpg",
+                    "md5": "c71ac26c97949db1c42aaa39f312fc96"
+                },
+                "png": {
+                    "size": 4502550,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/baseball_01/baseball_01_ao_2k.png",
+                    "md5": "1bc02ecb296e4a052e8cdebbad001a86"
+                },
+                "exr": {
+                    "size": 3166977,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/baseball_01/baseball_01_ao_2k.exr",
+                    "md5": "df629d21d28b127ff305d2a7e137dde0"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 256214,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_ao_1k.jpg",
+                    "md5": "af5c4b908a65a4ba0f3904e0008f8459"
+                },
+                "png": {
+                    "size": 1337466,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/baseball_01/baseball_01_ao_1k.png",
+                    "md5": "0a50fe3bb9dcb31a55b8640d290d58d6"
+                },
+                "exr": {
+                    "size": 922878,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/baseball_01/baseball_01_ao_1k.exr",
+                    "md5": "a884e3930ad392f2005353a2a6ff4993"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 1646522,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/baseball_01/baseball_01_disp_8k.jpg",
+                    "md5": "d24809797acc47bfbbfba3df902951c1"
+                },
+                "png": {
+                    "size": 40851671,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/baseball_01/baseball_01_disp_8k.png",
+                    "md5": "3b10620227f71d57ca2b9dc4cebca13a"
+                },
+                "exr": {
+                    "size": 3360055,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/baseball_01/baseball_01_disp_8k.exr",
+                    "md5": "04390764c4947db6a8135f4cd4a521fc"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 514468,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/baseball_01/baseball_01_disp_4k.jpg",
+                    "md5": "424506a494c92457c6d938e01b995c8d"
+                },
+                "png": {
+                    "size": 13244524,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/baseball_01/baseball_01_disp_4k.png",
+                    "md5": "18b7e2546fe68ef361fbb4de4d99435a"
+                },
+                "exr": {
+                    "size": 1293100,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/baseball_01/baseball_01_disp_4k.exr",
+                    "md5": "074c78daeeba4067672bbd26902746ab"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 175292,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/baseball_01/baseball_01_disp_2k.jpg",
+                    "md5": "112a0b8c689ae3cdd307c8a8adf81b94"
+                },
+                "png": {
+                    "size": 3931221,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/baseball_01/baseball_01_disp_2k.png",
+                    "md5": "8f726d0295fcb0bc6ab5ad5070e49f2a"
+                },
+                "exr": {
+                    "size": 510403,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/baseball_01/baseball_01_disp_2k.exr",
+                    "md5": "b6e5b6a748cf23f160399c924d8da634"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 62537,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/baseball_01/baseball_01_disp_1k.jpg",
+                    "md5": "066715c88de0ea02ceaa2bcf580b3077"
+                },
+                "png": {
+                    "size": 1135007,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/baseball_01/baseball_01_disp_1k.png",
+                    "md5": "9eaa86da0e5a0798fe5e83a2faf9f115"
+                },
+                "exr": {
+                    "size": 207855,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/baseball_01/baseball_01_disp_1k.exr",
+                    "md5": "d03a88c6f494b486f13b642505f48e9f"
+                }
+            }
+        }
+    }
+}
